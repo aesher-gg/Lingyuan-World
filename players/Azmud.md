@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Azmud
-**Lokasi:** Desa Heiyan, Southern Demon Domain
+**Lokasi:** Desa Heiyan, Moyuan
 **Realm & Stage:** Mortal Foundation, Awal — Qi Cap: 0
 **Hukum Kultivasi:** Hukum Filtrasi Botani (Custom - *Dalam tahap persiapan Breakthrough*)
 **Law Origin (jika sudah ada Hukum):** Jalur Pencerahan (Genuine Enlightenment) — Memahami simbiosis ekosistem Demonic (Semak Duri Miasma & Rumput Darah Mutasi) dan cara memfilter Qi chaotic menjadi energi murni tanpa penalti lingkungan.
@@ -25,7 +25,7 @@
 **Inventory Awal / Storage (dibawa, tidak terpakai):**
 - Kantong Air Kulit (Isi 70%)
 - Bekal Matang Ransum (2 Porsi)
-- Cincin Besi Kasar ×1 (Loot Preman A, Cap Rumah Gadai Giok Sejuk, Nilai 2 Tael)
+- Cincin Besi Kasar ×1 (Loot Preman A, Cap Rumah Gadai Hanbi, Nilai 2 Tael)
 
 **Teknik:**
 - Pengetahuan Herbal Dasar (Mastery) — Foraging & Observasi
@@ -39,7 +39,7 @@
 - Semak Duri Miasma (Zona Netral radius 1,5m. Akar lateral sudah cukup matang dan siap untuk distek/dipotong untuk kloning)
 - Rumput Darah [Mutasi Demonic] (Tumbuh pesat. Polong biji hitam telah mengering dan siap dipanen untuk bibit mutasi masa depan)
 - 2 Benih Rumput Darah [Normal] (Tumbuh sehat)
-- 1 Benih Teh Fana [Central Plains] (Stabil / Dormant Adaptation - Perlu olesan pasta baru)
+- 1 Benih Teh Fana [Tianzhou] (Stabil / Dormant Adaptation - Perlu olesan pasta baru)
 - 3 Benih Akar Penenang [Tier-1] (Mulai berkecambah di zona netral. Estimasi panen: ±1 minggu)
 
 *Status Relasi (NPC):*
@@ -52,6 +52,6 @@
   - Sub-Insight: Wawasan Propagasi Botani (Stek Akar & Panen Biji Mutasi).
 
 **Latar Belakang & Kepribadian:**
-Orang tua Azmud menghilang di Desa Heiyan setelah bentrokan faksi demonic, menyisakan sepotong Liontin Batu Hitam yang misterius. Ia dibesarkan oleh seorang nenek pedagang herbal hingga meninggal. Azmud tumbuh menjadi seorang mortal yang bertahan hidup di kerasnya Desa Heiyan, wilayah Southern Demon Domain yang dipenuhi Qi Demonic korosif dan penindasan.
+Orang tua Azmud menghilang di Desa Heiyan setelah bentrokan faksi demonic, menyisakan sepotong Liontin Batu Hitam yang misterius. Ia dibesarkan oleh seorang nenek pedagang herbal hingga meninggal. Azmud tumbuh menjadi seorang mortal yang bertahan hidup di kerasnya Desa Heiyan, wilayah Moyuan yang dipenuhi Qi Demonic korosif dan penindasan.
 
 Azmud adalah sosok yang pragmatis, sangat waspada, pekerja keras, dan memiliki kecerdasan intuitif tinggi terhadap alam (botani). Alih-alih menyerah pada lingkungan beracun, ia secara diam-diam membangun "Kebun Rahasia" di celah bukit tersembunyi, menggunakan Semak Duri Miasma untuk memurnikan tanah dan menciptakan ekosistem mikro mandiri. Saat ini, ia sedang diburu oleh Geng Pasir Hitam karena membunuh anggota mereka demi membela diri dan melindungi rekannya, Lin. Motivasi utamanya adalah mengumpulkan bahan untuk Breakthrough ke Realm Pemurnian Qi menggunakan Hukum Custom ciptaannya sendiri agar dapat bertahan dan mengungkap asal-usul orang tuanya.
