@@ -9,7 +9,7 @@
 **Lokasi:** Desa Tiedao, Tianzhou (sedang di Lapangan Uji Perguruan Tielu)
 **Realm & Stage:** Pembentukan Fondasi (Foundation Establishment), Awal (Early Stage) — Qi Cap: 500
 **Hukum Kultivasi:** Hukum Dao Abadi (Varian Pedang Bunga Aprikot)
-**Law Origin:** Jalur Guru — Li Xingchun (Kepala Perguruan Luohua, diajarkan secara langsung melalui interaksi dan latihan nyata di Desa Xingcun).
+**Law Origin:** Jalur Guru — Li Xingchun (Kepala Perguruan Luohua, diajarkan secara langsung melalui interaksi dan latihan nyata di Desa Qingmu).
 **Sekte/Afiliasi:** Perguruan Luohua (Murid Inti) & Vanguard Kekaisaran (Pemegang Token Delegasi).
 
 **Kondisi:** HP 250/250 · Qi 500/500 · Stamina 130/150 *(Catatan: Max stamina karakter ini adalah 150 sesuai formula sistem)* · Satiety 92% · Kondisi: Sinkronisasi Sempurna dengan Peralatan Baru · Karma: 162 Merit Points (Positif/Ortodoks).
@@ -26,7 +26,7 @@
 
 **Inventory Awal / Storage (dibawa, tidak terpakai):**
 - 1x Batu Giok Kasar (Tier-3, Huang-Grade) — *Dibeli dari Lao Ma di Pasar Tiedao, telah terselaraskan Qi melalui meditasi.*
-- 1x Peta Mental Markas Bandit & Lokasi Jarahan — *Intelijen dari pengintaian di lereng Tri-Sect Mountain.*
+- 1x Peta Mental Markas Bandit & Lokasi Jarahan — *Intelijen dari pengintaian di lereng Gunung Sanxuan.*
 - 1x Jebakan Longsoran Selatan — *Masih aktif terpasang di gerbang kamp transit Sarang Jiuyin (Lembah Ular).*
 - 1.5x Botol Pil Penetral Racun Ringan (Tier-2) — *Sisa dari misi penyelamatan.*
 - 1x Catatan Intelijen Feng Qing.
