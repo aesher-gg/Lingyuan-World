@@ -1,7 +1,7 @@
-# 🔔 Wuxian World — Sekte: Golden Bell Monastery
+# 🔔 Lingyuan World — Sekte: Biara Jinguang
 
-> **Modul:** 19 — Sect Detail: Golden Bell Monastery
-> **Wilayah:** Puncak Azure Mountain Range | **Tipe:** Ortodoks, biara pertapa | **Hukum Utama:** Raga Sejati
+> **Modul:** 19 — Sect Detail: Biara Jinguang
+> **Wilayah:** Puncak Qingyun | **Tipe:** Ortodoks, biara pertapa | **Hukum Utama:** Raga Sejati
 > **Estimasi Total Anggota:** ± 180 biksu
 > **Rujukan silang:** `03_AZURE_MOUNTAIN_RANGE.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.A & §8.2, `14_HEAVENLY_SWORD_PAVILION.md` (sekte yang paling akrab)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `03_AZURE_MOUNTAIN_RANGE.md`. Tambahan baru ditandai **🆕**.
@@ -53,7 +53,7 @@ Biara pertapa tertutup yang nyaris tak pernah campur tangan urusan luar — repu
 | Kepala Biara (rahasia) | *Lonceng Emas Pemecah Tulang* | Jurus Ultimate | Tier 6, Sheng-Grade | Pukulan tubuh keras meniru dentang lonceng, sangat jarang dipakai — teknik Jin Zhong |
 
 ## Hukum Kultivasi Sekte — Detail Lengkap
-Golden Bell Monastery adalah teladan murni **Hukum Raga Sejati** (`09` §3.A & §8.2): setiap sub-tier realm secara harfiah dipetakan ke satu tahap penempaan tubuh (kulit → otot → tulang → sumsum → organ → darah → jiwa raga). Biara ini tidak pernah mempercepat proses lewat pil sembarangan — filosofi mereka menolak jalan pintas, sehingga pertumbuhan qi 20% lebih lambat (sesuai kelemahan wajib Hukum ini) dianggap bukan kelemahan melainkan bukti kemurnian jalan. Qi Deviation akibat penempaan gagal ditangani langsung Tetua Biara dengan meditasi kolektif di Aula Meditasi Diam, bukan pil instan.
+Biara Jinguang adalah teladan murni **Hukum Raga Sejati** (`09` §3.A & §8.2): setiap sub-tier realm secara harfiah dipetakan ke satu tahap penempaan tubuh (kulit → otot → tulang → sumsum → organ → darah → jiwa raga). Biara ini tidak pernah mempercepat proses lewat pil sembarangan — filosofi mereka menolak jalan pintas, sehingga pertumbuhan qi 20% lebih lambat (sesuai kelemahan wajib Hukum ini) dianggap bukan kelemahan melainkan bukti kemurnian jalan. Qi Deviation akibat penempaan gagal ditangani langsung Tetua Biara dengan meditasi kolektif di Aula Meditasi Diam, bukan pil instan.
 
 ## Kode Etik & Aturan Internal
 - Dilarang keras memakai kekerasan di luar biara kecuali diserang lebih dulu — sesuai reputasi "tak pernah menyerang kecuali diserang" yang dijaga ratusan tahun.
@@ -61,8 +61,8 @@ Golden Bell Monastery adalah teladan murni **Hukum Raga Sejati** (`09` §3.A & �
 - Tidak menerima donasi/bayaran dalam bentuk apa pun untuk campur tangan urusan luar — menjaga netralitas politik mutlak.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Heavenly Sword Pavilion** (`14_HEAVENLY_SWORD_PAVILION.md`): hubungan paling akrab di antara sekte besar lain, berbagi nilai disiplin & kemurnian jalan meski jalur Hukum berbeda.
-- **Dojo Pahat Naga** (`20_DOJO_PAHAT_NAGA.md`): tetangga di wilayah yang sama, hubungan jarak jauh yang sopan — biara kadang diam-diam membantu bila dojo kecil ini menemukan formasi kuno yang berbahaya.
+- **Sekte Tianjian** (`14_HEAVENLY_SWORD_PAVILION.md`): hubungan paling akrab di antara sekte besar lain, berbagi nilai disiplin & kemurnian jalan meski jalur Hukum berbeda.
+- **Perguruan Shilong** (`20_DOJO_PAHAT_NAGA.md`): tetangga di wilayah yang sama, hubungan jarak jauh yang sopan — biara kadang diam-diam membantu bila dojo kecil ini menemukan formasi kuno yang berbahaya.
 - **Faksi demonic mana pun**: dijauhi bahkan oleh yang paling berani sekalipun — reputasi "bahaya tenang" biara ini membuat nyaris tak ada yang berani memancing masalah.
 
 ## 🆕 Rahasia & Plot Hook Internal
