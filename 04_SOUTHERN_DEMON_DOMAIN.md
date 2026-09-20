@@ -1,6 +1,6 @@
-# 🔥 Wuxian World — V. Southern Demon Domain (Daerah Iblis Selatan) 南魔域
+# 🔥 Lingyuan World — V. Moyuan (Daerah Iblis Selatan) 南魔域
 
-> **Modul:** 04 — Southern Demon Domain
+> **Modul:** 04 — Moyuan
 > **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8, `13_BESTIARY.md`
 
 ## Fakta Cepat
@@ -10,7 +10,7 @@
 | Luas | 7,5 juta li² |
 | Populasi | ± 35 juta (mayoritas demonic) |
 | Kekayaan | ± 260 juta Tael |
-| Jarak dari Central Plains | 900 li |
+| Jarak dari Tianzhou | 900 li |
 | Jarak dari Eastern Sea (jalur laut) | 1.500 li |
 | Qi Density Modifier | ×1,2 (Kaya tapi Impure/Chaotic) — bonus regen untuk Hukum Gu Karma & Hukum Qi Naga Api, tapi −20% efisiensi untuk Hukum Dao Abadi murni |
 | Monster khas wilayah | Serigala Api Neraka, Ular Berbisa Liar Rawa, Kutu Iblis Pemakan Qi, Mayat Hidup Rawa Jiwa Tenggelam, Kalajengking Raksasa Abu Vulkanik (detail: `13_BESTIARY.md`) |
@@ -21,17 +21,17 @@
 
 - **Bukit Tengkorak Seribu** (±350 li dari Desa Heiyan) — situs pertempuran kuno, penuh sisa senjata karatan, tanah tercemar Qi kematian.
 - **Perbukitan Abu Vulkanik** (±500 li dari Kota Chishui) — tanah subur tapi beracun, hanya tanaman demonic yang tumbuh.
-- **Rawa Jiwa Tenggelam** (±650 li dari Kampung Xueyu) — tempat roh penasaran berkumpul, dihindari bahkan oleh Ghost Valley Sect sendiri.
-- **Thousand Poison Marsh** (±550 li dari Desa Duchong) — wilayah pengaruh Nine Serpent Den, udara beracun tanpa perlindungan Qi.
-- **Crimson Blood Jungle** (±700 li dari perbatasan Central Plains) — area konflik ortodoks vs demonic, tanah kemerahan akibat mineral.
+- **Rawa Jiwa Tenggelam** (±650 li dari Kampung Xueyu) — tempat roh penasaran berkumpul, dihindari bahkan oleh Sekte Hunming sendiri.
+- **Thousand Poison Marsh** (±550 li dari Desa Duchong) — wilayah pengaruh Sarang Jiuyin, udara beracun tanpa perlindungan Qi.
+- **Crimson Blood Jungle** (±700 li dari perbatasan Tianzhou) — area konflik ortodoks vs demonic, tanah kemerahan akibat mineral.
 - **Endless Primeval Forest** (±800 li dari Kota Chishui) — hutan tak berujung, rumah ribuan spirit beast, sering dipakai uji nyali murid sekte manapun.
 
-### Desa Heiyan (300 li dari perbatasan Central Plains)
+### Desa Heiyan (300 li dari perbatasan Tianzhou)
 Pemukiman kultivator demonic kelas bawah, penuh pasar gelap.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Dojo "Bayangan Tua" | Kepala Dojo Bayangan Kelam | 60 | Foundation Establishment, Puncak | **1.000** | *Cengkeraman Bayangan Kelam* — tangkapan cepat dari arah tak terduga, memanfaatkan gelap | Dingin dan pragmatis, tak mudah marah tapi tanpa ragu menyerang jika ada yang mengkhianati kesepakatan |
+| Kepala Dojo "Bayangan Tua" | Kepala Perguruan Heiying | 60 | Foundation Establishment, Puncak | **1.000** | *Cengkeraman Bayangan Kelam* — tangkapan cepat dari arah tak terduga, memanfaatkan gelap | Dingin dan pragmatis, tak mudah marah tapi tanpa ragu menyerang jika ada yang mengkhianati kesepakatan |
 | Pemuda Putus Asa Hei Zi | Calon murid baru | 17 | Mortal Foundation, Menengah | 0 | *Tinju Amarah Membara* — pukulan asal-asalan namun bertenaga besar karena emosi | Pemarah dan penuh dendam, mudah tersulut, suka menyerang duluan saat tersinggung |
 | Gelandangan Buta Meng | Pengemis buta di gang desa | 55 | Non-Kultivator (disembunyikan?) | — | Tidak bertarung terbuka — memanfaatkan pendengaran tajam untuk menghindar | Tenang dan penuh rahasia, jarang bicara, mengamati lebih banyak daripada bertindak |
 
@@ -60,7 +60,7 @@ Penghasil racun & penawar terbaik dunia.
 | Pedagang Jujur Ah Shui | Pemilik toko barang selundupan legal-abu | 39 | Foundation Establishment, Awal | **500** | Tidak bertarung — mengandalkan penjaga bayaran | Tenang dan hati-hati, sangat menjaga reputasi jujurnya meski berdagang barang abu-abu |
 
 ### 🆕 Lembah Darah Mendidih (Boiling Blood Ravine)
-820 li dari perbatasan Central Plains, celah jurang berapi dengan sungai darah cair dan gas belerang pekat. Tempat penjelajahan ekstrim murid Demonic Flame Palace dan Blood Shadow Alliance. Memberikan damage korosif bertahap (1% HP per turn) bagi siapa saja yang tidak memiliki pertahanan panas/Qi khusus.
+820 li dari perbatasan Tianzhou, celah jurang berapi dengan sungai darah cair dan gas belerang pekat. Tempat penjelajahan ekstrim murid Istana Yanmo dan Aliansi Anying. Memberikan damage korosif bertahap (1% HP per turn) bagi siapa saja yang tidak memiliki pertahanan panas/Qi khusus.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -80,7 +80,7 @@ Hutan belantara lebat tempat pepohonan berkayu merah menyerupai tulang bersimbah
 
 ## Sekte & Karakteristiknya
 
-### 🩸 Blood Shadow Alliance
+### 🩸 Aliansi Anying
 *Tersebar, tanpa markas tunggal — Custom Law: Hukum Bayangan Darah (lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.3)*
 
 Aliansi longgar pembunuh bayaran. Tidak punya struktur kaku seperti sekte lain, anggotanya bisa bekerja untuk siapa saja termasuk ortodoks jika bayarannya cukup — dianggap paling "netral" di antara faksi demonic justru karena tak punya ideologi tetap.
@@ -90,40 +90,40 @@ Aliansi longgar pembunuh bayaran. Tidak punya struktur kaku seperti sekte lain, 
 | Pembunuh Bayaran Legendaris "Bayangan Tanpa Nama" | Anggota paling ditakuti aliansi | ??? | Void Severing, Menengah (disembunyikan) | **468.750** | *Sayatan Tanpa Jejak* — satu tebasan cepat dari bayangan, target sering tak sadar sudah terluka | Sangat dingin dan tenang, tak pernah bicara sebelum bertindak, profesional mutlak tanpa emosi |
 | Perekrut Muda Ah Sha | Perekrut anggota baru | 26 | Core Formation, Awal | **2.500** | *Pukulan Persuasi Paksa* — serangan ringan untuk "meyakinkan" target rekrutan yang menolak | Ramah palsu di permukaan, dingin dan manipulatif saat bekerja |
 
-### 🔥 Demonic Flame Palace
+### 🔥 Istana Yanmo
 *Hellfire Island, 400 li dari daratan selatan — Hukum utama: Hukum Qi Naga Api*
 
 Kekuatan militer demonic terbesar, dipimpin "Iblis Api Abadi". Sangat hierarkis dan militeristik, terkenal karena sistem ujian ketat bagi murid, dihormati sekaligus ditakuti bahkan oleh sesama demonic.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Iblis Api Abadi, Yan Wushen | Ketua Demonic Flame Palace | 210 | Tribulation Crossing, Awal | **1.562.500** | *Lautan Api Abadi* — semburan api dalam radius luas, jarang dikeluarkan penuh | Karismatik dan tenang di permukaan, tapi mengerikan dan tanpa ampun saat benar-benar marah |
+| Iblis Api Abadi, Yan Wushen | Ketua Istana Yanmo | 210 | Tribulation Crossing, Awal | **1.562.500** | *Lautan Api Abadi* — semburan api dalam radius luas, jarang dikeluarkan penuh | Karismatik dan tenang di permukaan, tapi mengerikan dan tanpa ampun saat benar-benar marah |
 | Penguji Zona Inti Huo Jiang | Penjaga Zona Inti pulau ujian | 78 | Soul Transformation, Awal | **62.500** | *Cakar Api Penguji* — cakaran tangan berapi untuk menguji ketahanan murid | Kejam tapi adil, tegas soal aturan ujian, tak pernah membunuh murid yang menyerah |
 | Murid Zona Luar Xiao Yan | Murid baru menjalani ujian | 15 | Mortal Foundation, Puncak | 0 | *Tendangan Api Kecil* — tendangan dasar dengan sedikit api tersulut dari amarah | Gigih dan penakut sekaligus, mudah panik tapi tak pernah menyerah |
 | Murid Inti Calon Feng Mo | Murid yang hampir lulus zona inti | 24 | Foundation Establishment, Puncak | **1.000** | *Tinju Api Ambisi* — pukulan berapi yang makin kuat saat ia merasa terancam disaingi | Ambisius dan sedikit kejam pada sesama murid, suka menyerang duluan pada saingan terkuatnya |
 
-### 👁️ Seven Sins Cult
+### 👁️ Kultus Qisha
 *Hutan belantara selatan — Custom Law: Hukum Gu Karma (varian instan, Sin tinggi)*
 
 Kultus perekrut lewat janji kekuatan instan. Paling dibenci semua faksi termasuk demonic lain, dianggap manipulatif dan tak punya kehormatan, sering diburu bersama oleh ortodoks dan demonic lain.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Pemimpin Kultus "Tujuh Wajah" | Ketua Seven Sins Cult | 130 | Void Severing, Awal | **312.500** | *Bisikan Tujuh Wajah* — teknik manipulasi pikiran, menyerang mental bukan fisik | Manipulatif dan tenang, tak pernah marah terbuka, licik dan penuh kepura-puraan |
+| Pemimpin Kultus "Tujuh Wajah" | Ketua Kultus Qisha | 130 | Void Severing, Awal | **312.500** | *Bisikan Tujuh Wajah* — teknik manipulasi pikiran, menyerang mental bukan fisik | Manipulatif dan tenang, tak pernah marah terbuka, licik dan penuh kepura-puraan |
 | Pengikut Baru Terpedaya Lian | Korban rekrutan yang baru bergabung | 22 | Qi Refining, Puncak | **200** | *Pukulan Putus Asa* — serangan asal dari orang yang baru belajar, tak terarah | Naif dan mudah panik, gampang tersulut emosi karena kebingungan batinnya sendiri |
 
-### 🐍 Nine Serpent Den
+### 🐍 Sarang Jiuyin
 *Thousand Poison Marsh — Hukum utama: Hukum Gu Karma (varian Racun)*
 
 Sekte kecil ahli racun. Tertutup, jarang berinteraksi dengan dunia luar, dihormati karena kompetensi tapi dijauhi karena reputasi mematikannya.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Ratu Ular She Yin | Ketua Nine Serpent Den | 88 | Soul Transformation, Menengah | **93.750** | *Gigitan Sembilan Ular* — serangan racun ganda dari sembilan titik berbeda sekaligus | Tenang dan tertutup, jarang emosi, tapi sangat berbahaya dan cepat bertindak bila sarangnya diganggu |
+| Ratu Ular She Yin | Ketua Sarang Jiuyin | 88 | Soul Transformation, Menengah | **93.750** | *Gigitan Sembilan Ular* — serangan racun ganda dari sembilan titik berbeda sekaligus | Tenang dan tertutup, jarang emosi, tapi sangat berbahaya dan cepat bertindak bila sarangnya diganggu |
 | Penjaga Sarang Ular Kembar | Dua penjaga kembar sarang | 40 | Foundation Establishment, Puncak | **1.000** (masing-masing) | *Serangan Berpasangan Ular Kembar* — kombinasi serangan racun dari dua arah sekaligus | Pendiam dan sangat kompak, saling melengkapi, tak pernah bertarung sendirian |
 
-### 🌑 Dojo Bayangan Kelam (Desa Heiyan)
-Perguruan kecil. Sering jadi tempat rekrutmen awal Blood Shadow Alliance, dipandang sebagai "gerbang masuk" dunia hitam bagi pemuda desa yang putus asa. *(NPC: lihat tabel Desa Heiyan di atas.)*
+### 🌑 Perguruan Heiying (Desa Heiyan)
+Perguruan kecil. Sering jadi tempat rekrutmen awal Aliansi Anying, dipandang sebagai "gerbang masuk" dunia hitam bagi pemuda desa yang putus asa. *(NPC: lihat tabel Desa Heiyan di atas.)*
 
 ---
 
