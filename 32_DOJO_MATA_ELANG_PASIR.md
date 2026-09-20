@@ -1,7 +1,7 @@
-# 🦅 Wuxian World — Dojo: Dojo Mata Elang Pasir
+# 🦅 Lingyuan World — Dojo: Perguruan Shaying
 
-> **Modul:** 32 — Sect Detail: Dojo Mata Elang Pasir
-> **Wilayah:** Desa Shayan, Western Sacred Deserts | **Tipe:** Kelompok pemandu profesional, bukan sekte petarung | **Hukum Utama:** Dao Abadi standar minimal (inferensi GM, non-kombat)
+> **Modul:** 32 — Sect Detail: Perguruan Shaying
+> **Wilayah:** Desa Shayan, Xisha | **Tipe:** Kelompok pemandu profesional, bukan sekte petarung | **Hukum Utama:** Dao Abadi standar minimal (inferensi GM, non-kombat)
 > **Estimasi Total Anggota:** ± 25 orang
 > **Rujukan silang:** `07_WESTERN_SACRED_DESERTS.md`
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `07_WESTERN_SACRED_DESERTS.md`. Tambahan baru ditandai **🆕**.
