@@ -1,6 +1,6 @@
-# 🔥 Wuxian World — Sekte: Demonic Flame Palace
+# 🔥 Lingyuan World — Sekte: Istana Yanmo
 
-> **Modul:** 21 — Sect Detail: Demonic Flame Palace
+> **Modul:** 21 — Sect Detail: Istana Yanmo
 > **Wilayah:** Hellfire Island, 400 li dari daratan selatan | **Tipe:** Demonic, militeristik | **Hukum Utama:** Qi Naga Api
 > **Estimasi Total Anggota:** ± 3.100 orang (kekuatan militer demonic terbesar dunia)
 > **Rujukan silang:** `04_SOUTHERN_DEMON_DOMAIN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.B & §8.2, `13_BESTIARY.md` (Serigala Api Neraka dipakai sebagai makhluk uji), `26_JADE_PURITY_PALACE.md` (rival historis)
@@ -54,17 +54,17 @@ Kekuatan militer demonic terbesar di dunia, dipimpin sosok berumur 210 tahun yan
 | Iblis Api Abadi (rahasia) | *Lautan Api Abadi* | Jurus Ultimate | Tier 8, Sheng-Grade | Semburan api dalam radius luas, jarang dikeluarkan penuh — teknik Yan Wushen |
 
 ## Hukum Kultivasi Sekte — Detail Lengkap
-Demonic Flame Palace adalah pusat gravitasi **Hukum Qi Naga Api** di dunia (`09` §3.B & §8.2). Fire Core setiap prajurit dibakar sejak Zona Luar, dan sepanjang karier militer mereka didorong menyerap Api Langit/Bumi di Kawah Api Suci untuk lompatan qi instan — TAPI penyerapan tanpa realm cukup memicu Backlash Damage 15% dari QiCap realm saat ini (`09` §3.B), sehingga kecelakaan latihan bukan hal jarang di sini, dianggap "harga wajar" oleh budaya militer sekte ini. Kelemahan wajib terhadap elemen Air/Es (−25% efektivitas serangan) adalah alasan utama pulau ini nyaris tak pernah berkonflik langsung dengan Jade Purity Palace di laut.
+Istana Yanmo adalah pusat gravitasi **Hukum Qi Naga Api** di dunia (`09` §3.B & §8.2). Fire Core setiap prajurit dibakar sejak Zona Luar, dan sepanjang karier militer mereka didorong menyerap Api Langit/Bumi di Kawah Api Suci untuk lompatan qi instan — TAPI penyerapan tanpa realm cukup memicu Backlash Damage 15% dari QiCap realm saat ini (`09` §3.B), sehingga kecelakaan latihan bukan hal jarang di sini, dianggap "harga wajar" oleh budaya militer sekte ini. Kelemahan wajib terhadap elemen Air/Es (−25% efektivitas serangan) adalah alasan utama pulau ini nyaris tak pernah berkonflik langsung dengan Istana Qinglian di laut.
 
 ## Kode Etik & Aturan Internal
 - Kegagalan dalam ujian zona bukan aib — boleh dicoba ulang, TAPI melarikan diri dari ujian adalah aib permanen.
 - Insubordinasi terhadap Jenderal di medan latihan dihukum fisik langsung, bukan pengusiran (militer, bukan akademik).
-- Prajurit dilarang menyerang sesama demonic tanpa perintah Jenderal, menjaga stabilitas relatif Southern Demon Domain.
+- Prajurit dilarang menyerang sesama demonic tanpa perintah Jenderal, menjaga stabilitas relatif Moyuan.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Jade Purity Palace** (`26_JADE_PURITY_PALACE.md`): rival historis di laut — kelemahan elemen Air/Es sekte ini adalah alasan mekanik pasti kenapa konflik langsung jarang terjadi, lebih banyak ketegangan diam daripada perang terbuka.
-- **Ghost Valley Sect** (`29_GHOST_VALLEY_SECT.md`) & **Nine Serpent Den** (`22_NINE_SERPENT_DEN.md`): sesama demonic, hubungan hormat jarak jauh — metodologi sangat berbeda (militer vs ilmu roh/racun) membuat interaksi langsung jarang terjadi.
-- **Seven Sins Cult** (`23_SEVEN_SINS_CULT.md`) & **Blood Shadow Alliance** (`24_BLOOD_SHADOW_ALLIANCE.md`): dipandang rendah karena kurang disiplin militer, meski tak ada permusuhan terbuka selama tak mengganggu wilayah kekuasaan.
+- **Istana Qinglian** (`26_JADE_PURITY_PALACE.md`): rival historis di laut — kelemahan elemen Air/Es sekte ini adalah alasan mekanik pasti kenapa konflik langsung jarang terjadi, lebih banyak ketegangan diam daripada perang terbuka.
+- **Sekte Hunming** (`29_GHOST_VALLEY_SECT.md`) & **Sarang Jiuyin** (`22_NINE_SERPENT_DEN.md`): sesama demonic, hubungan hormat jarak jauh — metodologi sangat berbeda (militer vs ilmu roh/racun) membuat interaksi langsung jarang terjadi.
+- **Kultus Qisha** (`23_SEVEN_SINS_CULT.md`) & **Aliansi Anying** (`24_BLOOD_SHADOW_ALLIANCE.md`): dipandang rendah karena kurang disiplin militer, meski tak ada permusuhan terbuka selama tak mengganggu wilayah kekuasaan.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Yan Wushen sudah berusia 210 tahun tanpa pernah secara resmi menunjuk penerus — ketegangan tak terucap mulai terasa di kalangan Jenderal Api senior, termasuk Chen Huo yang diam-diam dianggap kandidat kuat. Jika Yan Wushen jatuh dalam pertempuran besar suatu hari, perebutan kekuasaan di antara para Jenderal bisa meledak — benih konflik internal yang belum pernah dipicu, menunggu momen yang tepat dalam cerita.
