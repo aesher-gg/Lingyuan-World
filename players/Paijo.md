@@ -20,8 +20,8 @@
 
 **Equipment (terpakai/digenggam):**
 - **Senjata:** Palu Latihan Kayu — Fan-Grade (Dipinjam/diberikan oleh Perguruan Tielu)
-- **Zirah/Pelindung:** Seragam Dasar Perguruan Tielu — Fan-Grade (Diberikan oleh Dojo, kondisi sangat bersih dan rapi)
-- **Aksesoris:** Sarung Tangan Kerja — Fan-Grade (Diberikan oleh Dojo)
+- **Zirah/Pelindung:** Seragam Dasar Perguruan Tielu — Fan-Grade (Diberikan oleh Perguruan, kondisi sangat bersih dan rapi)
+- **Aksesoris:** Sarung Tangan Kerja — Fan-Grade (Diberikan oleh Perguruan)
 
 **Inventory Awal (dibawa, tidak terpakai):**
 - Kantong Air Kulit × 1 — Fan-Grade (Pribadi, kondisi penuh)
