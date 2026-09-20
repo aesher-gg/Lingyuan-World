@@ -1,7 +1,7 @@
 # 👤 Jiang Ziling
 
 > **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_TIANZHOU.md`, `17_DOJO_BUNGA_APRIKOT.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_TIANZHOU.md`, `17_PERGURUAN_LUOHUA.md`
 
 ---
 
