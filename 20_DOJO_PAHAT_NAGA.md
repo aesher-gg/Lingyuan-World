@@ -3,8 +3,8 @@
 > **Modul:** 20 — Sect Detail: Perguruan Shilong
 > **Wilayah:** Kampung Shiban, Qingyun | **Tipe:** Dojo pemahat kecil | **Hukum Utama:** Raga Sejati (varian pahat/pukulan, inferensi GM)
 > **Estimasi Total Anggota:** ± 20 orang
-> **Rujukan silang:** `03_AZURE_MOUNTAIN_RANGE.md`, `19_GOLDEN_BELL_MONASTERY.md` (tetangga wilayah), `10_ECONOMY_SYSTEM.md` (barang antik/formasi)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `03_AZURE_MOUNTAIN_RANGE.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `03_QINGYUN.md`, `19_GOLDEN_BELL_MONASTERY.md` (tetangga wilayah), `10_ECONOMY_SYSTEM.md` (barang antik/formasi)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `03_QINGYUN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -21,7 +21,7 @@ Dipandang sebelah mata oleh sekte besar, tapi sering "beruntung" menemukan penin
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Pemahat Shi Long | Kepala Dojo | Foundation Establishment Menengah — detail lengkap di `03_AZURE_MOUNTAIN_RANGE.md` |
+| Kepala Pemahat Shi Long | Kepala Dojo | Foundation Establishment Menengah — detail lengkap di `03_QINGYUN.md` |
 | Pemuda Pemahat Gang | Murid pemahat | Mortal Foundation Awal |
 
 ## Fasilitas
