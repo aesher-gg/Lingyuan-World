@@ -29,7 +29,7 @@ Netral mutlak dalam konflik, dilindungi kode etik tak tertulis "tidak menyerang 
 Sengaja tanpa markas permanen — mobilitas adalah inti identitas.
 | "Fasilitas" | Fungsi | Akses |
 |---|---|---|
-| 🆕 Titik Kumpul Musiman | Lokasi pertemuan berpindah tiap musim (mis. Kota Fengyang) | Anggota terverifikasi |
+| 🆕 Titik Kumpul Musiman | Lokasi pertemuan berpindah tiap musim (mis. Kota Kota Tianhe) | Anggota terverifikasi |
 | 🆕 Jaringan Komunikasi Regional | Pesan lewat sesama tabib/pasien, menyebarkan info wabah cepat | Koordinator Regional ke atas |
 
 ## Artefak, Aset & Harta Karun
