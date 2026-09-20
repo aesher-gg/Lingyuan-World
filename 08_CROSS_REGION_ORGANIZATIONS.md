@@ -90,7 +90,7 @@ Tersebar di semua provinsi. Netral mutlak dalam konflik, dilindungi kode etik ta
 *(selaras dengan Ikhtisar Dunia di `01_WORLD_OVERVIEW_AND_CAPITAL.md`)*
 
 - **85,7% populasi (± 240 juta)** adalah mortal biasa tanpa kultivasi sama sekali — petani, pedagang, bandit kasar, rentenir, mucikari, pejabat korup, prajurit biasa. Kekerasan jianghu paling sering dialami justru dari kelompok ini: perampokan kasar, penipuan, kekerasan jalanan — bukan pertarungan qi spektakuler.
-- **Mayoritas kultivator (Realm 1–3, Mortal Foundation s/d Foundation Establishment)** adalah murid dojo kecil, bandit bersenjata qi rendah, atau preman kelas menengah — jumlahnya jauh lebih banyak dari kultivator elite.
+- **Mayoritas kultivator (Realm 1–3, Mortal Foundation s/d Foundation Establishment)** adalah murid perguruan kecil, bandit bersenjata qi rendah, atau preman kelas menengah — jumlahnya jauh lebih banyak dari kultivator elite.
 - **Kultivator elite (Realm 4+, Core Formation ke atas)** sangat langka dan menentukan arah besar konflik jianghu — tapi kekerasan sehari-hari di jianghu justru didominasi kalangan bawah tanpa kultivasi tinggi ini.
 
 > **Implikasi untuk AI GM:** encounter acak di jalanan kota/desa harus didominasi NPC non-kultivator atau Realm 1–3 rendah, bukan kultivator elite — jaga realisme distribusi kekuatan ini di setiap narasi.
