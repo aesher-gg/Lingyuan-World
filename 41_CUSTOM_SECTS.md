@@ -1,7 +1,7 @@
-# 🏯 Lingyuan World — Sekte, Dojo & Organisasi Kustom (Custom Sects)
+# 🏯 Lingyuan World — Sekte, Perguruan & Organisasi Kustom (Custom Sects)
 
 > **Modul:** 41 — Custom Sects
-> **Fungsi:** Tempat Admin mencatat Sekte/Dojo/Organisasi buatan pemain atau tambahan Admin.
+> **Fungsi:** Tempat Admin mencatat Sekte/Perguruan/Organisasi buatan pemain atau tambahan Admin.
 > **Pengelolaan:** Hanya Admin (pemilik repo) yang boleh mengedit file ini. AI GM WAJIB membaca daftar ini saat pemain berinteraksi dengan sekte kustom.
 > **Rujukan silang:** `14`–`37` (sekresmi), `09_CULTIVATION_LAW_SYSTEM.md` (Hukum yang digunakan)
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📜 DAFTAR SEKTE/DOJO/ORGANISASI KUSTOM
+## 📜 DAFTAR SEKTE/PERGURUAN/ORGANISASI KUSTOM
 
 ### SECT-001: Paviliun "Jing Han" (静寒)
 - **Tipe:** Tempat Kediaman & Pertapaan Pribadi (Independen / Sanxiu)
@@ -73,7 +73,7 @@ Salin template di bawah ini untuk menambahkan sekte baru:
 
 ```markdown
 ### SECT-XXX: [Nama Sekte]
-- **Tipe:** [Sekte Besar / Dojo / Organisasi Independen / Lintas Wilayah]
+- **Tipe:** [Sekte Besar / Perguruan / Organisasi Independen / Lintas Wilayah]
 - **Afiliasi:** [Ortodoks / Demonic / Netral / Lainnya]
 - **Wilayah:** [Wilayah]
 - **Lokasi Spesifik:** [Deskripsi lokasi]
