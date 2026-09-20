@@ -63,7 +63,7 @@ Desa pandai besi turun-temurun.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Ketua Kota Netral Rong Bo | Pemimpin dewan kota Kota Tianhe | 61 | Nascent Soul, Awal | **12.500** | *Telapak Penenang Massa* — hentakan qi lembut yang meredam ketegangan tanpa melukai, dipakai memisahkan perkelahian | Diplomatis dan sangat sabar, jarang sekali marah, hanya bertindak keras jika netralitas kota diancam serius |
+| Ketua Kota Netral Rong Bo | Pemimpin dewan kota Tianhe | 61 | Nascent Soul, Awal | **12.500** | *Telapak Penenang Massa* — hentakan qi lembut yang meredam ketegangan tanpa melukai, dipakai memisahkan perkelahian | Diplomatis dan sangat sabar, jarang sekali marah, hanya bertindak keras jika netralitas kota diancam serius |
 | Pemilik Kedai Paviliun Bunga Emas | Toko/Paviliun terkenal, tempat transaksi netral | 44 | Foundation Establishment, Menengah | **750** | Tidak bertarung — mengandalkan penjaga bayaran di paviliunnya | Licik tapi profesional, ramah pada semua pelanggan berbayar, tak suka konflik terbuka |
 
 ### 🆕 Lembah Xuewu (Lembah Xuewu)
