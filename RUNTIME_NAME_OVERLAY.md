@@ -1,15 +1,19 @@
 # Lingyuan World — Runtime Name Overlay
 
-> **Status:** Runtime overlay only  
-> **Canon:** Repository module names remain unchanged.  
-> **Purpose:** Menyediakan nama runtime yang dipakai AI GM saat roleplay tanpa mengubah isi modul canon.
+> **Status:** Runtime identity overlay — ACTIVE
+> **Canon:** Repository module names remain the canonical identifiers.
+> **Purpose:** Menyediakan nama runtime baru yang dipakai AI GM saat roleplay tanpa mengubah isi modul canon.
+>
+> **Scope perubahan saat ini:** 6 wilayah + 24 organisasi. Nama lokasi/NPC lain belum diubah oleh commit ini.
 
 ## 1. World
+
 | Canon | Runtime |
 |---|---|
 | Wuxian World | Lingyuan World |
 
 ## 2. Regions
+
 | Canon | Runtime |
 |---|---|
 | Central Plains | Tianzhou |
@@ -19,71 +23,10 @@
 | Northern Desolate Territory | Beiyuan |
 | Western Sacred Deserts | Xisha |
 
-## 3. Locations
-
-### Central Plains → Tianzhou
-| Canon | Runtime |
-|---|---|
-| Kota Yunjing | Kota Yuntian |
-| Kota Luoxing | Kota Haoyang |
-| Desa Baihe | Desa Qinghe |
-| Kota Heiyu | Kota Heiyuan |
-| Lembah Qinghe | Lembah Qingyuan |
-
-Routes:
-- Kota Yuntian ↔ Kota Haoyang
-- Kota Haoyang ↔ Desa Qinghe
-- Kota Haoyang ↔ Kota Heiyuan
-- Desa Qinghe ↔ Lembah Qingyuan
-
-### Azure Mountain Range → Qingyun
-| Canon | Runtime |
-|---|---|
-| Kota Lingshan | Kota Lingxiao |
-| Desa Yunmu | Desa Yunhe |
-| Lembah Qingsong | Lembah Cangzhu |
-| Puncak Tianque | Puncak Tianyun |
-| Hutan Wuyin | Hutan Mizong |
-
-### Southern Demon Domain → Moyuan
-| Canon | Runtime |
-|---|---|
-| Kota Nanyao | Kota Yaoyang |
-| Pelabuhan Chixia | Pelabuhan Chiyang |
-| Hutan Cangmang | Hutan Wanmang |
-| Lembah Seratus Bunga | Lembah Baiyue |
-| Pegunungan Huoyan | Pegunungan Yanling |
-
-### Eastern Sea Region → Haiyuan
-| Canon | Runtime |
-|---|---|
-| Kota Haicheng | Kota Haijing |
-| Pulau Yuehai | Pulau Yuehua |
-| Kepulauan Lanyue | Kepulauan Lanxing |
-| Jurang Laut Canglong | Jurang Laut Longyuan |
-| Pulau Qionghua | Pulau Qiongyu |
-
-### Northern Desolate Territory → Beiyuan
-| Canon | Runtime |
-|---|---|
-| Kota Beixue | Kota Xueyuan |
-| Benteng Hanjiang | Benteng Hanlu |
-| Desa Xuehe | Desa Linghe |
-| Lembah Bingxin | Lembah Hanyue |
-| Reruntuhan Tianhan | Reruntuhan Xuetian |
-
-### Western Sacred Deserts → Xisha
-| Canon | Runtime |
-|---|---|
-| Kota Shajing | Kota Shayan |
-| Kota Jinyue | Kota Jinsha |
-| Oasis Qingyu | Oasis Qinglan |
-| Laut Pasir Wuheng | Laut Pasir Wuhuang |
-| Makam Tianri | Makam Riyuan |
-
-## 4. Organizations
+## 3. Organizations
 
 ### Tianzhou
+
 | Canon | Runtime |
 |---|---|
 | Heavenly Sword Pavilion | Sekte Tianjian |
@@ -93,12 +36,14 @@ Routes:
 | Dojo Godam Besi | Perguruan Tielu |
 
 ### Qingyun
+
 | Canon | Runtime |
 |---|---|
 | Golden Bell Monastery | Biara Jinguang |
 | Dojo Pahat Naga | Perguruan Shilong |
 
 ### Moyuan
+
 | Canon | Runtime |
 |---|---|
 | Demonic Flame Palace | Istana Yanmo |
@@ -108,12 +53,14 @@ Routes:
 | Dojo Bayangan Kelam | Perguruan Heiying |
 
 ### Haiyuan
+
 | Canon | Runtime |
 |---|---|
 | Jade Purity Palace | Istana Qinglian |
 | Dojo Ombak Tenang | Perguruan Haizhen |
 
 ### Beiyuan
+
 | Canon | Runtime |
 |---|---|
 | Whitecloud Medicine Hall | Balai Yunyao |
@@ -121,12 +68,14 @@ Routes:
 | Dojo Cakar Serigala | Perguruan Langxue |
 
 ### Xisha
+
 | Canon | Runtime |
 |---|---|
 | Azure Cloud Temple | Kuil Ciyun |
 | Dojo Mata Elang Pasir | Perguruan Shaying |
 
 ### Cross-region
+
 | Canon | Runtime |
 |---|---|
 | Perkumpulan Pisau Sunyi | Perkumpulan Wuying |
@@ -135,7 +84,8 @@ Routes:
 | Rumah Gadai Giok Sejuk | Rumah Gadai Hanbi |
 | Perhimpunan Tabib Pengembara | Perhimpunan Youyi |
 
-## 5. Core Terms — Do Not Rename
+## 4. Core Terms — Do Not Rename
+
 - Cultivation Realm
 - Spirit Beast
 - Qi
@@ -149,19 +99,26 @@ Routes:
 - Crafting
 - Alchemy
 
-## 6. Runtime Resolution Rules
-1. Saat roleplay, gunakan Runtime untuk nama yang memiliki mapping.
+## 5. Runtime Resolution Rules
+
+1. Saat roleplay, gunakan Runtime untuk nama yang memiliki mapping di file ini.
 2. Saat mengambil data dari repository, gunakan Canon sebagai identifier sumber.
 3. Jangan mengubah isi modul canon hanya untuk menerapkan alias.
-4. Jangan mengubah mekanik atau angka sistem akibat overlay ini.
-5. Jika suatu nama belum memiliki alias, gunakan nama canon; jangan mengarang alias baru.
-6. Alias harus konsisten: satu canon name → satu runtime name.
-7. Runtime alias bukan fakta canon baru dan tidak boleh dianggap sebagai pengganti data modul.
+4. Jangan mengubah mekanik, angka sistem, realm, statistik, teknik, item, loot, atau aturan AI GM akibat overlay ini.
+5. Jika suatu nama belum memiliki alias aktif, gunakan nama canon; jangan mengarang alias baru.
+6. Alias harus konsisten: satu Canon name → satu Runtime name.
+7. Runtime alias bukan fakta canon baru.
 8. Jika terjadi konflik antara alias dan data canon, data canon tetap menjadi sumber kebenaran.
+9. Untuk organisasi, istilah **Perguruan** menggantikan label runtime **Dojo** pada lima organisasi yang dipetakan sebagai Dojo.
+10. File dan path repository tetap menggunakan nama canon; overlay hanya mengatur nama yang tampil/digunakan dalam runtime roleplay.
 
-## 7. Scope
-Overlay ini berlaku untuk nama dunia, region, lokasi, route location, serta sekte/dojo/organisasi yang sudah memiliki mapping.
+## 6. Scope
 
-Overlay ini tidak mengubah isi modul canon, sistem permainan, statistik, realm, teknik, item, loot, NPC facts, ekonomi, combat, atau aturan AI GM.
+Overlay ini saat ini berlaku untuk:
+- World identity
+- 6 geographic regions
+- 24 canonical organizations
 
-Implementation principle: Canon Data → Runtime Alias Resolution → Player-facing Name
+Overlay ini **belum mengubah** nama lokasi, NPC, event, item, teknik, atau isi modul canon.
+
+**Implementation principle:** Canon Data → Runtime Alias Resolution → Player-facing Name
