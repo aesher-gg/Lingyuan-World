@@ -86,54 +86,54 @@ Routes:
 ### Tianzhou
 | Canon | Runtime |
 |---|---|
-| Heavenly Sword Pavilion | Paviliun Pedang Tianxuan |
-| Profound Heaven Sect | Sekte Xuantian |
-| Silver Rain Sword School | Perguruan Yinyu |
-| Dojo Bunga Aprikot | Perguruan Huaxing |
-| Dojo Godam Besi | Balai Tiehuo |
+| Heavenly Sword Pavilion | Sekte Tianjian |
+| Profound Heaven Sect | Sekte Xuanyuan |
+| Silver Rain Sword School | Sekte Yunjian |
+| Dojo Bunga Aprikot | Perguruan Luohua |
+| Dojo Godam Besi | Perguruan Tielu |
 
 ### Qingyun
 | Canon | Runtime |
 |---|---|
-| Golden Bell Monastery | Kuil Jinling |
-| Dojo Pahat Naga | Perguruan Longdiao |
+| Golden Bell Monastery | Biara Jinguang |
+| Dojo Pahat Naga | Perguruan Shilong |
 
 ### Moyuan
 | Canon | Runtime |
 |---|---|
-| Demonic Flame Palace | Istana Yanhun |
+| Demonic Flame Palace | Istana Yanmo |
 | Nine Serpent Den | Sarang Jiuyin |
-| Seven Sins Cult | Sekte Qiyu |
-| Blood Shadow Alliance | Aliansi Xueying |
-| Dojo Bayangan Kelam | Paviliun Heiying |
+| Seven Sins Cult | Kultus Qisha |
+| Blood Shadow Alliance | Aliansi Anying |
+| Dojo Bayangan Kelam | Perguruan Heiying |
 
 ### Haiyuan
 | Canon | Runtime |
 |---|---|
-| Jade Purity Palace | Istana Yuqing |
-| Dojo Ombak Tenang | Perguruan Jingtao |
+| Jade Purity Palace | Istana Qinglian |
+| Dojo Ombak Tenang | Perguruan Haizhen |
 
 ### Beiyuan
 | Canon | Runtime |
 |---|---|
-| Whitecloud Medicine Hall | Balai Baiyun |
-| Ghost Valley Sect | Sekte Guigu |
-| Dojo Cakar Serigala | Perguruan Langya |
+| Whitecloud Medicine Hall | Balai Yunyao |
+| Ghost Valley Sect | Sekte Hunming |
+| Dojo Cakar Serigala | Perguruan Langxue |
 
 ### Xisha
 | Canon | Runtime |
 |---|---|
-| Azure Cloud Temple | Kuil Qingyun |
+| Azure Cloud Temple | Kuil Ciyun |
 | Dojo Mata Elang Pasir | Perguruan Shaying |
 
 ### Cross-region
 | Canon | Runtime |
 |---|---|
-| Perkumpulan Pisau Sunyi | Paviliun Wuyin |
-| Kelompok Racun Bayangan | Balai Yindu |
-| Serambi Seribu Bisik | Paviliun Qianyan |
-| Rumah Gadai Giok Sejuk | Rumah Lengyu |
-| Perhimpunan Tabib Pengembara | Balai Youyi |
+| Perkumpulan Pisau Sunyi | Perkumpulan Wuying |
+| Kelompok Racun Bayangan | Kelompok Yandu |
+| Serambi Seribu Bisik | Paviliun Wanxin |
+| Rumah Gadai Giok Sejuk | Rumah Gadai Hanbi |
+| Perhimpunan Tabib Pengembara | Perhimpunan Youyi |
 
 ## 5. Core Terms — Do Not Rename
 - Cultivation Realm
