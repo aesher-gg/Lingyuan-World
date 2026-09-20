@@ -25,7 +25,7 @@ Teknik dibagi menjadi **5 Tingkat (Grade)** berdasarkan kompleksitas, kekuatan, 
 
 | Tingkat | Nama | Realm Minimum | Deskripsi |
 |:---:|:---|:---|:---|
-| **1** | Dasar (Basic) | Fondasi Fana / Qi Refining | Teknik sederhana yang dipelajari di dojo kecil atau dari guru keliling. Efek terbatas, konsumsi Qi rendah. |
+| **1** | Dasar (Basic) | Fondasi Fana / Qi Refining | Teknik sederhana yang dipelajari di perguruan kecil atau dari guru keliling. Efek terbatas, konsumsi Qi rendah. |
 | **2** | Menengah (Intermediate) | Foundation Establishment | Teknik standar sekte-sekte menengah. Efek cukup signifikan, konsumsi Qi sedang. |
 | **3** | Tinggi (Advanced) | Core Formation | Teknik elit yang hanya diajarkan ke murid inti sekte besar. Efek kuat, konsumsi Qi tinggi. |
 | **4** | Legendaris (Legendary) | Nascent Soul | Teknik kuno atau warisan dari kultivator legendaris. Efek sangat kuat, konsumsi Qi sangat tinggi, sering punya efek samping. |
