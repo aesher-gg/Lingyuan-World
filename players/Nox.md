@@ -1,12 +1,12 @@
 # 👤 Nox
 
 > **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_CENTRAL_PLAINS.md`, `17_DOJO_BUNGA_APRIKOT.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_TIANZHOU.md`, `17_DOJO_BUNGA_APRIKOT.md`
 
 ---
 
 **Nama Karakter:** Nox
-**Lokasi Awal:** Perguruan Luohua (Desa Xingcun), Tianzhou *(lihat `02_CENTRAL_PLAINS.md` & `17_DOJO_BUNGA_APRIKOT.md`)*
+**Lokasi Awal:** Perguruan Luohua (Desa Xingcun), Tianzhou *(lihat `02_TIANZHOU.md` & `17_DOJO_BUNGA_APRIKOT.md`)*
 **Realm & Stage Awal:** Qi Refining (Pemurnian Qi), Awal — Qi Cap: 100 *(RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Belum ada — akan ditentukan lewat roleplay (Fondasi saat ini berbasis Keseimbangan, Kesabaran, dan Integrasi Dao dalam Kehidupan Nyata)
 **Law Origin (jika sudah ada Hukum):** N/A
