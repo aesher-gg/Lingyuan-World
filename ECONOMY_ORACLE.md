@@ -106,7 +106,7 @@ Proses memasukkan data (approval) oleh Admin tidak boleh instan demi menjaga hyp
 
 **Waktu Proses Aset:**
 * **Asset Kecil (Gubuk, Kedai):** 1 Hari.
-* **Asset Menengah (Dojo, Kapal):** 3 Hari.
+* **Asset Menengah (Perguruan, Kapal):** 3 Hari.
 * **Asset Besar (Sekte, Istana):** 7 Hari.
 
 ---
