@@ -220,8 +220,8 @@ Pemukiman tukang batu dan pemahat.
 | Kepala Pemahat Shi Long | Kepala Perguruan Shilong | 57 | Foundation Establishment, Menengah | **750** | *Pahat Penembus Batu* — pukulan tangan bertenaga fokus meniru gerak memahat | Teliti dan sedikit obsesif, tenang tapi keras kepala soal kesempurnaan karya |
 | Pemuda Pemahat Gang | Murid pemahat | 18 | Mortal Foundation, Awal | 0 | *Pukulan Palu Batu Kecil* — gerak dasar memahat sebagai serangan darurat | Pendiam, sabar luar biasa, jarang bicara kecuali ditanya |
 
-### 🆕 Desa Yinfeng
-500 li ke dalam pegunungan, desa peristirahatan bagi kultivator yang ingin menyepi sementara dari politik jianghu; terkenal dengan penginapan sederhana yang tidak banyak bertanya soal latar belakang tamu.
+### 🆕 Kota Baru: Kota Yinfeng (清風鎮, "Kota Angin Sejuk")
+500 li ke dalam pegunungan, kota peristirahatan bagi kultivator yang ingin menyepi sementara dari politik jianghu; terkenal dengan penginapan-penginapan tenang tanpa pertanyaan soal latar belakang tamu.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
