@@ -95,7 +95,7 @@ Perguruan kecil. Dianggap tak berguna oleh sekte darat, tapi sangat dihormati ne
 - **Armada Dagang Delapan Penjuru** (berbasis di Kota Yunhai) — cabang laut dari serikat dagang utama, lebih berani ambil risiko dibanding cabang darat, sering berurusan dengan bajak laut lewat negosiasi ketimbang kekerasan.
 
 ### Kepulauan Fuyun
-*(600 li dari Kota Kota Yunhai)*
+*(600 li dari Kota Yunhai)*
 
 Gugusan pulau terapung yang jadi pasar netral terbesar di laut. Tak dikuasai sekte manapun — dijaga tradisi **Gencatan Pasar**, kesepakatan seluruh faksi bahwa pertumpahan darah di sini dianggap pelanggaran berat yang akan disatukan semua pihak untuk membalas.
 
@@ -107,7 +107,7 @@ Gugusan pulau terapung yang jadi pasar netral terbesar di laut. Tak dikuasai sek
 > Region Scarcity di pasar ini khusus ×1,0–1,5 (lihat `10_ECONOMY_SYSTEM.md` §9.2).
 
 ### Pulau Xiantao
-*(750 li dari Kota Kota Yunhai)*
+*(750 li dari Kota Yunhai)*
 
 Pulau suci dengan pohon persik abadi, tak berpenghuni tetap. Diperebutkan tiap 60 tahun lewat turnamen terbuka yang diikuti sekte ortodoks & netral. Di luar masa turnamen, formasi kuno otomatis menyerang siapa pun yang mendekat tanpa izin.
 
@@ -116,7 +116,7 @@ Pulau suci dengan pohon persik abadi, tak berpenghuni tetap. Diperebutkan tiap 6
 | Penjaga Formasi Kuno (entitas/roh) | Penjaga otomatis pulau | — | Setara Immortal Ascension (formasi, bukan makhluk hidup) | **1.562.500** | *Formasi Penghalau Abadi* — serangan energi otomatis pada siapa pun yang mendekat tanpa izin | Tidak punya emosi — murni mekanisme pertahanan formasi kuno, menyerang siapa pun tanpa pandang bulu di luar masa turnamen |
 
 ### ⚔️ Pulau Heifan
-*(perairan lepas Haiyuan, ±400 li tenggara Kota Kota Yunhai)*
+*(perairan lepas Haiyuan, ±400 li tenggara Kota Yunhai)*
 
 Pulau karang kecil tak berpenghuni tanpa nama resmi di peta kekaisaran, dijadikan pangkalan sementara. Berpindah tiap beberapa bulan begitu lokasi mulai diketahui Istana Qinglian.
 
