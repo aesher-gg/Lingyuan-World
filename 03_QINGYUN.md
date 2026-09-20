@@ -11,7 +11,7 @@
 | Populasi | ± 22 juta |
 | Kekayaan | ± 140 juta Tael |
 | Jarak dari Tianzhou | 1.100 li |
-| Jarak dari Northern Territory | 1.300 li |
+| Jarak dari Beiyuan | 1.300 li |
 | Qi Density Modifier | ×1,5 (Kaya) — spirit vein alami di puncak gunung, lokasi favorit Biara Jinguang, cocok untuk Hukum Raga Sejati |
 | Monster khas wilayah | Kabut Pemakan Arah, Ular Salju Lembah Bunga, Burung Guntur Puncak (detail: `13_BESTIARY.md`) |
 
@@ -19,18 +19,18 @@
 
 ## Lokasi & Situs Khusus
 
-- **Void Mist Forest** (±650 li dari perbatasan) — hutan kabut yang bisa membuat orang hilang selamanya, formasi ilusi alami.
-- **Lembah Bunga Salju** (±550 li dari Kampung Shiban) — diperebutkan diam-diam Balai Yunyao & Sarang Jiuyin untuk bahan racun langka.
-- **Lembah Sengketa Tiga Warna** (±700 li dari Kota Haiyun / ±800 li dari perbatasan Tianzhou) — perbatasan Eastern Sea & Tianzhou, tambang giok spiritual, sering bentrok kecil.
+- **Hutan Wuyin** (±650 li dari perbatasan) — hutan kabut yang bisa membuat orang hilang selamanya, formasi ilusi alami.
+- **Lembah Xuehua** (±550 li dari Kampung Shiyin) — diperebutkan diam-diam Balai Yunyao & Sarang Jiuyin untuk bahan racun langka.
+- **Lembah Sancai** (±700 li dari Kota Haiyun / ±800 li dari perbatasan Tianzhou) — perbatasan Eastern Sea & Tianzhou, tambang giok spiritual, sering bentrok kecil.
 
 ---
 
-### 🎋 Hutan Bambu Berbisik (Whispering Bamboo Forest)
+### 🎋 Hutan Lingzhu (Whispering Bamboo Forest)
 *(±400 li dari Biara Jinguang, masuk dari jalur timur pegunungan)*
 
 Hutan bambu yang membentang luas di lereng timur Pegunungan Azure. Dinamakan "Berbisik" karena suara dedaunan bambu yang saling bergesekan menciptakan melodi rendah dan misterius — seperti bisikan ribuan suara tak kasat mata. Biara Jinguang kadang mengirim murid-muridnya ke sini untuk melatih kepekaan pendengaran, tapi hanya sebatas di zona terluar.
 
-#### 🌿 Zona-Zona Hutan Bambu Berbisik
+#### 🌿 Zona-Zona Hutan Lingzhu
 
 Hutan ini terbagi menjadi **3 zona** dengan tingkat bahaya dan misteri yang semakin meningkat:
 
@@ -40,7 +40,7 @@ Hutan ini terbagi menjadi **3 zona** dengan tingkat bahaya dan misteri yang sema
 | **Zona Tengah (Zona Sunyi)** | 5–20 li | Bambu setinggi 10–15 meter, berdiameter paha manusia, sangat keras — kapak besi biasa tumpul dalam beberapa tebakan. Bisikan terdengar jelas seperti kata-kata tak terbaca. | 🟠 Menengah |
 | **Zona Dalam (Zona Hening)** | 20–50+ li | Bambu raksasa setinggi 30–50 meter, berdiameter satu depa manusia, sekeras batu giok — **tidak bisa ditebang** oleh senjata biasa. Energi spiritual pekat terasa menekan. Bisikan berhenti — digantikan oleh keheningan mencekam yang justru lebih berbahaya. | 🔴 Tinggi |
 
-> **⚠️ Peringatan:** Hutan Bambu Berbisik adalah salah satu lokasi paling **jarang dikunjungi** di Pegunungan Azure. Bahkan penduduk setempat dan murid Biara Jinguang hanya berani masuk ke Zona Luar. Zona Tengah sudah dianggap "berbahaya", dan Zona Dalam dianggap "wilayah kematian" oleh sebagian besar kultivator. Tidak ada desa atau pemukiman di sekitar hutan ini — hanya pepohonan dan kabut.
+> **⚠️ Peringatan:** Hutan Lingzhu adalah salah satu lokasi paling **jarang dikunjungi** di Pegunungan Azure. Bahkan penduduk setempat dan murid Biara Jinguang hanya berani masuk ke Zona Luar. Zona Tengah sudah dianggap "berbahaya", dan Zona Dalam dianggap "wilayah kematian" oleh sebagian besar kultivator. Tidak ada desa atau pemukiman di sekitar hutan ini — hanya pepohonan dan kabut.
 
 ---
 
@@ -54,7 +54,7 @@ Hutan ini terbagi menjadi **3 zona** dengan tingkat bahaya dan misteri yang sema
 
 #### 🌱 Regenerasi Bambu — "Bambu Tak Pernah Mati"
 
-Salah satu misteri terbesar Hutan Bambu Berbisik adalah kemampuannya untuk **tumbuh kembali dalam hitungan jam** setelah ditebang.
+Salah satu misteri terbesar Hutan Lingzhu adalah kemampuannya untuk **tumbuh kembali dalam hitungan jam** setelah ditebang.
 
 - **Zona Luar:** Bambu yang ditebang akan tumbuh tunas baru dalam **3–6 jam** dan mencapai ukuran semula dalam **2–3 hari**.
 - **Zona Tengah:** Bambu yang ditebang akan tumbuh kembali dalam **12–24 jam** dan mencapai ukuran semula dalam **5–7 hari**.
@@ -64,9 +64,9 @@ Salah satu misteri terbesar Hutan Bambu Berbisik adalah kemampuannya untuk **tum
 
 ---
 
-#### 🌿 Penghuni & Penjaga Hutan Bambu Berbisik
+#### 🌿 Penghuni & Penjaga Hutan Lingzhu
 
-Hutan Bambu Berbisik adalah rumah bagi berbagai makhluk yang hidup berkelompok (koloni/kawanan). Mereka melindungi hutan dan bambu-bambunya dari pengunjung yang tidak diinginkan.
+Hutan Lingzhu adalah rumah bagi berbagai makhluk yang hidup berkelompok (koloni/kawanan). Mereka melindungi hutan dan bambu-bambunya dari pengunjung yang tidak diinginkan.
 
 ---
 
@@ -204,15 +204,15 @@ Konon, ribuan tahun lalu, seorang kultivator jenius bernama **"Pendekar Bambu"**
 
 ---
 
-### Desa Yunwu (200 li dari perbatasan Tianzhou)
+### Desa Chayun (200 li dari perbatasan Tianzhou)
 Desa petani teh di ketinggian, sejuk dan damai.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Desa Yun Cha | Kepala Desa Yunwu | 64 | Non-Kultivator | — | Tidak bertarung | Tenang dan sabar, sangat dihormati karena kearifannya soal teh dan kehidupan |
+| Kepala Desa Yun Cha | Kepala Desa Chayun | 64 | Non-Kultivator | — | Tidak bertarung | Tenang dan sabar, sangat dihormati karena kearifannya soal teh dan kehidupan |
 | Petani Teh Muda A-Lan | Pemetik teh | 20 | Mortal Foundation, Menengah | 0 | *Sabit Petani Sederhana* — gerak dasar memanen yang bisa jadi pertahanan darurat | Ceria dan penuh semangat, tidak suka konflik, bermimpi jadi kultivator hebat |
 
-### Kampung Shiban (350 li dari perbatasan)
+### Kampung Shiyin (350 li dari perbatasan)
 Pemukiman tukang batu dan pemahat.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -220,7 +220,7 @@ Pemukiman tukang batu dan pemahat.
 | Kepala Pemahat Shi Long | Kepala Perguruan Shilong | 57 | Foundation Establishment, Menengah | **750** | *Pahat Penembus Batu* — pukulan tangan bertenaga fokus meniru gerak memahat | Teliti dan sedikit obsesif, tenang tapi keras kepala soal kesempurnaan karya |
 | Pemuda Pemahat Gang | Murid pemahat | 18 | Mortal Foundation, Awal | 0 | *Pukulan Palu Batu Kecil* — gerak dasar memahat sebagai serangan darurat | Pendiam, sabar luar biasa, jarang bicara kecuali ditanya |
 
-### 🆕 Kota Baru: Qingfeng (清風鎮, "Kota Angin Sejuk")
+### 🆕 Kota Baru: Kota Yinfeng (清風鎮, "Kota Angin Sejuk")
 500 li ke dalam pegunungan, kota peristirahatan bagi kultivator yang ingin menyepi sementara dari politik jianghu; terkenal dengan penginapan-penginapan tenang tanpa pertanyaan soal latar belakang tamu.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -228,14 +228,14 @@ Pemukiman tukang batu dan pemahat.
 | Pemilik Penginapan "Angin Sunyi" | Pemilik penginapan tanpa pertanyaan | 49 | Core Formation, Menengah | **3.750** | *Telapak Angin Bungkam* — pukulan angin ringan yang bisa meredam suara di sekitar, dipakai menjaga privasi tamu | Tertutup dan misterius, tenang luar biasa, hanya bertindak jika kerahasiaan penginapannya dilanggar |
 | Tamu Misterius Berjubah Abu | Orang misterius yang menginap lama | ??? | Nascent Soul, Puncak (disembunyikan) | **25.000** | *Langkah Menghilang di Kabut* — teknik menghilang cepat memanfaatkan kabut pegunungan | Sangat jarang bicara, tenang mengerikan, langsung pergi tanpa jejak begitu merasa dicurigai |
 
-### 🆕 Jurang Es Abadi (Eternal Ice Abyss)
+### 🆕 Jurang Hanxu (Eternal Ice Abyss)
 850 li di kedalaman bagian utara Qingyun. Jurang terjal sedalam ratusan meter dengan dinding es yang tidak pernah meleleh. Tempat ditemukannya herba Es Jiwa dan persembunyian makhluk purba. Suhu ekstrem memberikan penalti kecepatan gerak dan regenerasi Qi bagi bukan praktisi Hukum Es/Raga Sejati.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | Tetua Pertapaan Es Han Frost | Kultivator pertapa di dasar jurang | 115 | Soul Transformation, Menengah | **93.750** | *Hantaman Pedang Es Abadi* — gelombang qi dingin membekukan aliran qi lawan dalam radius 15m | Dingin bagai es, benci keributan, bertapa mencari terobosan Void Severing |
 
-### 🌿 🆕 Lembah Embun Lautan Bambu (Jade Bamboo Dew Valley — 600 li dari Biara Jinguang)
+### 🌿 🆕 Lembah Yuzhu (Jade Bamboo Dew Valley — 600 li dari Biara Jinguang)
 Lembah tersembunyi yang tertutup bambu giok hijau transparan dan kabut embun spiritual kental. Di pusat lembah terdapat Mata Air Bambu Giok yang mempercepat pemulihan stamina raga.
 **Bahaya Alam Hardcore:**
 - *Tekanan Awan Embun:* Udara lembah sangat padat (+20% beban respirasi), mengurangi regenerasi Stamina sebesar -15% jika tidak menggunakan teknik penyesuaian Qi.
@@ -260,11 +260,11 @@ Biara pertapa ortodoks. Sangat tertutup, jarang campur tangan urusan luar, hanya
 | Biksu Penjaga Gerbang De Ren | Penjaga gerbang biara | 55 | Nascent Soul, Awal | **12.500** | *Telapak Penjaga Gerbang* — dorongan tangan kosong untuk menghalau, bukan melukai | Ramah tapi tegas, sabar menguji lewat pertanyaan filosofis sebelum bertindak |
 | Murid Baru Kecil Dawa | Murid termuda biara | 14 | Mortal Foundation, Puncak | 0 | *Sapu Lantai Berputar* — gerak dasar menyapu yang jadi latihan pertahanan awal | Polos, rajin, penurut, tak pernah membantah perintah tetua |
 
-### 🗿 Perguruan Shilong (Kampung Shiban)
-Perguruan kecil pemahat. Dipandang sebelah mata oleh sekte besar, tapi sering "beruntung" menemukan peninggalan formasi kuno saat memahat batu gunung, membuat sekte besar diam-diam menjaga hubungan baik dengan mereka. *(NPC: Shi Long & Gang — lihat tabel Kampung Shiban di atas.)*
+### 🗿 Perguruan Shilong (Kampung Shiyin)
+Perguruan kecil pemahat. Dipandang sebelah mata oleh sekte besar, tapi sering "beruntung" menemukan peninggalan formasi kuno saat memahat batu gunung, membuat sekte besar diam-diam menjaga hubungan baik dengan mereka. *(NPC: Shi Long & Gang — lihat tabel Kampung Shiyin di atas.)*
 
 ---
 
 ## Aliansi Dagang & Organisasi
 
-- Cabang kecil **Rumah Gadai Hanbi** (lihat `08_CROSS_REGION_ORGANIZATIONS.md`) di Kampung Shiban — melayani kultivator miskin yang butuh dana mendadak, bunga pinjaman lebih rendah dari cabang kota besar sebagai bentuk kepercayaan lokal.
+- Cabang kecil **Rumah Gadai Hanbi** (lihat `08_CROSS_REGION_ORGANIZATIONS.md`) di Kampung Shiyin — melayani kultivator miskin yang butuh dana mendadak, bunga pinjaman lebih rendah dari cabang kota besar sebagai bentuk kepercayaan lokal.
