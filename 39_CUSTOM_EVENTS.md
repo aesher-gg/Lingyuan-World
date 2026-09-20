@@ -1,4 +1,4 @@
-# 🎭 Wuxian World — Event Khusus & Peristiwa Dunia
+# 🎭 Lingyuan World — Event Khusus & Peristiwa Dunia
 
 > **Modul:** 39 — Custom Events
 > **Fungsi:** Tempat Admin mencatat event-event khusus yang terjadi di dunia, baik yang sudah terjadi maupun yang akan datang.
