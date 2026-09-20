@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Yuma
-**Lokasi Awal:** Desa Heiyan, Southern Demon Domain *(lihat `04_SOUTHERN_DEMON_DOMAIN.md`)*
+**Lokasi Awal:** Desa Heiyan, Moyuan *(lihat `04_SOUTHERN_DEMON_DOMAIN.md`)*
 **Realm & Stage Awal:** Mortal Foundation (Fondasi Fana), Awal — Qi Cap: 0 *(RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Belum ada — akan ditentukan lewat roleplay
 **Law Origin (jika sudah ada Hukum):** Belum ada
