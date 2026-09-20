@@ -21,7 +21,7 @@
 
 - **Hutan Wuyin** (±650 li dari perbatasan) — hutan kabut yang bisa membuat orang hilang selamanya, formasi ilusi alami.
 - **Lembah Xuehua** (±550 li dari Kampung Shiyin) — diperebutkan diam-diam Balai Yunyao & Sarang Jiuyin untuk bahan racun langka.
-- **Lembah Sancai** (±700 li dari Kota Haiyun / ±800 li dari perbatasan Tianzhou) — perbatasan Eastern Sea & Tianzhou, tambang giok spiritual, sering bentrok kecil.
+- **Lembah Sancai** (±700 li dari Kota Haiyun / ±800 li dari perbatasan Tianzhou) — perbatasan Haiyuan & Tianzhou, tambang giok spiritual, sering bentrok kecil.
 
 ---
 
