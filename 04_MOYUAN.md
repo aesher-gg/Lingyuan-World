@@ -20,11 +20,11 @@
 ## Lokasi & Situs Khusus
 
 - **Bukit Wanku** (±350 li dari Desa Yemo) — situs pertempuran kuno, penuh sisa senjata karatan, tanah tercemar Qi kematian.
-- **Pegunungan Huijin** (±500 li dari Kota Kota Yanjiang) — tanah subur tapi beracun, hanya tanaman demonic yang tumbuh.
+- **Pegunungan Huijin** (±500 li dari Kota Yanjiang) — tanah subur tapi beracun, hanya tanaman demonic yang tumbuh.
 - **Rawa Minghun** (±650 li dari Kampung Luosha) — tempat roh penasaran berkumpul, dihindari bahkan oleh Sekte Hunming sendiri.
 - **Rawa Duanyin** (±550 li dari Desa Wandu) — wilayah pengaruh Sarang Jiuyin, udara beracun tanpa perlindungan Qi.
 - **Hutan Chixue** (±700 li dari perbatasan Tianzhou) — area konflik ortodoks vs demonic, tanah kemerahan akibat mineral.
-- **Hutan Manghuang** (±800 li dari Kota Kota Yanjiang) — hutan tak berujung, rumah ribuan spirit beast, sering dipakai uji nyali murid sekte manapun.
+- **Hutan Manghuang** (±800 li dari Kota Yanjiang) — hutan tak berujung, rumah ribuan spirit beast, sering dipakai uji nyali murid sekte manapun.
 
 ### Desa Yemo (300 li dari perbatasan Tianzhou)
 Pemukiman kultivator demonic kelas bawah, penuh pasar gelap.
