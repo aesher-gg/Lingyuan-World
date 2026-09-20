@@ -3,8 +3,8 @@
 > **Modul:** 22 — Sect Detail: Sarang Jiuyin
 > **Wilayah:** Thousand Poison Marsh, Moyuan | **Tipe:** Demonic, tertutup | **Hukum Utama:** Gu Karma (varian Racun)
 > **Estimasi Total Anggota:** ± 80 orang
-> **Rujukan silang:** `04_SOUTHERN_DEMON_DOMAIN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.D & §8.2, `34_KELOMPOK_RACUN_BAYANGAN.md` (sesama spesialis racun, skala berbeda)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_SOUTHERN_DEMON_DOMAIN.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `04_MOYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.D & §8.2, `34_KELOMPOK_RACUN_BAYANGAN.md` (sesama spesialis racun, skala berbeda)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_MOYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -22,7 +22,7 @@ Sekte kecil ahli racun yang jarang berinteraksi dengan dunia luar — dihormati 
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Ratu Ular She Yin | Ketua | Soul Transformation Menengah — detail lengkap di `04_SOUTHERN_DEMON_DOMAIN.md` |
+| Ratu Ular She Yin | Ketua | Soul Transformation Menengah — detail lengkap di `04_MOYUAN.md` |
 | Penjaga Sarang Ular Kembar | Dua penjaga kembar | Foundation Establishment Puncak (masing-masing) |
 | 🆕 Peracik Madya Xian Du | Peracik senior, mengurus Gudang Penawar | Core Formation Awal, 45 tahun. Ironisnya lebih dikenal ahli PENAWAR dibanding racun — dipercaya menjaga stok penawar darurat sekte sendiri. |
 
