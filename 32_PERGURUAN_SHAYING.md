@@ -1,4 +1,4 @@
-# 🦅 Lingyuan World — Dojo: Perguruan Shaying
+# 🦅 Lingyuan World — Perguruan: Perguruan Shaying
 
 > **Modul:** 32 — Sect Detail: Perguruan Shaying
 > **Wilayah:** Desa Shayan, Xisha | **Tipe:** Kelompok pemandu profesional, bukan sekte petarung | **Hukum Utama:** Dao Abadi standar minimal (inferensi GM, non-kombat)
@@ -21,7 +21,7 @@ Bukan sekte petarung — lebih dikenal sebagai kelompok pemandu profesional yang
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Pemandu Sha Ying | Kepala Dojo | Foundation Establishment Puncak — detail lengkap di `07_XISHA.md` |
+| Kepala Pemandu Sha Ying | Kepala Perguruan | Foundation Establishment Puncak — detail lengkap di `07_XISHA.md` |
 | Pemandu Muda Xiao Ying | Pemandu magang | Qi Refining Menengah |
 
 ## Fasilitas & Bangunan
@@ -42,7 +42,7 @@ Bukan sekte petarung — lebih dikenal sebagai kelompok pemandu profesional yang
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Konsorsium Kafilah Jinsha & Menara Bintang Jatuh** (`07_XISHA.md`): kompetitor sekaligus mitra dalam bisnis pemanduan/informasi rute gurun — hubungan profesional yang cair.
-- **Semua sekte besar lintas wilayah**: dipercaya universal karena tidak pernah memihak — jarang ada dojo lain yang bisa disewa tanpa curiga oleh ortodoks maupun demonic sekaligus.
+- **Semua sekte besar lintas wilayah**: dipercaya universal karena tidak pernah memihak — jarang ada perguruan lain yang bisa disewa tanpa curiga oleh ortodoks maupun demonic sekaligus.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Sha Ying mengetahui beberapa rute gurun tersembunyi yang tidak pernah diungkapkan ke klien mana pun, termasuk kemungkinan jalan menuju reruntuhan yang belum tercatat resmi di `07_XISHA.md`. Ia hanya akan membaginya dengan seseorang yang benar-benar ia percaya sepenuhnya.
