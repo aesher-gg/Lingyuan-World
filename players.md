@@ -24,25 +24,25 @@
 
 | Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
 |---|---|---|---|---|
-| **Jiang Ziling** *(contoh)* | Desa Xingcun, Tianzhou | Foundation Establishment, Menengah | Perguruan Luohua | [`Jiang_Ziling.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Jiang_Ziling.md?v=1) |
+| **Jiang Ziling** *(contoh)* | Desa Qingmu, Tianzhou | Foundation Establishment, Menengah | Perguruan Luohua | [`Jiang_Ziling.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Jiang_Ziling.md?v=1) |
 | **Tji An Coek** | Pondok Tabib Gunung, Qingyun | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Tji_An_Coek.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Tji_An_Coek.md?v=1) |
-| **Nox** | Perguruan Luohua (Desa Xingcun), Tianzhou | Qi Refining, Awal | Perguruan Luohua (Murid Resmi) | [`Nox.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Nox.md?v=1) |
-| **Ghi** | Desa Qingshui, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ghi.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Ghi.md?v=1) |
+| **Nox** | Perguruan Luohua (Desa Qingmu), Tianzhou | Qi Refining, Awal | Perguruan Luohua (Murid Resmi) | [`Nox.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Nox.md?v=1) |
+| **Ghi** | Desa Lingquan, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ghi.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Ghi.md?v=1) |
 | **Tatsuya / Yin Zheng** | Sekte Tianjian (Tianzhou) | Qi Refining, Awal - Puncak | Sekte Tianjian (Murid Luar) | [`Tatsuya_Yin_Zheng.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Tatsuya_Yin_Zheng.md?v=1) |
 | **Wang Zixiin** | Desa Luoye, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Wang_Zixiin.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Wang_Zixiin.md?v=1) |
-| **Ying Luo** | Desa Qingfeng, Qingyun | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ying_Luo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Ying_Luo.md?v=1) |
+| **Ying Luo** | Desa Kota Yinfeng, Qingyun | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ying_Luo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Ying_Luo.md?v=1) |
 | **Yūmei** | Mirror Lake Inn, Beiyuan | Core Formation, Awal | Sanxiu / Pemilik Mirror Lake Inn | [`Yūmei.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Y%C5%ABmei.md?v=1) |
-| **Lu Qingxuan** | Desa Xingcun, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Lu_Qingxuan.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Lu_Qingxuan.md?v=1) |
-| **Paijo** | Desa Tiedao, Tianzhou | Mortal Foundation, Awal | Perguruan Tielu (Murid Magang) | [`Paijo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Paijo.md?v=1) |
+| **Lu Qingxuan** | Desa Qingmu, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Lu_Qingxuan.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Lu_Qingxuan.md?v=1) |
+| **Paijo** | Desa Huolian, Tianzhou | Mortal Foundation, Awal | Perguruan Tielu (Murid Magang) | [`Paijo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Paijo.md?v=1) |
 | **Azmud** | Desa Heiyan, Moyuan | Mortal Foundation, Awal | Sanxiu / Petani Herbal Rahasia | [`Azmud.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Azmud.md?v=1) |
-| **Xu qin** | Desa Tiedao, Tianzhou | Foundation Establishment, Awal | Perguruan Luohua (Murid Inti) & Vanguard Kekaisaran | [`Xu_qin.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Xu_qin.md?v=1) |
-| **Lu Chen** | Desa Xingcun, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Lu_Chen.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Lu_Chen.md?v=1) |
-| **Inggo** | Hutan Bambu Berbisik, Qingyun | Core Formation, Awal | Sanxiu (tanpa sekte) | [`Inggo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Inggo.md?v=1) |
+| **Xu qin** | Desa Huolian, Tianzhou | Foundation Establishment, Awal | Perguruan Luohua (Murid Inti) & Vanguard Kekaisaran | [`Xu_qin.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Xu_qin.md?v=1) |
+| **Lu Chen** | Desa Qingmu, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Lu_Chen.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Lu_Chen.md?v=1) |
+| **Inggo** | Hutan Lingzhu, Qingyun | Core Formation, Awal | Sanxiu (tanpa sekte) | [`Inggo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Inggo.md?v=1) |
 | **Yuma** | Desa Heiyan, Moyuan | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Yuma.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Yuma.md?v=1) |
 | **Nafila** | Perbatasan Tianzhou & Qingyun | Foundation Establishment, Awal | Sanxiu (Kultivator Independen) | [`Nafila.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Nafila.md?v=1) |
 | **Shi Guta** | Perguruan Shilong, Qingyun | Mortal Foundation, Awal | Perguruan Shilong (Pemahat Magang) | [`Shi_Guta.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Shi_Guta.md?v=1) |
 | **Seraph** | Kota Luoyang Kecil, Tianzhou | Qi Refining, Puncak | Perguruan Luohua (Murid Senior) | [`Seraph.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Seraph.md?v=1) |
-| **Suy** | Tepi Sungai Desa Qingshui, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Suy.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Suy.md?v=1) |
+| **Suy** | Tepi Sungai Desa Lingquan, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Suy.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Suy.md?v=1) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
