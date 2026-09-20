@@ -58,54 +58,54 @@
 **Tianzhou**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Sekte Tianjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/14_HEAVENLY_SWORD_PAVILION.md |
-| Sekte Xuanyuan | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/15_PROFOUND_HEAVEN_SECT.md |
-| Sekte Yunjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/16_SILVER_RAIN_SWORD_SCHOOL.md |
-| Perguruan Luohua | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/17_DOJO_BUNGA_APRIKOT.md |
-| Perguruan Tielu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/18_DOJO_GODAM_BESI.md |
+| Sekte Tianjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/14_SEKTE_TIANJIAN.md |
+| Sekte Xuanyuan | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/15_SEKTE_XUANYUAN.md |
+| Sekte Yunjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/16_SEKTE_YUNJIAN.md |
+| Perguruan Luohua | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/17_PERGURUAN_LUOHUA.md |
+| Perguruan Tielu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/18_PERGURUAN_TIELU.md |
 
 **Qingyun**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Biara Jinguang | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/19_GOLDEN_BELL_MONASTERY.md |
-| Perguruan Shilong | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/20_DOJO_PAHAT_NAGA.md |
+| Biara Jinguang | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/19_BIARA_JINGUANG.md |
+| Perguruan Shilong | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/20_PERGURUAN_SHILONG.md |
 
 **Moyuan**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Istana Yanmo | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/21_DEMONIC_FLAME_PALACE.md |
-| Sarang Jiuyin | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/22_NINE_SERPENT_DEN.md |
-| Kultus Qisha | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/23_SEVEN_SINS_CULT.md |
-| Aliansi Anying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/24_BLOOD_SHADOW_ALLIANCE.md |
-| Perguruan Heiying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/25_DOJO_BAYANGAN_KELAM.md |
+| Istana Yanmo | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/21_ISTANA_YANMO.md |
+| Sarang Jiuyin | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/22_SARANG_JIUYIN.md |
+| Kultus Qisha | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/23_KULTUS_QISHA.md |
+| Aliansi Anying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/24_ALIANSI_ANYING.md |
+| Perguruan Heiying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/25_PERGURUAN_HEIYING.md |
 
 **Haiyuan**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Istana Qinglian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/26_JADE_PURITY_PALACE.md |
-| Perguruan Haizhen | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/27_DOJO_OMBAK_TENANG.md |
+| Istana Qinglian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/26_ISTANA_QINGLIAN.md |
+| Perguruan Haizhen | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/27_PERGURUAN_HAIZHEN.md |
 
 **Beiyuan**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Balai Yunyao | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/28_WHITECLOUD_MEDICINE_HALL.md |
-| Sekte Hunming | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/29_GHOST_VALLEY_SECT.md |
-| Perguruan Langxue | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/30_DOJO_CAKAR_SERIGALA.md |
+| Balai Yunyao | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/28_BALAI_YUNYAO.md |
+| Sekte Hunming | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/29_SEKTE_HUNMING.md |
+| Perguruan Langxue | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/30_PERGURUAN_LANGXUE.md |
 
 **Xisha**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Kuil Ciyun | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/31_AZURE_CLOUD_TEMPLE.md |
-| Perguruan Shaying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/32_DOJO_MATA_ELANG_PASIR.md |
+| Kuil Ciyun | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/31_KUIL_CIYUN.md |
+| Perguruan Shaying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/32_PERGURUAN_SHAYING.md |
 
 **Lintas Wilayah**
 | Organisasi | Link RAW (langsung klik/fetch) |
 |---|---|
-| Perkumpulan Wuying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/33_PERKUMPULAN_PISAU_SUNYI.md |
-| Kelompok Yandu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/34_KELOMPOK_RACUN_BAYANGAN.md |
-| Paviliun Wanxin (info broker) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/35_SERAMBI_SERIBU_BISIK.md |
-| Rumah Gadai Hanbi (bank tak resmi) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/36_RUMAH_GADAI_GIOK_SEJUK.md |
-| Perhimpunan Youyi | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/37_PERHIMPUNAN_TABIB_PENGEMBARA.md |
+| Perkumpulan Wuying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/33_PERKUMPULAN_WUYING.md |
+| Kelompok Yandu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/34_KELOMPOK_YANDU.md |
+| Paviliun Wanxin (info broker) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/35_PAVILIUN_WANXIN.md |
+| Rumah Gadai Hanbi (bank tak resmi) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/36_RUMAH_GADAI_HANBI.md |
+| Perhimpunan Youyi | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/37_PERHIMPUNAN_YOUYI.md |
 
 ---
 
