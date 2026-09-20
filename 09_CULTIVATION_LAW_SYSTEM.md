@@ -1,4 +1,4 @@
-# 📜 Wuxian World — Sistem Hukum Kultivasi (Cultivation Laws System)
+# 📜 Lingyuan World — Sistem Hukum Kultivasi (Cultivation Laws System)
 
 > **Modul:** 09 — Cultivation Law System
 > **Untuk:** Roleplay AI Game Master "Jianghu: Legend of the Wuxia"
@@ -79,26 +79,26 @@ Ini fondasi anti-cheat paling penting: **tidak ada Hukum yang aktif tanpa asal-u
 - Sumber daya: **True Qi (Zhen Qi)**, disimpan di Dantian & disalurkan lewat meridian.
 - Mekanik unik: setiap sub-tier menempa 1 bagian tubuh (kulit → otot → tulang → sumsum → organ → darah → jiwa raga). Body Tempering yang gagal menyebabkan **Qi Deviation** (cedera permanen −10% cap sampai disembuhkan).
 - Kelemahan wajib: pertumbuhan qi 20% lebih lambat dari Hukum Dao Abadi, sebagai kompensasi durabilitas fisik yang superior.
-- Sekte pengguna: Golden Bell Monastery, Silver Rain Sword School (hybrid).
+- Sekte pengguna: Biara Jinguang, Sekte Yunjian (hybrid).
 
 ### B. 🔥 Hukum Qi Naga Api — *Battle Qi (Dou Qi), atribut Api*
 - Sumber daya: **Dou Qi** dibakar dari inti api dalam tubuh (Fire Core).
 - Mekanik unik: bisa menyerap "Api Langit/Bumi" (Heaven & Earth Fire) untuk lompatan qi instan — TAPI penyerapan Api tier tinggi tanpa realm yang cukup memicu **Backlash Damage** = 15% dari QiCap realm saat ini.
 - Kelemahan wajib: rentan terhadap elemen Air/Es (−25% efektivitas serangan).
-- Sekte pengguna: Demonic Flame Palace.
+- Sekte pengguna: Istana Yanmo.
 
 ### C. 🌌 Hukum Dao Abadi — *Standard Immortal Qi Cultivation*
 - Sumber daya: **Spiritual Qi** murni dari Heaven & Earth, dikumpulkan lewat meditasi/formasi.
 - Mekanik unik: bisa membentuk **Dao Insight** — comprehension pasif yang mempercepat breakthrough bila player benar-benar merenungkan "Dao" tertentu dalam roleplay (jalan pedang, jalan api, jalan alam, dll).
 - Kelemahan wajib: butuh lingkungan kaya qi (spirit vein) — di zona miskin qi, regenerasi qi −50%.
-- Sekte pengguna: Heavenly Sword Pavilion (varian Pedang), Profound Heaven Sect (standar), Jade Purity Palace (varian Air/Laut), Azure Cloud Temple (varian Welas Asih/Buddhis), Silver Rain Sword School (hybrid).
+- Sekte pengguna: Sekte Tianjian (varian Pedang), Sekte Xuanyuan (standar), Istana Qinglian (varian Air/Laut), Kuil Ciyun (varian Welas Asih/Buddhis), Sekte Yunjian (hybrid).
 
 ### D. 🐛 Hukum Gu Karma — *Gu Immortal Path (gaya Fang Yuan)*
 - Sumber daya: **Gu** (makhluk/energi hidup hasil biakan) + **Dao Marks** (jejak jalan yang terbentuk dari pengalaman/pembunuhan/pencerahan).
 - Mekanik unik: kekuatan tidak murni dari qi tapi dari jumlah & kualitas Gu yang dikuasai. Setiap Gu premium yang dipakai berisiko memberi efek samping permanen (racun, mutasi, ketergantungan) — sumber "Karma Buruk" alami jalur ini.
 - Kelemahan wajib: jalur ini secara default menaikkan **Sin Points** (§6) lebih cepat, sehingga Tribulasi jalur ini biasanya lebih berat.
 - Qi cap Gu dihitung dengan mengonversi total "Gu Value" ke satuan Qi standar (1 Gu Value = 1 poin Qi), tetap tunduk pada `QiCap(realm, stage)`.
-- Sekte pengguna: Nine Serpent Den (varian Racun), Seven Sins Cult (varian instan, Sin tinggi).
+- Sekte pengguna: Sarang Jiuyin (varian Racun), Kultus Qisha (varian instan, Sin tinggi).
 
 ### E. 🛠️ Hukum Custom (Buatan Player — Divalidasi Ketat AI)
 Player boleh mengajukan Hukum sendiri, TAPI pengajuan itu sendiri **tidak berarti apa-apa sampai ada Asal-Usul Hukum yang sah (§3.0)**. Urutan wajib:
@@ -111,8 +111,8 @@ Player boleh mengajukan Hukum sendiri, TAPI pengajuan itu sendiri **tidak berart
 6. Hukum Custom dicatat di **Law Origin Log** karakter sebelum bisa dipakai untuk breakthrough apapun — tidak ada pengecualian, bahkan untuk breakthrough Realm 1→2 sekalipun.
 
 **Custom Law yang sudah diformalkan dalam dunia ini** (§8.3):
-- **Hukum Bayangan Darah** (Blood Shadow Alliance)
-- **Hukum Roh Hantu** (Ghost Valley Sect)
+- **Hukum Bayangan Darah** (Aliansi Anying)
+- **Hukum Roh Hantu** (Sekte Hunming)
 
 ---
 
@@ -211,45 +211,45 @@ Memengaruhi regenerasi qi Hukum Dao Abadi (§3.C) dan ketersediaan bahan terobos
 
 | Wilayah | Qi Density Modifier | Catatan |
 |---|---|---|
-| Central Plains | ×1,0 (Normal) | Padat penduduk, qi stabil tapi tak istimewa — cocok untuk semua Hukum tanpa penalti/bonus |
-| Azure Mountain Range | ×1,5 (Kaya) | Spirit vein alami di puncak gunung → lokasi favorit Golden Bell Monastery, cocok untuk Hukum Raga Sejati |
-| Southern Demon Domain | ×1,2 (Kaya tapi Impure/Chaotic) | Qi "kotor"/liar — bonus regen untuk Hukum Gu Karma & Hukum Qi Naga Api, tapi −20% efisiensi untuk Hukum Dao Abadi murni |
-| Eastern Sea Region | ×1,1 (Sedang, atribut Air) | Cocok untuk varian Dao Abadi beratribut Air; Hukum Qi Naga Api kena −25% efektivitas |
-| Northern Desolate Territory | ×0,6 (Miskin, dingin) | Regen qi lambat untuk semua Hukum; ideal untuk kultivator es/roh. Hukum Dao Abadi kena penalti dasar −50% **ditambah** −0,6 modifier ini (stacking, sangat berat) |
-| Western Sacred Deserts | ×0,4 (Termiskin) | Qi paling langka di dunia. Hanya kultivator Realm 4 (Core Formation) ke atas yang disarankan menyeberang. Azure Cloud Temple bertahan lewat Dao Insight welas asih, bukan kelimpahan qi |
+| Tianzhou | ×1,0 (Normal) | Padat penduduk, qi stabil tapi tak istimewa — cocok untuk semua Hukum tanpa penalti/bonus |
+| Qingyun | ×1,5 (Kaya) | Spirit vein alami di puncak gunung → lokasi favorit Biara Jinguang, cocok untuk Hukum Raga Sejati |
+| Moyuan | ×1,2 (Kaya tapi Impure/Chaotic) | Qi "kotor"/liar — bonus regen untuk Hukum Gu Karma & Hukum Qi Naga Api, tapi −20% efisiensi untuk Hukum Dao Abadi murni |
+| Haiyuan | ×1,1 (Sedang, atribut Air) | Cocok untuk varian Dao Abadi beratribut Air; Hukum Qi Naga Api kena −25% efektivitas |
+| Beiyuan | ×0,6 (Miskin, dingin) | Regen qi lambat untuk semua Hukum; ideal untuk kultivator es/roh. Hukum Dao Abadi kena penalti dasar −50% **ditambah** −0,6 modifier ini (stacking, sangat berat) |
+| Xisha | ×0,4 (Termiskin) | Qi paling langka di dunia. Hanya kultivator Realm 4 (Core Formation) ke atas yang disarankan menyeberang. Kuil Ciyun bertahan lewat Dao Insight welas asih, bukan kelimpahan qi |
 
 ### 8.2 Pemetaan Sekte → Hukum Kultivasi Utama
 
 | Sekte/Faksi | Wilayah | Hukum Utama | Alasan |
 |---|---|---|---|
-| Heavenly Sword Pavilion | Central Plains | Hukum Dao Abadi (varian Pedang) | Disiplin kaku & "kemurnian jalan" cocok filosofi Dao Insight |
-| Profound Heaven Sect | Central Plains | Hukum Dao Abadi (standar) | Sekte ortodoks besar, sumber daya qi terbanyak lewat kekayaan/kekuasaan |
-| Silver Rain Sword School | Central Plains | Hukum Raga Sejati + Dao Abadi (hybrid) | Sekte menengah, lebih fleksibel, cocok murid yang gabung 2 jalur dasar |
-| Golden Bell Monastery | Azure Mountain Range | Hukum Raga Sejati | Nama "Golden Bell" = klasik body-tempering; tertutup & jarang campur urusan luar cocok progres lambat tapi kokoh |
-| Demonic Flame Palace | Southern Demon Domain | Hukum Qi Naga Api | Nama "Api Abadi" & basis di Hellfire Island cocok mutlak dengan Fire Core/Battle Qi |
-| Nine Serpent Den | Southern Demon Domain | Hukum Gu Karma (varian Racun) | Ahli racun tertutup — Gu beracun/parasit representasi alami jalur ini |
-| Seven Sins Cult | Southern Demon Domain | Hukum Gu Karma (varian instan, Sin tinggi) | "Janji kekuatan instan" = trope klasik Gu shortcut berbahaya, Sin Points naik sangat cepat |
-| Blood Shadow Alliance | Southern Demon Domain (tersebar) | Custom Law: **Hukum Bayangan Darah** | Tanpa struktur tetap → Custom Law fleksibel, kelemahan wajib: qi tidak stabil bila jauh dari target kontrak (§8.3) |
-| Jade Purity Palace | Eastern Sea Region | Hukum Dao Abadi (varian Air/Laut) | Penjaga jalur laut ortodoks, selaras qi Air alami wilayah |
-| Whitecloud Medicine Hall | Northern Desolate Territory | *Bukan Hukum tempur* — Jalur Alkimia/Support | Netral, fokus pengobatan; tidak butuh Qi Cap tempur, tapi tetap tunduk cap qi standar bila anggotanya bertarung |
-| Ghost Valley Sect | Northern Desolate Territory | Custom Law: **Hukum Roh Hantu** | Ilmu roh ekstrem → butuh Custom Law baru (§8.3), Sin Points naik otomatis |
-| Azure Cloud Temple | Western Sacred Deserts | Hukum Dao Abadi (varian Welas Asih/Buddhis) | Qi miskin di wilayah ini dikompensasi lewat Dao Insight welas asih |
-| 🆕 Perkumpulan Pisau Sunyi | Lintas Wilayah | Custom Law: **Hukum Pisau Sunyi** | Organisasi pembunuh bayaran paling terstruktur di dunia, kode "satu kontrak satu nyawa" butuh mekanik disiplin tersendiri (§8.3) |
-| 🆕 Kelompok Racun Bayangan | Lintas Wilayah (kota besar) | Hukum Gu Karma (varian Racun) | Spesialis racun kontrak — selaras Nine Serpent Den, skala jauh lebih kecil & fokus urban |
+| Sekte Tianjian | Tianzhou | Hukum Dao Abadi (varian Pedang) | Disiplin kaku & "kemurnian jalan" cocok filosofi Dao Insight |
+| Sekte Xuanyuan | Tianzhou | Hukum Dao Abadi (standar) | Sekte ortodoks besar, sumber daya qi terbanyak lewat kekayaan/kekuasaan |
+| Sekte Yunjian | Tianzhou | Hukum Raga Sejati + Dao Abadi (hybrid) | Sekte menengah, lebih fleksibel, cocok murid yang gabung 2 jalur dasar |
+| Biara Jinguang | Qingyun | Hukum Raga Sejati | Nama "Golden Bell" = klasik body-tempering; tertutup & jarang campur urusan luar cocok progres lambat tapi kokoh |
+| Istana Yanmo | Moyuan | Hukum Qi Naga Api | Nama "Api Abadi" & basis di Hellfire Island cocok mutlak dengan Fire Core/Battle Qi |
+| Sarang Jiuyin | Moyuan | Hukum Gu Karma (varian Racun) | Ahli racun tertutup — Gu beracun/parasit representasi alami jalur ini |
+| Kultus Qisha | Moyuan | Hukum Gu Karma (varian instan, Sin tinggi) | "Janji kekuatan instan" = trope klasik Gu shortcut berbahaya, Sin Points naik sangat cepat |
+| Aliansi Anying | Moyuan (tersebar) | Custom Law: **Hukum Bayangan Darah** | Tanpa struktur tetap → Custom Law fleksibel, kelemahan wajib: qi tidak stabil bila jauh dari target kontrak (§8.3) |
+| Istana Qinglian | Haiyuan | Hukum Dao Abadi (varian Air/Laut) | Penjaga jalur laut ortodoks, selaras qi Air alami wilayah |
+| Balai Yunyao | Beiyuan | *Bukan Hukum tempur* — Jalur Alkimia/Support | Netral, fokus pengobatan; tidak butuh Qi Cap tempur, tapi tetap tunduk cap qi standar bila anggotanya bertarung |
+| Sekte Hunming | Beiyuan | Custom Law: **Hukum Roh Hantu** | Ilmu roh ekstrem → butuh Custom Law baru (§8.3), Sin Points naik otomatis |
+| Kuil Ciyun | Xisha | Hukum Dao Abadi (varian Welas Asih/Buddhis) | Qi miskin di wilayah ini dikompensasi lewat Dao Insight welas asih |
+| 🆕 Perkumpulan Wuying | Lintas Wilayah | Custom Law: **Hukum Pisau Sunyi** | Organisasi pembunuh bayaran paling terstruktur di dunia, kode "satu kontrak satu nyawa" butuh mekanik disiplin tersendiri (§8.3) |
+| 🆕 Kelompok Yandu | Lintas Wilayah (kota besar) | Hukum Gu Karma (varian Racun) | Spesialis racun kontrak — selaras Sarang Jiuyin, skala jauh lebih kecil & fokus urban |
 
 ### 8.3 Custom Law Baru (Diformalkan sesuai Faksi, tetap tunduk §3.E)
 
-**Hukum Bayangan Darah** (Blood Shadow Alliance)
+**Hukum Bayangan Darah** (Aliansi Anying)
 - Sumber daya: Qi standar, tapi efektivitas naik/turun tergantung "Kontrak Aktif" (target pembunuhan/misi).
 - Kelemahan wajib: tanpa kontrak aktif, QiCap efektif turun 15% (representasi "tanpa ideologi tetap, kekuatan kurang stabil").
 - Tetap tunduk `QiCap(realm, stage)` standar — hanya efisiensi yang berubah, bukan batas maksimum.
 
-**Hukum Roh Hantu** (Ghost Valley Sect)
+**Hukum Roh Hantu** (Sekte Hunming)
 - Sumber daya: Qi Roh (Soul Qi), dikonversi dari vitalitas/jiwa alih-alih qi lingkungan — cocok wilayah miskin qi (Northern Territory, ×0,6).
 - Mekanik unik: bisa "meminjam" qi dari roh yang telah diikat (mirip Gu, tapi berbasis jiwa bukan makhluk hidup).
 - Kelemahan wajib: setiap penggunaan qi roh berlebih menambah Sin Points otomatis (+3–8 per pemakaian besar).
 
-**🆕 Hukum Pisau Sunyi** (Perkumpulan Pisau Sunyi — lihat detail lengkap di `33_PERKUMPULAN_PISAU_SUNYI.md`)
+**🆕 Hukum Pisau Sunyi** (Perkumpulan Wuying — lihat detail lengkap di `33_PERKUMPULAN_PISAU_SUNYI.md`)
 - Sumber daya: Qi standar, LawHPMultiplier ×0,8, LawAttackMultiplier ×1,25 (lihat `11_VITALITY_HUNGER_SYSTEM.md` §1.2 dan `12_COMBAT_SYSTEM.md` §3.1).
 - Mekanik unik: +10% HitChance selama kontrak resmi (lewat Token Pisau) masih berjalan dan belum diselesaikan/dibatalkan — representasi fokus ekstrem eksekutor profesional.
 - Kelemahan wajib: melanggar kode "satu kontrak, satu nyawa, tanpa pengecualian" (membatalkan/menggagalkan kontrak di tengah jalan) memicu +20 Sin Points instan (terpisah dari Sin Points normal akibat membunuh, §6) DAN −10% QiCap efektif selama 7 hari in-game. Anggota yang belum pernah menerima kontrak resmi tidak mendapat bonus HitChance apa pun.
@@ -258,20 +258,20 @@ Memengaruhi regenerasi qi Hukum Dao Abadi (§3.C) dan ketersediaan bahan terobos
 
 | Event | Lokasi yang Ditetapkan | Alasan |
 |---|---|---|
-| Trial Kehampaan (Realm 6→7) | Reruntuhan Gushatta, Western Sacred Deserts | Reruntuhan kota kuno = tempat alami untuk trial kuno/formasi purba |
-| Tribulasi Petir Realm 7→8 | Platform Tribulasi milik masing-masing sekte besar (mis. puncak Heavenly Sword Pavilion, Hellfire Island, dsb) | Butuh langit terbuka bebas formasi pelindung — tiap sekte besar punya "Tribulation Platform" sendiri |
-| Tribulasi Petir Agung (Realm 8→9) | **Hanya boleh terjadi di Scar of Heaven** (perbatasan Central Plains–Southern Demon Domain) | "Retakan langit" satu-satunya di dunia yang memungkinkan Tribulasi Agung — event sangat langka & terikat lokasi (anti-cheat: tidak bisa breakthrough Realm 9 sembarangan tempat) |
+| Trial Kehampaan (Realm 6→7) | Reruntuhan Gushatta, Xisha | Reruntuhan kota kuno = tempat alami untuk trial kuno/formasi purba |
+| Tribulasi Petir Realm 7→8 | Platform Tribulasi milik masing-masing sekte besar (mis. puncak Sekte Tianjian, Hellfire Island, dsb) | Butuh langit terbuka bebas formasi pelindung — tiap sekte besar punya "Tribulation Platform" sendiri |
+| Tribulasi Petir Agung (Realm 8→9) | **Hanya boleh terjadi di Scar of Heaven** (perbatasan Tianzhou–Moyuan) | "Retakan langit" satu-satunya di dunia yang memungkinkan Tribulasi Agung — event sangat langka & terikat lokasi (anti-cheat: tidak bisa breakthrough Realm 9 sembarangan tempat) |
 
 ### 8.5 Sumber Bahan Terobosan per Wilayah (mengikat §4 ke peta)
 
 | Material/Insight | Sumber di World Document |
 |---|---|
-| Bahan Tier Api (Hukum Naga Api) | Hellfire Island (Southern Demon Domain) |
-| Bahan Tier Racun/Gu (Hukum Gu Karma) | Desa Duchong & Thousand Poison Marsh (Southern Demon Domain) |
-| Bahan Tier Es/Roh (Hukum Roh Hantu) | Desa Bingxin & Ghost Valley (Northern Desolate Territory) |
-| Bahan Tier Air/Mutiara Spiritual (Dao Abadi varian Laut) | Desa Zhenzhu & Kepulauan Perak Kecil (Eastern Sea Region) |
-| Pil & Alkimia umum (semua Hukum) | Whitecloud Medicine Hall (Northern Territory) |
-| Artefak/Insight Point langka | Reruntuhan Gushatta & Menara Bintang Jatuh (Western Sacred Deserts) |
+| Bahan Tier Api (Hukum Naga Api) | Hellfire Island (Moyuan) |
+| Bahan Tier Racun/Gu (Hukum Gu Karma) | Desa Duchong & Thousand Poison Marsh (Moyuan) |
+| Bahan Tier Es/Roh (Hukum Roh Hantu) | Desa Bingxin & Ghost Valley (Beiyuan) |
+| Bahan Tier Air/Mutiara Spiritual (Dao Abadi varian Laut) | Desa Zhenzhu & Kepulauan Perak Kecil (Haiyuan) |
+| Pil & Alkimia umum (semua Hukum) | Balai Yunyao (Northern Territory) |
+| Artefak/Insight Point langka | Reruntuhan Gushatta & Menara Bintang Jatuh (Xisha) |
 
 📌 **Anti-cheat tambahan:** breakthrough yang mengklaim bahan dari wilayah tertentu HARUS konsisten dengan jarak tempuh & waktu perjalanan karakter (`01_WORLD_OVERVIEW_AND_CAPITAL.md`) — tidak bisa "instan" dapat bahan dari Hellfire Island kalau posisi karakter sedang di Northern Territory tanpa waktu tempuh yang logis.
 
