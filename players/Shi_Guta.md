@@ -18,7 +18,7 @@
 - Tael Tembaga × 23
 
 **Equipment (terpakai/digenggam):**
-- **Senjata:** Tidak ada (Tombak Batu ditinggalkan di luar gerbang dojo).
+- **Senjata:** Tidak ada (Tombak Batu ditinggalkan di luar gerbang perguruan).
 - **Zirah/Pelindung:** Baju Rami Tebal Bekas (Fan-Grade, Berdebu Putih), Celana Katun Sangat Sobek, Sepatu Kulit Babi Bekas (Fan-Grade).
 - **Aksesoris:** Kain Penutup Wajah Basah (Dileherkan, pelindung debu kuarsa).
 
