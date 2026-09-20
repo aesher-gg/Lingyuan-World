@@ -3,8 +3,8 @@
 > **Modul:** 16 — Sect Detail: Sekte Yunjian
 > **Wilayah:** Tianzhou, 400 li dari Tianjing | **Tipe:** Ortodoks menengah, terbuka | **Hukum Utama:** Raga Sejati + Dao Abadi (hybrid)
 > **Estimasi Total Anggota:** ± 500 orang
-> **Rujukan silang:** `02_CENTRAL_PLAINS.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.A, §3.C & §3.E, §8.2, `18_DOJO_GODAM_BESI.md` (asal Xiao Tie)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `02_TIANZHOU.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.A, §3.C & §3.E, §8.2, `18_DOJO_GODAM_BESI.md` (asal Xiao Tie)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -23,7 +23,7 @@ Sekte menengah yang jauh lebih santai dan terbuka dibanding Sekte Tianjian atau 
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Ketua Muda Yin Shuang | Ketua Sekte | Nascent Soul Awal — detail lengkap di `02_CENTRAL_PLAINS.md` |
+| Ketua Muda Yin Shuang | Ketua Sekte | Nascent Soul Awal — detail lengkap di `02_TIANZHOU.md` |
 | Murid Pindahan Xiao Tie | Murid Menengah, mantan Perguruan Tielu | Qi Refining Menengah |
 | 🆕 Tetua Pembimbing Rong Ye | Tetua Pembimbing tertua di sekte, mengurus penerimaan murid pindahan | Soul Transformation Awal, 77 tahun. Sangat ramah pada murid baru, dikenal sebagai sosok yang "menemukan" banyak bakat dari dojo kecil termasuk Xiao Tie. |
 
