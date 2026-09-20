@@ -1,4 +1,4 @@
-# 🏯 Wuxian World — World Bible (Edisi Markdown Modular)
+# 🏯 Lingyuan World — World Bible (Edisi Markdown Modular)
 
 **Versi:** 2.0 (Reorganisasi dari `JIANGHU.docx` versi 1.0)
 **Genre:** Xianxia · Wuxia · Kultivasi · Hardcore Realism
@@ -20,10 +20,10 @@ Repo ini diorganisasikan secara modular ke dalam file `.md` yang saling terhubun
 | — | [`README.md`](./README.md) | Peta navigasi & dokumentasi ini | Referensi manusia (tidak perlu ditautkan ke AI) |
 | 00 | [`00_CORE_RULES_AI_GM.md`](./00_CORE_RULES_AI_GM.md) | Aturan mutlak AI GM, anti-cheat, format respon wajib, cheat-sheet formula inti | ✅ **WAJIB tiap sesi** (difetch otomatis lewat `INDEX.md`) |
 | 01 | [`01_WORLD_OVERVIEW_AND_CAPITAL.md`](./01_WORLD_OVERVIEW_AND_CAPITAL.md) | Peta jarak dunia, Ibu Kota Tianjing & Kekaisaran | Situasional (konteks besar / karakter di ibu kota) |
-| 02 | [`02_CENTRAL_PLAINS.md`](./02_CENTRAL_PLAINS.md) | Dataran Tengah: kota, desa, sekte, bandit, NPC | Saat karakter di Central Plains |
-| 03 | [`03_AZURE_MOUNTAIN_RANGE.md`](./03_AZURE_MOUNTAIN_RANGE.md) | Pegunungan Azure | Saat karakter di Azure Mountain Range |
-| 04 | [`04_SOUTHERN_DEMON_DOMAIN.md`](./04_SOUTHERN_DEMON_DOMAIN.md) | Daerah Iblis Selatan | Saat karakter di Southern Demon Domain |
-| 05 | [`05_EASTERN_SEA_REGION.md`](./05_EASTERN_SEA_REGION.md) | Wilayah Laut Timur | Saat karakter di Eastern Sea Region |
+| 02 | [`02_CENTRAL_PLAINS.md`](./02_CENTRAL_PLAINS.md) | Dataran Tengah: kota, desa, sekte, bandit, NPC | Saat karakter di Tianzhou |
+| 03 | [`03_AZURE_MOUNTAIN_RANGE.md`](./03_AZURE_MOUNTAIN_RANGE.md) | Pegunungan Azure | Saat karakter di Qingyun |
+| 04 | [`04_SOUTHERN_DEMON_DOMAIN.md`](./04_SOUTHERN_DEMON_DOMAIN.md) | Daerah Iblis Selatan | Saat karakter di Moyuan |
+| 05 | [`05_EASTERN_SEA_REGION.md`](./05_EASTERN_SEA_REGION.md) | Wilayah Laut Timur | Saat karakter di Haiyuan |
 | 06 | [`06_NORTHERN_DESOLATE_TERRITORY.md`](./06_NORTHERN_DESOLATE_TERRITORY.md) | Wilayah Utara Gersang | Saat karakter di Northern Territory |
 | 07 | [`07_WESTERN_SACRED_DESERTS.md`](./07_WESTERN_SACRED_DESERTS.md) | Gurun Suci Barat | Saat karakter di Western Deserts |
 | 08 | [`08_CROSS_REGION_ORGANIZATIONS.md`](./08_CROSS_REGION_ORGANIZATIONS.md) | Info broker, pegadaian, perhimpunan tabib, pembunuh bayaran, sanxiu, kriminal mortal | Saat berurusan dengan organisasi lintas wilayah / buronan |
@@ -62,7 +62,7 @@ analisis link berikut ini secara penuh dan pelajari dengan seksama untuk memulai
 
 ### B. Karakter Custom Baru (Belum Terdaftar di `players.md`)
 ```
-Kamu akan jadi AI Game Master untuk roleplay Wuxian World. Baca dan ikuti seluruh isi link berikut sebagai satu-satunya sumber kebenaran:
+Kamu akan jadi AI Game Master untuk roleplay Lingyuan World. Baca dan ikuti seluruh isi link berikut sebagai satu-satunya sumber kebenaran:
 
 https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/INDEX.md
 
@@ -109,7 +109,7 @@ Kalau AI yang kamu pakai tidak punya kemampuan membuka link sendiri, kamu masih 
 ## 🌏 Dunia dalam Angka
 
 - **Luas total:** ± 48 juta li² · **Populasi:** ± 280 juta jiwa · **Kekayaan total:** ± 3,2 miliar Tael Perak
-- **7 wilayah besar:** Central Plains, Azure Mountain Range, Southern Demon Domain, Eastern Sea Region, Northern Desolate Territory, Western Sacred Deserts, plus organisasi lintas wilayah
+- **7 wilayah besar:** Tianzhou, Qingyun, Moyuan, Haiyuan, Beiyuan, Xisha, plus organisasi lintas wilayah
 - **9 Major Realm × 3 Stage** kultivasi, **5 Hukum kultivasi** berbeda
 
 ---
