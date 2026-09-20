@@ -1,4 +1,4 @@
-# ⚔️ Wuxian World — Teknik & Jurus Kustom (Custom Techniques)
+# ⚔️ Lingyuan World — Teknik & Jurus Kustom (Custom Techniques)
 
 > **Modul:** 42 — Custom Techniques
 > **Fungsi:** Tempat Admin mencatat teknik/jurus buatan pemain atau tambahan Admin yang sudah disetujui.
