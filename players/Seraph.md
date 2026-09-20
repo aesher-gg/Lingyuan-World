@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Seraph
-**Lokasi:** Tianzhou (Kota Luoyang Kecil - Pemandian & Kedai Bunga Teratai)
+**Lokasi:** Tianzhou (Kota Haoyang - Pemandian & Kedai Bunga Teratai)
 **Realm & Stage:** Qi Refining (Pemurnian Qi), Tahap 1 / Puncak (Late Stage) — Qi Cap: 200
 **Hukum Kultivasi:** Hukum Dao Abadi (Modifikasi Jalur Bumi/Gravitasi)
 **Law Origin:** Jalur Pencerahan Pribadi & Alkimia — Memodifikasi *Napas Akar Pohon Tua* menjadi *Napas Akar Dangkal*, secara paksa memadatkan Qi Bumi dan Yin menjadi *Singularitas Dantian* (Massa & Gravitasi Ekstrem) alih-alih sekadar mengisi wadah cair standar.
