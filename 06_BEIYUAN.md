@@ -67,7 +67,7 @@ Desa tabib herbal es langka, damai tapi terisolasi salju.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Pemilik Kedai Arak Bulan Beku | Satu-satunya tempat hangat berkumpul, Kota Kota Yuehan | 57 | Non-Kultivator | — | Tidak bertarung | Hangat pada pelanggan tetap, dingin dan curiga pada wajah baru yang belum dikenal |
+| Pemilik Kedai Arak Bulan Beku | Satu-satunya tempat hangat berkumpul, Kota Yuehan | 57 | Non-Kultivator | — | Tidak bertarung | Hangat pada pelanggan tetap, dingin dan curiga pada wajah baru yang belum dikenal |
 | Kepala Kota Mandiri Han Yue | Pemimpin kota terjauh utara | 58 | Core Formation, Menengah | **3.750** | *Pukulan Dingin Mandiri* — pukulan tangan kosong bertenaga dingin, jarang dipakai | Skeptis dan keras kepala, tegas memimpin lewat musyawarah, cepat curiga pada campur tangan luar |
 | Pengelana Tersesat Yi Ren | Orang misterius yang "muncul" di kota tanpa penjelasan | ??? | Soul Transformation, Awal (disembunyikan) | **62.500** | *Gerak Refleks Tanpa Nama* — gerakan bertarung tingkat tinggi yang muncul otomatis tanpa ia sadari | Bingung dan pendiam, tenang meski kehilangan ingatan, sesekali panik saat insting bertarungnya muncul tiba-tiba |
 
