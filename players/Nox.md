@@ -19,7 +19,7 @@
 
 **Equipment Awal (terpakai/digenggam):**
 - Senjata: Tidak ada *(Sabit Berkarat tersedia di inventory/asrama, belum diambil kembali pasca-hukuman)*
-- Zirah/Pelindung: Pakaian Latihan Longgar (Fan-Grade) — Standar dojo, bersih dan rapi
+- Zirah/Pelindung: Pakaian Latihan Longgar (Fan-Grade) — Standar perguruan, bersih dan rapi
 - Aksesoris: Tidak ada
 
 **Inventory Awal (dibawa, tidak terpakai):**
@@ -31,10 +31,10 @@
 
 **Teknik Awal:**
 - Teknik Pernapasan Surgawi (Self-Created/Validated by Ah Jian) — Integrasi Meditasi Bergerak + Pengumpulan Qi Otomatis + Refinemen Kualitas Aliran. Baseline aktif: 35%. Regulasi dinamis real-time.
-- Induksi Qi / Sensing (Dojo Basic) — Sensasi Dantian sebagai aliran latar belakang konstan
-- Visualisasi Meridian Aktif/Pasif (Dojo Basic) — Membuka sumbatan & mengonsolidasikan sensasi Qi
-- Kuda-Kuda Dasar (Dojo Basic) — Penanaman akar dan penyelarasan postur tanpa senjata
-- Pemeliharaan Kebun Sadar (Dojo Basic) — Latihan kesadaran dalam tindakan harian
+- Induksi Qi / Sensing (Perguruan Basic) — Sensasi Dantian sebagai aliran latar belakang konstan
+- Visualisasi Meridian Aktif/Pasif (Perguruan Basic) — Membuka sumbatan & mengonsolidasikan sensasi Qi
+- Kuda-Kuda Dasar (Perguruan Basic) — Penanaman akar dan penyelarasan postur tanpa senjata
+- Pemeliharaan Kebun Sadar (Perguruan Basic) — Latihan kesadaran dalam tindakan harian
 - Kontrol Api Mikro (Self-Taught via Ah Jian’s Guidance) — Presisi regulasi Qi melalui penyalaan api sadar
 
 **Latar Belakang & Kepribadian:**
