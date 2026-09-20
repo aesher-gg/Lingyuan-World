@@ -3,8 +3,8 @@
 > **Modul:** 28 — Sect Detail: Balai Yunyao
 > **Wilayah:** 500 li dari Benteng Beikuan, Beiyuan | **Tipe:** Netral, pengobatan & alkimia | **Hukum Utama:** Bukan Hukum tempur — Jalur Alkimia/Support
 > **Estimasi Total Anggota:** ± 400 orang
-> **Rujukan silang:** `06_NORTHERN_DESOLATE_TERRITORY.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2, `10_ECONOMY_SYSTEM.md` §4.1 (jasa pengobatan), `22_NINE_SERPENT_DEN.md` (relasi rumit racun-obat)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_NORTHERN_DESOLATE_TERRITORY.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `06_BEIYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2, `10_ECONOMY_SYSTEM.md` §4.1 (jasa pengobatan), `22_NINE_SERPENT_DEN.md` (relasi rumit racun-obat)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_BEIYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -22,7 +22,7 @@ Sekte pengobatan & alkimia paling dihormati di dunia — netral secara politik m
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Tabib Bai Yun | Kepala Tabib | Nascent Soul Puncak — detail lengkap di `06_NORTHERN_DESOLATE_TERRITORY.md` |
+| Kepala Tabib Bai Yun | Kepala Tabib | Nascent Soul Puncak — detail lengkap di `06_BEIYUAN.md` |
 | Murid Alkimia Muda Cao Yao | Murid peracik pil | Foundation Establishment Menengah |
 | Tabib Es Bing Xin | Cabang kecil di Desa Bingxin | Nascent Soul Awal (lihat `06`) |
 | 🆕 Tetua Alkimia Xue Fang | Tetua Alkimia, mengepalai riset resep baru | Soul Transformation Awal, 80 tahun. Menghabiskan puluhan tahun mendokumentasikan resep dari seluruh dunia — perpustakaan pribadinya konon paling lengkap di luar Perpustakaan Manual sekte pedang manapun. |
