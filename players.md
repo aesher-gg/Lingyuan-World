@@ -30,7 +30,7 @@
 | **Ghi** | Desa Lingquan, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ghi.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Ghi.md?v=1) |
 | **Tatsuya / Yin Zheng** | Sekte Tianjian (Tianzhou) | Qi Refining, Awal - Puncak | Sekte Tianjian (Murid Luar) | [`Tatsuya_Yin_Zheng.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Tatsuya_Yin_Zheng.md?v=1) |
 | **Wang Zixiin** | Desa Luoye, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Wang_Zixiin.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Wang_Zixiin.md?v=1) |
-| **Ying Luo** | Desa Kota Yinfeng, Qingyun | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ying_Luo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Ying_Luo.md?v=1) |
+| **Ying Luo** | Kota Yinfeng, Qingyun | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ying_Luo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Ying_Luo.md?v=1) |
 | **Yūmei** | Mirror Lake Inn, Beiyuan | Core Formation, Awal | Sanxiu / Pemilik Mirror Lake Inn | [`Yūmei.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Y%C5%ABmei.md?v=1) |
 | **Lu Qingxuan** | Desa Qingmu, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Lu_Qingxuan.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Lu_Qingxuan.md?v=1) |
 | **Paijo** | Desa Huolian, Tianzhou | Mortal Foundation, Awal | Perguruan Tielu (Murid Magang) | [`Paijo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Paijo.md?v=1) |
