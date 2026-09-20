@@ -3,8 +3,8 @@
 > **Modul:** 19 — Sect Detail: Biara Jinguang
 > **Wilayah:** Puncak Qingyun | **Tipe:** Ortodoks, biara pertapa | **Hukum Utama:** Raga Sejati
 > **Estimasi Total Anggota:** ± 180 biksu
-> **Rujukan silang:** `03_AZURE_MOUNTAIN_RANGE.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.A & §8.2, `14_HEAVENLY_SWORD_PAVILION.md` (sekte yang paling akrab)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `03_AZURE_MOUNTAIN_RANGE.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `03_QINGYUN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.A & §8.2, `14_HEAVENLY_SWORD_PAVILION.md` (sekte yang paling akrab)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `03_QINGYUN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -24,7 +24,7 @@ Biara pertapa tertutup yang nyaris tak pernah campur tangan urusan luar — repu
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Biara Jin Zhong | Kepala Biara | Soul Transformation Puncak — detail lengkap di `03_AZURE_MOUNTAIN_RANGE.md` |
+| Kepala Biara Jin Zhong | Kepala Biara | Soul Transformation Puncak — detail lengkap di `03_QINGYUN.md` |
 | Biksu Penjaga Gerbang De Ren | Biksu Penjaga | Nascent Soul Awal |
 | Murid Baru Kecil Dawa | Murid Baru, termuda biara | Mortal Foundation Puncak |
 | 🆕 Tetua Biara Heng Yun | Tetua Biara tertua kedua, mengawasi Ruang Penempaan Tubuh | Nascent Soul Puncak, 89 tahun. Nyaris seperti patung saat bermeditasi berhari-hari, dipercaya sudah menempa seluruh tujuh tahap tubuh sesuai `09` §3.A. |
