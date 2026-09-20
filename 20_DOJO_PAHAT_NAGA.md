@@ -1,7 +1,7 @@
-# 🐉 Wuxian World — Dojo: Dojo Pahat Naga
+# 🐉 Lingyuan World — Dojo: Perguruan Shilong
 
-> **Modul:** 20 — Sect Detail: Dojo Pahat Naga
-> **Wilayah:** Kampung Shiban, Azure Mountain Range | **Tipe:** Dojo pemahat kecil | **Hukum Utama:** Raga Sejati (varian pahat/pukulan, inferensi GM)
+> **Modul:** 20 — Sect Detail: Perguruan Shilong
+> **Wilayah:** Kampung Shiban, Qingyun | **Tipe:** Dojo pemahat kecil | **Hukum Utama:** Raga Sejati (varian pahat/pukulan, inferensi GM)
 > **Estimasi Total Anggota:** ± 20 orang
 > **Rujukan silang:** `03_AZURE_MOUNTAIN_RANGE.md`, `19_GOLDEN_BELL_MONASTERY.md` (tetangga wilayah), `10_ECONOMY_SYSTEM.md` (barang antik/formasi)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `03_AZURE_MOUNTAIN_RANGE.md`. Tambahan baru ditandai **🆕**.
@@ -26,7 +26,7 @@ Dipandang sebelah mata oleh sekte besar, tapi sering "beruntung" menemukan penin
 
 ## Fasilitas
 - Bengkel Pahat Batu Utama — tempat kerja harian, penuh serpihan batu gunung
-- Gudang Batu Mentah — material dari lereng Azure Mountain Range
+- Gudang Batu Mentah — material dari lereng Qingyun
 - 🆕 Ruang Penyimpanan Temuan — ruang kecil terkunci tempat menyimpan sisa formasi kuno yang ditemukan saat memahat, belum semuanya dipahami fungsinya
 
 ## Pusaka/Artefak
@@ -41,7 +41,7 @@ Dipandang sebelah mata oleh sekte besar, tapi sering "beruntung" menemukan penin
 | Kepala Dojo | *Pahat Penembus Batu* | Teknik Andalan | Pukulan tangan bertenaga fokus meniru gerak memahat — teknik Shi Long |
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Golden Bell Monastery** (`19_GOLDEN_BELL_MONASTERY.md`): tetangga wilayah, hubungan sopan jarak jauh — biara kadang membantu bila temuan formasi dojo ini ternyata berbahaya.
+- **Biara Jinguang** (`19_GOLDEN_BELL_MONASTERY.md`): tetangga wilayah, hubungan sopan jarak jauh — biara kadang membantu bila temuan formasi dojo ini ternyata berbahaya.
 - **Sekte besar mana pun (lintas wilayah)**: hubungan "goodwill diam-diam" — banyak sekte besar menjaga hubungan baik informal dengan dojo ini demi akses informasi soal temuan formasi kuno berikutnya, tanpa pernah menyatakan ini terbuka.
 
 ## 🆕 Rahasia & Plot Hook Internal
