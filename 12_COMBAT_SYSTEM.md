@@ -76,7 +76,7 @@ AttackPower(realm, stage, law) = QiCap(realm, stage) × 0,15 × LawAttackMultipl
 | Hukum Gu Karma | ×1,4 | ×0,7 (paling ofensif, paling rapuh) |
 | Hukum Bayangan Darah | ×1,2 (×1,35 saat Kontrak Aktif) | ×0,85 (×1,0 saat Kontrak Aktif) |
 | Hukum Roh Hantu | ×1,1 | ×0,75 |
-| 🆕 Hukum Pisau Sunyi | ×1,25 (+10% HitChance saat kontrak resmi aktif, lihat `33_PERKUMPULAN_PISAU_SUNYI.md`) | ×0,8 |
+| 🆕 Hukum Pisau Sunyi | ×1,25 (+10% HitChance saat kontrak resmi aktif, lihat `33_PERKUMPULAN_WUYING.md`) | ×0,8 |
 
 ### 3.2 Resolusi Damage
 
