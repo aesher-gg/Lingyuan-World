@@ -32,12 +32,12 @@
 | 00 | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/00_CORE_RULES_AI_GM.md | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
 | 👤 | `players.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players.md | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
 | 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak dunia & Ibu Kota Tianjing |
-| 02 | `02_CENTRAL_PLAINS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/02_CENTRAL_PLAINS.md | Tianzhou: kota, desa, sekte, NPC |
-| 03 | `03_AZURE_MOUNTAIN_RANGE.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/03_AZURE_MOUNTAIN_RANGE.md | Qingyun |
-| 04 | `04_SOUTHERN_DEMON_DOMAIN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/04_SOUTHERN_DEMON_DOMAIN.md | Moyuan |
-| 05 | `05_EASTERN_SEA_REGION.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/05_EASTERN_SEA_REGION.md | Haiyuan |
-| 06 | `06_NORTHERN_DESOLATE_TERRITORY.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/06_NORTHERN_DESOLATE_TERRITORY.md | Beiyuan |
-| 07 | `07_WESTERN_SACRED_DESERTS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/07_WESTERN_SACRED_DESERTS.md | Xisha |
+| 02 | `02_TIANZHOU.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/02_TIANZHOU.md | Tianzhou: kota, desa, sekte, NPC |
+| 03 | `03_QINGYUN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/03_QINGYUN.md | Qingyun |
+| 04 | `04_MOYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/04_MOYUAN.md | Moyuan |
+| 05 | `05_HAIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/05_HAIYUAN.md | Haiyuan |
+| 06 | `06_BEIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/06_BEIYUAN.md | Beiyuan |
+| 07 | `07_XISHA.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/07_XISHA.md | Xisha |
 | 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/08_CROSS_REGION_ORGANIZATIONS.md | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
 | 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/09_CULTIVATION_LAW_SYSTEM.md | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
 | 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/10_ECONOMY_SYSTEM.md | Mata uang, tier/grade barang, harga jasa & aset |
@@ -118,12 +118,12 @@
 | Karakter terdaftar di `players.md`, baru pertama kali dimainkan OR pemain menanyakan informasi karakter/player lain | `players.md` dan/atau `players/<Nama_Karakter>.md` | Muat/fetch data karakter dari link RAW individual sebagai titik mulai atau referensi informasi pemain/karakter lain |
 | Melanjutkan karakter yang sudah pernah dimainkan | — | Pakai blok "Profil Karakter" terakhir yang ditempel/ada di riwayat chat — **jangan** fetch `players.md` / `players/` |
 | Karakter benar-benar baru (tidak ada di `players.md`) | — | Ikuti `00` §1.6: minta Nama + Lokasi Awal |
-| Karakter berada/menuju Tianzhou | `02_CENTRAL_PLAINS.md` | Termasuk area ibu kota provinsi ini |
-| Karakter berada/menuju Qingyun | `03_AZURE_MOUNTAIN_RANGE.md` | |
-| Karakter berada/menuju Moyuan | `04_SOUTHERN_DEMON_DOMAIN.md` | |
-| Karakter berada/menuju Haiyuan | `05_EASTERN_SEA_REGION.md` | |
-| Karakter berada/menuju Beiyuan | `06_NORTHERN_DESOLATE_TERRITORY.md` | |
-| Karakter berada/menuju Xisha | `07_WESTERN_SACRED_DESERTS.md` | |
+| Karakter berada/menuju Tianzhou | `02_TIANZHOU.md` | Termasuk area ibu kota provinsi ini |
+| Karakter berada/menuju Qingyun | `03_QINGYUN.md` | |
+| Karakter berada/menuju Moyuan | `04_MOYUAN.md` | |
+| Karakter berada/menuju Haiyuan | `05_HAIYUAN.md` | |
+| Karakter berada/menuju Beiyuan | `06_BEIYUAN.md` | |
+| Karakter berada/menuju Xisha | `07_XISHA.md` | |
 | Butuh konteks Ibu Kota Tianjing / peta jarak besar dunia | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | |
 | Bertemu info broker/pembunuh bayaran/sanxiu/kriminal mortal lintas wilayah | `08_CROSS_REGION_ORGANIZATIONS.md` | |
 | Breakthrough realm / klaim teknik baru / cek Law Origin | `09_CULTIVATION_LAW_SYSTEM.md` | |
