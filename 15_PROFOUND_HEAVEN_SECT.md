@@ -3,8 +3,8 @@
 > **Modul:** 15 — Sect Detail: Sekte Xuanyuan
 > **Wilayah:** Tianzhou, istana di awan 550 li dari Tianjing | **Tipe:** Ortodoks, politis | **Hukum Utama:** Dao Abadi (standar)
 > **Estimasi Total Anggota:** ± 2.200 orang (sekte terbesar di Tianzhou)
-> **Rujukan silang:** `02_CENTRAL_PLAINS.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2, `10_ECONOMY_SYSTEM.md`, `12_COMBAT_SYSTEM.md`, `14_HEAVENLY_SWORD_PAVILION.md` & `16_SILVER_RAIN_SWORD_SCHOOL.md` (sekte tetangga)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `02_TIANZHOU.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2, `10_ECONOMY_SYSTEM.md`, `12_COMBAT_SYSTEM.md`, `14_HEAVENLY_SWORD_PAVILION.md` & `16_SILVER_RAIN_SWORD_SCHOOL.md` (sekte tetangga)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -25,7 +25,7 @@ Berbeda dari sekte militeristik, Sekte Xuanyuan punya **dua jalur karier paralel
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Ketua Sekte Chen Tianhe | Ketua Sekte | Void Severing Menengah — detail lengkap di `02_CENTRAL_PLAINS.md` |
+| Ketua Sekte Chen Tianhe | Ketua Sekte | Void Severing Menengah — detail lengkap di `02_TIANZHOU.md` |
 | Tetua Perbendaharaan Yu Cang | Tetua Divisi Perbendaharaan | Nascent Soul Puncak |
 | Murid Diplomat Ruan Xi | Murid Madya jalur Diplomat, utusan ke istana | Core Formation Menengah |
 | 🆕 Tetua Divisi Combat "Tinju Awan" Sima Rong | Tetua Divisi, melatih murid jalur pedang/combat | Soul Transformation Awal, 71 tahun. Satu-satunya Tetua Divisi yang murni combat-focused, agak dipandang sebelah mata oleh Tetua politik lain karena "kurang pandai bicara", tapi disegani soal kekuatan mentah. |
@@ -66,7 +66,7 @@ Memakai **Hukum Dao Abadi (standar)** sesuai `09` §3.C & §8.2 — tanpa varian
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Sekte Tianjian** (`14_HEAVENLY_SWORD_PAVILION.md`): rivalitas halus soal siapa "wajah utama" ortodoks Tianzhou — tak pernah terbuka, tapi keduanya diam-diam bersaing pengaruh di Dewan Sembilan Menteri maupun opini publik jianghu.
-- **Serikat Dagang Delapan Penjuru** (`02_CENTRAL_PLAINS.md`): mitra dagang erat, banyak transaksi besar sekte lewat jalur serikat ini.
+- **Serikat Dagang Delapan Penjuru** (`02_TIANZHOU.md`): mitra dagang erat, banyak transaksi besar sekte lewat jalur serikat ini.
 - **Aliansi Anying** (`24_BLOOD_SHADOW_ALLIANCE.md`): secara resmi memusuhi seluruh faksi demonic, tapi rumor lama menyebut ada "saluran belakang" tak resmi untuk pekerjaan kotor yang tak ingin dikaitkan langsung dengan sekte — tak pernah dikonfirmasi.
 - **Kekaisaran Tianjing** (`01_WORLD_OVERVIEW_AND_CAPITAL.md`): hubungan paling erat di antara semua sekte ortodoks, kursi tetap di Dewan Sembilan Menteri.
 
