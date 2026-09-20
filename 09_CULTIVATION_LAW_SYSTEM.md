@@ -245,7 +245,7 @@ Memengaruhi regenerasi qi Hukum Dao Abadi (§3.C) dan ketersediaan bahan terobos
 - Tetap tunduk `QiCap(realm, stage)` standar — hanya efisiensi yang berubah, bukan batas maksimum.
 
 **Hukum Roh Hantu** (Sekte Hunming)
-- Sumber daya: Qi Roh (Soul Qi), dikonversi dari vitalitas/jiwa alih-alih qi lingkungan — cocok wilayah miskin qi (Northern Territory, ×0,6).
+- Sumber daya: Qi Roh (Soul Qi), dikonversi dari vitalitas/jiwa alih-alih qi lingkungan — cocok wilayah miskin qi (Beiyuan, ×0,6).
 - Mekanik unik: bisa "meminjam" qi dari roh yang telah diikat (mirip Gu, tapi berbasis jiwa bukan makhluk hidup).
 - Kelemahan wajib: setiap penggunaan qi roh berlebih menambah Sin Points otomatis (+3–8 per pemakaian besar).
 
@@ -270,10 +270,10 @@ Memengaruhi regenerasi qi Hukum Dao Abadi (§3.C) dan ketersediaan bahan terobos
 | Bahan Tier Racun/Gu (Hukum Gu Karma) | Desa Duchong & Thousand Poison Marsh (Moyuan) |
 | Bahan Tier Es/Roh (Hukum Roh Hantu) | Desa Bingxin & Ghost Valley (Beiyuan) |
 | Bahan Tier Air/Mutiara Spiritual (Dao Abadi varian Laut) | Desa Zhenzhu & Kepulauan Perak Kecil (Haiyuan) |
-| Pil & Alkimia umum (semua Hukum) | Balai Yunyao (Northern Territory) |
+| Pil & Alkimia umum (semua Hukum) | Balai Yunyao (Beiyuan) |
 | Artefak/Insight Point langka | Reruntuhan Gushatta & Menara Bintang Jatuh (Xisha) |
 
-📌 **Anti-cheat tambahan:** breakthrough yang mengklaim bahan dari wilayah tertentu HARUS konsisten dengan jarak tempuh & waktu perjalanan karakter (`01_WORLD_OVERVIEW_AND_CAPITAL.md`) — tidak bisa "instan" dapat bahan dari Hellfire Island kalau posisi karakter sedang di Northern Territory tanpa waktu tempuh yang logis.
+📌 **Anti-cheat tambahan:** breakthrough yang mengklaim bahan dari wilayah tertentu HARUS konsisten dengan jarak tempuh & waktu perjalanan karakter (`01_WORLD_OVERVIEW_AND_CAPITAL.md`) — tidak bisa "instan" dapat bahan dari Hellfire Island kalau posisi karakter sedang di Beiyuan tanpa waktu tempuh yang logis.
 
 ---
 
