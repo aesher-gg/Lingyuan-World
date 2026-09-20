@@ -32,7 +32,7 @@ Repo ini diorganisasikan secara modular ke dalam file `.md` yang saling terhubun
 | 11 | [`11_VITALITY_HUNGER_SYSTEM.md`](./11_VITALITY_HUNGER_SYSTEM.md) | Formula HP, status luka, regenerasi, kelaparan | Saat cek status detail / efek kelaparan |
 | 12 | [`12_COMBAT_SYSTEM.md`](./12_COMBAT_SYSTEM.md) | Giliran, initiative, damage, defense, escape | Setiap kali terjadi pertarungan |
 | 13 | [`13_BESTIARY.md`](./13_BESTIARY.md) | Monster & spirit beast per wilayah, ambush, loot | Perjalanan liar / hunting / ambush |
-| 14–37 | *(lihat `INDEX.md` §1a)* | 24 file individual — satu file per sekte/dojo/organisasi: hierarki, fasilitas, artefak/seal/talisman, kurikulum teknik bertingkat, Hukum kultivasi detail, relasi antar-faksi, rahasia internal | Bergabung sekte, eksplorasi fasilitas, belajar teknik (fetch hanya file sekte yang relevan) |
+| 14–37 | *(lihat `INDEX.md` §1a)* | 24 file individual — satu file per sekte/perguruan/organisasi: hierarki, fasilitas, artefak/seal/talisman, kurikulum teknik bertingkat, Hukum kultivasi detail, relasi antar-faksi, rahasia internal | Bergabung sekte, eksplorasi fasilitas, belajar teknik (fetch hanya file sekte yang relevan) |
 
 ---
 
