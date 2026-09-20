@@ -1,7 +1,7 @@
-# 🏦 Wuxian World — Organisasi: Rumah Gadai Giok Sejuk (寒玉當鋪)
+# 🏦 Lingyuan World — Organisasi: Rumah Gadai Hanbi (寒玉當鋪)
 
-> **Modul:** 36 — Sect Detail: Rumah Gadai Giok Sejuk
-> **Wilayah:** Cabang di semua kota besar, cabang kecil di Kampung Shiban (Azure Mountain Range) | **Tipe:** "Bank" tak resmi jianghu, netral & diskret | **Hukum Utama:** Tidak relevan (organisasi non-kombatan)
+> **Modul:** 36 — Sect Detail: Rumah Gadai Hanbi
+> **Wilayah:** Cabang di semua kota besar, cabang kecil di Kampung Shiban (Qingyun) | **Tipe:** "Bank" tak resmi jianghu, netral & diskret | **Hukum Utama:** Tidak relevan (organisasi non-kombatan)
 > **Estimasi Total Anggota:** ± 200 orang (tersebar di banyak cabang kecil)
 > **Rujukan silang:** `02_CENTRAL_PLAINS.md`, `03_AZURE_MOUNTAIN_RANGE.md`, `08_CROSS_REGION_ORGANIZATIONS.md`, `10_ECONOMY_SYSTEM.md` §1–2 & §5
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `08_CROSS_REGION_ORGANIZATIONS.md` dan `03_AZURE_MOUNTAIN_RANGE.md`. Tambahan baru ditandai **🆕**.
@@ -23,7 +23,7 @@ Berfungsi sebagai "bank" tak resmi jianghu — netral dan diskret, dipercaya bah
 | Nama | Peran | Catatan |
 |---|---|---|
 | Pemilik Cabang Utama Qing Yu | Pengelola pusat rumah gadai | Foundation Establishment Puncak — detail lengkap di `08_CROSS_REGION_ORGANIZATIONS.md` |
-| 🆕 Pengelola Cabang Kampung Shiban Old Feng | Mengelola cabang kecil di Azure Mountain Range | Qi Refining Puncak, 55 tahun. Dipercaya penuh warga Kampung Shiban. |
+| 🆕 Pengelola Cabang Kampung Shiban Old Feng | Mengelola cabang kecil di Qingyun | Qi Refining Puncak, 55 tahun. Dipercaya penuh warga Kampung Shiban. |
 
 ## Fasilitas & Bangunan
 | Fasilitas | Fungsi | Akses |
@@ -49,8 +49,8 @@ Barang digadai dinilai dari `GradeValue(tier, grade)` (`10` §2.2), potongan awa
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Seluruh faksi**: klien potensial termasuk buronan lintas faksi.
-- **Serambi Seribu Bisik** (`35_SERAMBI_SERIBU_BISIK.md`): saling merujuk klien.
-- **Dojo Pahat Naga** (`20_DOJO_PAHAT_NAGA.md`): dibantu pinjaman berbunga rendah lewat cabang Kampung Shiban.
+- **Paviliun Wanxin** (`35_SERAMBI_SERIBU_BISIK.md`): saling merujuk klien.
+- **Perguruan Shilong** (`20_DOJO_PAHAT_NAGA.md`): dibantu pinjaman berbunga rendah lewat cabang Kampung Shiban.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Ruang Brankas Utama beberapa cabang menyimpan barang gadai tak tertebus puluhan tahun — sebagian diduga artefak bernilai tinggi pemiliknya sudah lama menghilang, plot hook "harta terlupakan" menarik.
