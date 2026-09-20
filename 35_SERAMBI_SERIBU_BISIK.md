@@ -1,7 +1,7 @@
-# 🤫 Wuxian World — Organisasi: Serambi Seribu Bisik (千語廊)
+# 🤫 Lingyuan World — Organisasi: Paviliun Wanxin (千語廊)
 
-> **Modul:** 35 — Sect Detail: Serambi Seribu Bisik
-> **Wilayah:** Berpusat di Bukit Melati (Central Plains), cabang rahasia di tiap provinsi | **Tipe:** Info broker, netral mutlak | **Hukum Utama:** Dao Abadi standar (tidak ada spesialisasi tempur formal — kekuatan individu bervariasi bebas)
+> **Modul:** 35 — Sect Detail: Paviliun Wanxin
+> **Wilayah:** Berpusat di Bukit Melati (Tianzhou), cabang rahasia di tiap provinsi | **Tipe:** Info broker, netral mutlak | **Hukum Utama:** Dao Abadi standar (tidak ada spesialisasi tempur formal — kekuatan individu bervariasi bebas)
 > **Estimasi Total Anggota:** ± 500 orang (mayoritas informan lepas non-kultivator, agen inti jauh lebih sedikit)
 > **Rujukan silang:** `02_CENTRAL_PLAINS.md` (Bukit Melati), `08_CROSS_REGION_ORGANIZATIONS.md`, `10_ECONOMY_SYSTEM.md` §4.3 (Jasa Informasi), `09_CULTIVATION_LAW_SYSTEM.md`
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md` dan `08_CROSS_REGION_ORGANIZATIONS.md`. Tambahan baru ditandai **🆕**.
@@ -26,7 +26,7 @@ Info broker terbesar di dunia, tak berpihak pada faksi manapun — hanya setia p
 | Kepala Serambi "Suara Tanpa Wajah" | Pemimpin tertinggi | Soul Transformation Puncak, identitas dirahasiakan total — detail lengkap di `08_CROSS_REGION_ORGANIZATIONS.md` |
 | Agen Bayangan "Teh Melati" | Perantara info broker lokal Bukit Melati | Core Formation Awal, disembunyikan — detail lengkap di `02_CENTRAL_PLAINS.md` |
 | Kurir Rahasia Diam | Pembawa pesan | Foundation Establishment Awal |
-| 🆕 Kepala Cabang Provinsi "Bayangan Selatan" | Koordinator cabang Southern Demon Domain, satu-satunya Kepala Cabang yang berani beroperasi terang-terangan di wilayah demonic | Nascent Soul Awal, 51 tahun, identitas separuh diketahui kalangan tertentu. |
+| 🆕 Kepala Cabang Provinsi "Bayangan Selatan" | Koordinator cabang Moyuan, satu-satunya Kepala Cabang yang berani beroperasi terang-terangan di wilayah demonic | Nascent Soul Awal, 51 tahun, identitas separuh diketahui kalangan tertentu. |
 
 ## Fasilitas & Bangunan
 | Fasilitas | Fungsi | Akses |
@@ -43,7 +43,7 @@ Info broker terbesar di dunia, tak berpihak pada faksi manapun — hanya setia p
 | Dana operasional | Tersebar di seluruh cabang, tidak terpusat — estimasi total kekayaan organisasi setara puluhan Giok Menengah, tapi tak pernah disimpan di satu tempat | Kepala Cabang Provinsi mengatur alokasi wilayah masing-masing |
 
 ## Kurikulum Teknik (Terbatas — Fokus Non-Kombatan)
-Serambi Seribu Bisik bukan sekte pengajar teknik formal — anggotanya direkrut berdasar keahlian mengumpulkan info atau kemampuan bertarung yang SUDAH mereka miliki, bukan dilatih dari nol oleh organisasi ini.
+Paviliun Wanxin bukan sekte pengajar teknik formal — anggotanya direkrut berdasar keahlian mengumpulkan info atau kemampuan bertarung yang SUDAH mereka miliki, bukan dilatih dari nol oleh organisasi ini.
 
 | Tingkat | Nama Teknik | Klasifikasi Combat | Deskripsi |
 |---|---|---|---|
@@ -60,9 +60,9 @@ Tidak ada Hukum tempur resmi yang diwajibkan organisasi ini — anggota inti (Ag
 - Netralitas mutlak dalam konflik faksi — dilarang keras memihak dalam transaksi info, bahkan bila salah satu pihak adalah mantan sekte asal anggota tersebut.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Seluruh faksi tanpa terkecuali**: klien potensial. Bahkan Ghost Valley Sect dan Azure Cloud Temple sama-sama pernah memakai jasa mereka — netralitas inilah aset terbesar organisasi ini.
-- **Rumah Gadai Giok Sejuk** (`36_RUMAH_GADAI_GIOK_SEJUK.md`): hubungan informal erat — kedua organisasi netral ini kadang saling merujuk klien yang butuh jasa satu sama lain (info + dana cepat sering dibutuhkan bersamaan).
-- **Perkumpulan Pisau Sunyi** (`33_PERKUMPULAN_PISAU_SUNYI.md`) & **Blood Shadow Alliance** (`24_BLOOD_SHADOW_ALLIANCE.md`): pelanggan reguler untuk info target kontrak, transaksi murni bisnis tanpa keterlibatan moral.
+- **Seluruh faksi tanpa terkecuali**: klien potensial. Bahkan Sekte Hunming dan Kuil Ciyun sama-sama pernah memakai jasa mereka — netralitas inilah aset terbesar organisasi ini.
+- **Rumah Gadai Hanbi** (`36_RUMAH_GADAI_GIOK_SEJUK.md`): hubungan informal erat — kedua organisasi netral ini kadang saling merujuk klien yang butuh jasa satu sama lain (info + dana cepat sering dibutuhkan bersamaan).
+- **Perkumpulan Wuying** (`33_PERKUMPULAN_PISAU_SUNYI.md`) & **Aliansi Anying** (`24_BLOOD_SHADOW_ALLIANCE.md`): pelanggan reguler untuk info target kontrak, transaksi murni bisnis tanpa keterlibatan moral.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Bahkan di antara Kepala Cabang Provinsi sendiri, tidak ada yang benar-benar tahu identitas asli "Suara Tanpa Wajah" — sebagian bahkan mempertanyakan diam-diam apakah Kepala Serambi yang mereka "layani" sekarang adalah orang yang sama dengan pendiri organisasi puluhan tahun lalu, atau sudah berganti tanpa pernah diumumkan. Misteri ini sengaja dibiarkan terbuka bagi GM untuk dikembangkan.
