@@ -1,7 +1,7 @@
-# ⚕️ Wuxian World — Sekte: Whitecloud Medicine Hall
+# ⚕️ Lingyuan World — Sekte: Balai Yunyao
 
-> **Modul:** 28 — Sect Detail: Whitecloud Medicine Hall
-> **Wilayah:** 500 li dari Benteng Beikuan, Northern Desolate Territory | **Tipe:** Netral, pengobatan & alkimia | **Hukum Utama:** Bukan Hukum tempur — Jalur Alkimia/Support
+> **Modul:** 28 — Sect Detail: Balai Yunyao
+> **Wilayah:** 500 li dari Benteng Beikuan, Beiyuan | **Tipe:** Netral, pengobatan & alkimia | **Hukum Utama:** Bukan Hukum tempur — Jalur Alkimia/Support
 > **Estimasi Total Anggota:** ± 400 orang
 > **Rujukan silang:** `06_NORTHERN_DESOLATE_TERRITORY.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2, `10_ECONOMY_SYSTEM.md` §4.1 (jasa pengobatan), `22_NINE_SERPENT_DEN.md` (relasi rumit racun-obat)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_NORTHERN_DESOLATE_TERRITORY.md`. Tambahan baru ditandai **🆕**.
@@ -51,7 +51,7 @@ Sekte pengobatan & alkimia paling dihormati di dunia — netral secara politik m
 | Kepala Tabib (rahasia) | *Telapak Penyembuh Awan Putih* | Jurus Ultimate (penyembuhan, bukan serangan) | Tier 5, Tian-Grade | Qi penyembuh disalurkan lewat telapak tangan — teknik Bai Yun |
 
 ## Hukum Kultivasi Sekte — Detail Lengkap
-Whitecloud Medicine Hall secara resmi bukan sekte tempur (`09` §8.2: "Bukan Hukum tempur - Jalur Alkimia/Support"). Anggotanya tetap tunduk formula QiCap standar bila bertarung (memakai Hukum Dao Abadi baseline sebagai basis netral), tapi kurikulum sekte ini nyaris seluruhnya diarahkan ke racikan, diagnosis, dan penyembuhan — bukan ofensif. Bahkan "teknik andalan" tertinggi mereka (*Telapak Penyembuh Awan Putih*) secara eksplisit bukan alat serang. Karakter yang berlatih di sini akan kesulitan membangun jalur combat murni tanpa melengkapi diri dengan Hukum lain lewat Law Origin terpisah.
+Balai Yunyao secara resmi bukan sekte tempur (`09` §8.2: "Bukan Hukum tempur - Jalur Alkimia/Support"). Anggotanya tetap tunduk formula QiCap standar bila bertarung (memakai Hukum Dao Abadi baseline sebagai basis netral), tapi kurikulum sekte ini nyaris seluruhnya diarahkan ke racikan, diagnosis, dan penyembuhan — bukan ofensif. Bahkan "teknik andalan" tertinggi mereka (*Telapak Penyembuh Awan Putih*) secara eksplisit bukan alat serang. Karakter yang berlatih di sini akan kesulitan membangun jalur combat murni tanpa melengkapi diri dengan Hukum lain lewat Law Origin terpisah.
 
 ## Kode Etik & Aturan Internal
 - Klinik Terbuka wajib melayani siapa pun, termasuk musuh sekte lain, selama tidak sedang dalam kondisi bertarung aktif di area klinik.
@@ -59,9 +59,9 @@ Whitecloud Medicine Hall secara resmi bukan sekte tempur (`09` §8.2: "Bukan Huk
 - Netralitas politik mutlak — anggota dilarang memihak faksi mana pun secara terbuka.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Nine Serpent Den** (`22_NINE_SERPENT_DEN.md`): relasi rumit — secara filosofi "musuh alami" (racun vs obat), tapi diam-diam saling menghormati keahlian, dengan riwayat pertukaran resep penawar tak resmi.
-- **Seluruh faksi tanpa terkecuali**: dihormati sebagai tanah suci netral — bahkan Demonic Flame Palace dan Ghost Valley Sect diketahui tidak pernah mengganggu cabang Whitecloud manapun.
-- **Perhimpunan Tabib Pengembara** (`08_CROSS_REGION_ORGANIZATIONS.md`): kerja sama informal erat, sering berbagi informasi soal wabah/kebutuhan medis mendesak lintas wilayah.
+- **Sarang Jiuyin** (`22_NINE_SERPENT_DEN.md`): relasi rumit — secara filosofi "musuh alami" (racun vs obat), tapi diam-diam saling menghormati keahlian, dengan riwayat pertukaran resep penawar tak resmi.
+- **Seluruh faksi tanpa terkecuali**: dihormati sebagai tanah suci netral — bahkan Istana Yanmo dan Sekte Hunming diketahui tidak pernah mengganggu cabang Whitecloud manapun.
+- **Perhimpunan Youyi** (`08_CROSS_REGION_ORGANIZATIONS.md`): kerja sama informal erat, sering berbagi informasi soal wabah/kebutuhan medis mendesak lintas wilayah.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Xue Fang belakangan memusatkan riset pada penyakit yang belum pernah tercatat sebelumnya, dengan gejala yang tidak cocok dengan resep manapun di Perpustakaan Resep Kuno — ia belum melaporkan ini secara luas, khawatir memicu kepanikan sebelum benar-benar yakin. Bisa jadi awal dari wabah besar, atau sekadar kasus langka — GM bebas mengembangkan sesuai kebutuhan cerita.
