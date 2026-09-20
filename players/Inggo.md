@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Inggo
-**Lokasi:** Pondok Bambu Giok Hitam (Markas Pribadi), Perbatasan Zona Dalam, Hutan Bambu Berbisik, Azure Mountain Range (Modul 03)
+**Lokasi:** Pondok Bambu Giok Hitam (Markas Pribadi), Perbatasan Zona Dalam, Hutan Bambu Berbisik, Qingyun (Modul 03)
 **Realm & Stage:** Core Formation (Pembentukan Inti), Awal — Qi Cap: 2500
 **Hukum Kultivasi:** Hukum Custom: Bambu Pembalik Murim
 **Law Origin:** Jalur Pencerahan (Epiphany) & Mutasi Dantian — Memahami bambu bukan sebagai kayu, melainkan sebagai "kekosongan yang menelan langit", "akar parasit yang membelah batu", dan "pemangkasan ranting untuk tumbuh lebih kuat". Struktur Inti: Bambu Giok Berongga Berlapis.
