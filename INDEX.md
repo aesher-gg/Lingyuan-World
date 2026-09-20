@@ -1,4 +1,4 @@
-# 🧭 Wuxian World — INDEX
+# 🧭 Lingyuan World — INDEX
 
 > **Ini adalah SATU-SATUNYA link yang perlu ditempel pemain di setiap sesi.**
 > Semua modul lain (aturan, wilayah, sistem, data karakter) dijangkau AI secara otomatis dari sini lewat `web_fetch`/browsing, sesuai kondisi yang sedang terjadi di roleplay.
@@ -11,7 +11,7 @@
 
 1. **Fetch `00_CORE_RULES_AI_GM.md`** (link di tabel §1) — WAJIB pertama, tanpa kecuali. File itu berisi aturan mutlak, anti-cheat, aturan Sesi Roleplay (Tanpa Batas), dan format respon wajib yang mengikat seluruh sesi. Jangan lanjut ke langkah berikutnya sebelum ini selesai dibaca.
 2. **Inisialisasi Indikator Step**:
-   - Setiap balasan AI GM wajib mencantumkan header: `🕒 Waktu Wuxian World | 💬 Step: Tanpa Batas`.
+   - Setiap balasan AI GM wajib mencantumkan header: `🕒 Waktu Lingyuan World | 💬 Step: Tanpa Batas`.
    - Sesi berjalan tanpa batasan jumlah step, memberikan kebebasan penuh bagi pemain untuk terus bermain tanpa pembekuan sesi.
 3. **Cek pesan pemain** untuk menentukan identitas & titik mulai karakter — ada 3 kemungkinan, jangan disamaratakan:
    - **(a) Karakter terdaftar, baru pertama kali dimainkan atau memulai sesi baru dari save repo** (nama cocok entri di `players.md`, TIDAK ada blok "Profil Karakter" yang ditempel/riwayat sebelumnya) ATAU **pemain menanyakan tentang karakter/player lain** → fetch `players.md` (link §1) atau langsung fetch file RAW karakter individual yang dituju di `players/<Nama_Karakter>.md` (misal: `https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Inggo.md`), muat data awalnya sebagai **titik mulai** narasi atau referensi informasi. `players.md` & folder `players/` dikelola oleh admin sebagai sumber save resmi.
@@ -32,12 +32,12 @@
 | 00 | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/00_CORE_RULES_AI_GM.md | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
 | 👤 | `players.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players.md | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
 | 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak dunia & Ibu Kota Tianjing |
-| 02 | `02_CENTRAL_PLAINS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/02_CENTRAL_PLAINS.md | Central Plains: kota, desa, sekte, NPC |
-| 03 | `03_AZURE_MOUNTAIN_RANGE.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/03_AZURE_MOUNTAIN_RANGE.md | Azure Mountain Range |
-| 04 | `04_SOUTHERN_DEMON_DOMAIN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/04_SOUTHERN_DEMON_DOMAIN.md | Southern Demon Domain |
-| 05 | `05_EASTERN_SEA_REGION.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/05_EASTERN_SEA_REGION.md | Eastern Sea Region |
-| 06 | `06_NORTHERN_DESOLATE_TERRITORY.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/06_NORTHERN_DESOLATE_TERRITORY.md | Northern Desolate Territory |
-| 07 | `07_WESTERN_SACRED_DESERTS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/07_WESTERN_SACRED_DESERTS.md | Western Sacred Deserts |
+| 02 | `02_CENTRAL_PLAINS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/02_CENTRAL_PLAINS.md | Tianzhou: kota, desa, sekte, NPC |
+| 03 | `03_AZURE_MOUNTAIN_RANGE.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/03_AZURE_MOUNTAIN_RANGE.md | Qingyun |
+| 04 | `04_SOUTHERN_DEMON_DOMAIN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/04_SOUTHERN_DEMON_DOMAIN.md | Moyuan |
+| 05 | `05_EASTERN_SEA_REGION.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/05_EASTERN_SEA_REGION.md | Haiyuan |
+| 06 | `06_NORTHERN_DESOLATE_TERRITORY.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/06_NORTHERN_DESOLATE_TERRITORY.md | Beiyuan |
+| 07 | `07_WESTERN_SACRED_DESERTS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/07_WESTERN_SACRED_DESERTS.md | Xisha |
 | 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/08_CROSS_REGION_ORGANIZATIONS.md | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
 | 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/09_CULTIVATION_LAW_SYSTEM.md | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
 | 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/10_ECONOMY_SYSTEM.md | Mata uang, tier/grade barang, harga jasa & aset |
@@ -55,57 +55,57 @@
 
 > Setiap sekte/dojo/organisasi punya **file sendiri**, lengkap dengan hierarki, fasilitas, artefak/pusaka/seal-talisman, kurikulum teknik bertingkat, Hukum kultivasi detail, relasi antar-faksi, dan rahasia internal. **Fetch HANYA** link file yang relevan dengan situasi saat ini — jangan fetch banyak sekaligus.
 
-**Central Plains**
+**Tianzhou**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Heavenly Sword Pavilion | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/14_HEAVENLY_SWORD_PAVILION.md |
-| Profound Heaven Sect | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/15_PROFOUND_HEAVEN_SECT.md |
-| Silver Rain Sword School | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/16_SILVER_RAIN_SWORD_SCHOOL.md |
-| Dojo Bunga Aprikot | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/17_DOJO_BUNGA_APRIKOT.md |
-| Dojo Godam Besi | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/18_DOJO_GODAM_BESI.md |
+| Sekte Tianjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/14_HEAVENLY_SWORD_PAVILION.md |
+| Sekte Xuanyuan | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/15_PROFOUND_HEAVEN_SECT.md |
+| Sekte Yunjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/16_SILVER_RAIN_SWORD_SCHOOL.md |
+| Perguruan Luohua | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/17_DOJO_BUNGA_APRIKOT.md |
+| Perguruan Tielu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/18_DOJO_GODAM_BESI.md |
 
-**Azure Mountain Range**
+**Qingyun**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Golden Bell Monastery | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/19_GOLDEN_BELL_MONASTERY.md |
-| Dojo Pahat Naga | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/20_DOJO_PAHAT_NAGA.md |
+| Biara Jinguang | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/19_GOLDEN_BELL_MONASTERY.md |
+| Perguruan Shilong | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/20_DOJO_PAHAT_NAGA.md |
 
-**Southern Demon Domain**
+**Moyuan**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Demonic Flame Palace | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/21_DEMONIC_FLAME_PALACE.md |
-| Nine Serpent Den | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/22_NINE_SERPENT_DEN.md |
-| Seven Sins Cult | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/23_SEVEN_SINS_CULT.md |
-| Blood Shadow Alliance | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/24_BLOOD_SHADOW_ALLIANCE.md |
-| Dojo Bayangan Kelam | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/25_DOJO_BAYANGAN_KELAM.md |
+| Istana Yanmo | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/21_DEMONIC_FLAME_PALACE.md |
+| Sarang Jiuyin | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/22_NINE_SERPENT_DEN.md |
+| Kultus Qisha | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/23_SEVEN_SINS_CULT.md |
+| Aliansi Anying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/24_BLOOD_SHADOW_ALLIANCE.md |
+| Perguruan Heiying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/25_DOJO_BAYANGAN_KELAM.md |
 
-**Eastern Sea Region**
+**Haiyuan**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Jade Purity Palace | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/26_JADE_PURITY_PALACE.md |
-| Dojo Ombak Tenang | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/27_DOJO_OMBAK_TENANG.md |
+| Istana Qinglian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/26_JADE_PURITY_PALACE.md |
+| Perguruan Haizhen | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/27_DOJO_OMBAK_TENANG.md |
 
-**Northern Desolate Territory**
+**Beiyuan**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Whitecloud Medicine Hall | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/28_WHITECLOUD_MEDICINE_HALL.md |
-| Ghost Valley Sect | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/29_GHOST_VALLEY_SECT.md |
-| Dojo Cakar Serigala | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/30_DOJO_CAKAR_SERIGALA.md |
+| Balai Yunyao | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/28_WHITECLOUD_MEDICINE_HALL.md |
+| Sekte Hunming | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/29_GHOST_VALLEY_SECT.md |
+| Perguruan Langxue | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/30_DOJO_CAKAR_SERIGALA.md |
 
-**Western Sacred Deserts**
+**Xisha**
 | Sekte/Dojo | Link RAW (langsung klik/fetch) |
 |---|---|
-| Azure Cloud Temple | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/31_AZURE_CLOUD_TEMPLE.md |
-| Dojo Mata Elang Pasir | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/32_DOJO_MATA_ELANG_PASIR.md |
+| Kuil Ciyun | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/31_AZURE_CLOUD_TEMPLE.md |
+| Perguruan Shaying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/32_DOJO_MATA_ELANG_PASIR.md |
 
 **Lintas Wilayah**
 | Organisasi | Link RAW (langsung klik/fetch) |
 |---|---|
-| Perkumpulan Pisau Sunyi | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/33_PERKUMPULAN_PISAU_SUNYI.md |
-| Kelompok Racun Bayangan | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/34_KELOMPOK_RACUN_BAYANGAN.md |
-| Serambi Seribu Bisik (info broker) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/35_SERAMBI_SERIBU_BISIK.md |
-| Rumah Gadai Giok Sejuk (bank tak resmi) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/36_RUMAH_GADAI_GIOK_SEJUK.md |
-| Perhimpunan Tabib Pengembara | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/37_PERHIMPUNAN_TABIB_PENGEMBARA.md |
+| Perkumpulan Wuying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/33_PERKUMPULAN_PISAU_SUNYI.md |
+| Kelompok Yandu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/34_KELOMPOK_RACUN_BAYANGAN.md |
+| Paviliun Wanxin (info broker) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/35_SERAMBI_SERIBU_BISIK.md |
+| Rumah Gadai Hanbi (bank tak resmi) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/36_RUMAH_GADAI_GIOK_SEJUK.md |
+| Perhimpunan Youyi | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/37_PERHIMPUNAN_TABIB_PENGEMBARA.md |
 
 ---
 
@@ -118,12 +118,12 @@
 | Karakter terdaftar di `players.md`, baru pertama kali dimainkan OR pemain menanyakan informasi karakter/player lain | `players.md` dan/atau `players/<Nama_Karakter>.md` | Muat/fetch data karakter dari link RAW individual sebagai titik mulai atau referensi informasi pemain/karakter lain |
 | Melanjutkan karakter yang sudah pernah dimainkan | — | Pakai blok "Profil Karakter" terakhir yang ditempel/ada di riwayat chat — **jangan** fetch `players.md` / `players/` |
 | Karakter benar-benar baru (tidak ada di `players.md`) | — | Ikuti `00` §1.6: minta Nama + Lokasi Awal |
-| Karakter berada/menuju Central Plains | `02_CENTRAL_PLAINS.md` | Termasuk area ibu kota provinsi ini |
-| Karakter berada/menuju Azure Mountain Range | `03_AZURE_MOUNTAIN_RANGE.md` | |
-| Karakter berada/menuju Southern Demon Domain | `04_SOUTHERN_DEMON_DOMAIN.md` | |
-| Karakter berada/menuju Eastern Sea Region | `05_EASTERN_SEA_REGION.md` | |
-| Karakter berada/menuju Northern Desolate Territory | `06_NORTHERN_DESOLATE_TERRITORY.md` | |
-| Karakter berada/menuju Western Sacred Deserts | `07_WESTERN_SACRED_DESERTS.md` | |
+| Karakter berada/menuju Tianzhou | `02_CENTRAL_PLAINS.md` | Termasuk area ibu kota provinsi ini |
+| Karakter berada/menuju Qingyun | `03_AZURE_MOUNTAIN_RANGE.md` | |
+| Karakter berada/menuju Moyuan | `04_SOUTHERN_DEMON_DOMAIN.md` | |
+| Karakter berada/menuju Haiyuan | `05_EASTERN_SEA_REGION.md` | |
+| Karakter berada/menuju Beiyuan | `06_NORTHERN_DESOLATE_TERRITORY.md` | |
+| Karakter berada/menuju Xisha | `07_WESTERN_SACRED_DESERTS.md` | |
 | Butuh konteks Ibu Kota Tianjing / peta jarak besar dunia | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | |
 | Bertemu info broker/pembunuh bayaran/sanxiu/kriminal mortal lintas wilayah | `08_CROSS_REGION_ORGANIZATIONS.md` | |
 | Breakthrough realm / klaim teknik baru / cek Law Origin | `09_CULTIVATION_LAW_SYSTEM.md` | |
