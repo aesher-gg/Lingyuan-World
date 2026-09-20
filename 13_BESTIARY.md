@@ -32,7 +32,7 @@ Semua loot mengikuti Tier & Grade Sistem Ekonomi (`10_ECONOMY_SYSTEM.md` §2) se
 ---
 
 ### 🏯 Tianzhou
-*(lihat `02_CENTRAL_PLAINS.md`)*
+*(lihat `02_TIANZHOU.md`)*
 
 Wilayah paling padat dan "aman" relatif, tapi bukan tanpa bahaya. Monster di sini cenderung lebih rendah tier-nya, tapi tetap mematikan bagi pemula.
 
@@ -53,7 +53,7 @@ Wilayah paling padat dan "aman" relatif, tapi bukan tanpa bahaya. Monster di sin
 ---
 
 ### ⛰️ Qingyun
-*(lihat `03_AZURE_MOUNTAIN_RANGE.md`)*
+*(lihat `03_QINGYUN.md`)*
 
 Wilayah pegunungan dengan qi kaya, monster di sini lebih kuat dan lebih bervariasi. Hutan Bambu Berbisik (Whispering Bamboo Forest) adalah zona paling berbahaya di wilayah ini.
 
@@ -77,7 +77,7 @@ Wilayah pegunungan dengan qi kaya, monster di sini lebih kuat dan lebih bervaria
 ---
 
 ### 🔥 Moyuan
-*(lihat `04_SOUTHERN_DEMON_DOMAIN.md`)*
+*(lihat `04_MOYUAN.md`)*
 
 Wilayah paling berbahaya di dunia. Monster di sini lebih buas, lebih agresif, dan sering berafiliasi dengan faksi iblis.
 
@@ -100,7 +100,7 @@ Wilayah paling berbahaya di dunia. Monster di sini lebih buas, lebih agresif, da
 ---
 
 ### 🌊 Haiyuan
-*(lihat `05_EASTERN_SEA_REGION.md`)*
+*(lihat `05_HAIYUAN.md`)*
 
 Wilayah maritim yang luas. Monster di sini sebagian besar adalah makhluk laut dengan elemen air.
 
@@ -123,7 +123,7 @@ Wilayah maritim yang luas. Monster di sini sebagian besar adalah makhluk laut de
 ---
 
 ### ❄️ Beiyuan
-*(lihat `06_NORTHERN_DESOLATE_TERRITORY.md`)*
+*(lihat `06_BEIYUAN.md`)*
 
 Wilayah dingin dan tandus. Monster di sini tangguh dan tahan terhadap suhu ekstrem.
 
@@ -147,7 +147,7 @@ Wilayah dingin dan tandus. Monster di sini tangguh dan tahan terhadap suhu ekstr
 ---
 
 ### 🏜️ Xisha
-*(lihat `07_WESTERN_SACRED_DESERTS.md`)*
+*(lihat `07_XISHA.md`)*
 
 Wilayah gurun paling ekstrem. Monster di sini tangguh, tahan panas, dan sering bersembunyi di bawah pasir.
 
@@ -169,7 +169,7 @@ Wilayah gurun paling ekstrem. Monster di sini tangguh, tahan panas, dan sering b
 ---
 
 ### 🎋 Hutan Bambu Berbisik — Monsters Khusus
-*(Zona khusus di Qingyun, lihat `03_AZURE_MOUNTAIN_RANGE.md`)*
+*(Zona khusus di Qingyun, lihat `03_QINGYUN.md`)*
 
 | Zona | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
 |---|---|---|---|---|---|---|---|
