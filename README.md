@@ -20,12 +20,12 @@ Repo ini diorganisasikan secara modular ke dalam file `.md` yang saling terhubun
 | — | [`README.md`](./README.md) | Peta navigasi & dokumentasi ini | Referensi manusia (tidak perlu ditautkan ke AI) |
 | 00 | [`00_CORE_RULES_AI_GM.md`](./00_CORE_RULES_AI_GM.md) | Aturan mutlak AI GM, anti-cheat, format respon wajib, cheat-sheet formula inti | ✅ **WAJIB tiap sesi** (difetch otomatis lewat `INDEX.md`) |
 | 01 | [`01_WORLD_OVERVIEW_AND_CAPITAL.md`](./01_WORLD_OVERVIEW_AND_CAPITAL.md) | Peta jarak dunia, Ibu Kota Tianjing & Kekaisaran | Situasional (konteks besar / karakter di ibu kota) |
-| 02 | [`02_CENTRAL_PLAINS.md`](./02_CENTRAL_PLAINS.md) | Dataran Tengah: kota, desa, sekte, bandit, NPC | Saat karakter di Tianzhou |
-| 03 | [`03_AZURE_MOUNTAIN_RANGE.md`](./03_AZURE_MOUNTAIN_RANGE.md) | Pegunungan Azure | Saat karakter di Qingyun |
-| 04 | [`04_SOUTHERN_DEMON_DOMAIN.md`](./04_SOUTHERN_DEMON_DOMAIN.md) | Daerah Iblis Selatan | Saat karakter di Moyuan |
-| 05 | [`05_EASTERN_SEA_REGION.md`](./05_EASTERN_SEA_REGION.md) | Wilayah Laut Timur | Saat karakter di Haiyuan |
-| 06 | [`06_NORTHERN_DESOLATE_TERRITORY.md`](./06_NORTHERN_DESOLATE_TERRITORY.md) | Wilayah Utara Gersang | Saat karakter di Northern Territory |
-| 07 | [`07_WESTERN_SACRED_DESERTS.md`](./07_WESTERN_SACRED_DESERTS.md) | Gurun Suci Barat | Saat karakter di Western Deserts |
+| 02 | [`02_TIANZHOU.md`](./02_TIANZHOU.md) | Tianzhou: kota, desa, sekte, bandit, NPC | Saat karakter di Tianzhou |
+| 03 | [`03_QINGYUN.md`](./03_QINGYUN.md) | Qingyun | Saat karakter di Qingyun |
+| 04 | [`04_MOYUAN.md`](./04_MOYUAN.md) | Moyuan | Saat karakter di Moyuan |
+| 05 | [`05_HAIYUAN.md`](./05_HAIYUAN.md) | Haiyuan | Saat karakter di Haiyuan |
+| 06 | [`06_BEIYUAN.md`](./06_BEIYUAN.md) | Beiyuan | Saat karakter di Beiyuan |
+| 07 | [`07_XISHA.md`](./07_XISHA.md) | Xisha | Saat karakter di Xisha |
 | 08 | [`08_CROSS_REGION_ORGANIZATIONS.md`](./08_CROSS_REGION_ORGANIZATIONS.md) | Info broker, pegadaian, perhimpunan tabib, pembunuh bayaran, sanxiu, kriminal mortal | Saat berurusan dengan organisasi lintas wilayah / buronan |
 | 09 | [`09_CULTIVATION_LAW_SYSTEM.md`](./09_CULTIVATION_LAW_SYSTEM.md) | 9 Realm, 5 Hukum kultivasi, breakthrough, tribulasi, karma | Saat breakthrough, klaim teknik, atau hitung Qi detail |
 | 10 | [`10_ECONOMY_SYSTEM.md`](./10_ECONOMY_SYSTEM.md) | Mata uang, tier/grade barang, harga jasa, aset, tawar-menawar | Saat transaksi/jual-beli |
