@@ -10,19 +10,18 @@
 ## 0. Prosedur Bootstrap (WAJIB, Urutan Ini Persis)
 
 1. **Fetch `00_CORE_RULES_AI_GM.md`** (link di tabel §1) — WAJIB pertama, tanpa kecuali. File itu berisi aturan mutlak, anti-cheat, aturan Sesi Roleplay (Tanpa Batas), dan format respon wajib yang mengikat seluruh sesi. Jangan lanjut ke langkah berikutnya sebelum ini selesai dibaca.
-2. **Fetch `RUNTIME_NAME_OVERLAY.md`** — WAJIB setelah `00_CORE_RULES_AI_GM.md`. Gunakan mapping Runtime di file ini untuk nama dunia, 6 wilayah, dan 24 organisasi saat roleplay; Canon tetap menjadi sumber data.
-3. **Inisialisasi Indikator Step**:
+2. **Inisialisasi Indikator Step**:
    - Setiap balasan AI GM wajib mencantumkan header: `🕒 Waktu Wuxian World | 💬 Step: Tanpa Batas`.
    - Sesi berjalan tanpa batasan jumlah step, memberikan kebebasan penuh bagi pemain untuk terus bermain tanpa pembekuan sesi.
-4. **Cek pesan pemain** untuk menentukan identitas & titik mulai karakter — ada 3 kemungkinan, jangan disamaratakan:
+3. **Cek pesan pemain** untuk menentukan identitas & titik mulai karakter — ada 3 kemungkinan, jangan disamaratakan:
    - **(a) Karakter terdaftar, baru pertama kali dimainkan atau memulai sesi baru dari save repo** (nama cocok entri di `players.md`, TIDAK ada blok "Profil Karakter" yang ditempel/riwayat sebelumnya) ATAU **pemain menanyakan tentang karakter/player lain** → fetch `players.md` (link §1) atau langsung fetch file RAW karakter individual yang dituju di `players/<Nama_Karakter>.md` (misal: `https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Inggo.md`), muat data awalnya sebagai **titik mulai** narasi atau referensi informasi. `players.md` & folder `players/` dikelola oleh admin sebagai sumber save resmi.
    - **(b) Melanjutkan karakter yang sudah pernah dimainkan di dalam chat yang sama** (pemain menempel blok "Profil Karakter" dari sesi sebelumnya, atau riwayatnya masih ada di chat yang sama) → pakai kondisi TERKINI itu sebagai starting state.
    - **(c) Karakter benar-benar baru** (nama tidak ada di `players.md` maupun riwayat manapun) → perlakukan sebagai karakter baru custom sesuai `00_CORE_RULES_AI_GM.md` §1.6, minta Nama + Lokasi Awal.
-5. **Tentukan lokasi karakter** (dari file karakter individual di `players/` atau dari input baru pemain), lalu fetch modul wilayah yang sesuai (`01`–`07`) dari tabel §1.
-6. **Fetch `39_CUSTOM_EVENTS.md`** — cek apakah ada event aktif yang sedang berlangsung di dunia. Jika ada, pastikan event itu terasa dalam narasi (suasana, dialog NPC, kejadian acak).
-7. **Mulai sesi** mengikuti format respon wajib di `00` dengan header `Step: Tanpa Batas`.
-8. **Selama sesi berlangsung**, fetch modul tambahan secara dinamis begitu kondisinya muncul — lihat tabel pemicu di §2. Jangan fetch banyak file sekaligus di awal; itu boros token dan bertentangan dengan tujuan modularitas sistem ini.
-9. Jika sebuah link gagal diakses (404/error), beri tahu pemain bahwa file itu mungkin belum ter-upload atau nama filenya salah — **jangan mengarang isinya**.
+4. **Tentukan lokasi karakter** (dari file karakter individual di `players/` atau dari input baru pemain), lalu fetch modul wilayah yang sesuai (`01`–`07`) dari tabel §1.
+5. **Fetch `39_CUSTOM_EVENTS.md`** — cek apakah ada event aktif yang sedang berlangsung di dunia. Jika ada, pastikan event itu terasa dalam narasi (suasana, dialog NPC, kejadian acak).
+6. **Mulai sesi** mengikuti format respon wajib di `00` dengan header `Step: Tanpa Batas`.
+7. **Selama sesi berlangsung**, fetch modul tambahan secara dinamis begitu kondisinya muncul — lihat tabel pemicu di §2. Jangan fetch banyak file sekaligus di awal; itu boros token dan bertentangan dengan tujuan modularitas sistem ini.
+8. Jika sebuah link gagal diakses (404/error), beri tahu pemain bahwa file itu mungkin belum ter-upload atau nama filenya salah — **jangan mengarang isinya**.
 
 ---
 
@@ -31,7 +30,6 @@
 | Kode | File | Link Raw | Isi Singkat |
 |---|---|---|---|
 | 00 | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/00_CORE_RULES_AI_GM.md | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
-| 🏷️ | `RUNTIME_NAME_OVERLAY.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/RUNTIME_NAME_OVERLAY.md | **Runtime identity overlay aktif:** Lingyuan World, 6 wilayah, 24 organisasi |
 | 👤 | `players.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players.md | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
 | 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak dunia & Ibu Kota Tianjing |
 | 02 | `02_CENTRAL_PLAINS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/02_CENTRAL_PLAINS.md | Central Plains: kota, desa, sekte, NPC |
