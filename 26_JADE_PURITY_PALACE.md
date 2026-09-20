@@ -3,8 +3,8 @@
 > **Modul:** 26 — Sect Detail: Istana Qinglian
 > **Wilayah:** Pulau suci Eastern Sea, 500 li dari Haiyun | **Tipe:** Ortodoks, penjaga jalur laut | **Hukum Utama:** Dao Abadi (varian Air/Laut)
 > **Estimasi Total Anggota:** ± 700 orang
-> **Rujukan silang:** `05_EASTERN_SEA_REGION.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.C, §8.1 & §8.2, `21_DEMONIC_FLAME_PALACE.md` (rival historis), `13_BESTIARY.md` (Kraken Muda Laut Timur)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `05_EASTERN_SEA_REGION.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `05_HAIYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.C, §8.1 & §8.2, `21_DEMONIC_FLAME_PALACE.md` (rival historis), `13_BESTIARY.md` (Kraken Muda Laut Timur)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `05_HAIYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -22,10 +22,10 @@ Sekte ortodoks penjaga jalur laut, protektif terhadap penduduk pesisir dan agak 
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Ketua Sekte Yu Qingzhu | Ketua Sekte | Void Severing Awal — detail lengkap di `05_EASTERN_SEA_REGION.md` |
+| Ketua Sekte Yu Qingzhu | Ketua Sekte | Void Severing Awal — detail lengkap di `05_HAIYUAN.md` |
 | Tetua Penjaga Laut Hai Chen | Penjaga Laut senior | Soul Transformation Awal |
 | Murid Muda Bening Lan | Murid Selam berbakat | Foundation Establishment Awal |
-| 🆕 Penjaga Laut Yun Tao | Penjaga Laut, khusus bertugas di dekat Floating Cloud Archipelago | Nascent Soul Awal, 49 tahun. Sering jadi penghubung antara Istana Qinglian dan tradisi netral Gencatan Pasar di sana (lihat `05_EASTERN_SEA_REGION.md`). |
+| 🆕 Penjaga Laut Yun Tao | Penjaga Laut, khusus bertugas di dekat Floating Cloud Archipelago | Nascent Soul Awal, 49 tahun. Sering jadi penghubung antara Istana Qinglian dan tradisi netral Gencatan Pasar di sana (lihat `05_HAIYUAN.md`). |
 
 ## Fasilitas & Bangunan
 | Fasilitas | Fungsi | Akses |
@@ -59,8 +59,8 @@ Istana Qinglian mempraktikkan **Hukum Dao Abadi varian Air/Laut** (`09` §3.C & 
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Istana Yanmo** (`21_DEMONIC_FLAME_PALACE.md`): rival historis di laut — kelemahan Api terhadap Air/Es membuat sekte ini secara mekanik cukup diuntungkan bila konflik langsung terjadi, meski kedua pihak lebih sering berjaga jarak.
-- **Armada Dagang Delapan Penjuru** (`05_EASTERN_SEA_REGION.md`): mitra pengawalan tepercaya untuk kapal dagang besar.
-- **Floating Cloud Archipelago** (`05_EASTERN_SEA_REGION.md`): dihormati sebagai penjaga tak resmi tradisi Gencatan Pasar di sana lewat kehadiran Yun Tao.
+- **Armada Dagang Delapan Penjuru** (`05_HAIYUAN.md`): mitra pengawalan tepercaya untuk kapal dagang besar.
+- **Floating Cloud Archipelago** (`05_HAIYUAN.md`): dihormati sebagai penjaga tak resmi tradisi Gencatan Pasar di sana lewat kehadiran Yun Tao.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Yun Tao melaporkan aktivitas laut dalam yang tidak biasa di dekat jalur Floating Cloud Archipelago beberapa waktu terakhir — belum cukup jelas untuk dianggap ancaman resmi, tapi cukup mencurigakan untuk membuatnya menyimpan laporan itu hanya untuk dirinya sendiri dan Yu Qingzhu. Bisa jadi pertanda sesuatu yang lebih besar dari Kraken Muda biasa (`13_BESTIARY.md`) sedang bergerak.
