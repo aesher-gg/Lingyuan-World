@@ -34,14 +34,14 @@
 | **Yūmei** | Mirror Lake Inn, Beiyuan | Core Formation, Awal | Sanxiu / Pemilik Mirror Lake Inn | [`Yūmei.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Y%C5%ABmei.md?v=1) |
 | **Lu Qingxuan** | Desa Qingmu, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Lu_Qingxuan.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Lu_Qingxuan.md?v=1) |
 | **Paijo** | Desa Huolian, Tianzhou | Mortal Foundation, Awal | Perguruan Tielu (Murid Magang) | [`Paijo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Paijo.md?v=1) |
-| **Azmud** | Desa Heiyan, Moyuan | Mortal Foundation, Awal | Sanxiu / Petani Herbal Rahasia | [`Azmud.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Azmud.md?v=1) |
+| **Azmud** | Desa Yemo, Moyuan | Mortal Foundation, Awal | Sanxiu / Petani Herbal Rahasia | [`Azmud.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Azmud.md?v=1) |
 | **Xu qin** | Desa Huolian, Tianzhou | Foundation Establishment, Awal | Perguruan Luohua (Murid Inti) & Vanguard Kekaisaran | [`Xu_qin.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Xu_qin.md?v=1) |
 | **Lu Chen** | Desa Qingmu, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Lu_Chen.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Lu_Chen.md?v=1) |
 | **Inggo** | Hutan Lingzhu, Qingyun | Core Formation, Awal | Sanxiu (tanpa sekte) | [`Inggo.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Inggo.md?v=1) |
-| **Yuma** | Desa Heiyan, Moyuan | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Yuma.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Yuma.md?v=1) |
+| **Yuma** | Desa Yemo, Moyuan | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Yuma.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Yuma.md?v=1) |
 | **Nafila** | Perbatasan Tianzhou & Qingyun | Foundation Establishment, Awal | Sanxiu (Kultivator Independen) | [`Nafila.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Nafila.md?v=1) |
 | **Shi Guta** | Perguruan Shilong, Qingyun | Mortal Foundation, Awal | Perguruan Shilong (Pemahat Magang) | [`Shi_Guta.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Shi_Guta.md?v=1) |
-| **Seraph** | Kota Luoyang Kecil, Tianzhou | Qi Refining, Puncak | Perguruan Luohua (Murid Senior) | [`Seraph.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Seraph.md?v=1) |
+| **Seraph** | Kota Haoyang, Tianzhou | Qi Refining, Puncak | Perguruan Luohua (Murid Senior) | [`Seraph.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Seraph.md?v=1) |
 | **Suy** | Tepi Sungai Desa Lingquan, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Suy.md`](https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Suy.md?v=1) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
