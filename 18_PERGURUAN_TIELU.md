@@ -9,7 +9,7 @@
 ---
 
 ## Karakteristik Singkat
-Dipandang kasar dan tak elegan oleh sekte besar, tapi dihormati karena kejujuran dagangnya — tak pernah memihak dalam konflik sekte manapun. Xiao Tie, mantan murid perguruan ini, sudah direkrut Sekte Yunjian — bukti bahwa perguruan ini kadang melahirkan bakat yang "lulus" ke sekte lebih besar meski dojonya sendiri tetap sederhana.
+Dipandang kasar dan tak elegan oleh sekte besar, tapi dihormati karena kejujuran dagangnya — tak pernah memihak dalam konflik sekte manapun. Xiao Tie, mantan murid perguruan ini, sudah direkrut Sekte Yunjian — bukti bahwa perguruan ini kadang melahirkan bakat yang "lulus" ke sekte lebih besar meski perguruan ini sendiri tetap sederhana.
 
 ## Hierarki Sederhana
 | Tingkat | Syarat Realm | Catatan |
