@@ -114,7 +114,7 @@ Sekte ortodoks terbesar & terkaya, punya kursi tetap di Dewan Sembilan Menteri. 
 ### 🗡️ Sekte Yunjian
 *400 li dari Tianjing — Hukum utama: Hukum Raga Sejati + Dao Abadi (hybrid)*
 
-Sekte menengah, populer di kalangan murid muda berbakat. Lebih santai dan terbuka dibanding sekte besar, sering jadi tempat murid pindahan dari dojo kecil yang menunjukkan bakat luar biasa.
+Sekte menengah, populer di kalangan murid muda berbakat. Lebih santai dan terbuka dibanding sekte besar, sering jadi tempat murid pindahan dari perguruan kecil yang menunjukkan bakat luar biasa.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
