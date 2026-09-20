@@ -9,7 +9,7 @@
 ## Organisasi Lintas Wilayah Utama
 
 ### 🤫 Paviliun Wanxin
-Info broker terbesar, berpusat di Bukit Melati (Tianzhou, lihat `02_CENTRAL_PLAINS.md`) dengan cabang rahasia di tiap provinsi. Tak berpihak pada faksi manapun, hanya setia pada bayaran; kode etiknya yang ketat soal kerahasiaan klien membuat semua faksi tetap mempercayai mereka meski saling bermusuhan.
+Info broker terbesar, berpusat di Bukit Melati (Tianzhou, lihat `02_TIANZHOU.md`) dengan cabang rahasia di tiap provinsi. Tak berpihak pada faksi manapun, hanya setia pada bayaran; kode etiknya yang ketat soal kerahasiaan klien membuat semua faksi tetap mempercayai mereka meski saling bermusuhan.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
