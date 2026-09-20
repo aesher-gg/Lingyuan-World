@@ -3,8 +3,8 @@
 > **Modul:** 17 — Sect Detail: Perguruan Luohua
 > **Wilayah:** Desa Xingcun, Tianzhou | **Tipe:** Dojo keluarga kecil | **Hukum Utama:** Dao Abadi (varian pedang sederhana, inferensi GM — belum resmi tercatat di `09` §8.2 karena skala kecil)
 > **Estimasi Total Anggota:** ± 15 orang
-> **Rujukan silang:** `02_CENTRAL_PLAINS.md`, `players.md` (karakter contoh "Jiang Ziling" adalah murid dojo ini), `09_CULTIVATION_LAW_SYSTEM.md` §3.0 (Law Origin)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `02_TIANZHOU.md`, `players.md` (karakter contoh "Jiang Ziling" adalah murid dojo ini), `09_CULTIVATION_LAW_SYSTEM.md` §3.0 (Law Origin)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -21,7 +21,7 @@ Perguruan kecil keluarga tunggal, dipandang remeh sekte besar karena hanya belas
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Guru Li Xingchun | Kepala Dojo | Foundation Establishment Puncak — detail lengkap di `02_CENTRAL_PLAINS.md` |
+| Guru Li Xingchun | Kepala Dojo | Foundation Establishment Puncak — detail lengkap di `02_TIANZHOU.md` |
 | Murid Senior Ah Jian | Murid utama | Qi Refining Puncak, ambisius & suka pamer (lihat karakteristik di `02`) |
 | 🆕 Jiang Ziling | Murid dojo (contoh karakter pemain) | Foundation Establishment Menengah — lihat profil lengkap di `players.md` |
 
@@ -42,7 +42,7 @@ Perguruan kecil keluarga tunggal, dipandang remeh sekte besar karena hanya belas
 | Murid Senior/Dipilih Guru | *Jurus Pedang Bunga Gugur* | Teknik Andalan | Gerakan pedang lembut namun mematikan meniru kelopak bunga jatuh — hanya diajarkan Li Xingchun langsung ke murid yang dianggap layak (lihat Law Origin di `players.md`, contoh Jiang Ziling) |
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Desa Xingcun** (`02_CENTRAL_PLAINS.md`): hubungan erat, dojo ini praktis bagian dari identitas desa — Kepala Desa Wu Lao menghormati Li Xingchun sebagai figur penting komunitas.
+- **Desa Xingcun** (`02_TIANZHOU.md`): hubungan erat, dojo ini praktis bagian dari identitas desa — Kepala Desa Wu Lao menghormati Li Xingchun sebagai figur penting komunitas.
 - **Sekte besar Tianzhou**: tidak ada hubungan resmi, tapi diam-diam "diawasi dengan hormat jarak jauh" karena reputasi alumni legendarisnya — beberapa sekte besar konon segan mengganggu dojo ini meski kekuatannya jauh di bawah mereka.
 - **Sekte Yunjian** (`16_SILVER_RAIN_SWORD_SCHOOL.md`): jalur "naik kelas" yang realistis bagi murid dojo ini yang ingin berkembang lebih jauh dari kapasitas dojo kecil ini.
 
