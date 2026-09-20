@@ -3,8 +3,8 @@
 > **Modul:** 31 — Sect Detail: Kuil Ciyun
 > **Wilayah:** 400 li dari Oasis Ganlu, Xisha | **Tipe:** Ortodoks Buddha, paling welas asih | **Hukum Utama:** Dao Abadi (varian Welas Asih/Buddhis)
 > **Estimasi Total Anggota:** ± 350 orang
-> **Rujukan silang:** `07_WESTERN_SACRED_DESERTS.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.C, §6 & §8.1–8.2
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `07_WESTERN_SACRED_DESERTS.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `07_XISHA.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.C, §6 & §8.1–8.2
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `07_XISHA.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -22,7 +22,7 @@ Sekte ortodoks Buddha paling welas asih di antara semua sekte ortodoks — mener
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Biara Kong Ci | Kepala Biara | Nascent Soul Puncak — detail lengkap di `07_WESTERN_SACRED_DESERTS.md` |
+| Kepala Biara Kong Ci | Kepala Biara | Nascent Soul Puncak — detail lengkap di `07_XISHA.md` |
 | Biksu Muda Ren Ci | Murid biara termuda | Mortal Foundation Menengah |
 | 🆕 Biksu Senior Miao Xin | Biksu Senior, sering memimpin ekspedisi bantuan ke wilayah jauh termasuk kadang Moyuan | Foundation Establishment Puncak, 44 tahun. Salah satu dari sedikit ortodoks yang benar-benar pernah menolong kalangan demonic tanpa pamrih — kisahnya jadi bagian reputasi sekte ini. |
 
@@ -54,7 +54,7 @@ Memakai **Hukum Dao Abadi varian Welas Asih/Buddhis** (`09` §3.C & §8.2). Mesk
 - Tidak boleh membunuh kecuali benar-benar dalam pembelaan diri mendesak — bahkan dalam pertarungan, teknik sekte ini secara desain lebih condong melumpuhkan daripada membunuh.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Konsorsium Kafilah Jinsha & Menara Bintang Jatuh** (`07_WESTERN_SACRED_DESERTS.md`): hubungan baik, banyak kafilah yang lewat menerima Segel Perlindungan Peziarah dari kuil ini.
+- **Konsorsium Kafilah Jinsha & Menara Bintang Jatuh** (`07_XISHA.md`): hubungan baik, banyak kafilah yang lewat menerima Segel Perlindungan Peziarah dari kuil ini.
 - **Sebagian kalangan demonic**: hubungan langka namun nyata — beberapa individu demonic yang pernah ditolong Miao Xin dan sejenisnya diam-diam menghormati kuil ini meski tak pernah terbuka soal itu.
 - **Sekte ortodoks lain**: dihormati sebagai "hati nurani" ortodoks, meski beberapa (seperti Sekte Tianjian) menganggap mereka terlalu lunak.
 
