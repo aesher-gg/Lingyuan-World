@@ -1,7 +1,7 @@
-# 🌊 Wuxian World — Dojo: Dojo Ombak Tenang
+# 🌊 Lingyuan World — Dojo: Perguruan Haizhen
 
-> **Modul:** 27 — Sect Detail: Dojo Ombak Tenang
-> **Wilayah:** Desa Nelayan Yuegang, Eastern Sea Region | **Tipe:** Dojo nelayan kecil | **Hukum Utama:** Dao Abadi varian Air ringan (inferensi GM)
+> **Modul:** 27 — Sect Detail: Perguruan Haizhen
+> **Wilayah:** Desa Nelayan Yuegang, Haiyuan | **Tipe:** Dojo nelayan kecil | **Hukum Utama:** Dao Abadi varian Air ringan (inferensi GM)
 > **Estimasi Total Anggota:** ± 30 orang
 > **Rujukan silang:** `05_EASTERN_SEA_REGION.md`, `26_JADE_PURITY_PALACE.md` (sekte besar tetangga)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `05_EASTERN_SEA_REGION.md`. Tambahan baru ditandai **🆕**.
@@ -40,7 +40,7 @@ Dianggap tak berguna oleh sekte darat, tapi sangat dihormati nelayan setempat ka
 | Kepala Dojo | *Gelombang Tenang Menenggelamkan* | Teknik Andalan | Dorongan air yang menyeret lawan ke bawah permukaan — teknik Ah Hai |
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Jade Purity Palace** (`26_JADE_PURITY_PALACE.md`): hubungan goodwill informal — sekte besar ini kadang mempekerjakan lulusan dojo kecil ini sebagai pemandu lokal perairan dangkal.
+- **Istana Qinglian** (`26_JADE_PURITY_PALACE.md`): hubungan goodwill informal — sekte besar ini kadang mempekerjakan lulusan dojo kecil ini sebagai pemandu lokal perairan dangkal.
 - **Desa Nelayan Yuegang** (`05_EASTERN_SEA_REGION.md`): jantung komunitas, dojo ini praktis identik dengan identitas desa.
 
 ## 🆕 Rahasia & Plot Hook Internal
