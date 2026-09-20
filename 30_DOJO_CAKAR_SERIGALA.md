@@ -3,8 +3,8 @@
 > **Modul:** 30 — Sect Detail: Perguruan Langxue
 > **Wilayah:** Desa Xueying, Beiyuan | **Tipe:** Dojo suku pemburu | **Hukum Utama:** Raga Sejati (varian primal/pemburu, inferensi GM)
 > **Estimasi Total Anggota:** ± 40 orang (bagian dari suku pemburu Desa Xueying)
-> **Rujukan silang:** `06_NORTHERN_DESOLATE_TERRITORY.md`
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_NORTHERN_DESOLATE_TERRITORY.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `06_BEIYUAN.md`
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_BEIYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -21,7 +21,7 @@ Dipandang primitif oleh sekte kota, tapi sangat dihormati di kalangan sukunya se
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Suku Xue Lang | Kepala Suku & Dojo | Foundation Establishment Puncak — detail lengkap di `06_NORTHERN_DESOLATE_TERRITORY.md` |
+| Kepala Suku Xue Lang | Kepala Suku & Dojo | Foundation Establishment Puncak — detail lengkap di `06_BEIYUAN.md` |
 | Pemburu Muda Ah Bing | Pemburu berbakat | Qi Refining Puncak |
 
 ## Fasilitas & Bangunan
@@ -41,7 +41,7 @@ Dipandang primitif oleh sekte kota, tapi sangat dihormati di kalangan sukunya se
 | Kepala Suku | *Cakaran Serigala Salju* | Teknik Andalan | Cakaran tangan kuat meniru gerak serigala menerkam — teknik Xue Lang |
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Benteng Beikuan** (`06_NORTHERN_DESOLATE_TERRITORY.md`): hubungan hati-hati jarak jauh — garnisun kekaisaran dekat wilayah suku ini, ketegangan historis akibat ekspansi lama belum sepenuhnya reda meski tak ada konflik terbuka saat ini.
+- **Benteng Beikuan** (`06_BEIYUAN.md`): hubungan hati-hati jarak jauh — garnisun kekaisaran dekat wilayah suku ini, ketegangan historis akibat ekspansi lama belum sepenuhnya reda meski tak ada konflik terbuka saat ini.
 - **Balai Yunyao** (`28_WHITECLOUD_MEDICINE_HALL.md`): hubungan baik lewat cabang Desa Bingxin yang tak jauh — kadang bertukar hasil buruan dengan bahan obat.
 
 ## 🆕 Rahasia & Plot Hook Internal
