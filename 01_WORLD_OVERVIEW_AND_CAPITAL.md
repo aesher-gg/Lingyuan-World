@@ -29,9 +29,9 @@
 
 - **Tianzhou ↔ Qingyun:** 1.100 li (perbatasan darat, jalur utama lewat Gunung Sanxuan)
 - **Tianzhou ↔ Moyuan:** 900 li (perbatasan darat, jalur Lembah Tianlie)
-- **Qingyun ↔ Northern Territory:** 1.300 li (harus lewat jalur pegunungan)
-- **Eastern Sea ↔ Moyuan:** 1.500 li (jalur laut, sering diserang bajak)
-- **Xisha ↔ Northern Territory:** 2.600 li (jarak terjauh antar wilayah tetangga, jarang dilalui)
+- **Qingyun ↔ Beiyuan:** 1.300 li (harus lewat jalur pegunungan)
+- **Haiyuan ↔ Moyuan:** 1.500 li (jalur laut, sering diserang bajak)
+- **Xisha ↔ Beiyuan:** 2.600 li (jarak terjauh antar wilayah tetangga, jarang dilalui)
 
 > **Catatan anti-cheat perjalanan:** setiap klaim perjalanan/pemerolehan bahan dari wilayah tertentu harus konsisten dengan tabel jarak & waktu tempuh di atas — tidak ada perjalanan "instan" tanpa alasan naratif kuat (formasi teleportasi, dsb yang sudah tervalidasi GM).
 
