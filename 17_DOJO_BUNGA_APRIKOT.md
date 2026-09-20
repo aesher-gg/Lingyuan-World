@@ -1,7 +1,7 @@
-# 🌸 Wuxian World — Dojo: Dojo Bunga Aprikot
+# 🌸 Lingyuan World — Dojo: Perguruan Luohua
 
-> **Modul:** 17 — Sect Detail: Dojo Bunga Aprikot
-> **Wilayah:** Desa Xingcun, Central Plains | **Tipe:** Dojo keluarga kecil | **Hukum Utama:** Dao Abadi (varian pedang sederhana, inferensi GM — belum resmi tercatat di `09` §8.2 karena skala kecil)
+> **Modul:** 17 — Sect Detail: Perguruan Luohua
+> **Wilayah:** Desa Xingcun, Tianzhou | **Tipe:** Dojo keluarga kecil | **Hukum Utama:** Dao Abadi (varian pedang sederhana, inferensi GM — belum resmi tercatat di `09` §8.2 karena skala kecil)
 > **Estimasi Total Anggota:** ± 15 orang
 > **Rujukan silang:** `02_CENTRAL_PLAINS.md`, `players.md` (karakter contoh "Jiang Ziling" adalah murid dojo ini), `09_CULTIVATION_LAW_SYSTEM.md` §3.0 (Law Origin)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md`. Tambahan baru ditandai **🆕**.
@@ -43,8 +43,8 @@ Perguruan kecil keluarga tunggal, dipandang remeh sekte besar karena hanya belas
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Desa Xingcun** (`02_CENTRAL_PLAINS.md`): hubungan erat, dojo ini praktis bagian dari identitas desa — Kepala Desa Wu Lao menghormati Li Xingchun sebagai figur penting komunitas.
-- **Sekte besar Central Plains**: tidak ada hubungan resmi, tapi diam-diam "diawasi dengan hormat jarak jauh" karena reputasi alumni legendarisnya — beberapa sekte besar konon segan mengganggu dojo ini meski kekuatannya jauh di bawah mereka.
-- **Silver Rain Sword School** (`16_SILVER_RAIN_SWORD_SCHOOL.md`): jalur "naik kelas" yang realistis bagi murid dojo ini yang ingin berkembang lebih jauh dari kapasitas dojo kecil ini.
+- **Sekte besar Tianzhou**: tidak ada hubungan resmi, tapi diam-diam "diawasi dengan hormat jarak jauh" karena reputasi alumni legendarisnya — beberapa sekte besar konon segan mengganggu dojo ini meski kekuatannya jauh di bawah mereka.
+- **Sekte Yunjian** (`16_SILVER_RAIN_SWORD_SCHOOL.md`): jalur "naik kelas" yang realistis bagi murid dojo ini yang ingin berkembang lebih jauh dari kapasitas dojo kecil ini.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Rumor soal alumnus legendaris dojo ini tak pernah benar-benar mati — sesekali ada orang asing yang singgah di Desa Xingcun bertanya soal "dojo kecil yang melahirkan pendekar itu", lalu pergi lagi tanpa penjelasan. Li Xingchun sendiri tak pernah menjelaskan lebih jauh soal siapa alumnus itu sebenarnya — apakah ia tahu lebih banyak dari yang dikatakannya, atau rumor ini sepenuhnya melebih-lebihkan sesuatu yang kecil, dibiarkan terbuka bagi GM.
