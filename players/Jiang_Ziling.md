@@ -1,12 +1,12 @@
 # 👤 Jiang Ziling
 
 > **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_CENTRAL_PLAINS.md`, `17_DOJO_BUNGA_APRIKOT.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_TIANZHOU.md`, `17_DOJO_BUNGA_APRIKOT.md`
 
 ---
 
 **Nama Karakter:** Jiang Ziling *(CONTOH)*
-**Lokasi Awal:** Desa Xingcun, Tianzhou *(lihat `02_CENTRAL_PLAINS.md`)*
+**Lokasi Awal:** Desa Xingcun, Tianzhou *(lihat `02_TIANZHOU.md`)*
 **Realm & Stage Awal:** Foundation Establishment (Pembentukan Fondasi), Menengah — Qi Cap: 750 *(500 × 1,5, RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Dao Abadi (varian pedang ringan, gaya Perguruan Luohua)
 **Law Origin:** Jalur Guru — diajarkan oleh **Guru Li Xingchun**, Kepala Perguruan Luohua, sejak usia 14 tahun. Teknik yang sudah dikuasai: *Jurus Pedang Bunga Gugur* (tingkat dasar).
