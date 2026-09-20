@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Suy
-**Lokasi Awal:** Tepi Sungai Desa Qingshui, Central Plains *(lihat `02_CENTRAL_PLAINS.md`)*
+**Lokasi Awal:** Tepi Sungai Desa Qingshui, Tianzhou *(lihat `02_CENTRAL_PLAINS.md`)*
 **Realm & Stage Awal:** Mortal Foundation (Fondasi Fana), Awal — Qi Cap: 0 *(RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Belum ada — akan ditentukan lewat roleplay
 **Law Origin (jika sudah ada Hukum):** Belum ada
