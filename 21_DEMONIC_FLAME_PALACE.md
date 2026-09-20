@@ -3,8 +3,8 @@
 > **Modul:** 21 — Sect Detail: Istana Yanmo
 > **Wilayah:** Hellfire Island, 400 li dari daratan selatan | **Tipe:** Demonic, militeristik | **Hukum Utama:** Qi Naga Api
 > **Estimasi Total Anggota:** ± 3.100 orang (kekuatan militer demonic terbesar dunia)
-> **Rujukan silang:** `04_SOUTHERN_DEMON_DOMAIN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.B & §8.2, `13_BESTIARY.md` (Serigala Api Neraka dipakai sebagai makhluk uji), `26_JADE_PURITY_PALACE.md` (rival historis)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_SOUTHERN_DEMON_DOMAIN.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `04_MOYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.B & §8.2, `13_BESTIARY.md` (Serigala Api Neraka dipakai sebagai makhluk uji), `26_JADE_PURITY_PALACE.md` (rival historis)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_MOYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -24,7 +24,7 @@ Kekuatan militer demonic terbesar di dunia, dipimpin sosok berumur 210 tahun yan
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Iblis Api Abadi Yan Wushen | Ketua | Tribulation Crossing Awal, 210 tahun — detail lengkap di `04_SOUTHERN_DEMON_DOMAIN.md` |
+| Iblis Api Abadi Yan Wushen | Ketua | Tribulation Crossing Awal, 210 tahun — detail lengkap di `04_MOYUAN.md` |
 | Penguji Zona Inti Huo Jiang | Penjaga & penguji Zona Inti | Soul Transformation Awal |
 | Murid Zona Luar Xiao Yan | Menjalani ujian Zona Luar | Mortal Foundation Puncak |
 | Murid Inti Calon Feng Mo | Hampir lulus Zona Inti | Foundation Establishment Puncak |
