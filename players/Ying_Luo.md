@@ -1,12 +1,12 @@
 # 👤 Ying Luo
 
 > **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `03_AZURE_MOUNTAIN_RANGE.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `03_QINGYUN.md`
 
 ---
 
 **Nama Karakter:** Ying Luo
-**Lokasi Awal:** Desa Qingfeng, Qingyun *(lihat `03_AZURE_MOUNTAIN_RANGE.md`)*
+**Lokasi Awal:** Desa Qingfeng, Qingyun *(lihat `03_QINGYUN.md`)*
 **Realm & Stage Awal:** Mortal Foundation (Fondasi Fana), Awal — Qi Cap: 0 *(RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Belum ada — akan ditentukan lewat roleplay
 **Law Origin (jika sudah ada Hukum):** Belum ada
