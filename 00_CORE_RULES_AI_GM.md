@@ -403,10 +403,10 @@ Semakin tinggi realm, semakin lama bisa menahan lapar (dari 6 jam di Realm 0 sam
 | `11_VITALITY_HUNGER_SYSTEM.md` | HP & sistem kelaparan |
 | `12_COMBAT_SYSTEM.md` | Sistem pertempuran turn-based |
 | `13_BESTIARY.md` | Monster & spirit beast per wilayah |
-| `14`–`37_*.md` | 24 file sekte/dojo/organisasi individual: hierarki, fasilitas, artefak/seal/talisman, kurikulum teknik, Hukum detail — daftar lengkap & nama file per sekte ada di `INDEX.md` §1a |
+| `14`–`37_*.md` | 24 file sekte/perguruan/organisasi individual: hierarki, fasilitas, artefak/seal/talisman, kurikulum teknik, Hukum detail — daftar lengkap & nama file per sekte ada di `INDEX.md` §1a |
 | `39_CUSTOM_EVENTS.md` | 🎭 **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
 | `40_CUSTOM_LAWS.md` | 📜 **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| `41_CUSTOM_SECTS.md` | 🏯 **Sekte/Dojo/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| `41_CUSTOM_SECTS.md` | 🏯 **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | `42_CUSTOM_TECHNIQUES.md` | ⚔️ **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 
 Lihat `README.md` untuk cara pakai lengkap & template pesan pembuka sesi.
