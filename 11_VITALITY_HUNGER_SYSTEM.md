@@ -40,7 +40,7 @@ HP(realm, stage, law) = HPBase(realm, stage) × LawHPMultiplier(law)
 | Hukum Gu Karma (Gu Immortal Path) | ×0,7 | Kekuatan licik-berisiko, trade-off klasik "kekuatan besar, harga mahal" |
 | Hukum Bayangan Darah (Custom) | ×0,85 (×1,0 saat Kontrak Aktif) | Tanpa ideologi tetap = kurang stabil |
 | Hukum Roh Hantu (Custom) | ×0,75 | Berbasis jiwa/vitalitas, rapuh secara raga |
-| 🆕 Hukum Pisau Sunyi (Custom) | ×0,8 | Presisi & disiplin eksekutor — cukup tangguh tapi bukan tanky, lihat `33_PERKUMPULAN_PISAU_SUNYI.md` |
+| 🆕 Hukum Pisau Sunyi (Custom) | ×0,8 | Presisi & disiplin eksekutor — cukup tangguh tapi bukan tanky, lihat `33_PERKUMPULAN_WUYING.md` |
 
 📌 Anti-cheat: Hukum Custom baru WAJIB diberi LawHPMultiplier oleh AI GM saat origin-nya divalidasi — rentang wajib **0,6–1,5**, tidak boleh di luar itu tanpa kelemahan tambahan yang jelas.
 
