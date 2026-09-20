@@ -64,10 +64,10 @@ Tersebar di semua provinsi. Netral mutlak dalam konflik, dilindungi kode etik ta
 
 | NPC | Peran | Lokasi | Umur | Realm & Stage | Karakteristik |
 |---|---|---|---|---|---|
-| Rentenir Kejam Qian Bo | Pemberi hutang bunga tinggi | Kota Luoyang Kecil | 54 | Non-Kultivator | Tak segan menyewa preman kultivator lemah untuk menagih hutang dengan kekerasan |
-| Bandar Judi "Tangan Emas" | Pemilik rumah judi | Kota Fengyang | 48 | Non-Kultivator | Licik, curang secara halus, punya koneksi ke pejabat korup kota |
+| Rentenir Kejam Qian Bo | Pemberi hutang bunga tinggi | Kota Haoyang | 54 | Non-Kultivator | Tak segan menyewa preman kultivator lemah untuk menagih hutang dengan kekerasan |
+| Bandar Judi "Tangan Emas" | Pemilik rumah judi | Kota Tianhe | 48 | Non-Kultivator | Licik, curang secara halus, punya koneksi ke pejabat korup kota |
 | Pejabat Korup Menteri Kecil Fu | Pejabat rendahan istana | Ibu Kota Tianjing | 51 | Non-Kultivator | Suka menerima suap dari sekte manapun demi kepentingan sendiri, pengecut saat terancam |
-| Mucikari Paviliun Merah | Pemilik rumah hiburan | Kota Luoyang Kecil | 45 | Non-Kultivator | Tahu banyak rahasia pelanggan bangsawan & kultivator, kadang menjual info diam-diam ke Paviliun Wanxin |
+| Mucikari Paviliun Merah | Pemilik rumah hiburan | Kota Haoyang | 45 | Non-Kultivator | Tahu banyak rahasia pelanggan bangsawan & kultivator, kadang menjual info diam-diam ke Paviliun Wanxin |
 | Penipu Ulung "Lidah Manis" Tian Hua | Penipu keliling | Berpindah-pindah (Tianzhou) | 30 | Non-Kultivator | Pandai menyamar sebagai utusan sekte palsu untuk memeras desa kecil |
 | Preman Pasar Kasar Datou | Pemalak pasar | Kota Chishui | 27 | Non-Kultivator | Kuat secara fisik alami, memalak pedagang kecil demi "uang keamanan" |
 | Centeng Bayaran Tanpa Nama | Penjaga bayaran rumah judi/rentenir | Berbagai kota | 20–35an | Non-Kultivator (kadang Mortal Foundation Awal, Qi Cap 0) | Disewa siapa saja yang mampu bayar, tak punya loyalitas tetap |
