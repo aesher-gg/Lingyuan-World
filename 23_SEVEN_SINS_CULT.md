@@ -1,7 +1,7 @@
-# 👁️ Wuxian World — Sekte: Seven Sins Cult
+# 👁️ Lingyuan World — Sekte: Kultus Qisha
 
-> **Modul:** 23 — Sect Detail: Seven Sins Cult
-> **Wilayah:** Hutan belantara selatan, Southern Demon Domain | **Tipe:** Kultus, dibenci semua faksi | **Hukum Utama:** Gu Karma (varian instan, Sin tinggi)
+> **Modul:** 23 — Sect Detail: Kultus Qisha
+> **Wilayah:** Hutan belantara selatan, Moyuan | **Tipe:** Kultus, dibenci semua faksi | **Hukum Utama:** Gu Karma (varian instan, Sin tinggi)
 > **Estimasi Total Anggota:** ± 200 orang (fluktuatif, sering diburu)
 > **Rujukan silang:** `04_SOUTHERN_DEMON_DOMAIN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.D, §5–6 & §8.2
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_SOUTHERN_DEMON_DOMAIN.md`. Tambahan baru ditandai **🆕**.
@@ -48,7 +48,7 @@ Kultus perekrut lewat janji kekuatan instan — paling dibenci semua faksi terma
 | Tujuh Wajah (rahasia) | *Bisikan Tujuh Wajah* | Jurus Ultimate | Tier 7, Sheng-Grade | Teknik manipulasi pikiran, menyerang mental bukan fisik — teknik sang Ketua |
 
 ## Hukum Kultivasi Sekte — Detail Lengkap
-Seven Sins Cult mempraktikkan versi paling ekstrem dari **Hukum Gu Karma** (`09` §3.D & §8.2): "kekuatan instan" yang dijanjikan benar secara mekanik — Gu ditanam paksa ke pengikut baru untuk lompatan qi cepat, TAPI Sin Points melonjak jauh lebih cepat dari jalur Gu Karma normal, dan efek samping permanen (racun, mutasi, ketergantungan) jauh lebih sering terjadi. Inilah alasan mekanik kenapa faksi ini paling dibenci semua pihak — KarmaModifier mereka nyaris selalu mendekati batas maksimum 3,0 (`09` §5), membuat Tribulasi jalur ini jadi salah satu yang paling mematikan di dunia.
+Kultus Qisha mempraktikkan versi paling ekstrem dari **Hukum Gu Karma** (`09` §3.D & §8.2): "kekuatan instan" yang dijanjikan benar secara mekanik — Gu ditanam paksa ke pengikut baru untuk lompatan qi cepat, TAPI Sin Points melonjak jauh lebih cepat dari jalur Gu Karma normal, dan efek samping permanen (racun, mutasi, ketergantungan) jauh lebih sering terjadi. Inilah alasan mekanik kenapa faksi ini paling dibenci semua pihak — KarmaModifier mereka nyaris selalu mendekati batas maksimum 3,0 (`09` §5), membuat Tribulasi jalur ini jadi salah satu yang paling mematikan di dunia.
 
 ## Kode Etik & Aturan Internal
 - Tidak ada kode etik nyata — inilah yang membedakan kultus ini dari sekte demonic lain yang tetap punya batasan.
@@ -56,7 +56,7 @@ Seven Sins Cult mempraktikkan versi paling ekstrem dari **Hukum Gu Karma** (`09`
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Seluruh faksi ortodoks dan demonic**: bermusuhan mutlak, sering diburu bersama oleh kedua sisi — satu-satunya faksi di dunia yang benar-benar tidak punya sekutu tetap manapun.
-- **Blood Shadow Alliance** (`24_BLOOD_SHADOW_ALLIANCE.md`): kadang bersinggungan karena sama-sama beroperasi di wilayah liar Southern Demon Domain, tapi Blood Shadow secara eksplisit menolak bekerja sama dengan kultus ini karena dianggap "tak bisa dipercaya sama sekali".
+- **Aliansi Anying** (`24_BLOOD_SHADOW_ALLIANCE.md`): kadang bersinggungan karena sama-sama beroperasi di wilayah liar Moyuan, tapi Blood Shadow secara eksplisit menolak bekerja sama dengan kultus ini karena dianggap "tak bisa dipercaya sama sekali".
 
 ## 🆕 Rahasia & Plot Hook Internal
 Yu Ao ("Kesombongan") diam-diam mengumpulkan bukti kelemahan Tujuh Wajah, berharap suatu hari cukup kuat untuk merebut posisi Ketua. Jika seorang karakter pemain entah sengaja atau tidak membantu Yu Ao mendapatkan informasi/kekuatan tambahan, ini bisa memicu perebutan kekuasaan internal yang mengguncang seluruh struktur kultus.
