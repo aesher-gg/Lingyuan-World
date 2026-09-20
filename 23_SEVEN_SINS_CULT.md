@@ -3,8 +3,8 @@
 > **Modul:** 23 — Sect Detail: Kultus Qisha
 > **Wilayah:** Hutan belantara selatan, Moyuan | **Tipe:** Kultus, dibenci semua faksi | **Hukum Utama:** Gu Karma (varian instan, Sin tinggi)
 > **Estimasi Total Anggota:** ± 200 orang (fluktuatif, sering diburu)
-> **Rujukan silang:** `04_SOUTHERN_DEMON_DOMAIN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.D, §5–6 & §8.2
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_SOUTHERN_DEMON_DOMAIN.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `04_MOYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.D, §5–6 & §8.2
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_MOYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -22,7 +22,7 @@ Kultus perekrut lewat janji kekuatan instan — paling dibenci semua faksi terma
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Pemimpin Kultus "Tujuh Wajah" | Ketua | Void Severing Awal, 130 tahun — detail lengkap di `04_SOUTHERN_DEMON_DOMAIN.md` |
+| Pemimpin Kultus "Tujuh Wajah" | Ketua | Void Severing Awal, 130 tahun — detail lengkap di `04_MOYUAN.md` |
 | Pengikut Baru Terpedaya Lian | Korban rekrutan baru | Qi Refining Puncak |
 | 🆕 Wajah "Keserakahan" Tan Lang | Salah satu dari tujuh Lieutenant Wajah, mengurus rekrutmen & janji palsu | Soul Transformation Awal, 52 tahun. Paling sering turun langsung merekrut korban baru dengan janji kekayaan instan — sisa enam posisi Wajah lain sengaja dibiarkan GM tentukan sendiri sesuai kebutuhan cerita (tradisi kultus ini memang jarang punya tujuh Wajah lengkap sekaligus). |
 | 🆕 Wajah "Kesombongan" Yu Ao | Wajah kedua yang saat ini terisi, mengurus disiplin internal & hukuman pengkhianat | Core Formation Puncak, 44 tahun. Paling ambisius di antara Wajah yang ada, diam-diam mengincar posisi Tujuh Wajah suatu hari. |
