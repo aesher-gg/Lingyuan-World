@@ -1,6 +1,6 @@
-# 🏜️ Wuxian World — VIII. Western Sacred Deserts (Gurun Suci Barat) 西聖漠
+# 🏜️ Lingyuan World — VIII. Xisha (Gurun Suci Barat) 西聖漠
 
-> **Modul:** 07 — Western Sacred Deserts
+> **Modul:** 07 — Xisha
 > **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8, `13_BESTIARY.md`
 
 ## Fakta Cepat
@@ -10,7 +10,7 @@
 | Luas | 6 juta li² |
 | Populasi | ± 18 juta |
 | Kekayaan | ± 150 juta Tael |
-| Jarak dari Central Plains | 2.400 li (terjauh dari ibu kota) |
+| Jarak dari Tianzhou | 2.400 li (terjauh dari ibu kota) |
 | Jarak dari Northern Territory | 2.600 li (terjauh antar wilayah tetangga) |
 | Qi Density Modifier | ×0,4 (Termiskin) — hanya kultivator Realm 4 (Core Formation) ke atas yang disarankan menyeberang |
 | Monster khas wilayah | Cacing Pasir Raksasa, Elang Pasir Iblis, Skorpion Emas Legendaris (Ancient Guardian) (detail: `13_BESTIARY.md`) |
@@ -19,7 +19,7 @@
 
 ## Lokasi & Situs Khusus
 
-- **Bukit Pasir Menyanyi** (±350 li dari Oasis Ganlu) — dianggap tempat suci, dijaga longgar Azure Cloud Temple sebagai lokasi ziarah.
+- **Bukit Pasir Menyanyi** (±350 li dari Oasis Ganlu) — dianggap tempat suci, dijaga longgar Kuil Ciyun sebagai lokasi ziarah.
 - **Formasi Batu Buddha Tidur** (±600 li dari Reruntuhan Gushatta) — reruntuhan biara kuno berbentuk Buddha raksasa.
 
 ### Oasis Ganlu (500 li dari perbatasan)
@@ -34,7 +34,7 @@ Pemandu gurun turun-temurun, miskin sumber daya tapi keahliannya dihargai.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Pemandu Sha Ying | Kepala Dojo Mata Elang Pasir | 54 | Foundation Establishment, Puncak | **1.000** | *Panah Elang Pasir* — tembakan panah presisi tinggi dari jarak jauh | Netral profesional, tenang dan tajam mengamati, jarang menyerang kecuali dibayar untuk melindungi |
+| Kepala Pemandu Sha Ying | Kepala Perguruan Shaying | 54 | Foundation Establishment, Puncak | **1.000** | *Panah Elang Pasir* — tembakan panah presisi tinggi dari jarak jauh | Netral profesional, tenang dan tajam mengamati, jarang menyerang kecuali dibayar untuk melindungi |
 | Pemandu Muda Xiao Ying | Pemandu magang | 17 | Qi Refining, Menengah | **150** | *Lemparan Pisau Pelacak* — pisau kecil untuk menandai jejak, bukan untuk membunuh | Berbakat dan penasaran, ingin menjelajah lebih jauh, sedikit gegabah karena masih muda |
 
 ### Reruntuhan Gushatta (900 li)
@@ -56,7 +56,7 @@ Bekas kota kuno, kini pasar gelap barang antik spiritual.
 | Pemilik Kedai Air Ah Quan | Pemilik satu-satunya sumber air permanen kota | 60 | Foundation Establishment, Awal | **500** | Tidak bertarung | Dihormati dan adil, tenang, tak pernah pilih kasih membagi air pada siapa pun |
 
 ### 🆕 Lembah Angin Meratung (Whistling Canyon)
-1.250 li dari perbatasan Central Plains, celah gurun terjal batu pasir merah di mana angin kencang meniup pasir seperti pisau. Menjaga reruntuhan laboratorium alkimia kuno. Angin pasir tajam mengakibatkan resiko luka fisik ringan dan kebutaan sementara jika tidak memakai kacamata pasir/perlindungan Qi.
+1.250 li dari perbatasan Tianzhou, celah gurun terjal batu pasir merah di mana angin kencang meniup pasir seperti pisau. Menjaga reruntuhan laboratorium alkimia kuno. Angin pasir tajam mengakibatkan resiko luka fisik ringan dan kebutaan sementara jika tidak memakai kacamata pasir/perlindungan Qi.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -76,17 +76,17 @@ Oasis alami tersembunyi di kedalaman gurun barat yang dikelilingi vegetasi pohon
 
 ## Sekte & Karakteristiknya
 
-### 🕊️ Azure Cloud Temple
+### 🕊️ Kuil Ciyun
 *400 li dari Oasis Ganlu — Hukum utama: Hukum Dao Abadi (varian Welas Asih/Buddhis)*
 
 Sekte ortodoks Buddha. Paling welas asih di antara semua sekte ortodoks, menerima murid dari kalangan manapun tanpa memandang asal-usul, dihormati bahkan oleh sebagian kalangan demonic yang pernah ditolong mereka.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Biara Kong Ci | Ketua Azure Cloud Temple | 110 | Nascent Soul, Puncak | **25.000** | *Telapak Welas Asih* — dorongan qi lembut yang lebih sering menyembuhkan daripada melukai | Sangat welas asih dan sabar, hampir tak pernah marah, menerima siapa pun tanpa pandang asal-usul |
+| Kepala Biara Kong Ci | Ketua Kuil Ciyun | 110 | Nascent Soul, Puncak | **25.000** | *Telapak Welas Asih* — dorongan qi lembut yang lebih sering menyembuhkan daripada melukai | Sangat welas asih dan sabar, hampir tak pernah marah, menerima siapa pun tanpa pandang asal-usul |
 | Biksu Muda Ren Ci | Murid biara termuda | 15 | Mortal Foundation, Menengah | 0 | *Pukulan Lembut Penolong* — gerak dasar bertahan tanpa niat melukai | Polos dan penuh belas kasih, tak suka konflik sama sekali, suka menolong tanpa berpikir panjang |
 
-### 🦅 Dojo Mata Elang Pasir (Desa Shayan)
+### 🦅 Perguruan Shaying (Desa Shayan)
 Perguruan kecil. Bukan sekte petarung, lebih dikenal sebagai kelompok pemandu profesional yang disewa sekte besar manapun tanpa terikat afiliasi tetap — netralitas inilah yang membuat mereka dipercaya semua pihak. *(NPC: lihat tabel Desa Shayan di atas.)*
 
 ---
