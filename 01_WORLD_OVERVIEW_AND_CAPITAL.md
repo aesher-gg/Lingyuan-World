@@ -27,8 +27,8 @@
 
 ### Jarak Antar Wilayah Berdekatan (perbatasan langsung)
 
-- **Tianzhou ↔ Qingyun:** 1.100 li (perbatasan darat, jalur utama lewat Tri-Sect Mountain)
-- **Tianzhou ↔ Moyuan:** 900 li (perbatasan darat, jalur Scar of Heaven)
+- **Tianzhou ↔ Qingyun:** 1.100 li (perbatasan darat, jalur utama lewat Gunung Sanxuan)
+- **Tianzhou ↔ Moyuan:** 900 li (perbatasan darat, jalur Lembah Tianlie)
 - **Qingyun ↔ Northern Territory:** 1.300 li (harus lewat jalur pegunungan)
 - **Eastern Sea ↔ Moyuan:** 1.500 li (jalur laut, sering diserang bajak)
 - **Xisha ↔ Northern Territory:** 2.600 li (jarak terjauh antar wilayah tetangga, jarang dilalui)
