@@ -1,7 +1,7 @@
 # 👤 Paijo
 
 > **Data Karakter (Save State / Profil Karakter)** — Dikelola Admin.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_CENTRAL_PLAINS.md`, `18_DOJO_GODAM_BESI.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_TIANZHOU.md`, `18_DOJO_GODAM_BESI.md`
 
 ---
 
