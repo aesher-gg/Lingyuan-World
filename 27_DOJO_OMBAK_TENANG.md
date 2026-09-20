@@ -3,8 +3,8 @@
 > **Modul:** 27 — Sect Detail: Perguruan Haizhen
 > **Wilayah:** Desa Nelayan Yuegang, Haiyuan | **Tipe:** Dojo nelayan kecil | **Hukum Utama:** Dao Abadi varian Air ringan (inferensi GM)
 > **Estimasi Total Anggota:** ± 30 orang
-> **Rujukan silang:** `05_EASTERN_SEA_REGION.md`, `26_JADE_PURITY_PALACE.md` (sekte besar tetangga)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `05_EASTERN_SEA_REGION.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `05_HAIYUAN.md`, `26_JADE_PURITY_PALACE.md` (sekte besar tetangga)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `05_HAIYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -21,7 +21,7 @@ Dianggap tak berguna oleh sekte darat, tapi sangat dihormati nelayan setempat ka
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Dojo Ombak Ah Hai | Kepala Dojo | Foundation Establishment Puncak — detail lengkap di `05_EASTERN_SEA_REGION.md` |
+| Kepala Dojo Ombak Ah Hai | Kepala Dojo | Foundation Establishment Puncak — detail lengkap di `05_HAIYUAN.md` |
 | 🆕 Murid Ombak Senior Xia Yu | Murid paling senior, sering mewakili Ah Hai memimpin latihan | Qi Refining Puncak, 33 tahun. Mantan nelayan biasa yang baru mulai kultivasi di usia dewasa — contoh nyata bahwa dojo ini menerima siapa saja tanpa syarat usia. |
 
 ## Fasilitas & Bangunan
@@ -41,7 +41,7 @@ Dianggap tak berguna oleh sekte darat, tapi sangat dihormati nelayan setempat ka
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Istana Qinglian** (`26_JADE_PURITY_PALACE.md`): hubungan goodwill informal — sekte besar ini kadang mempekerjakan lulusan dojo kecil ini sebagai pemandu lokal perairan dangkal.
-- **Desa Nelayan Yuegang** (`05_EASTERN_SEA_REGION.md`): jantung komunitas, dojo ini praktis identik dengan identitas desa.
+- **Desa Nelayan Yuegang** (`05_HAIYUAN.md`): jantung komunitas, dojo ini praktis identik dengan identitas desa.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Tidak ada rahasia gelap — dojo ini justru menyimpan cerita hangat: Jaring Berkah Laut konon pernah menyelamatkan seluruh awak kapal dalam badai besar puluhan tahun lalu, kisah yang diceritakan turun-temurun ke tiap murid baru sebagai motivasi mengapa dojo ini ada.
