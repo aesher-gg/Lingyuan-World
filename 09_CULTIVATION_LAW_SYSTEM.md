@@ -260,7 +260,7 @@ Memengaruhi regenerasi qi Hukum Dao Abadi (§3.C) dan ketersediaan bahan terobos
 |---|---|---|
 | Trial Kehampaan (Realm 6→7) | Reruntuhan Gushatta, Xisha | Reruntuhan kota kuno = tempat alami untuk trial kuno/formasi purba |
 | Tribulasi Petir Realm 7→8 | Platform Tribulasi milik masing-masing sekte besar (mis. puncak Sekte Tianjian, Hellfire Island, dsb) | Butuh langit terbuka bebas formasi pelindung — tiap sekte besar punya "Tribulation Platform" sendiri |
-| Tribulasi Petir Agung (Realm 8→9) | **Hanya boleh terjadi di Scar of Heaven** (perbatasan Tianzhou–Moyuan) | "Retakan langit" satu-satunya di dunia yang memungkinkan Tribulasi Agung — event sangat langka & terikat lokasi (anti-cheat: tidak bisa breakthrough Realm 9 sembarangan tempat) |
+| Tribulasi Petir Agung (Realm 8→9) | **Hanya boleh terjadi di Lembah Tianlie** (perbatasan Tianzhou–Moyuan) | "Retakan langit" satu-satunya di dunia yang memungkinkan Tribulasi Agung — event sangat langka & terikat lokasi (anti-cheat: tidak bisa breakthrough Realm 9 sembarangan tempat) |
 
 ### 8.5 Sumber Bahan Terobosan per Wilayah (mengikat §4 ke peta)
 
