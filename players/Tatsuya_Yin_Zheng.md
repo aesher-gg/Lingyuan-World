@@ -6,11 +6,11 @@
 ---
 
 **Nama Karakter:** Tatsuya (Identitas "Yin Zheng" terfragmentasi)
-**Lokasi:** Kamar 404, Asrama Murid Luar, Tebing Ketiga, Heavenly Sword Pavilion (Central Plains)
+**Lokasi:** Kamar 404, Asrama Murid Luar, Tebing Ketiga, Sekte Tianjian (Tianzhou)
 **Realm & Stage:** Pemurnian Qi (Qi Refining), Awal - Puncak — Qi Cap: 100
 **Hukum Kultivasi:** Dao Abadi (Varian Pedang)
 **Law Origin:** Jalur Manual & Pencerahan — Menerima manual dasar dari Tetua Paviliun Hukum, lalu memicu Pencerahan (Genuine Enlightenment) saat "Benih Wawasan Makrokosmos" berfusi dengan Dao Insight "Pedang Rasi Bintang" melalui kultivasi malam di bawah cahaya bintang.
-**Sekte/Afiliasi:** Heavenly Sword Pavilion (Paviliun Pedang Surgawi) — Murid Luar (Outer Disciple)
+**Sekte/Afiliasi:** Sekte Tianjian (Paviliun Pedang Surgawi) — Murid Luar (Outer Disciple)
 
 **Kondisi:** HP 85/100 · Qi 100/100 · Stamina 90/110 · Satiety 100% · Kondisi Normal (Fokus Absolut, Meridian Terlatih, Selaras dengan Qi Yin Malam) · Karma Netral (Merit 0 | Sin 0)
 
