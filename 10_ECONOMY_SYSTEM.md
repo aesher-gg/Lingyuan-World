@@ -1,4 +1,4 @@
-# 💰 Wuxian World — Sistem Ekonomi Jianghu (Economy & Pricing System)
+# 💰 Lingyuan World — Sistem Ekonomi Jianghu (Economy & Pricing System)
 
 > **Modul:** 10 — Economy System
 > **Prinsip:** Anti-Cheat Enforced — Supply-Demand Driven — Terintegrasi dengan Sistem Hukum Kultivasi & World Document
@@ -108,7 +108,7 @@ Rusak/using: ×0,7 | Standar: ×1,0 | Kondisi prima: ×1,1 | Bersejarah/antik te
 
 ### 📌 Contoh Perhitungan Lengkap
 
-Pil Penyembuh Luka Dalam (Tier 3, Grade Xuan) diproduksi Whitecloud Medicine Hall (Northern Territory), dijual di Kota Luoyang Kecil (Central Plains, >1.500 li dari sumber):
+Pil Penyembuh Luka Dalam (Tier 3, Grade Xuan) diproduksi Balai Yunyao (Northern Territory), dijual di Kota Luoyang Kecil (Tianzhou, >1.500 li dari sumber):
 
 ```
 GradeValue      = TierBase(3) × 2,5 = 500 × 2,5 = 1.250 Tael Tembaga (12,5 Tael Perak)
@@ -146,9 +146,9 @@ TabibRealmMultiplier: Foundation Establishment ×1,0 | Nascent Soul ×0,8 (lebih
 EscortFee = (CargoValue × 5%) + (Jarak_li ÷ 100 × 5 Tael Perak) × RiskMultiplier
 ```
 
-RiskMultiplier: Rute aman (dalam Central Plains) ×1,0 | Rute rawan bandit ×2,5 | Rute zona perang (mis. Scar of Heaven) ×5,0
+RiskMultiplier: Rute aman (dalam Tianzhou) ×1,0 | Rute rawan bandit ×2,5 | Rute zona perang (mis. Scar of Heaven) ×5,0
 
-### 4.3 Jasa Informasi (Serambi Seribu Bisik)
+### 4.3 Jasa Informasi (Paviliun Wanxin)
 
 | Tingkat Info | Harga |
 |---|---|
@@ -157,7 +157,7 @@ RiskMultiplier: Rute aman (dalam Central Plains) ×1,0 | Rute rawan bandit ×2,5
 | Info kelas atas (harta karun, secret realm) | 1.000+ Tael Emas |
 | Info "Kelas Langit" (rahasia kaisar/sekte besar) | Lelang rahasia, minimum 10 Giok Kecil |
 
-### 4.4 Kontrak Pembunuhan (Blood Shadow Alliance / Perkumpulan Pisau Sunyi)
+### 4.4 Kontrak Pembunuhan (Aliansi Anying / Perkumpulan Wuying)
 
 ```
 ContractFee = (TargetQiCap × 0,001 Tael Tembaga) + DifficultyBonus
@@ -191,7 +191,7 @@ ArtisanSkillMultiplier: pengrajin dojo kecil ×1,0 | pengrajin sekte menengah ×
 | Toko kota kecil | 500–5.000 Tael Perak |
 | Toko/paviliun kota besar (lokasi strategis) | 1–10 Tael Emas |
 | Pendirian dojo kecil (minimum viable) | 500 Tael Emas + izin lahan otoritas lokal |
-| Estate sekte menengah (skala Silver Rain Sword School) | 50.000+ Tael Emas, minimum pendiri Nascent Soul |
+| Estate sekte menengah (skala Sekte Yunjian) | 50.000+ Tael Emas, minimum pendiri Nascent Soul |
 | Perahu nelayan | 50–200 Tael Perak |
 | Kapal dagang | 5–50 Tael Emas |
 | Kapal perang/kapal bajak bendera | 200–2.000 Tael Emas |
@@ -256,12 +256,12 @@ Jika salah satu poin gagal → transaksi DITOLAK, AI GM memberi alasan spesifik 
 
 | Wilayah | Kekayaan Regional | Implikasi Soft-Cap |
 |---|---|---|
-| Central Plains | ± 950 juta Tael | Volume transaksi besar dimungkinkan, pasar paling likuid |
-| Southern Demon Domain | ± 260 juta Tael | Transaksi menengah, banyak barang gelap/ilegal |
-| Eastern Sea Region | ± 410 juta Tael | Likuiditas tinggi lewat perdagangan laut |
-| Northern Desolate Territory | ± 190 juta Tael | Ekonomi kecil, barang impor jauh lebih mahal |
-| Western Sacred Deserts | ± 150 juta Tael | Ekonomi terkecil, rawan monopoli lokal |
-| Azure Mountain Range | ± 140 juta Tael | Ekonomi kecil tapi stabil, kerajinan bernilai tinggi |
+| Tianzhou | ± 950 juta Tael | Volume transaksi besar dimungkinkan, pasar paling likuid |
+| Moyuan | ± 260 juta Tael | Transaksi menengah, banyak barang gelap/ilegal |
+| Haiyuan | ± 410 juta Tael | Likuiditas tinggi lewat perdagangan laut |
+| Beiyuan | ± 190 juta Tael | Ekonomi kecil, barang impor jauh lebih mahal |
+| Xisha | ± 150 juta Tael | Ekonomi terkecil, rawan monopoli lokal |
+| Qingyun | ± 140 juta Tael | Ekonomi kecil tapi stabil, kerajinan bernilai tinggi |
 
 ### 9.2 Pasar Khusus (Pengecualian Region Scarcity)
 
