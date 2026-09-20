@@ -1,6 +1,6 @@
-# ⛰️ Wuxian World — IV. Azure Mountain Range (Pegunungan Azure) 蒼嶺
+# ⛰️ Lingyuan World — IV. Qingyun (Pegunungan Azure) 蒼嶺
 
-> **Modul:** 03 — Azure Mountain Range
+> **Modul:** 03 — Qingyun
 > **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak antar wilayah), `09_CULTIVATION_LAW_SYSTEM.md` §8 (Qi Density & Hukum sekte), `13_BESTIARY.md` (monster wilayah ini)
 
 ## Fakta Cepat
@@ -10,9 +10,9 @@
 | Luas | 4,8 juta li² |
 | Populasi | ± 22 juta |
 | Kekayaan | ± 140 juta Tael |
-| Jarak dari Central Plains | 1.100 li |
+| Jarak dari Tianzhou | 1.100 li |
 | Jarak dari Northern Territory | 1.300 li |
-| Qi Density Modifier | ×1,5 (Kaya) — spirit vein alami di puncak gunung, lokasi favorit Golden Bell Monastery, cocok untuk Hukum Raga Sejati |
+| Qi Density Modifier | ×1,5 (Kaya) — spirit vein alami di puncak gunung, lokasi favorit Biara Jinguang, cocok untuk Hukum Raga Sejati |
 | Monster khas wilayah | Kabut Pemakan Arah, Ular Salju Lembah Bunga, Burung Guntur Puncak (detail: `13_BESTIARY.md`) |
 
 ---
@@ -20,15 +20,15 @@
 ## Lokasi & Situs Khusus
 
 - **Void Mist Forest** (±650 li dari perbatasan) — hutan kabut yang bisa membuat orang hilang selamanya, formasi ilusi alami.
-- **Lembah Bunga Salju** (±550 li dari Kampung Shiban) — diperebutkan diam-diam Whitecloud Medicine Hall & Nine Serpent Den untuk bahan racun langka.
-- **Lembah Sengketa Tiga Warna** (±700 li dari Kota Haiyun / ±800 li dari perbatasan Central Plains) — perbatasan Eastern Sea & Central Plains, tambang giok spiritual, sering bentrok kecil.
+- **Lembah Bunga Salju** (±550 li dari Kampung Shiban) — diperebutkan diam-diam Balai Yunyao & Sarang Jiuyin untuk bahan racun langka.
+- **Lembah Sengketa Tiga Warna** (±700 li dari Kota Haiyun / ±800 li dari perbatasan Tianzhou) — perbatasan Eastern Sea & Tianzhou, tambang giok spiritual, sering bentrok kecil.
 
 ---
 
 ### 🎋 Hutan Bambu Berbisik (Whispering Bamboo Forest)
-*(±400 li dari Golden Bell Monastery, masuk dari jalur timur pegunungan)*
+*(±400 li dari Biara Jinguang, masuk dari jalur timur pegunungan)*
 
-Hutan bambu yang membentang luas di lereng timur Pegunungan Azure. Dinamakan "Berbisik" karena suara dedaunan bambu yang saling bergesekan menciptakan melodi rendah dan misterius — seperti bisikan ribuan suara tak kasat mata. Golden Bell Monastery kadang mengirim murid-muridnya ke sini untuk melatih kepekaan pendengaran, tapi hanya sebatas di zona terluar.
+Hutan bambu yang membentang luas di lereng timur Pegunungan Azure. Dinamakan "Berbisik" karena suara dedaunan bambu yang saling bergesekan menciptakan melodi rendah dan misterius — seperti bisikan ribuan suara tak kasat mata. Biara Jinguang kadang mengirim murid-muridnya ke sini untuk melatih kepekaan pendengaran, tapi hanya sebatas di zona terluar.
 
 #### 🌿 Zona-Zona Hutan Bambu Berbisik
 
@@ -40,7 +40,7 @@ Hutan ini terbagi menjadi **3 zona** dengan tingkat bahaya dan misteri yang sema
 | **Zona Tengah (Zona Sunyi)** | 5–20 li | Bambu setinggi 10–15 meter, berdiameter paha manusia, sangat keras — kapak besi biasa tumpul dalam beberapa tebakan. Bisikan terdengar jelas seperti kata-kata tak terbaca. | 🟠 Menengah |
 | **Zona Dalam (Zona Hening)** | 20–50+ li | Bambu raksasa setinggi 30–50 meter, berdiameter satu depa manusia, sekeras batu giok — **tidak bisa ditebang** oleh senjata biasa. Energi spiritual pekat terasa menekan. Bisikan berhenti — digantikan oleh keheningan mencekam yang justru lebih berbahaya. | 🔴 Tinggi |
 
-> **⚠️ Peringatan:** Hutan Bambu Berbisik adalah salah satu lokasi paling **jarang dikunjungi** di Pegunungan Azure. Bahkan penduduk setempat dan murid Golden Bell Monastery hanya berani masuk ke Zona Luar. Zona Tengah sudah dianggap "berbahaya", dan Zona Dalam dianggap "wilayah kematian" oleh sebagian besar kultivator. Tidak ada desa atau pemukiman di sekitar hutan ini — hanya pepohonan dan kabut.
+> **⚠️ Peringatan:** Hutan Bambu Berbisik adalah salah satu lokasi paling **jarang dikunjungi** di Pegunungan Azure. Bahkan penduduk setempat dan murid Biara Jinguang hanya berani masuk ke Zona Luar. Zona Tengah sudah dianggap "berbahaya", dan Zona Dalam dianggap "wilayah kematian" oleh sebagian besar kultivator. Tidak ada desa atau pemukiman di sekitar hutan ini — hanya pepohonan dan kabut.
 
 ---
 
@@ -154,7 +154,7 @@ Hutan Bambu Berbisik adalah rumah bagi berbagai makhluk yang hidup berkelompok (
 | **Kekuatan** | **Tidak Diketahui** — diduga setara Realm Void Severing+ |
 | **Loot** | **Tidak Diketahui** — tak ada yang selamat |
 
-> **Catatan:** Ular Bambu adalah mitos yang belum terbukti. Beberapa tetua Golden Bell Monastery percaya bahwa ia adalah penjaga terakhir "Hati Hutan" (Heart of the Forest) — sebuah artefak yang katanya bisa mengendalikan seluruh bambu di pegunungan ini.
+> **Catatan:** Ular Bambu adalah mitos yang belum terbukti. Beberapa tetua Biara Jinguang percaya bahwa ia adalah penjaga terakhir "Hati Hutan" (Heart of the Forest) — sebuah artefak yang katanya bisa mengendalikan seluruh bambu di pegunungan ini.
 
 ---
 
@@ -180,7 +180,7 @@ Hutan Bambu Berbisik adalah rumah bagi berbagai makhluk yang hidup berkelompok (
 
 - **Hilang Arah:** Suasana yang sunyi dan pepohonan yang nyaris identik membuat siapa pun mudah kehilangan arah. Bahkan kultivator berpengalaman bisa berputar-putar tanpa sadar.
 - **Tekanan Qi:** Energi spiritual yang sangat pekat di zona dalam terasa seperti air berat yang menekan tubuh. Kultivator di bawah Realm 4 (Core Formation) akan kesulitan bernapas dan menggerakkan qi-nya.
-- **Bisikan Gila:** Mendengar bisikan terlalu lama bisa menyebabkan gangguan mental. Golden Bell Monastery melarang muridnya masuk lebih dari 5 li ke dalam zona hening tanpa pengawasan tetua.
+- **Bisikan Gila:** Mendengar bisikan terlalu lama bisa menyebabkan gangguan mental. Biara Jinguang melarang muridnya masuk lebih dari 5 li ke dalam zona hening tanpa pengawasan tetua.
 
 ---
 
@@ -204,7 +204,7 @@ Konon, ribuan tahun lalu, seorang kultivator jenius bernama **"Pendekar Bambu"**
 
 ---
 
-### Desa Yunwu (200 li dari perbatasan Central Plains)
+### Desa Yunwu (200 li dari perbatasan Tianzhou)
 Desa petani teh di ketinggian, sejuk dan damai.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -217,7 +217,7 @@ Pemukiman tukang batu dan pemahat.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Pemahat Shi Long | Kepala Dojo Pahat Naga | 57 | Foundation Establishment, Menengah | **750** | *Pahat Penembus Batu* — pukulan tangan bertenaga fokus meniru gerak memahat | Teliti dan sedikit obsesif, tenang tapi keras kepala soal kesempurnaan karya |
+| Kepala Pemahat Shi Long | Kepala Perguruan Shilong | 57 | Foundation Establishment, Menengah | **750** | *Pahat Penembus Batu* — pukulan tangan bertenaga fokus meniru gerak memahat | Teliti dan sedikit obsesif, tenang tapi keras kepala soal kesempurnaan karya |
 | Pemuda Pemahat Gang | Murid pemahat | 18 | Mortal Foundation, Awal | 0 | *Pukulan Palu Batu Kecil* — gerak dasar memahat sebagai serangan darurat | Pendiam, sabar luar biasa, jarang bicara kecuali ditanya |
 
 ### 🆕 Kota Baru: Qingfeng (清風鎮, "Kota Angin Sejuk")
@@ -229,13 +229,13 @@ Pemukiman tukang batu dan pemahat.
 | Tamu Misterius Berjubah Abu | Orang misterius yang menginap lama | ??? | Nascent Soul, Puncak (disembunyikan) | **25.000** | *Langkah Menghilang di Kabut* — teknik menghilang cepat memanfaatkan kabut pegunungan | Sangat jarang bicara, tenang mengerikan, langsung pergi tanpa jejak begitu merasa dicurigai |
 
 ### 🆕 Jurang Es Abadi (Eternal Ice Abyss)
-850 li di kedalaman bagian utara Azure Mountain Range. Jurang terjal sedalam ratusan meter dengan dinding es yang tidak pernah meleleh. Tempat ditemukannya herba Es Jiwa dan persembunyian makhluk purba. Suhu ekstrem memberikan penalti kecepatan gerak dan regenerasi Qi bagi bukan praktisi Hukum Es/Raga Sejati.
+850 li di kedalaman bagian utara Qingyun. Jurang terjal sedalam ratusan meter dengan dinding es yang tidak pernah meleleh. Tempat ditemukannya herba Es Jiwa dan persembunyian makhluk purba. Suhu ekstrem memberikan penalti kecepatan gerak dan regenerasi Qi bagi bukan praktisi Hukum Es/Raga Sejati.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | Tetua Pertapaan Es Han Frost | Kultivator pertapa di dasar jurang | 115 | Soul Transformation, Menengah | **93.750** | *Hantaman Pedang Es Abadi* — gelombang qi dingin membekukan aliran qi lawan dalam radius 15m | Dingin bagai es, benci keributan, bertapa mencari terobosan Void Severing |
 
-### 🌿 🆕 Lembah Embun Lautan Bambu (Jade Bamboo Dew Valley — 600 li dari Golden Bell Monastery)
+### 🌿 🆕 Lembah Embun Lautan Bambu (Jade Bamboo Dew Valley — 600 li dari Biara Jinguang)
 Lembah tersembunyi yang tertutup bambu giok hijau transparan dan kabut embun spiritual kental. Di pusat lembah terdapat Mata Air Bambu Giok yang mempercepat pemulihan stamina raga.
 **Bahaya Alam Hardcore:**
 - *Tekanan Awan Embun:* Udara lembah sangat padat (+20% beban respirasi), mengurangi regenerasi Stamina sebesar -15% jika tidak menggunakan teknik penyesuaian Qi.
@@ -249,22 +249,22 @@ Lembah tersembunyi yang tertutup bambu giok hijau transparan dan kabut embun spi
 
 ## Sekte & Karakteristiknya
 
-### 🔔 Golden Bell Monastery
-*Puncak Azure Mountain Range — Hukum utama: Hukum Raga Sejati (lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.2)*
+### 🔔 Biara Jinguang
+*Puncak Qingyun — Hukum utama: Hukum Raga Sejati (lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.2)*
 
 Biara pertapa ortodoks. Sangat tertutup, jarang campur tangan urusan luar, hanya bereaksi jika benar-benar diprovokasi. Dihormati karena tak pernah terlibat skandal politik.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Biara Jin Zhong | Ketua Golden Bell Monastery | 102 | Soul Transformation, Puncak | **125.000** | *Lonceng Emas Pemecah Tulang* — pukulan tubuh keras meniru dentang lonceng, sangat jarang dipakai | Sangat tenang, nyaris tak pernah bicara, luar biasa sabar, tak pernah menyerang kecuali diserang lebih dulu |
+| Kepala Biara Jin Zhong | Ketua Biara Jinguang | 102 | Soul Transformation, Puncak | **125.000** | *Lonceng Emas Pemecah Tulang* — pukulan tubuh keras meniru dentang lonceng, sangat jarang dipakai | Sangat tenang, nyaris tak pernah bicara, luar biasa sabar, tak pernah menyerang kecuali diserang lebih dulu |
 | Biksu Penjaga Gerbang De Ren | Penjaga gerbang biara | 55 | Nascent Soul, Awal | **12.500** | *Telapak Penjaga Gerbang* — dorongan tangan kosong untuk menghalau, bukan melukai | Ramah tapi tegas, sabar menguji lewat pertanyaan filosofis sebelum bertindak |
 | Murid Baru Kecil Dawa | Murid termuda biara | 14 | Mortal Foundation, Puncak | 0 | *Sapu Lantai Berputar* — gerak dasar menyapu yang jadi latihan pertahanan awal | Polos, rajin, penurut, tak pernah membantah perintah tetua |
 
-### 🗿 Dojo Pahat Naga (Kampung Shiban)
+### 🗿 Perguruan Shilong (Kampung Shiban)
 Perguruan kecil pemahat. Dipandang sebelah mata oleh sekte besar, tapi sering "beruntung" menemukan peninggalan formasi kuno saat memahat batu gunung, membuat sekte besar diam-diam menjaga hubungan baik dengan mereka. *(NPC: Shi Long & Gang — lihat tabel Kampung Shiban di atas.)*
 
 ---
 
 ## Aliansi Dagang & Organisasi
 
-- Cabang kecil **Rumah Gadai Giok Sejuk** (lihat `08_CROSS_REGION_ORGANIZATIONS.md`) di Kampung Shiban — melayani kultivator miskin yang butuh dana mendadak, bunga pinjaman lebih rendah dari cabang kota besar sebagai bentuk kepercayaan lokal.
+- Cabang kecil **Rumah Gadai Hanbi** (lihat `08_CROSS_REGION_ORGANIZATIONS.md`) di Kampung Shiban — melayani kultivator miskin yang butuh dana mendadak, bunga pinjaman lebih rendah dari cabang kota besar sebagai bentuk kepercayaan lokal.
