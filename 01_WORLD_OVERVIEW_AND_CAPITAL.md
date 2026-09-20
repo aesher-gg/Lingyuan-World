@@ -1,4 +1,4 @@
-# 🗺️ Wuxian World — Ikhtisar Dunia & Ibu Kota
+# 🗺️ Lingyuan World — Ikhtisar Dunia & Ibu Kota
 
 > **Modul:** 01 — World Overview & Capital
 > **Cakupan:** Statistik dunia, peta jarak antar wilayah, Ibu Kota Tianjing & Kekaisaran Dinasti Tianyuan
@@ -14,24 +14,24 @@
 | Populasi Total | ± 280 juta jiwa |
 | Kekayaan Total | ± 3,2 miliar Tael Perak |
 
-### Peta Jarak Utama (dari Ibu Kota Tianjing, pusat Central Plains)
+### Peta Jarak Utama (dari Ibu Kota Tianjing, pusat Tianzhou)
 
 | Wilayah | Jarak dari Tianjing | Waktu Tempuh (kuda cepat) | Waktu Tempuh (kultivator terbang, Golden Core+) |
 |---|---|---|---|
-| Central Plains (dalam provinsi) | 0–800 li | 1–4 hari | beberapa jam |
-| Eastern Sea Region | 1.600 li (+ jalur laut) | 8–10 hari | 1,5 hari |
-| Northern Desolate Territory | 2.100 li | 12–14 hari | 2 hari |
-| Southern Demon Domain | 1.900 li | 11–13 hari | 2 hari |
-| Western Sacred Deserts | 2.400 li | 15–17 hari | 2,5 hari |
-| Azure Mountain Range | 1.100 li | 6–7 hari | 1 hari |
+| Tianzhou (dalam provinsi) | 0–800 li | 1–4 hari | beberapa jam |
+| Haiyuan | 1.600 li (+ jalur laut) | 8–10 hari | 1,5 hari |
+| Beiyuan | 2.100 li | 12–14 hari | 2 hari |
+| Moyuan | 1.900 li | 11–13 hari | 2 hari |
+| Xisha | 2.400 li | 15–17 hari | 2,5 hari |
+| Qingyun | 1.100 li | 6–7 hari | 1 hari |
 
 ### Jarak Antar Wilayah Berdekatan (perbatasan langsung)
 
-- **Central Plains ↔ Azure Mountain Range:** 1.100 li (perbatasan darat, jalur utama lewat Tri-Sect Mountain)
-- **Central Plains ↔ Southern Demon Domain:** 900 li (perbatasan darat, jalur Scar of Heaven)
-- **Azure Mountain Range ↔ Northern Territory:** 1.300 li (harus lewat jalur pegunungan)
-- **Eastern Sea ↔ Southern Demon Domain:** 1.500 li (jalur laut, sering diserang bajak)
-- **Western Sacred Deserts ↔ Northern Territory:** 2.600 li (jarak terjauh antar wilayah tetangga, jarang dilalui)
+- **Tianzhou ↔ Qingyun:** 1.100 li (perbatasan darat, jalur utama lewat Tri-Sect Mountain)
+- **Tianzhou ↔ Moyuan:** 900 li (perbatasan darat, jalur Scar of Heaven)
+- **Qingyun ↔ Northern Territory:** 1.300 li (harus lewat jalur pegunungan)
+- **Eastern Sea ↔ Moyuan:** 1.500 li (jalur laut, sering diserang bajak)
+- **Xisha ↔ Northern Territory:** 2.600 li (jarak terjauh antar wilayah tetangga, jarang dilalui)
 
 > **Catatan anti-cheat perjalanan:** setiap klaim perjalanan/pemerolehan bahan dari wilayah tertentu harus konsisten dengan tabel jarak & waktu tempuh di atas — tidak ada perjalanan "instan" tanpa alasan naratif kuat (formasi teleportasi, dsb yang sudah tervalidasi GM).
 
@@ -74,4 +74,4 @@ Hutan alami bambu berserat besi hitam di pinggiran wilayah kekaisaran. Udara dis
 |---|---|---|---|---|---|---|
 | Pertapa Bambu Hitam Mo Zhu | Kultivator buangan istana | 68 | Soul Transformation, Awal | **62.500** | *Pedang Bambu Hitam Membelah Awan* — tebasan cepat tanpa energi luar yang memotong Meridian lawan | Dingin, membenci pejabat istana korup, sangat menjaga kelestarian hutan |
 
-> **Fakta Cepat Central Plains** (wilayah tempat Tianjing berada): lihat `02_CENTRAL_PLAINS.md` untuk statistik lengkap wilayah, Qi Density Modifier, dan seluruh lokasi provinsi.
+> **Fakta Cepat Tianzhou** (wilayah tempat Tianjing berada): lihat `02_CENTRAL_PLAINS.md` untuk statistik lengkap wilayah, Qi Density Modifier, dan seluruh lokasi provinsi.
