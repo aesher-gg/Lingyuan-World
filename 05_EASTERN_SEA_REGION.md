@@ -1,6 +1,6 @@
-# 🌊 Wuxian World — VI. Eastern Sea Region (Wilayah Laut Timur) 東海
+# 🌊 Lingyuan World — VI. Haiyuan (Wilayah Laut Timur) 東海
 
-> **Modul:** 05 — Eastern Sea Region
+> **Modul:** 05 — Haiyuan
 > **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8, `13_BESTIARY.md`
 
 ## Fakta Cepat
@@ -10,8 +10,8 @@
 | Luas | 12 juta li² (termasuk lautan) |
 | Populasi | ± 45 juta |
 | Kekayaan | ± 410 juta Tael |
-| Jarak dari Central Plains | 1.600 li (jalur darat+laut) |
-| Jarak dari Southern Demon Domain | 1.500 li (laut) |
+| Jarak dari Tianzhou | 1.600 li (jalur darat+laut) |
+| Jarak dari Moyuan | 1.500 li (laut) |
 | Qi Density Modifier | ×1,1 (Sedang, atribut Air) — cocok Dao Abadi varian Air; Hukum Qi Naga Api kena −25% efektivitas |
 | Monster khas wilayah | Kraken Muda Laut Timur, Siput Mutiara Iblis, Hiu Sentinel Liar, Kawanan Camar Badai (detail: `13_BESTIARY.md`) |
 
@@ -24,7 +24,7 @@ Desa nelayan sekaligus pos penyelundupan mutiara spiritual.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Dojo Ah Hai | Kepala Dojo Ombak Tenang | 61 | Foundation Establishment, Puncak | **1.000** | *Gelombang Tenang Menenggelamkan* — dorongan air yang menyeret lawan ke bawah permukaan | Santai dan ramah di darat, berwibawa dan tenang di air, jarang marah kecuali lautnya dicemari |
+| Kepala Dojo Ah Hai | Kepala Perguruan Haizhen | 61 | Foundation Establishment, Puncak | **1.000** | *Gelombang Tenang Menenggelamkan* — dorongan air yang menyeret lawan ke bawah permukaan | Santai dan ramah di darat, berwibawa dan tenang di air, jarang marah kecuali lautnya dicemari |
 | Nelayan Penyelundup Diam Long | Nelayan sekaligus penyelundup mutiara | 44 | Qi Refining, Menengah | **150** | *Lemparan Jaring Cepat* — jaring nelayan dipakai sebagai perangkap darurat | Pendiam dan waspada, tak suka konflik terbuka, lebih memilih kabur daripada bertarung |
 
 ### Kepulauan Perak Kecil (350 li dari daratan)
@@ -74,18 +74,18 @@ Hutan bakau pantai berawa-rawa di pesisir selatan Laut Timur dengan akar-akar ka
 
 ## Sekte & Karakteristiknya
 
-### 💧 Jade Purity Palace
+### 💧 Istana Qinglian
 *Pulau suci Eastern Sea, 500 li dari Haiyun — Hukum utama: Hukum Dao Abadi (varian Air/Laut)*
 
 Sekte ortodoks penjaga jalur laut. Protektif terhadap penduduk pesisir, agak tertutup terhadap orang darat, punya kebanggaan tersendiri sebagai "penjaga terakhir" dari sekte demonic laut.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Ketua Sekte Yu Qingzhu | Ketua Jade Purity Palace | 91 | Void Severing, Awal | **312.500** | *Gelombang Giok Suci* — serangan air murni berbentuk gelombang mengalir | Protektif dan sedikit tertutup, tenang tapi tegas soal menjaga wilayah lautnya |
+| Ketua Sekte Yu Qingzhu | Ketua Istana Qinglian | 91 | Void Severing, Awal | **312.500** | *Gelombang Giok Suci* — serangan air murni berbentuk gelombang mengalir | Protektif dan sedikit tertutup, tenang tapi tegas soal menjaga wilayah lautnya |
 | Tetua Penjaga Laut Hai Chen | Tetua yang menjaga jalur laut | 70 | Soul Transformation, Awal | **62.500** | *Trisula Penjaga Samudra* — tusukan trisula bertenaga air besar | Berpengalaman dan waspada, tenang namun cepat bertindak saat ancaman laut muncul |
 | Murid Muda Bening Lan | Murid berbakat termuda | 18 | Foundation Establishment, Awal | **500** | *Percikan Air Bening* — serangan air ringan untuk bertahan | Lembut tapi tegas, masih belajar mengendalikan keinginan menolong tanpa berpikir panjang |
 
-### 🌊 Dojo Ombak Tenang (Desa Yuegang)
+### 🌊 Perguruan Haizhen (Desa Yuegang)
 Perguruan kecil. Dianggap tak berguna oleh sekte darat, tapi sangat dihormati nelayan setempat karena kemampuan menyelamatkan nyawa di laut. *(NPC: lihat tabel Desa Nelayan Yuegang di atas.)*
 
 ---
@@ -118,7 +118,7 @@ Pulau suci dengan pohon persik abadi, tak berpenghuni tetap. Diperebutkan tiap 6
 ### ⚔️ Markas Bajak Laut Bendera Hitam
 *(perairan lepas Eastern Sea, ±400 li tenggara Kota Haiyun)*
 
-Pulau karang kecil tak berpenghuni tanpa nama resmi di peta kekaisaran, dijadikan pangkalan sementara. Berpindah tiap beberapa bulan begitu lokasi mulai diketahui Jade Purity Palace.
+Pulau karang kecil tak berpenghuni tanpa nama resmi di peta kekaisaran, dijadikan pangkalan sementara. Berpindah tiap beberapa bulan begitu lokasi mulai diketahui Istana Qinglian.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik |
 |---|---|---|---|---|---|---|
