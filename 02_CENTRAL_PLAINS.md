@@ -1,6 +1,6 @@
-# ⛰️ Wuxian World — III. Central Plains (Dataran Tengah) 中原
+# ⛰️ Lingyuan World — III. Tianzhou (Dataran Tengah) 中原
 
-> **Modul:** 02 — Central Plains
+> **Modul:** 02 — Tianzhou
 > **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (Ibu Kota Tianjing ada di wilayah ini), `09_CULTIVATION_LAW_SYSTEM.md` §8 (Qi Density & Hukum sekte), `13_BESTIARY.md` (monster wilayah ini)
 
 ## Fakta Cepat
@@ -18,8 +18,8 @@
 
 ## Lokasi & Situs Khusus
 
-- **Scar of Heaven** (perbatasan Central Plains–Southern Demon Domain, 900 li dari Tianjing) — zona perang abadi ortodoks vs demonic, tanah tandus akibat pertempuran ratusan tahun. **Satu-satunya lokasi di dunia untuk Tribulasi Petir Agung (Realm 8→9)** — lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.4.
-- **Tri-Sect Mountain** (perbatasan Central Plains–Azure Mountain Range) — diklaim tumpang tindih 3 sekte; Markas Kawanan Bandit Gunung Hitam bersembunyi di lerengnya.
+- **Scar of Heaven** (perbatasan Tianzhou–Moyuan, 900 li dari Tianjing) — zona perang abadi ortodoks vs demonic, tanah tandus akibat pertempuran ratusan tahun. **Satu-satunya lokasi di dunia untuk Tribulasi Petir Agung (Realm 8→9)** — lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.4.
+- **Tri-Sect Mountain** (perbatasan Tianzhou–Qingyun) — diklaim tumpang tindih 3 sekte; Markas Kawanan Bandit Gunung Hitam bersembunyi di lerengnya.
 - **Sungai Emas** (membentang 200–600 li dari Tianjing) — jalur dagang air utama provinsi, ramai siang hari, dipatroli milisi Serikat Delapan Penjuru, rawan bajak sungai di malam hari.
 - **Kota Luoyang Kecil** (300 li dari Tianjing) — kota dagang terbesar kedua, gerbang menuju semua provinsi.
 
@@ -39,7 +39,7 @@ Desa pertanian damai, sering jadi titik awal kisah pendekar muda.
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | Kepala Desa Wu Lao | Kepala Desa Xingcun | 70 | Non-Kultivator | — | Tidak bertarung — mengandalkan tongkat kayu sebagai alat jalan sekaligus pertahanan darurat | Bijaksana dan tenang, jarang marah, selalu jadi penengah damai tiap konflik warga |
-| Murid Senior Ah Jian | Murid utama Dojo Bunga Aprikot | 19 | Qi Refining, Puncak | **200** | *Tebasan Aprikot Berduri* — pedang cepat dengan gerak tipuan ganda | Ambisius dan sedikit sombong, mudah terpancing tantangan duel, suka pamer pada murid baru |
+| Murid Senior Ah Jian | Murid utama Perguruan Luohua | 19 | Qi Refining, Puncak | **200** | *Tebasan Aprikot Berduri* — pedang cepat dengan gerak tipuan ganda | Ambisius dan sedikit sombong, mudah terpancing tantangan duel, suka pamer pada murid baru |
 | Petani Miskin Bibi Chun | Warga desa | 45 | Non-Kultivator | — | Tidak bertarung | Ramah dan penyabar, tak pernah marah pada siapa pun, suka membantu tanpa pamrih |
 
 ### Desa Qingshui (380 li dari Tianjing)
@@ -55,7 +55,7 @@ Desa pandai besi turun-temurun.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Pandai Besi Kepala Tie Gang | Kepala Dojo Godam Besi | 50 | Core Formation, Awal | **2.500** | *Godam Peremuk Besi* — satu ayunan godam berat yang bisa menghancurkan baju zirah biasa | Berotot dan blak-blakan, gampang naik darah kalau ditipu, tapi sangat jujur dan tak pernah menyerang lebih dulu |
+| Pandai Besi Kepala Tie Gang | Kepala Perguruan Tielu | 50 | Core Formation, Awal | **2.500** | *Godam Peremuk Besi* — satu ayunan godam berat yang bisa menghancurkan baju zirah biasa | Berotot dan blak-blakan, gampang naik darah kalau ditipu, tapi sangat jujur dan tak pernah menyerang lebih dulu |
 | Murid Muda Xiao Chui | Murid magang pandai besi | 16 | Mortal Foundation, Puncak | 0 | *Pukulan Palu Kecil* — ayunan sederhana meniru gerak menempa besi | Bersemangat tinggi, sedikit ceroboh dan suka bikin onar karena penasaran berlebihan |
 
 ### 🆕 Kota Baru: Fengyang (鳳陽城, "Kota Phoenix")
@@ -67,7 +67,7 @@ Desa pandai besi turun-temurun.
 | Pemilik Kedai Paviliun Bunga Emas | Toko/Paviliun terkenal, tempat transaksi netral | 44 | Foundation Establishment, Menengah | **750** | Tidak bertarung — mengandalkan penjaga bayaran di paviliunnya | Licik tapi profesional, ramah pada semua pelanggan berbayar, tak suka konflik terbuka |
 
 ### 🆕 Lembah Kabut Merah (Chiwu Valley)
-720 li dari Tianjing, terletak di balik perbukitan selatan Central Plains. Lembah ini selalu diselimuti kabut kemerahan akibat konsentrasi herba spritual pemurni darah. Merupakan lokasi berburu herba langka sekaligus tempat persembunyian buronan lintas wilayah.
+720 li dari Tianjing, terletak di balik perbukitan selatan Tianzhou. Lembah ini selalu diselimuti kabut kemerahan akibat konsentrasi herba spritual pemurni darah. Merupakan lokasi berburu herba langka sekaligus tempat persembunyian buronan lintas wilayah.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -88,30 +88,30 @@ Hutan belantara purba berumur ribuan tahun dengan pohon-pohon raksasa setinggi 8
 
 ## Sekte & Karakteristiknya
 
-### ⚔️ Heavenly Sword Pavilion
+### ⚔️ Sekte Tianjian
 *Pegunungan terjal, 700 li dari Tianjing — Hukum utama: Hukum Dao Abadi (varian Pedang), lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.2*
 
 Sekte pedang tertua di dunia. Sangat disiplin, kaku pada kehormatan, cenderung memandang rendah sekte yang "kurang murni jalannya". Jarang berkompromi, tapi sangat dihormati karena integritasnya.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Ketua Sekte Xuan Yijian | Ketua Heavenly Sword Pavilion | 89 | Void Severing, Puncak | **625.000** | *Satu Pedang Membelah Langit* — satu tebasan tunggal berkekuatan penuh, jarang dikeluarkan | Kaku, penuh kehormatan, sangat sabar dan tak mudah terpancing, tapi mengerikan begitu benar-benar marah |
+| Ketua Sekte Xuan Yijian | Ketua Sekte Tianjian | 89 | Void Severing, Puncak | **625.000** | *Satu Pedang Membelah Langit* — satu tebasan tunggal berkekuatan penuh, jarang dikeluarkan | Kaku, penuh kehormatan, sangat sabar dan tak mudah terpancing, tapi mengerikan begitu benar-benar marah |
 | Tetua Sword Elder Meng | Tetua sekte, pelatih murid inti | 74 | Soul Transformation, Menengah | **93.750** | *Tujuh Sayatan Guruh* — rangkaian tujuh tebasan cepat berturut-turut | Galak dan tegas pada murid malas, cepat naik darah soal kedisiplinan, tapi penuh kasih diam-diam |
 | Murid Inti Lin Xue | Murid berbakat, calon penerus | 22 | Core Formation, Puncak | **5.000** | *Pedang Embun Pagi* — tusukan presisi tinggi dengan gerak minimal | Dingin dan tertutup, jarang menyerang tanpa perhitungan matang, penuh keraguan batin |
 | Penjaga Gerbang Anak Tangga | Penjaga 3.000 anak tangga | 35 | Foundation Establishment, Puncak | **1.000** | *Tongkat Penjaga Tangga* — pukulan tongkat panjang bergaya bertahan | Sangat sabar dan tenang, tak pernah menyerang duluan, hanya menguji lewat ucapan dan pengamatan |
 
-### 🏛️ Profound Heaven Sect
+### 🏛️ Sekte Xuanyuan
 *Istana di awan, 550 li dari Tianjing — Hukum utama: Hukum Dao Abadi (standar)*
 
 Sekte ortodoks terbesar & terkaya, punya kursi tetap di Dewan Sembilan Menteri. Politis, pandai bernegosiasi, sering dituduh sekte lain "terlalu dekat dengan kekaisaran demi kepentingan sendiri".
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Ketua Sekte Chen Tianhe | Ketua Profound Heaven Sect | 95 | Void Severing, Menengah | **468.750** | *Telapak Langit Suci* — hentakan qi murni jarak jauh, elegan tanpa gerak berlebihan | Sangat politis, ramah di permukaan, jarang marah terbuka tapi penuh perhitungan tersembunyi |
+| Ketua Sekte Chen Tianhe | Ketua Sekte Xuanyuan | 95 | Void Severing, Menengah | **468.750** | *Telapak Langit Suci* — hentakan qi murni jarak jauh, elegan tanpa gerak berlebihan | Sangat politis, ramah di permukaan, jarang marah terbuka tapi penuh perhitungan tersembunyi |
 | Tetua Perbendaharaan Yu Cang | Pengelola harta sekte | 66 | Nascent Soul, Puncak | **25.000** | *Cambuk Rantai Emas* — senjata rantai yang juga dipakai mengangkut harta karun sekte | Pelit dan cerewet soal pengeluaran, tapi jujur dan tak pernah korupsi harta sekte |
 | Murid Diplomat Ruan Xi | Utusan sekte ke istana | 27 | Core Formation, Menengah | **3.750** | *Kipas Penenang Kata* — kipas lipat yang juga jadi senjata darurat ringan | Cerdik bicara dan sabar, menghindari konfrontasi fisik sebisa mungkin |
 
-### 🗡️ Silver Rain Sword School
+### 🗡️ Sekte Yunjian
 *400 li dari Tianjing — Hukum utama: Hukum Raga Sejati + Dao Abadi (hybrid)*
 
 Sekte menengah, populer di kalangan murid muda berbakat. Lebih santai dan terbuka dibanding sekte besar, sering jadi tempat murid pindahan dari dojo kecil yang menunjukkan bakat luar biasa.
@@ -119,18 +119,18 @@ Sekte menengah, populer di kalangan murid muda berbakat. Lebih santai dan terbuk
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | Ketua Muda Yin Shuang | Ketua sekte, masih muda untuk ukuran ketua | 40 | Nascent Soul, Awal | **12.500** | *Hujan Perak Seribu Tusukan* — serangan pedang ringan bertubi-tubi dari berbagai arah | Santai dan terbuka, jarang marah, cenderung ramah bahkan pada calon musuh sekalipun |
-| Murid Pindahan Xiao Tie | Mantan murid Dojo Godam Besi yang direkrut | 17 | Qi Refining, Menengah | **150** | *Pukulan Besi Ringan* — gaya bertarung berat khas pandai besi, disesuaikan jadi lebih gesit | Bersemangat, masih canggung, agak minder dibanding murid asli sekte besar |
+| Murid Pindahan Xiao Tie | Mantan murid Perguruan Tielu yang direkrut | 17 | Qi Refining, Menengah | **150** | *Pukulan Besi Ringan* — gaya bertarung berat khas pandai besi, disesuaikan jadi lebih gesit | Bersemangat, masih canggung, agak minder dibanding murid asli sekte besar |
 
-### 🌸 Dojo Bunga Aprikot (Desa Xingcun)
+### 🌸 Perguruan Luohua (Desa Xingcun)
 Perguruan kecil keluarga tunggal. Dipandang remeh sekte besar, hanya belasan murid, tapi punya reputasi rakyat sebagai "tempat lahir pendekar sejati" karena beberapa alumninya jadi legenda.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Guru Li Xingchun | Kepala Dojo Bunga Aprikot | 63 | Foundation Establishment, Puncak | **1.000** | *Jurus Pedang Bunga Gugur* — gerakan pedang lembut namun mematikan, meniru kelopak bunga jatuh | Sederhana, sabar luar biasa pada murid, tapi tegas dan cepat bertindak saat desa terancam |
+| Guru Li Xingchun | Kepala Perguruan Luohua | 63 | Foundation Establishment, Puncak | **1.000** | *Jurus Pedang Bunga Gugur* — gerakan pedang lembut namun mematikan, meniru kelopak bunga jatuh | Sederhana, sabar luar biasa pada murid, tapi tegas dan cepat bertindak saat desa terancam |
 
 *(Lihat juga Murid Senior Ah Jian di tabel Desa Xingcun di atas.)*
 
-### 🔨 Dojo Godam Besi (Desa Tiedao)
+### 🔨 Perguruan Tielu (Desa Tiedao)
 Perguruan kecil pandai besi. Dipandang kasar dan tak elegan, tapi dihormati karena kejujuran dagangnya — tak pernah memihak dalam konflik sekte manapun. *(NPC: Tie Gang & Xiao Chui — lihat tabel Desa Tiedao di atas.)*
 
 ---
@@ -141,19 +141,19 @@ Perguruan kecil pandai besi. Dipandang kasar dan tak elegan, tapi dihormati kare
 - **Biro Pengawalan Wan'an** (Kota Luoyang Kecil) — jasa pengawalan barang berharga. Sangat menjaga reputasi, kegagalan misi berarti aib turun-temurun.
 
 ### Bukit Melati
-*(Central Plains, dekat Kota Luoyang Kecil, ±250 li dari Tianjing)*
+*(Tianzhou, dekat Kota Luoyang Kecil, ±250 li dari Tianjing)*
 
-Bukit kecil berhias pohon melati dengan kabut tipis tiap pagi. Tidak ada bangunan permanen mencolok — hanya kedai teh yang berganti pemilik tiap musim sebagai kedok pertemuan rahasia **Serambi Seribu Bisik** (lihat `08_CROSS_REGION_ORGANIZATIONS.md`). Terlihat damai dari luar, tapi transaksi informasi bernilai ribuan Tael terjadi di baliknya.
+Bukit kecil berhias pohon melati dengan kabut tipis tiap pagi. Tidak ada bangunan permanen mencolok — hanya kedai teh yang berganti pemilik tiap musim sebagai kedok pertemuan rahasia **Paviliun Wanxin** (lihat `08_CROSS_REGION_ORGANIZATIONS.md`). Terlihat damai dari luar, tapi transaksi informasi bernilai ribuan Tael terjadi di baliknya.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | Agen Bayangan "Teh Melati" | Perantara info broker lokal | ??? | Core Formation, Awal (disembunyikan) | **2.500** | *Sentuhan Bisu Penidur* — titik tekan ringan yang membuat lawan pingsan tanpa suara, dipakai hanya untuk kabur | Tenang dan penuh kontrol diri, tak pernah menyerang kecuali identitasnya terancam terbongkar |
-| Kurir Rahasia Diam | Pembawa pesan Serambi Seribu Bisik | 24 | Foundation Establishment, Awal | **500** | *Langkah Seribu Bayangan* — teknik lari cepat menghindar tanpa jejak | Bisu dan sangat sabar, tak pernah melawan, murni mengandalkan kecepatan kabur |
+| Kurir Rahasia Diam | Pembawa pesan Paviliun Wanxin | 24 | Foundation Establishment, Awal | **500** | *Langkah Seribu Bayangan* — teknik lari cepat menghindar tanpa jejak | Bisu dan sangat sabar, tak pernah melawan, murni mengandalkan kecepatan kabur |
 
 ### Danau Cermin
-*(Central Plains, 550 li dari Tianjing)*
+*(Tianzhou, 550 li dari Tianjing)*
 
-Danau tenang seluas ratusan li, permukaannya nyaris seperti kaca. Tuan rumah Turnamen Besar Lima Tahunan, dijaga bersama Heavenly Sword Pavilion & Profound Heaven Sect selama acara berlangsung. **Dilarang keras pertumpahan darah** dalam radius 1 li dari tepi danau sepanjang tahun.
+Danau tenang seluas ratusan li, permukaannya nyaris seperti kaca. Tuan rumah Turnamen Besar Lima Tahunan, dijaga bersama Sekte Tianjian & Sekte Xuanyuan selama acara berlangsung. **Dilarang keras pertumpahan darah** dalam radius 1 li dari tepi danau sepanjang tahun.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -161,7 +161,7 @@ Danau tenang seluas ratusan li, permukaannya nyaris seperti kaca. Tuan rumah Tur
 | Nelayan Danau Ah Fu | Nelayan lokal danau | 52 | Non-Kultivator | — | Tidak bertarung | Ramah dan banyak bicara, senang bergosip soal turnamen pada siapa saja yang mau dengar |
 
 ### Ancient Battlefield of Gods
-*(Central Plains, 850 li dari Tianjing, dekat perbatasan Southern Demon Domain)*
+*(Tianzhou, 850 li dari Tianjing, dekat perbatasan Moyuan)*
 
 Reruntuhan medan perang dewa-dewa purba. Tak ada sekte tinggal permanen di sini; ekspedisi pemburu harta karun dari berbagai sekte datang bergantian dan sering berujung bentrok. Formasi kuno yang rusak masih aktif sebagian, bisa melukai kultivator lengah.
 
@@ -172,7 +172,7 @@ Reruntuhan medan perang dewa-dewa purba. Tak ada sekte tinggal permanen di sini;
 > Lihat juga: **Roh Prajurit Gugur** (monster undead di lokasi ini) — `13_BESTIARY.md`.
 
 ### ⚔️ Markas Kawanan Bandit Gunung Hitam
-*(lereng Tri-Sect Mountain, ±150 li dari perbatasan Central Plains)*
+*(lereng Tri-Sect Mountain, ±150 li dari perbatasan Tianzhou)*
 
 Gua-gua tersembunyi di lereng gunung yang diperebutkan tiga sekte besar — bandit memanfaatkan kekacauan klaim wilayah ini karena tak ada sekte yang benar-benar menjaga area tersebut secara permanen.
 
