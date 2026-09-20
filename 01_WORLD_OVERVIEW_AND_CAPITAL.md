@@ -74,4 +74,4 @@ Hutan alami bambu berserat besi hitam di pinggiran wilayah kekaisaran. Udara dis
 |---|---|---|---|---|---|---|
 | Pertapa Bambu Hitam Mo Zhu | Kultivator buangan istana | 68 | Soul Transformation, Awal | **62.500** | *Pedang Bambu Hitam Membelah Awan* — tebasan cepat tanpa energi luar yang memotong Meridian lawan | Dingin, membenci pejabat istana korup, sangat menjaga kelestarian hutan |
 
-> **Fakta Cepat Tianzhou** (wilayah tempat Tianjing berada): lihat `02_CENTRAL_PLAINS.md` untuk statistik lengkap wilayah, Qi Density Modifier, dan seluruh lokasi provinsi.
+> **Fakta Cepat Tianzhou** (wilayah tempat Tianjing berada): lihat `02_TIANZHOU.md` untuk statistik lengkap wilayah, Qi Density Modifier, dan seluruh lokasi provinsi.
