@@ -1,7 +1,7 @@
-# 🔨 Wuxian World — Dojo: Dojo Godam Besi
+# 🔨 Lingyuan World — Dojo: Perguruan Tielu
 
-> **Modul:** 18 — Sect Detail: Dojo Godam Besi
-> **Wilayah:** Desa Tiedao, Central Plains | **Tipe:** Dojo pandai besi kecil | **Hukum Utama:** Raga Sejati (varian pukulan tempa, inferensi GM)
+> **Modul:** 18 — Sect Detail: Perguruan Tielu
+> **Wilayah:** Desa Tiedao, Tianzhou | **Tipe:** Dojo pandai besi kecil | **Hukum Utama:** Raga Sejati (varian pukulan tempa, inferensi GM)
 > **Estimasi Total Anggota:** ± 20 orang
 > **Rujukan silang:** `02_CENTRAL_PLAINS.md`, `16_SILVER_RAIN_SWORD_SCHOOL.md` (tujuan pindah Xiao Tie), `10_ECONOMY_SYSTEM.md` (Tier/Grade barang tempaan)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md`. Tambahan baru ditandai **🆕**.
@@ -9,7 +9,7 @@
 ---
 
 ## Karakteristik Singkat
-Dipandang kasar dan tak elegan oleh sekte besar, tapi dihormati karena kejujuran dagangnya — tak pernah memihak dalam konflik sekte manapun. Xiao Tie, mantan murid dojo ini, sudah direkrut Silver Rain Sword School — bukti bahwa dojo ini kadang melahirkan bakat yang "lulus" ke sekte lebih besar meski dojonya sendiri tetap sederhana.
+Dipandang kasar dan tak elegan oleh sekte besar, tapi dihormati karena kejujuran dagangnya — tak pernah memihak dalam konflik sekte manapun. Xiao Tie, mantan murid dojo ini, sudah direkrut Sekte Yunjian — bukti bahwa dojo ini kadang melahirkan bakat yang "lulus" ke sekte lebih besar meski dojonya sendiri tetap sederhana.
 
 ## Hierarki Sederhana
 | Tingkat | Syarat Realm | Catatan |
@@ -41,7 +41,7 @@ Dipandang kasar dan tak elegan oleh sekte besar, tapi dihormati karena kejujuran
 | Kepala Dojo | *Godam Peremuk Besi* | Teknik Andalan | Satu ayunan godam berat yang bisa menghancurkan baju zirah biasa — teknik Tie Gang |
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Silver Rain Sword School** (`16_SILVER_RAIN_SWORD_SCHOOL.md`): hubungan baik tak langsung lewat kisah sukses Xiao Tie — Tie Gang diam-diam bangga meski tak pernah mengakuinya terbuka.
+- **Sekte Yunjian** (`16_SILVER_RAIN_SWORD_SCHOOL.md`): hubungan baik tak langsung lewat kisah sukses Xiao Tie — Tie Gang diam-diam bangga meski tak pernah mengakuinya terbuka.
 - **Serikat Dagang Delapan Penjuru** (`02_CENTRAL_PLAINS.md`): pelanggan/mitra tetap untuk kebutuhan senjata dasar, dipercaya karena kejujuran dagang dojo ini.
 - **Sekte besar mana pun**: netral mutlak — dojo ini secara sadar menghindari terlibat konflik sekte demi menjaga reputasi dagang yang jujur ke semua pihak.
 
