@@ -1,7 +1,7 @@
-# 🐺 Wuxian World — Dojo: Dojo Cakar Serigala
+# 🐺 Lingyuan World — Dojo: Perguruan Langxue
 
-> **Modul:** 30 — Sect Detail: Dojo Cakar Serigala
-> **Wilayah:** Desa Xueying, Northern Desolate Territory | **Tipe:** Dojo suku pemburu | **Hukum Utama:** Raga Sejati (varian primal/pemburu, inferensi GM)
+> **Modul:** 30 — Sect Detail: Perguruan Langxue
+> **Wilayah:** Desa Xueying, Beiyuan | **Tipe:** Dojo suku pemburu | **Hukum Utama:** Raga Sejati (varian primal/pemburu, inferensi GM)
 > **Estimasi Total Anggota:** ± 40 orang (bagian dari suku pemburu Desa Xueying)
 > **Rujukan silang:** `06_NORTHERN_DESOLATE_TERRITORY.md`
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_NORTHERN_DESOLATE_TERRITORY.md`. Tambahan baru ditandai **🆕**.
@@ -42,7 +42,7 @@ Dipandang primitif oleh sekte kota, tapi sangat dihormati di kalangan sukunya se
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Benteng Beikuan** (`06_NORTHERN_DESOLATE_TERRITORY.md`): hubungan hati-hati jarak jauh — garnisun kekaisaran dekat wilayah suku ini, ketegangan historis akibat ekspansi lama belum sepenuhnya reda meski tak ada konflik terbuka saat ini.
-- **Whitecloud Medicine Hall** (`28_WHITECLOUD_MEDICINE_HALL.md`): hubungan baik lewat cabang Desa Bingxin yang tak jauh — kadang bertukar hasil buruan dengan bahan obat.
+- **Balai Yunyao** (`28_WHITECLOUD_MEDICINE_HALL.md`): hubungan baik lewat cabang Desa Bingxin yang tak jauh — kadang bertukar hasil buruan dengan bahan obat.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Tanah Berburu Suci menyimpan cerita turun-temurun soal batas wilayah yang dulu jauh lebih luas sebelum ekspansi kekaisaran ke utara — sebuah kepahitan lama yang jarang dibicarakan terbuka ke orang luar, tapi bisa jadi konflik tersembunyi bila seorang karakter menggali sejarah suku ini lebih dalam.
