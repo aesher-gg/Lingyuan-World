@@ -6,11 +6,11 @@
 ---
 
 **Nama Karakter:** Jiang Ziling *(CONTOH)*
-**Lokasi Awal:** Desa Xingcun, Tianzhou *(lihat `02_TIANZHOU.md`)*
+**Lokasi Awal:** Desa Qingmu, Tianzhou *(lihat `02_TIANZHOU.md`)*
 **Realm & Stage Awal:** Foundation Establishment (Pembentukan Fondasi), Menengah — Qi Cap: 750 *(500 × 1,5, RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Dao Abadi (varian pedang ringan, gaya Perguruan Luohua)
 **Law Origin:** Jalur Guru — diajarkan oleh **Guru Li Xingchun**, Kepala Perguruan Luohua, sejak usia 14 tahun. Teknik yang sudah dikuasai: *Jurus Pedang Bunga Gugur* (tingkat dasar).
-**Sekte/Afiliasi Awal:** Perguruan Luohua (Desa Xingcun) — murid biasa, belum murid inti
+**Sekte/Afiliasi Awal:** Perguruan Luohua (Desa Qingmu) — murid biasa, belum murid inti
 
 **Kondisi Awal:** HP 300/300 · Qi 750/750 · Stamina 100/100 · Satiety 70% · Kondisi Normal · Karma Netral (belum ada catatan Merit/Sin)
 
@@ -20,7 +20,7 @@
 - Tael Emas × 2
 
 **Equipment Awal (terpakai/digenggam):**
-- Senjata: Pedang Besi Standar — Tier 1, Huang-Grade, dibeli di Kota Luoyang Kecil
+- Senjata: Pedang Besi Standar — Tier 1, Huang-Grade, dibeli di Kota Haoyang
 - Zirah/Pelindung: Jubah Katun Desa — Tier 1, Fan-Grade, bawaan dari desa (perlindungan minim, sekadar pakaian)
 - Aksesoris: Tidak ada
 
@@ -33,4 +33,4 @@
 - Meditasi Dasar Pemurnian Qi — teknik umum non-sekte
 
 **Latar Belakang & Kepribadian:**
-Jiang Ziling tumbuh di Desa Xingcun, menjadi yatim setelah ayahnya meninggal karena wabah semasa ia kecil. Diterima sebagai murid Perguruan Luohua oleh Guru Li Xingchun sejak usia 14 tahun, ia berlatih tekun hingga mencapai Foundation Establishment — pencapaian yang cukup jarang untuk perguruan sekecil itu. Ia punya rivalitas ringan yang bersahabat dengan **Murid Senior Ah Jian**, yang gemar menantangnya duel iseng untuk pamer. Ziling menyimpan buku catatan mendiang ayahnya yang berisi petunjuk soal ramuan penyembuh yang belum sepenuhnya ia pahami — misteri yang diam-diam ingin ia pecahkan. Tujuannya: membuktikan Perguruan Luohua bukan sekte remeh, terinspirasi kisah alumni perguruan yang jadi legenda jianghu. Ia menghormati **Kepala Desa Wu Lao** sebagai tetua desa yang bijaksana.
+Jiang Ziling tumbuh di Desa Qingmu, menjadi yatim setelah ayahnya meninggal karena wabah semasa ia kecil. Diterima sebagai murid Perguruan Luohua oleh Guru Li Xingchun sejak usia 14 tahun, ia berlatih tekun hingga mencapai Foundation Establishment — pencapaian yang cukup jarang untuk perguruan sekecil itu. Ia punya rivalitas ringan yang bersahabat dengan **Murid Senior Ah Jian**, yang gemar menantangnya duel iseng untuk pamer. Ziling menyimpan buku catatan mendiang ayahnya yang berisi petunjuk soal ramuan penyembuh yang belum sepenuhnya ia pahami — misteri yang diam-diam ingin ia pecahkan. Tujuannya: membuktikan Perguruan Luohua bukan sekte remeh, terinspirasi kisah alumni perguruan yang jadi legenda jianghu. Ia menghormati **Kepala Desa Wu Lao** sebagai tetua desa yang bijaksana.
