@@ -1,6 +1,6 @@
-# 🔪 Wuxian World — Organisasi: Perkumpulan Pisau Sunyi (寂刃會)
+# 🔪 Lingyuan World — Organisasi: Perkumpulan Wuying (寂刃會)
 
-> **Modul:** 33 — Sect Detail: Perkumpulan Pisau Sunyi
+> **Modul:** 33 — Sect Detail: Perkumpulan Wuying
 > **Wilayah:** Lintas wilayah, markas tersembunyi | **Tipe:** Organisasi pembunuh bayaran terstruktur | **Hukum Utama:** Custom — 🆕 Hukum Pisau Sunyi
 > **Estimasi Total Anggota:** ± 150 orang
 > **Rujukan silang:** `08_CROSS_REGION_ORGANIZATIONS.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2–8.3 (pendaftaran Law), `11_VITALITY_HUNGER_SYSTEM.md` §1.2, `12_COMBAT_SYSTEM.md` §3.1, `24_BLOOD_SHADOW_ALLIANCE.md` (rival profesional)
@@ -9,7 +9,7 @@
 ---
 
 ## Sejarah & Reputasi Singkat
-Rival profesional Blood Shadow Alliance — jauh lebih terstruktur, menerima kontrak lewat sistem "token pisau" yang hanya dikenali sesama anggota. Berbeda dari Blood Shadow Alliance yang longgar, perkumpulan ini punya hierarki ketat dan kode etik "satu kontrak, satu nyawa, tanpa pengecualian" — kode yang ditegakkan seketat aturan sekte ortodoks mana pun, ironis untuk organisasi pembunuh bayaran.
+Rival profesional Aliansi Anying — jauh lebih terstruktur, menerima kontrak lewat sistem "token pisau" yang hanya dikenali sesama anggota. Berbeda dari Aliansi Anying yang longgar, perkumpulan ini punya hierarki ketat dan kode etik "satu kontrak, satu nyawa, tanpa pengecualian" — kode yang ditegakkan seketat aturan sekte ortodoks mana pun, ironis untuk organisasi pembunuh bayaran.
 
 ## Hierarki & Struktur Keanggotaan
 | Tingkat | Syarat Realm | Estimasi Jumlah | Hak & Kewajiban |
@@ -51,7 +51,7 @@ Rival profesional Blood Shadow Alliance — jauh lebih terstruktur, menerima kon
 | Ketua (rahasia) | *Satu Tusukan, Satu Napas* | Jurus Ultimate | Tier 7, Sheng-Grade | Teknik pembunuhan senyap yang tak menimbulkan suara sama sekali — teknik Ji Wu |
 
 ## Hukum Kultivasi Sekte — Detail Lengkap (Custom Law: Hukum Pisau Sunyi)
-Perkumpulan Pisau Sunyi memakai Custom Law resmi bernama **Hukum Pisau Sunyi**, terdaftar sesuai prosedur `09_CULTIVATION_LAW_SYSTEM.md` §3.E, dan disinkronkan penuh ke `09` §8.2–8.3, `11_VITALITY_HUNGER_SYSTEM.md` §1.2, serta `12_COMBAT_SYSTEM.md` §3.1:
+Perkumpulan Wuying memakai Custom Law resmi bernama **Hukum Pisau Sunyi**, terdaftar sesuai prosedur `09_CULTIVATION_LAW_SYSTEM.md` §3.E, dan disinkronkan penuh ke `09` §8.2–8.3, `11_VITALITY_HUNGER_SYSTEM.md` §1.2, serta `12_COMBAT_SYSTEM.md` §3.1:
 
 | Parameter | Nilai |
 |---|---|
@@ -69,8 +69,8 @@ Kelemahan wajib: anggota yang belum pernah menerima kontrak resmi (murni berlati
 - Identitas sesama anggota dijaga ketat — membocorkan identitas rekan ke pihak luar dihukum mati.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Blood Shadow Alliance** (`24_BLOOD_SHADOW_ALLIANCE.md`): rival profesional utama, persaingan pasar kontrak yang cair, bukan permusuhan terbuka.
-- **Kelompok Racun Bayangan** (`34_KELOMPOK_RACUN_BAYANGAN.md`): kadang bersaing untuk kontrak "pekerjaan bersih" yang sama, meski metode sangat berbeda (pisau senyap vs racun tak terlacak).
+- **Aliansi Anying** (`24_BLOOD_SHADOW_ALLIANCE.md`): rival profesional utama, persaingan pasar kontrak yang cair, bukan permusuhan terbuka.
+- **Kelompok Yandu** (`34_KELOMPOK_RACUN_BAYANGAN.md`): kadang bersaing untuk kontrak "pekerjaan bersih" yang sama, meski metode sangat berbeda (pisau senyap vs racun tak terlacak).
 - **Klien lintas faksi**: dipekerjakan siapa pun yang bisa membayar dan menghormati sistem Token Pisau, termasuk sesekali oleh sekte ortodoks untuk pekerjaan sensitif yang tak ingin dikaitkan langsung dengan mereka.
 
 ## 🆕 Rahasia & Plot Hook Internal
