@@ -391,12 +391,12 @@ Semakin tinggi realm, semakin lama bisa menahan lapar (dari 6 jam di Realm 0 sam
 | `INDEX.md` | 🧭 Hub navigasi tunggal — seluruh link modul + kondisi kapan fetch apa |
 | `players.md` | 📇 Katalog **data awal** karakter & link file individual `players/*.md` (admin-only & read-only bagi AI, lihat §1.10) — dicari lewat nama HANYA saat karakter dimainkan pertama kali |
 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | Peta jarak dunia, Ibu Kota Tianjing & Kekaisaran |
-| `02_CENTRAL_PLAINS.md` | Dataran Tengah: kota, desa, sekte, bandit |
-| `03_AZURE_MOUNTAIN_RANGE.md` | Pegunungan Azure |
-| `04_SOUTHERN_DEMON_DOMAIN.md` | Daerah Iblis Selatan |
-| `05_EASTERN_SEA_REGION.md` | Wilayah Laut Timur |
-| `06_NORTHERN_DESOLATE_TERRITORY.md` | Wilayah Utara Gersang |
-| `07_WESTERN_SACRED_DESERTS.md` | Gurun Suci Barat |
+| `02_TIANZHOU.md` | Tianzhou: kota, desa, sekte, bandit |
+| `03_QINGYUN.md` | Qingyun |
+| `04_MOYUAN.md` | Moyuan |
+| `05_HAIYUAN.md` | Haiyuan |
+| `06_BEIYUAN.md` | Beiyuan |
+| `07_XISHA.md` | Xisha |
 | `08_CROSS_REGION_ORGANIZATIONS.md` | Organisasi lintas wilayah, sanxiu, kriminal mortal |
 | `09_CULTIVATION_LAW_SYSTEM.md` | Sistem Hukum Kultivasi, realm, breakthrough, tribulasi, karma |
 | `10_ECONOMY_SYSTEM.md` | Ekonomi, harga, jasa, aset |
