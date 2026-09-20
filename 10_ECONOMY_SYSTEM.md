@@ -108,7 +108,7 @@ Rusak/using: ×0,7 | Standar: ×1,0 | Kondisi prima: ×1,1 | Bersejarah/antik te
 
 ### 📌 Contoh Perhitungan Lengkap
 
-Pil Penyembuh Luka Dalam (Tier 3, Grade Xuan) diproduksi Balai Yunyao (Northern Territory), dijual di Kota Luoyang Kecil (Tianzhou, >1.500 li dari sumber):
+Pil Penyembuh Luka Dalam (Tier 3, Grade Xuan) diproduksi Balai Yunyao (Northern Territory), dijual di Kota Haoyang (Tianzhou, >1.500 li dari sumber):
 
 ```
 GradeValue      = TierBase(3) × 2,5 = 500 × 2,5 = 1.250 Tael Tembaga (12,5 Tael Perak)
@@ -146,7 +146,7 @@ TabibRealmMultiplier: Foundation Establishment ×1,0 | Nascent Soul ×0,8 (lebih
 EscortFee = (CargoValue × 5%) + (Jarak_li ÷ 100 × 5 Tael Perak) × RiskMultiplier
 ```
 
-RiskMultiplier: Rute aman (dalam Tianzhou) ×1,0 | Rute rawan bandit ×2,5 | Rute zona perang (mis. Scar of Heaven) ×5,0
+RiskMultiplier: Rute aman (dalam Tianzhou) ×1,0 | Rute rawan bandit ×2,5 | Rute zona perang (mis. Lembah Tianlie) ×5,0
 
 ### 4.3 Jasa Informasi (Paviliun Wanxin)
 
