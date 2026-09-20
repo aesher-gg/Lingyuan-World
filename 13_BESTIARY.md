@@ -218,7 +218,7 @@ Jika salah satu poin gagal → encounter/loot DITOLAK atau dikoreksi AI GM.
 - **Dengan Sistem Ekonomi** (`10_ECONOMY_SYSTEM.md`): semua loot tunduk Tier & Grade serta `FinalPrice` formula saat dijual, dan WAJIB Item Origin Log sebelum ditransaksikan.
 - **Dengan Sistem HP** (`11_VITALITY_HUNGER_SYSTEM.md`): HP monster & player dihitung dari formula yang sama (basis QiCap), sehingga pertarungan tetap seimbang dan bisa diprediksi tanpa power creep sepihak dari kedua sisi.
 - **Dengan Sistem Pertempuran** (`12_COMBAT_SYSTEM.md`): MonsterAttackPower & MonsterHP langsung dipakai tanpa konversi tambahan — monster dan kultivator bertarung dengan sistem identik.
-- **Dengan modul regional** (`01`–`07`): tiap monster terkunci ke habitat spesifik yang sudah ditetapkan (Hutan Wuyin, Hellfire Island, Rawa Jiwa Tenggelam, dsb) — mencegah monster tingkat tinggi muncul di zona yang seharusnya aman seperti Kota Kota Tianhe atau Floating Cloud Archipelago (pasar netral).
+- **Dengan modul regional** (`01`–`07`): tiap monster terkunci ke habitat spesifik yang sudah ditetapkan (Hutan Wuyin, Hellfire Island, Rawa Jiwa Tenggelam, dsb) — mencegah monster tingkat tinggi muncul di zona yang seharusnya aman seperti Kota Tianhe atau Floating Cloud Archipelago (pasar netral).
 
 ---
 
