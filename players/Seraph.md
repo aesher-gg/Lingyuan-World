@@ -22,7 +22,7 @@
 - **Senjata Utama:** Halberd Besi Hitam Inti Kera *(Tier 2/3 Custom - Grade Xuan, ditempa oleh Tuan Ma dengan Inti Kera sebagai jangkar gravitasi)*
 - **Senjata Cadangan:** Tombak Batu Terikat Darah *(Tier 2 - Grade Huang, terikat darah)*
 - **Zirah/Pelindung:** Rompi Zirah Kulit Macan *(Tier 2 - Grade Huang, dipakai di dalam jubah)*
-- **Aksesoris:** Token Misi Hijau (Dojo), Token Penuaian Paviliun Besi, Lempengan Giok Kontrak Kera Batu (Siap klaim 10 Tael Perak).
+- **Aksesoris:** Token Misi Hijau (Perguruan), Token Penuaian Paviliun Besi, Lempengan Giok Kontrak Kera Batu (Siap klaim 10 Tael Perak).
 
 **Inventory Awal / Storage (dibawa, tidak terpakai):**
 - Manual Militer: Sapuan Naga Bumi *(Tier 2, Grade Huang - dari Tuan Ma)*
@@ -53,4 +53,4 @@
 **Latar Belakang & Kepribadian:**
 Seraph adalah seorang pemuda yang tumbuh di sebuah desa terpencil di Tianzhou. Tragisnya, seluruh penduduk desa dan kedua orang tuanya dibantai secara kejam oleh sekte sesat demi ritual darah. Dari persembunyiannya, Seraph menyaksikan kengerian tersebut dan bersumpah akan membalaskan dendam keluarganya serta menegakkan keadilan.
 
-Kini Seraph berkembang menjadi Murid Senior dan Alkemis Muda berbakat dari Perguruan Luohua, yang memiliki ikatan jiwa sangat kuat dengan Berus, seekor Rubah Api Karmine (Tier 3). Ia dikenal sebagai sosok yang sangat pragmatis, kalkulatif, dan berhati-hati dalam mengelola sumber daya, namun tidak ragu mengambil risiko fisik dan mental ekstrem demi mencapai fondasi kultivasi sempurna (seperti memadatkan Qi menjadi Singularitas Dantian). Di luar dojo, ia membangun jaringan relasi berharga di Jianghu, melunasi utang budi pada Guru Li Xingchun, serta dihormati oleh Tuan Ma (Jenderal Ma). Saat ini ia sedang dalam perjalanan mandiri untuk menguji senjata barunya dan mempersiapkan diri menembus batas Foundation Establishment.
+Kini Seraph berkembang menjadi Murid Senior dan Alkemis Muda berbakat dari Perguruan Luohua, yang memiliki ikatan jiwa sangat kuat dengan Berus, seekor Rubah Api Karmine (Tier 3). Ia dikenal sebagai sosok yang sangat pragmatis, kalkulatif, dan berhati-hati dalam mengelola sumber daya, namun tidak ragu mengambil risiko fisik dan mental ekstrem demi mencapai fondasi kultivasi sempurna (seperti memadatkan Qi menjadi Singularitas Dantian). Di luar perguruan, ia membangun jaringan relasi berharga di Jianghu, melunasi utang budi pada Guru Li Xingchun, serta dihormati oleh Tuan Ma (Jenderal Ma). Saat ini ia sedang dalam perjalanan mandiri untuk menguji senjata barunya dan mempersiapkan diri menembus batas Foundation Establishment.
