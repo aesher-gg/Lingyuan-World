@@ -6,11 +6,11 @@
 ---
 
 **Nama Karakter:** Seraph
-**Lokasi:** Central Plains (Kota Luoyang Kecil - Pemandian & Kedai Bunga Teratai)
+**Lokasi:** Tianzhou (Kota Luoyang Kecil - Pemandian & Kedai Bunga Teratai)
 **Realm & Stage:** Qi Refining (Pemurnian Qi), Tahap 1 / Puncak (Late Stage) — Qi Cap: 200
 **Hukum Kultivasi:** Hukum Dao Abadi (Modifikasi Jalur Bumi/Gravitasi)
 **Law Origin:** Jalur Pencerahan Pribadi & Alkimia — Memodifikasi *Napas Akar Pohon Tua* menjadi *Napas Akar Dangkal*, secara paksa memadatkan Qi Bumi dan Yin menjadi *Singularitas Dantian* (Massa & Gravitasi Ekstrem) alih-alih sekadar mengisi wadah cair standar.
-**Sekte/Afiliasi:** Dojo Bunga Aprikot — Murid Senior (Inner Disciple) & Alkemis Muda
+**Sekte/Afiliasi:** Perguruan Luohua — Murid Senior (Inner Disciple) & Alkemis Muda
 
 **Kondisi:** HP 126/130 · Qi 130/200 · Stamina 100/100 · Satiety 90% · Kondisi Normal (Segar Bugar / Well Rested) · Karma Netral
 
@@ -33,9 +33,9 @@
 - Daging Babi Hutan Panggang *(Tier 1) x1 Porsi*
 - Arak Beras Spiritual *(Guci Kecil, Terpakai Sedikit)* & Dendeng Sapi Rempah x2
 - Buku Catatan Herbal Tabib Chen & Gulungan Resep: Pil Pemulihan Qi Dasar (Tier 1)
-- Pisau Ukir Baja Roh, Pisau Dapur, Peta Central Plains, Botol Giok Kecil (Kosong), Salep Penolak Serangga.
+- Pisau Ukir Baja Roh, Pisau Dapur, Peta Tianzhou, Botol Giok Kecil (Kosong), Salep Penolak Serangga.
 
-**Aset Tersembunyi (Disimpan di Brankas Kamar Dojo Bunga Aprikot):**
+**Aset Tersembunyi (Disimpan di Brankas Kamar Perguruan Luohua):**
 - Pil Pemurnian Sumsum *(Tier 3, Grade Huang) x1*
 - Inti Roh Jenderal *(Tier 4, Kualitas Tinggi) x1*
 - Taring Serigala Beracun *(Tier 3) x1*
@@ -51,6 +51,6 @@
 - Sapuan Naga Bumi (Halberd) *(Novice 45% - Physical Foundation Laid)*
 
 **Latar Belakang & Kepribadian:**
-Seraph adalah seorang pemuda yang tumbuh di sebuah desa terpencil di Central Plains. Tragisnya, seluruh penduduk desa dan kedua orang tuanya dibantai secara kejam oleh sekte sesat demi ritual darah. Dari persembunyiannya, Seraph menyaksikan kengerian tersebut dan bersumpah akan membalaskan dendam keluarganya serta menegakkan keadilan.
+Seraph adalah seorang pemuda yang tumbuh di sebuah desa terpencil di Tianzhou. Tragisnya, seluruh penduduk desa dan kedua orang tuanya dibantai secara kejam oleh sekte sesat demi ritual darah. Dari persembunyiannya, Seraph menyaksikan kengerian tersebut dan bersumpah akan membalaskan dendam keluarganya serta menegakkan keadilan.
 
-Kini Seraph berkembang menjadi Murid Senior dan Alkemis Muda berbakat dari Dojo Bunga Aprikot, yang memiliki ikatan jiwa sangat kuat dengan Berus, seekor Rubah Api Karmine (Tier 3). Ia dikenal sebagai sosok yang sangat pragmatis, kalkulatif, dan berhati-hati dalam mengelola sumber daya, namun tidak ragu mengambil risiko fisik dan mental ekstrem demi mencapai fondasi kultivasi sempurna (seperti memadatkan Qi menjadi Singularitas Dantian). Di luar dojo, ia membangun jaringan relasi berharga di Jianghu, melunasi utang budi pada Guru Li Xingchun, serta dihormati oleh Tuan Ma (Jenderal Ma). Saat ini ia sedang dalam perjalanan mandiri untuk menguji senjata barunya dan mempersiapkan diri menembus batas Foundation Establishment.
+Kini Seraph berkembang menjadi Murid Senior dan Alkemis Muda berbakat dari Perguruan Luohua, yang memiliki ikatan jiwa sangat kuat dengan Berus, seekor Rubah Api Karmine (Tier 3). Ia dikenal sebagai sosok yang sangat pragmatis, kalkulatif, dan berhati-hati dalam mengelola sumber daya, namun tidak ragu mengambil risiko fisik dan mental ekstrem demi mencapai fondasi kultivasi sempurna (seperti memadatkan Qi menjadi Singularitas Dantian). Di luar dojo, ia membangun jaringan relasi berharga di Jianghu, melunasi utang budi pada Guru Li Xingchun, serta dihormati oleh Tuan Ma (Jenderal Ma). Saat ini ia sedang dalam perjalanan mandiri untuk menguji senjata barunya dan mempersiapkan diri menembus batas Foundation Establishment.
