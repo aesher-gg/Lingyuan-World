@@ -1,6 +1,6 @@
-# 👻 Wuxian World — Sekte: Ghost Valley Sect
+# 👻 Lingyuan World — Sekte: Sekte Hunming
 
-> **Modul:** 29 — Sect Detail: Ghost Valley Sect
+> **Modul:** 29 — Sect Detail: Sekte Hunming
 > **Wilayah:** Lembah berkabut, 700 li dari Benteng Beikuan | **Tipe:** Demonic, ilmu roh, ditakuti | **Hukum Utama:** Custom — Hukum Roh Hantu
 > **Estimasi Total Anggota:** ± 120 orang
 > **Rujukan silang:** `06_NORTHERN_DESOLATE_TERRITORY.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2 & §8.3, `13_BESTIARY.md` (Mayat Hidup Rawa Jiwa Tenggelam)
@@ -55,7 +55,7 @@ Sekte demonic ilmu roh yang ditakuti bahkan oleh sesama demonic — dianggap ter
 - Murid yang ragu (seperti Yin Ling) tidak dipaksa keluar, tapi juga tidak pernah benar-benar dipercaya penuh sampai terbukti.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Demonic Flame Palace** (`21_DEMONIC_FLAME_PALACE.md`) & **Nine Serpent Den** (`22_NINE_SERPENT_DEN.md`): sesama demonic, hubungan hormat jarak jauh — jarang berinteraksi langsung karena metodologi sangat berbeda.
+- **Istana Yanmo** (`21_DEMONIC_FLAME_PALACE.md`) & **Sarang Jiuyin** (`22_NINE_SERPENT_DEN.md`): sesama demonic, hubungan hormat jarak jauh — jarang berinteraksi langsung karena metodologi sangat berbeda.
 - **Seluruh faksi ortodoks**: dijauhi dan diburu bila terlihat beroperasi di luar lembah, meski jarang benar-benar dikejar sampai ke sarangnya karena bahaya formasi kabut alami.
 
 ## 🆕 Rahasia & Plot Hook Internal
