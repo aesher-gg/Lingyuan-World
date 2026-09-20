@@ -108,7 +108,7 @@ Rusak/using: ×0,7 | Standar: ×1,0 | Kondisi prima: ×1,1 | Bersejarah/antik te
 
 ### 📌 Contoh Perhitungan Lengkap
 
-Pil Penyembuh Luka Dalam (Tier 3, Grade Xuan) diproduksi Balai Yunyao (Northern Territory), dijual di Kota Haoyang (Tianzhou, >1.500 li dari sumber):
+Pil Penyembuh Luka Dalam (Tier 3, Grade Xuan) diproduksi Balai Yunyao (Beiyuan), dijual di Kota Haoyang (Tianzhou, >1.500 li dari sumber):
 
 ```
 GradeValue      = TierBase(3) × 2,5 = 500 × 2,5 = 1.250 Tael Tembaga (12,5 Tael Perak)
