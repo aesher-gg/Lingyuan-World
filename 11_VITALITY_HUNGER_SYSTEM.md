@@ -124,7 +124,7 @@ JamSampaiKosong(realm) = SatietyMax ÷ DecayRatePerJam(realm) = 6 jam × Fasting
 | 8 — Penerobosan Tribulasi | ×2.000,0 | 12.000 jam (~1,4 tahun) |
 | 9 — Kenaikan Abadi | Tak terbatas | Tidak butuh makan sama sekali (Bi Gu sempurna) |
 
-📌 Catatan realisme: kultivator awal (Realm 1–2) tetap harus makan hampir seperti manusia biasa, sementara kultivator menengah (Realm 3–4) baru mulai terasa keuntungan trope "bisa menahan lapar berhari-hari saat menjelajah" — cocok dengan rekomendasi jarak tempuh Xisha di `07_WESTERN_SACRED_DESERTS.md`.
+📌 Catatan realisme: kultivator awal (Realm 1–2) tetap harus makan hampir seperti manusia biasa, sementara kultivator menengah (Realm 3–4) baru mulai terasa keuntungan trope "bisa menahan lapar berhari-hari saat menjelajah" — cocok dengan rekomendasi jarak tempuh Xisha di `07_XISHA.md`.
 
 ### 5.4 Status Efek Kelaparan
 
