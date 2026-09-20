@@ -1,4 +1,4 @@
-# 📜 Wuxian World — Hukum Kultivasi Kustom (Custom Laws)
+# 📜 Lingyuan World — Hukum Kultivasi Kustom (Custom Laws)
 
 > **Modul:** 40 — Custom Laws
 > **Fungsi:** Tempat Admin mencatat Hukum Kultivasi buatan pemain atau tambahan Admin.
