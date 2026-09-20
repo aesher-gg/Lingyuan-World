@@ -1,4 +1,4 @@
-# 🏯 Wuxian World — Sekte, Dojo & Organisasi Kustom (Custom Sects)
+# 🏯 Lingyuan World — Sekte, Dojo & Organisasi Kustom (Custom Sects)
 
 > **Modul:** 41 — Custom Sects
 > **Fungsi:** Tempat Admin mencatat Sekte/Dojo/Organisasi buatan pemain atau tambahan Admin.
@@ -24,7 +24,7 @@
 ### SECT-001: Paviliun "Jing Han" (静寒)
 - **Tipe:** Tempat Kediaman & Pertapaan Pribadi (Independen / Sanxiu)
 - **Afiliasi:** Ortodoks / Netral (Bersekutu dengan Garnisun Benteng Beikuan)
-- **Wilayah:** Northern Desolate Territory (Wilayah Utara Gersang)
+- **Wilayah:** Beiyuan (Wilayah Utara Gersang)
 - **Lokasi Spesifik:** Distrik Timur Inti (Inner Eastern District), Benteng Beikuan (600 li dari perbatasan barbar, 400 li selatan Danau Cermin Es)
 - **Hukum Kultivasi:** Hukum Kultivasi Es & Dao Murni Yin
 - **Deskripsi Singkat:**
@@ -48,8 +48,8 @@
   - **Tingkat Tinggi:** Seni Pedang Embun Salju & Pembekuan Meridian
 - **Relasi dengan Faksi Lain:**
   - **Garnisun Benteng Beikuan (Komandan Bei Zhan):** Sangat dihormati dan diberikan hak otonomi penuh di Distrik Timur Inti.
-  - **Whitecloud Medicine Hall:** Netral / Berbagi riset ramuan alkimia es.
-  - **Sekte Demonic (Ghost Valley Sect):** Waspada & Musuh potensial jika melanggar batas.
+  - **Balai Yunyao:** Netral / Berbagi riset ramuan alkimia es.
+  - **Sekte Demonic (Sekte Hunming):** Waspada & Musuh potensial jika melanggar batas.
 - **Rahasia Internal:**
   - Simpul Urat Nadi Yin di bawah paviliun memiliki titik pemurnian es murni yang sangat langka di Utara.
   - Pengawal bayangan tidak pernah meninggalkan atap genteng dan beroperasi murni berdasarkan sinyal persepsi energi Ji Yue.
