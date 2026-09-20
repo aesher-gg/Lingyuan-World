@@ -1,9 +1,9 @@
-# ⚔️ Wuxian World — Sekte: Heavenly Sword Pavilion
+# ⚔️ Lingyuan World — Sekte: Sekte Tianjian
 
-> **Modul:** 14 — Sect Detail: Heavenly Sword Pavilion
-> **Wilayah:** Central Plains, pegunungan terjal 700 li dari Tianjing | **Tipe:** Ortodoks, sangat disiplin | **Hukum Utama:** Dao Abadi (varian Pedang)
+> **Modul:** 14 — Sect Detail: Sekte Tianjian
+> **Wilayah:** Tianzhou, pegunungan terjal 700 li dari Tianjing | **Tipe:** Ortodoks, sangat disiplin | **Hukum Utama:** Dao Abadi (varian Pedang)
 > **Estimasi Total Anggota:** ± 900 orang
-> **Rujukan silang:** `02_CENTRAL_PLAINS.md` (lokasi & NPC dasar), `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2 (Law), `10_ECONOMY_SYSTEM.md` (Tier/Grade), `12_COMBAT_SYSTEM.md` (klasifikasi teknik), `15_PROFOUND_HEAVEN_SECT.md` & `16_SILVER_RAIN_SWORD_SCHOOL.md` (sekte tetangga Central Plains)
+> **Rujukan silang:** `02_CENTRAL_PLAINS.md` (lokasi & NPC dasar), `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2 (Law), `10_ECONOMY_SYSTEM.md` (Tier/Grade), `12_COMBAT_SYSTEM.md` (klasifikasi teknik), `15_PROFOUND_HEAVEN_SECT.md` & `16_SILVER_RAIN_SWORD_SCHOOL.md` (sekte tetangga Tianzhou)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md`. Tambahan baru ditandai **🆕**.
 
 ---
@@ -59,7 +59,7 @@ Sekte pedang tertua di dunia. Reputasinya dibangun di atas kedisiplinan mutlak d
 | Ketua Sekte (rahasia) | *Satu Pedang Membelah Langit* | Jurus Ultimate | Tier 7, Sheng-Grade | Satu tebasan tunggal berkekuatan penuh, jarang dikeluarkan — hanya diwariskan ke Ketua berikutnya |
 
 ## Hukum Kultivasi Sekte — Detail Lengkap
-Heavenly Sword Pavilion memakai **Hukum Dao Abadi (varian Pedang)** sesuai `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2 — memakai Spiritual Qi murni, formula QiCap standar tanpa modifikasi. Yang membedakan sekte ini adalah jalur **Dao Insight**-nya: setiap murid diwajibkan merenungkan "Jalan Pedang" (salah satu contoh Dao Insight resmi di `09` §3.C) sebagai bentuk comprehension pasif mereka — bukan sekadar berlatih gerakan, tapi memahami pedang sebagai filosofi hidup. Murid yang gagal menunjukkan pemahaman filosofis ini (hanya menghafal gerakan tanpa insight) akan terhambat breakthrough-nya meski bahan & Insight Point formal terpenuhi — AI GM boleh menambah kesulitan naratif (bukan menolak breakthrough resmi, hanya mempersulit alur cerita menuju sana) jika player tak pernah menunjukkan refleksi soal "Jalan Pedang" dalam roleplay.
+Sekte Tianjian memakai **Hukum Dao Abadi (varian Pedang)** sesuai `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2 — memakai Spiritual Qi murni, formula QiCap standar tanpa modifikasi. Yang membedakan sekte ini adalah jalur **Dao Insight**-nya: setiap murid diwajibkan merenungkan "Jalan Pedang" (salah satu contoh Dao Insight resmi di `09` §3.C) sebagai bentuk comprehension pasif mereka — bukan sekadar berlatih gerakan, tapi memahami pedang sebagai filosofi hidup. Murid yang gagal menunjukkan pemahaman filosofis ini (hanya menghafal gerakan tanpa insight) akan terhambat breakthrough-nya meski bahan & Insight Point formal terpenuhi — AI GM boleh menambah kesulitan naratif (bukan menolak breakthrough resmi, hanya mempersulit alur cerita menuju sana) jika player tak pernah menunjukkan refleksi soal "Jalan Pedang" dalam roleplay.
 
 ## Kode Etik & Aturan Internal
 - Duel antar-murid harus dideklarasikan resmi di depan minimal satu Tetua — duel diam-diam dianggap pelanggaran.
@@ -68,9 +68,9 @@ Heavenly Sword Pavilion memakai **Hukum Dao Abadi (varian Pedang)** sesuai `09_C
 - Tidak boleh mengajarkan teknik sekte ke pihak luar tanpa izin Ketua.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Golden Bell Monastery** (`19_GOLDEN_BELL_MONASTERY.md`): hubungan paling hangat di antara sekte besar lain — sama-sama menghargai disiplin, kadang saling mengirim murid untuk "pertukaran wawasan" jangka pendek.
-- **Profound Heaven Sect** (`15_PROFOUND_HEAVEN_SECT.md`): dingin dan formal. Xuan Yijian secara pribadi tidak menyukai cara Profound Heaven bermain politik istana, tapi kedua sekte menjaga hubungan permukaan yang sopan demi stabilitas Central Plains.
-- **Silver Rain Sword School** (`16_SILVER_RAIN_SWORD_SCHOOL.md`): dipandang agak "kurang murni jalannya" karena keterbukaan mereka menerima berbagai latar belakang murid — bukan permusuhan, hanya rasa superioritas halus.
+- **Biara Jinguang** (`19_GOLDEN_BELL_MONASTERY.md`): hubungan paling hangat di antara sekte besar lain — sama-sama menghargai disiplin, kadang saling mengirim murid untuk "pertukaran wawasan" jangka pendek.
+- **Sekte Xuanyuan** (`15_PROFOUND_HEAVEN_SECT.md`): dingin dan formal. Xuan Yijian secara pribadi tidak menyukai cara Profound Heaven bermain politik istana, tapi kedua sekte menjaga hubungan permukaan yang sopan demi stabilitas Tianzhou.
+- **Sekte Yunjian** (`16_SILVER_RAIN_SWORD_SCHOOL.md`): dipandang agak "kurang murni jalannya" karena keterbukaan mereka menerima berbagai latar belakang murid — bukan permusuhan, hanya rasa superioritas halus.
 - **Sekte/faksi demonic mana pun**: hubungan bermusuhan default, meski tak pernah menyerang duluan tanpa provokasi jelas (sesuai `00_CORE_RULES_AI_GM.md` §1.3 Otonomi Dunia).
 
 ## 🆕 Rahasia & Plot Hook Internal
