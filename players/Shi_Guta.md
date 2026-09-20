@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Shi Guta
-**Lokasi:** Perguruan Shilong, Kampung Shiban (Qingyun)
+**Lokasi:** Perguruan Shilong, Kampung Shiyin (Qingyun)
 **Realm & Stage:** Mortal Foundation (Fondasi Fana), Awal — Qi Cap: 0
 **Hukum Kultivasi:** Belum ada — akan ditentukan lewat roleplay (Sedang merumuskan teori berbasis resonansi fisik/material).
 **Law Origin (jika sudah ada Hukum):** Belum ada.
