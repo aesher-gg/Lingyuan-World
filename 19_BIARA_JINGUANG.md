@@ -62,7 +62,7 @@ Biara Jinguang adalah teladan murni **Hukum Raga Sejati** (`09` §3.A & §8.2): 
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Sekte Tianjian** (`14_SEKTE_TIANJIAN.md`): hubungan paling akrab di antara sekte besar lain, berbagi nilai disiplin & kemurnian jalan meski jalur Hukum berbeda.
-- **Perguruan Shilong** (`20_PERGURUAN_SHILONG.md`): tetangga di wilayah yang sama, hubungan jarak jauh yang sopan — biara kadang diam-diam membantu bila dojo kecil ini menemukan formasi kuno yang berbahaya.
+- **Perguruan Shilong** (`20_PERGURUAN_SHILONG.md`): tetangga di wilayah yang sama, hubungan jarak jauh yang sopan — biara kadang diam-diam membantu bila perguruan kecil ini menemukan formasi kuno yang berbahaya.
 - **Faksi demonic mana pun**: dijauhi bahkan oleh yang paling berani sekalipun — reputasi "bahaya tenang" biara ini membuat nyaris tak ada yang berani memancing masalah.
 
 ## 🆕 Rahasia & Plot Hook Internal
