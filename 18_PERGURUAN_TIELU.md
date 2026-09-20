@@ -1,7 +1,7 @@
 # 🔨 Lingyuan World — Perguruan: Perguruan Tielu
 
 > **Modul:** 18 — Sect Detail: Perguruan Tielu
-> **Wilayah:** Desa Tiedao, Tianzhou | **Tipe:** Perguruan pandai besi kecil | **Hukum Utama:** Raga Sejati (varian pukulan tempa, inferensi GM)
+> **Wilayah:** Desa Huolian, Tianzhou | **Tipe:** Perguruan pandai besi kecil | **Hukum Utama:** Raga Sejati (varian pukulan tempa, inferensi GM)
 > **Estimasi Total Anggota:** ± 20 orang
 > **Rujukan silang:** `02_TIANZHOU.md`, `16_SEKTE_YUNJIAN.md` (tujuan pindah Xiao Tie), `10_ECONOMY_SYSTEM.md` (Tier/Grade barang tempaan)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
