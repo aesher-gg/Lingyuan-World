@@ -19,12 +19,12 @@
 
 ## Lokasi & Situs Khusus
 
-- **Eternal Frost Peak** (±1.100 li dari Benteng Beikuan) — puncak es abadi, suhu ekstrem, hanya kultivator tingkat tinggi yang bisa mendekat.
-- **Bukit Tulang Beku** (±450 li dari Desa Xueying) — makam kuno para jenderal, dianggap berhantu.
-- **Lembah Angin Menjerit** (±600 li dari Benteng Beikuan) — dipakai Sekte Hunming untuk ritual tersembunyi, berbahaya bagi kultivator lemah.
-- **Danau Cermin Es (Ice Mirror Lake)** (±1.000 li dari perbatasan / 400 li utara Benteng Beikuan) — danau es terisolasi dengan permukaan es bening bak cermin, tempat bertapa dan pemataan energi spiritual yang tenang.
+- **Puncak Tianhan** (±1.100 li dari Benteng Hanbei) — puncak es abadi, suhu ekstrem, hanya kultivator tingkat tinggi yang bisa mendekat.
+- **Bukit Binggu** (±450 li dari Desa Langya) — makam kuno para jenderal, dianggap berhantu.
+- **Lembah Guiyin** (±600 li dari Benteng Hanbei) — dipakai Sekte Hunming untuk ritual tersembunyi, berbahaya bagi kultivator lemah.
+- **Danau Jingbing (Danau Jingbing)** (±1.000 li dari perbatasan / 400 li utara Benteng Hanbei) — danau es terisolasi dengan permukaan es bening bak cermin, tempat bertapa dan pemataan energi spiritual yang tenang.
 
-### Desa Xueying (400 li dari perbatasan)
+### Desa Langya (400 li dari perbatasan)
 Desa suku pemburu, keras dan tertutup pada orang luar.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -32,11 +32,11 @@ Desa suku pemburu, keras dan tertutup pada orang luar.
 | Kepala Suku Xue Lang | Kepala Perguruan Langxue & suku | 59 | Foundation Establishment, Puncak | **1.000** | *Cakaran Serigala Salju* — cakaran tangan kuat meniru gerak serigala menerkam | Keras dan tertutup, cepat curiga pada orang luar, tapi sangat setia pada sukunya |
 | Pemburu Muda Ah Bing | Pemburu berbakat | 21 | Qi Refining, Puncak | **200** | *Terkaman Serigala Muda* — serangan cepat menerkam dari sisi samping | Pendiam dan tangguh, tak suka basa-basi, langsung bertindak saat berburu |
 
-### Benteng Beikuan (600 li)
-Kota benteng garis pertahanan utara, tegang sepanjang tahun. Berjarak ±600 li dari perbatasan wilayah barbar dan tepat 400 li ke arah selatan dari Danau Cermin Es. Benteng ini selalu berada dalam status siaga militer di bawah komando Komandan Bei Zhan (Realm 5 / Nascent Soul).
+### Benteng Hanbei (600 li)
+Kota benteng garis pertahanan utara, tegang sepanjang tahun. Berjarak ±600 li dari perbatasan wilayah barbar dan tepat 400 li ke arah selatan dari Danau Jingbing. Benteng ini selalu berada dalam status siaga militer di bawah komando Komandan Bei Zhan (Realm 5 / Nascent Soul).
 
 #### 🏮 Paviliun "Jing Han" (静寒)
-Terletak di **Distrik Timur Inti (Inner Eastern District)** Benteng Beikuan, sebuah zona sunyi yang dikhususkan untuk tetua sekte ortodoks aliansi benteng atau kultivator independen (Sanxiu) berkekuatan tinggi yang dihormati garnisun. Bagi penduduk biasa, paviliun ini hanyalah bangunan kayu elegan yang tertutup kabut es dan dilarang didekati. Namun bagi kultivator persepsi Qi, paviliun ini adalah benteng pertahanan teraman di Wilayah Utara Gersang.
+Terletak di **Distrik Timur Inti (Inner Eastern District)** Benteng Hanbei, sebuah zona sunyi yang dikhususkan untuk tetua sekte ortodoks aliansi benteng atau kultivator independen (Sanxiu) berkekuatan tinggi yang dihormati garnisun. Bagi penduduk biasa, paviliun ini hanyalah bangunan kayu elegan yang tertutup kabut es dan dilarang didekati. Namun bagi kultivator persepsi Qi, paviliun ini adalah benteng pertahanan teraman di Wilayah Utara Gersang.
 
 - **Topografi Qi & Urat Nadi Yin (Yin Spirit Vein):** Ditinggali tepat di atas simpul kecil urat nadi spiritual langka yang memancarkan energi Yin murni dan dingin — alasan utama Nona Ji Yue memilih tempat ini untuk menyempurnakan Dao es-nya.
 - **Formasi Pelindung:** Empat batu langkah utama di halaman depan merupakan node dari *Formasi Ilusi & Pembunuh Tingkat Menengah*. Siapa pun yang melangkah masuk dengan niat membunuh (*killing intent*) akan langsung memicu serangan es yang membekukan darah.
@@ -55,30 +55,30 @@ Terletak di **Distrik Timur Inti (Inner Eastern District)** Benteng Beikuan, seb
 | Pengawal Bayangan Ji Yue (2 Orang) | Penjaga Paviliun "Jing Han" | ??? | Core Formation, Awal | **2.500** | *Tebasan Bayangan Es* — serangan mendadak dari balik kabut es | Berjaga 24 jam di atap genteng tanpa berganti shift, sangat setia dan tidak pernah bersuara |
 | Prajurit Muda Gang Tie | Prajurit garnisun | 20 | Foundation Establishment, Awal | **500** | *Tebasan Pedang Standar* — gerak dasar militer tanpa variasi | Bersemangat tapi gugup, belum berpengalaman perang sesungguhnya |
 
-### Desa Bingxin (750 li)
+### Desa Yuhan (750 li)
 Desa tabib herbal es langka, damai tapi terisolasi salju.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | Tabib Es Bing Xin | Cabang kecil Balai Yunyao | 65 | Nascent Soul, Awal | **12.500** | *Jarum Es Penenang* — akupunktur dengan sentuhan dingin untuk meredakan luka | Dingin sikapnya, pendiam, tapi sangat berdedikasi dan sabar merawat pasien tanpa pandang faksi |
 
-### 🆕 Kota Baru: Hanyue (寒月城, "Kota Bulan Dingin")
+### 🆕 Kota Baru: Kota Yuehan (寒月城, "Kota Bulan Dingin")
 900 li ke utara, kota terjauh yang masih dianggap wilayah manusia; karakteristik penduduknya sangat mandiri, jarang percaya pada kekaisaran maupun sekte besar karena merasa "selalu dilupakan" oleh pusat kekuasaan.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Pemilik Kedai Arak Bulan Beku | Satu-satunya tempat hangat berkumpul, Kota Hanyue | 57 | Non-Kultivator | — | Tidak bertarung | Hangat pada pelanggan tetap, dingin dan curiga pada wajah baru yang belum dikenal |
+| Pemilik Kedai Arak Bulan Beku | Satu-satunya tempat hangat berkumpul, Kota Kota Yuehan | 57 | Non-Kultivator | — | Tidak bertarung | Hangat pada pelanggan tetap, dingin dan curiga pada wajah baru yang belum dikenal |
 | Kepala Kota Mandiri Han Yue | Pemimpin kota terjauh utara | 58 | Core Formation, Menengah | **3.750** | *Pukulan Dingin Mandiri* — pukulan tangan kosong bertenaga dingin, jarang dipakai | Skeptis dan keras kepala, tegas memimpin lewat musyawarah, cepat curiga pada campur tangan luar |
 | Pengelana Tersesat Yi Ren | Orang misterius yang "muncul" di kota tanpa penjelasan | ??? | Soul Transformation, Awal (disembunyikan) | **62.500** | *Gerak Refleks Tanpa Nama* — gerakan bertarung tingkat tinggi yang muncul otomatis tanpa ia sadari | Bingung dan pendiam, tenang meski kehilangan ingatan, sesekali panik saat insting bertarungnya muncul tiba-tiba |
 
-### 🆕 Lembah Angin Beku (Frostwind Gulch)
+### 🆕 Lembah Fengxue (Lembah Fengxue)
 1.050 li ke utara. Lembah celah salju tempat badai es bertiup tanpa henti. Angin tajam bertekanan tinggi merobek perlindungan Qi non-es (-15% Qi Cap efektif selama berada di dalam lembah). Lokasi ideal tempat bertapa pencari inti elemen es.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Tetua Badai Es Leng Xuan | Pertapa tua Lembah Angin Beku | 108 | Void Severing, Menengah | **468.750** | *Tarian Angin Es Pemotong Jiwa* — ribuan pisau es melayang memotong pertahanan dan tulang | Dingin, keras, menguji setiap pengunjung yang berani melangkah ke wilayah bertapanya |
+| Tetua Badai Es Leng Xuan | Pertapa tua Lembah Fengxue | 108 | Void Severing, Menengah | **468.750** | *Tarian Angin Es Pemotong Jiwa* — ribuan pisau es melayang memotong pertahanan dan tulang | Dingin, keras, menguji setiap pengunjung yang berani melangkah ke wilayah bertapanya |
 
-### 🌿 🆕 Hutan Salju Pinus Kuno (Ancient Pine Snow Forest — 550 li dari Desa Xueying)
+### 🌿 🆕 Hutan Gu Song (Hutan Gu Song — 550 li dari Desa Langya)
 Hutan pinus purba berselimut es abadi di lereng pegunungan utara. Pohon-pohon pinus raksasa dilapisi jarum es yang tajam seperti belati.
 **Bahaya Alam Hardcore:**
 - *Napas Pembeku Jiwa:* Suhu dingin ekstrem memicu penurunan HP (-1% max HP per 20 menit) tanpa Pakaian Bulu Es / Perlindungan Qi Api.
@@ -93,7 +93,7 @@ Hutan pinus purba berselimut es abadi di lereng pegunungan utara. Pohon-pohon pi
 ## Sekte & Karakteristiknya
 
 ### 🤍 Balai Yunyao
-*500 li dari Benteng Beikuan — Bukan Hukum tempur, jalur Alkimia/Support (lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.2)*
+*500 li dari Benteng Hanbei — Bukan Hukum tempur, jalur Alkimia/Support (lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.2)*
 
 Sekte pengobatan & alkimia. Netral secara politik, melayani siapa pun yang membayar tanpa memandang faksi, sangat dihormati semua pihak sebagai "tanah suci" yang tak boleh diserang.
 
@@ -103,7 +103,7 @@ Sekte pengobatan & alkimia. Netral secara politik, melayani siapa pun yang memba
 | Murid Alkimia Muda Cao Yao | Murid peracik pil | 23 | Foundation Establishment, Menengah | **750** | *Lemparan Pil Kejut* — pil ringan yang meledak jadi asap penenang saat dilempar | Rajin dan teliti, sedikit gugup di bawah tekanan, sangat berdedikasi pada penelitiannya |
 
 ### 👻 Sekte Hunming
-*Lembah berkabut, 700 li dari Benteng Beikuan — Custom Law: Hukum Roh Hantu*
+*Lembah berkabut, 700 li dari Benteng Hanbei — Custom Law: Hukum Roh Hantu*
 
 Sekte demonic ilmu roh. Ditakuti bahkan oleh sesama demonic karena dianggap terlalu ekstrem dan tak punya batasan moral, cenderung menyendiri dan jarang beraliansi dengan siapa pun.
 
@@ -112,11 +112,11 @@ Sekte demonic ilmu roh. Ditakuti bahkan oleh sesama demonic karena dianggap terl
 | Ketua Lembah Gui Hun | Ketua Sekte Hunming | 156 | Void Severing, Awal | **312.500** | *Panggilan Seribu Roh* — memanggil roh terikat untuk menyerang lawan dari berbagai arah | Menyendiri dan dingin, jarang emosi terlihat, tanpa ampun dan tanpa batasan moral saat bertindak |
 | Murid Roh Muda Yin Ling | Murid pemanggil roh | 19 | Foundation Establishment, Puncak | **1.000** | *Bisikan Roh Kecil* — memanggil satu roh kecil untuk mengganggu konsentrasi lawan | Tertutup dan gelisah, mulai ragu dengan jalan gelapnya, jarang menyerang tanpa disuruh |
 
-### 🐺 Perguruan Langxue (Desa Xueying)
-Perguruan kecil suku. Dipandang primitif oleh sekte kota, tapi sangat dihormati di kalangan sukunya sendiri sebagai penjaga tradisi leluhur. *(NPC: lihat tabel Desa Xueying di atas.)*
+### 🐺 Perguruan Langxue (Desa Langya)
+Perguruan kecil suku. Dipandang primitif oleh sekte kota, tapi sangat dihormati di kalangan sukunya sendiri sebagai penjaga tradisi leluhur. *(NPC: lihat tabel Desa Langya di atas.)*
 
 ---
 
 ## Aliansi Dagang & Organisasi
 
-- **Pos Dagang Benteng Beikuan** — cabang kecil Serikat Delapan Penjuru khusus logistik militer perbatasan. Sangat disiplin dan cepat, terbiasa bekerja dalam tekanan perang.
+- **Pos Dagang Benteng Hanbei** — cabang kecil Serikat Delapan Penjuru khusus logistik militer perbatasan. Sangat disiplin dan cepat, terbiasa bekerja dalam tekanan perang.
