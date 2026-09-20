@@ -31,7 +31,7 @@ Pemukiman kultivator demonic kelas bawah, penuh pasar gelap.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Dojo "Bayangan Tua" | Kepala Perguruan Heiying | 60 | Foundation Establishment, Puncak | **1.000** | *Cengkeraman Bayangan Kelam* — tangkapan cepat dari arah tak terduga, memanfaatkan gelap | Dingin dan pragmatis, tak mudah marah tapi tanpa ragu menyerang jika ada yang mengkhianati kesepakatan |
+| Kepala Perguruan "Bayangan Tua" | Kepala Perguruan Heiying | 60 | Foundation Establishment, Puncak | **1.000** | *Cengkeraman Bayangan Kelam* — tangkapan cepat dari arah tak terduga, memanfaatkan gelap | Dingin dan pragmatis, tak mudah marah tapi tanpa ragu menyerang jika ada yang mengkhianati kesepakatan |
 | Pemuda Putus Asa Hei Zi | Calon murid baru | 17 | Mortal Foundation, Menengah | 0 | *Tinju Amarah Membara* — pukulan asal-asalan namun bertenaga besar karena emosi | Pemarah dan penuh dendam, mudah tersulut, suka menyerang duluan saat tersinggung |
 | Gelandangan Buta Meng | Pengemis buta di gang desa | 55 | Non-Kultivator (disembunyikan?) | — | Tidak bertarung terbuka — memanfaatkan pendengaran tajam untuk menghindar | Tenang dan penuh rahasia, jarang bicara, mengamati lebih banyak daripada bertindak |
 
