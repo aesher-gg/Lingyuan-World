@@ -44,19 +44,19 @@
 | 11 | `11_VITALITY_HUNGER_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/11_VITALITY_HUNGER_SYSTEM.md | Formula HP, status luka, kelaparan |
 | 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
 | 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
-| 14–37 | *(24 file sekte/dojo/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
+| 14–37 | *(24 file sekte/perguruan/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
 | 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
 | 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/41_CUSTOM_SECTS.md | **Sekte/Dojo/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/41_CUSTOM_SECTS.md | **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | — | `README.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
 
-### 1a. Direktori Sekte, Dojo & Organisasi (24 File Individual)
+### 1a. Direktori Sekte, Perguruan & Organisasi (24 File Individual)
 
-> Setiap sekte/dojo/organisasi punya **file sendiri**, lengkap dengan hierarki, fasilitas, artefak/pusaka/seal-talisman, kurikulum teknik bertingkat, Hukum kultivasi detail, relasi antar-faksi, dan rahasia internal. **Fetch HANYA** link file yang relevan dengan situasi saat ini — jangan fetch banyak sekaligus.
+> Setiap sekte/perguruan/organisasi punya **file sendiri**, lengkap dengan hierarki, fasilitas, artefak/pusaka/seal-talisman, kurikulum teknik bertingkat, Hukum kultivasi detail, relasi antar-faksi, dan rahasia internal. **Fetch HANYA** link file yang relevan dengan situasi saat ini — jangan fetch banyak sekaligus.
 
 **Tianzhou**
-| Sekte/Dojo | Link RAW (langsung klik/fetch) |
+| Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
 | Sekte Tianjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/14_SEKTE_TIANJIAN.md |
 | Sekte Xuanyuan | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/15_SEKTE_XUANYUAN.md |
@@ -65,13 +65,13 @@
 | Perguruan Tielu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/18_PERGURUAN_TIELU.md |
 
 **Qingyun**
-| Sekte/Dojo | Link RAW (langsung klik/fetch) |
+| Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
 | Biara Jinguang | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/19_BIARA_JINGUANG.md |
 | Perguruan Shilong | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/20_PERGURUAN_SHILONG.md |
 
 **Moyuan**
-| Sekte/Dojo | Link RAW (langsung klik/fetch) |
+| Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
 | Istana Yanmo | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/21_ISTANA_YANMO.md |
 | Sarang Jiuyin | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/22_SARANG_JIUYIN.md |
@@ -80,20 +80,20 @@
 | Perguruan Heiying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/25_PERGURUAN_HEIYING.md |
 
 **Haiyuan**
-| Sekte/Dojo | Link RAW (langsung klik/fetch) |
+| Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
 | Istana Qinglian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/26_ISTANA_QINGLIAN.md |
 | Perguruan Haizhen | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/27_PERGURUAN_HAIZHEN.md |
 
 **Beiyuan**
-| Sekte/Dojo | Link RAW (langsung klik/fetch) |
+| Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
 | Balai Yunyao | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/28_BALAI_YUNYAO.md |
 | Sekte Hunming | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/29_SEKTE_HUNMING.md |
 | Perguruan Langxue | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/30_PERGURUAN_LANGXUE.md |
 
 **Xisha**
-| Sekte/Dojo | Link RAW (langsung klik/fetch) |
+| Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
 | Kuil Ciyun | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/31_KUIL_CIYUN.md |
 | Perguruan Shaying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/32_PERGURUAN_SHAYING.md |
@@ -132,7 +132,7 @@
 | Perlu hitung detail regen HP / efek kelaparan lanjut | `11_VITALITY_HUNGER_SYSTEM.md` | Formula dasarnya sudah ada ringkas di `00` §3 |
 | Pertarungan resmi dimulai (giliran, initiative, damage) | `12_COMBAT_SYSTEM.md` | |
 | Lawan monster/spirit beast liar, perjalanan lewat zona liar (ambush) | `13_BESTIARY.md` | Dipakai bersamaan dengan `12` |
-| Karakter mau bergabung sekte/dojo, eksplorasi fasilitas sekte, belajar teknik bertingkat, atau cek hierarki/artefak sekte tertentu | Fetch langsung dari link RAW di §1a | Jangan rakit URL sendiri. Gunakan link yang sudah tertulis di kolom "Link RAW" tabel §1a. Pilih HANYA satu file yang sesuai dengan sekte yang sedang berinteraksi. |
+| Karakter mau bergabung sekte/perguruan, eksplorasi fasilitas sekte, belajar teknik bertingkat, atau cek hierarki/artefak sekte tertentu | Fetch langsung dari link RAW di §1a | Jangan rakit URL sendiri. Gunakan link yang sudah tertulis di kolom "Link RAW" tabel §1a. Pilih HANYA satu file yang sesuai dengan sekte yang sedang berinteraksi. |
 | Pemain menyebut sekte yang tidak ada di `14`–`37` | `41_CUSTOM_SECTS.md` | Cek apakah sekte itu sudah dicatat Admin di file kustom |
 | Pemain menyebut/mengklaim teknik yang tidak ada di file resmi | `42_CUSTOM_TECHNIQUES.md` | Cek apakah teknik itu sudah dicatat Admin di file kustom |
 | Pemain minta bantuan setup GitHub / nanya cara pakai sistem ini | `README.md` | Ini file untuk manusia, sampaikan isinya ke pemain, bukan role-play |
