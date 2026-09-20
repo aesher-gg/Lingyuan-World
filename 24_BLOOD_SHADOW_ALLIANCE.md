@@ -3,8 +3,8 @@
 > **Modul:** 24 — Sect Detail: Aliansi Anying
 > **Wilayah:** Tersebar, tanpa markas tunggal, Moyuan | **Tipe:** Aliansi longgar pembunuh bayaran | **Hukum Utama:** Custom — Hukum Bayangan Darah
 > **Estimasi Total Anggota:** ± 600 orang (longgar, tidak semua "resmi")
-> **Rujukan silang:** `04_SOUTHERN_DEMON_DOMAIN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2 & §8.3, `33_PERKUMPULAN_PISAU_SUNYI.md` (rival profesional)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_SOUTHERN_DEMON_DOMAIN.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `04_MOYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2 & §8.3, `33_PERKUMPULAN_PISAU_SUNYI.md` (rival profesional)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_MOYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -22,7 +22,7 @@ Aliansi longgar tanpa struktur kaku seperti sekte lain — anggotanya bisa beker
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| "Bayangan Tanpa Nama" | Pembunuh bayaran legendaris | Void Severing Menengah, disembunyikan — detail lengkap di `04_SOUTHERN_DEMON_DOMAIN.md` |
+| "Bayangan Tanpa Nama" | Pembunuh bayaran legendaris | Void Severing Menengah, disembunyikan — detail lengkap di `04_MOYUAN.md` |
 | Perekrut Muda Ah Sha | Perekrut anggota baru | Core Formation Awal |
 | 🆕 Veteran "Tangan Kiri" Mo Chen | Salah satu veteran senior yang ikut membahas keputusan penting aliansi | Soul Transformation Menengah, 58 tahun, identitas separuh diketahui kalangan tertentu (tidak sepenuhnya `???` seperti Bayangan Tanpa Nama). Lebih terbuka bernegosiasi dibanding kebanyakan anggota. |
 
