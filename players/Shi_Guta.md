@@ -6,11 +6,11 @@
 ---
 
 **Nama Karakter:** Shi Guta
-**Lokasi:** Dojo Pahat Naga, Kampung Shiban (Azure Mountain Range)
+**Lokasi:** Perguruan Shilong, Kampung Shiban (Qingyun)
 **Realm & Stage:** Mortal Foundation (Fondasi Fana), Awal — Qi Cap: 0
 **Hukum Kultivasi:** Belum ada — akan ditentukan lewat roleplay (Sedang merumuskan teori berbasis resonansi fisik/material).
 **Law Origin (jika sudah ada Hukum):** Belum ada.
-**Sekte/Afiliasi:** Dojo Pahat Naga — Pemahat Magang (Apprentice Carver) / Kuli Kasar.
+**Sekte/Afiliasi:** Perguruan Shilong — Pemahat Magang (Apprentice Carver) / Kuli Kasar.
 
 **Kondisi:** HP 58/100 · Qi 0/0 · Stamina 85/100 · Satiety 75% · Kondisi: Bahu Kiri Pegal & Memar, Bahu Kanan Ngilu/Kaku, Pergelangan Tangan Kanan (Hangat & Kaku, Penyembuhan Lanjut), Tangan Kiri Mengeras, Tenggorokan & Mata Sedikit Teriritasi Debu · Karma Netral
 
@@ -36,11 +36,11 @@
 - [Konsep Dao: Resonansi Urat Tersembunyi] — Pencerahan dari mengamati Shi Long & aplikasi getaran/suara pada batu.
 - [Pemahaman Dao: Membebaskan Bentuk Batu (Tingkat Fana)] — Bimbingan langsung dari Kepala Pemahat Shi Long.
 - [Teori Fana: Resonansi Titik Meridian] — Teori pribadi berisiko tinggi untuk membuka meridian tanpa Qi melalui guncangan fisik/sonik.
-- [Keahlian: Memahat Granit (Tingkat Fana - Mahir)] — Latihan intensif di Dojo Pahat Naga.
+- [Keahlian: Memahat Granit (Tingkat Fana - Mahir)] — Latihan intensif di Perguruan Shilong.
 - [Pemahaman Pasif: Regulasi Napas Fana (Tingkat Menengah)] — Meditasi untuk memisahkan pikiran dari rasa sakit.
 - [Pengetahuan: Pemilahan Kuarsa & Keselamatan Kerja] — Belajar dari Gang.
 
 **Latar Belakang & Kepribadian:**
 Shi Guta adalah seorang pemuda fana yang masa lalunya hancur ketika sosok yang ia anggap sebagai ayah ternyata adalah seorang kultivator yang mengkhianatinya dan meracuni desanya. Tumbuh dan bertahan hidup di alam liar Pegunungan Azure dengan nyaris tanpa perbekalan, ia berkembang menjadi sosok yang sangat analitis, pekerja keras, dan bertekad baja. Sumpah balas dendam adalah api yang menjaganya tetap hidup, namun ia cukup cerdas untuk menyembunyikan ambisinya dari kaum fana yang menganggap kultivator sebagai dewa yang tak tersentuh.
 
-Tidak memiliki bakat spiritual atau Qi bawaan (Qi Cap 0), Shi Guta memilih jalan yang sunyi dan menyiksa: membongkar rahasia alam semesta melalui biomekanika, fisika mortal, dan resonansi material. Di Dojo Pahat Naga, ia tidak belajar sihir, melainkan cara "mendengarkan" batu dan membiarkan materi membelah dirinya sendiri. Ia adalah seorang realis yang pragmatis, siap menukar darah dan tulang mudanya demi secercah pencerahan Dao yang suatu hari nanti mungkin mampu membuka paksa gerbang meridian tubuhnya.
+Tidak memiliki bakat spiritual atau Qi bawaan (Qi Cap 0), Shi Guta memilih jalan yang sunyi dan menyiksa: membongkar rahasia alam semesta melalui biomekanika, fisika mortal, dan resonansi material. Di Perguruan Shilong, ia tidak belajar sihir, melainkan cara "mendengarkan" batu dan membiarkan materi membelah dirinya sendiri. Ia adalah seorang realis yang pragmatis, siap menukar darah dan tulang mudanya demi secercah pencerahan Dao yang suatu hari nanti mungkin mampu membuka paksa gerbang meridian tubuhnya.
