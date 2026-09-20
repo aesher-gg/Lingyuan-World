@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Inggo
-**Lokasi:** Pondok Bambu Giok Hitam (Markas Pribadi), Perbatasan Zona Dalam, Hutan Bambu Berbisik, Qingyun (Modul 03)
+**Lokasi:** Pondok Bambu Giok Hitam (Markas Pribadi), Perbatasan Zona Dalam, Hutan Lingzhu, Qingyun (Modul 03)
 **Realm & Stage:** Core Formation (Pembentukan Inti), Awal — Qi Cap: 2500
 **Hukum Kultivasi:** Hukum Custom: Bambu Pembalik Murim
 **Law Origin:** Jalur Pencerahan (Epiphany) & Mutasi Dantian — Memahami bambu bukan sebagai kayu, melainkan sebagai "kekosongan yang menelan langit", "akar parasit yang membelah batu", dan "pemangkasan ranting untuk tumbuh lebih kuat". Struktur Inti: Bambu Giok Berongga Berlapis.
@@ -41,6 +41,6 @@
 **Latar Belakang & Kepribadian:**
 Hidup sebagai yatim piatu sejak berusia 8 tahun di Desa Luoye, Inggo tumbuh besar dengan bekerja keras sebagai buruh tani dan kuli angkut. Ketika perekonomiannya membaik, ia memberanikan diri untuk melamar Risqia, seorang gadis sederhana yang lembut dan penyayang. Kehidupan mereka berjalan bahagia hingga saat Inggo berusia 24 tahun, ketika Risqia sedang hamil muda. Suatu hari, saat Inggo berada di hutan bambu mencari rebung, ledakan dahsyat terdengar di kejauhan. Berlari membabi buta ke rumahnya, ia mendapati kediamannya telah hancur menjadi debu—korban dari bentrokan dahsyat antara aliansi sekte Ortodoks dan Unortodoks.
 
-Dalam duka, amarah, dan dendam membara akibat kehilangan istri dan calon anaknya, Inggo berdoa dan bersumpah akan menghabisi serta membalikkan meja dunia Murim. Berbekal keteguhan hati yang kelam, ia melangkah ke dalam Hutan Bambu Berbisik untuk memulai perjalanannya. Ia adalah seorang Sanxiu (kultivator pengembara) yang lahir dari tragedi dan bertahan hidup di pinggiran dunia Murim yang kejam. Ia tidak mempercayai jalan ortodoks yang kaku; baginya, dunia ini adalah hutan belantara di mana hanya mereka yang beradaptasi dan "menjajah" yang akan bertahan.
+Dalam duka, amarah, dan dendam membara akibat kehilangan istri dan calon anaknya, Inggo berdoa dan bersumpah akan menghabisi serta membalikkan meja dunia Murim. Berbekal keteguhan hati yang kelam, ia melangkah ke dalam Hutan Lingzhu untuk memulai perjalanannya. Ia adalah seorang Sanxiu (kultivator pengembara) yang lahir dari tragedi dan bertahan hidup di pinggiran dunia Murim yang kejam. Ia tidak mempercayai jalan ortodoks yang kaku; baginya, dunia ini adalah hutan belantara di mana hanya mereka yang beradaptasi dan "menjajah" yang akan bertahan.
 
 Sifatnya sangat pragmatis, gigih, kalkulatif, dan rela mengambil risiko ekstrem (seperti menelan racun, memangsa monster Tier 5, atau memutilasi tubuhnya sendiri) demi kekuatan. Ia memandang tubuhnya bukan sebagai kuil yang suci, melainkan sebagai "rumpun bambu" yang bisa dipangkas, dibakar, dan tumbuh kembali lebih kuat dari luka-lukanya.
