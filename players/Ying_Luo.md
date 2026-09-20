@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Ying Luo
-**Lokasi Awal:** Desa Qingfeng, Azure Mountain Range *(lihat `03_AZURE_MOUNTAIN_RANGE.md`)*
+**Lokasi Awal:** Desa Qingfeng, Qingyun *(lihat `03_AZURE_MOUNTAIN_RANGE.md`)*
 **Realm & Stage Awal:** Mortal Foundation (Fondasi Fana), Awal — Qi Cap: 0 *(RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Belum ada — akan ditentukan lewat roleplay
 **Law Origin (jika sudah ada Hukum):** Belum ada
