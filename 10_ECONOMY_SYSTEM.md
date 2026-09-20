@@ -62,7 +62,7 @@ TierBase(n) = 5 × 10^(n−1) Tael Tembaga
 | Grade | Nama | Multiplier | Catatan |
 |---|---|---|---|
 | 1 | Fan-Grade (凡品) | ×0,5 | Kualitas mortal/kasar, buatan tangan amatir |
-| 2 | Huang-Grade (黄品) | ×1,0 | Standar baseline, kualitas dojo/pandai besi biasa |
+| 2 | Huang-Grade (黄品) | ×1,0 | Standar baseline, kualitas perguruan/pandai besi biasa |
 | 3 | Xuan-Grade (玄品) | ×2,5 | Kualitas sekte menengah, ada sentuhan formasi |
 | 4 | Di-Grade (地品) | ×6,0 | Kualitas sekte besar, bahan langka terpakai |
 | 5 | Tian-Grade (天品) | ×15,0 | Kualitas tetua/pusaka sekte, jarang diperjualbelikan |
@@ -179,7 +179,7 @@ Dibayar dalam Poin Kontribusi Sekte, bukan Tael — tidak bisa dikonversi ke mat
 FormationCost = FormationTier × TierBase(materialTier) × ArtisanSkillMultiplier
 ```
 
-ArtisanSkillMultiplier: pengrajin dojo kecil ×1,0 | pengrajin sekte menengah ×2,0 | pengrajin sekte besar/tetua ×5,0
+ArtisanSkillMultiplier: pengrajin perguruan kecil ×1,0 | pengrajin sekte menengah ×2,0 | pengrajin sekte besar/tetua ×5,0
 
 ---
 
@@ -190,13 +190,13 @@ ArtisanSkillMultiplier: pengrajin dojo kecil ×1,0 | pengrajin sekte menengah ×
 | Rumah/lahan pedesaan | 20–100 Tael Perak |
 | Toko kota kecil | 500–5.000 Tael Perak |
 | Toko/paviliun kota besar (lokasi strategis) | 1–10 Tael Emas |
-| Pendirian dojo kecil (minimum viable) | 500 Tael Emas + izin lahan otoritas lokal |
+| Pendirian perguruan kecil (minimum viable) | 500 Tael Emas + izin lahan otoritas lokal |
 | Estate sekte menengah (skala Sekte Yunjian) | 50.000+ Tael Emas, minimum pendiri Nascent Soul |
 | Perahu nelayan | 50–200 Tael Perak |
 | Kapal dagang | 5–50 Tael Emas |
 | Kapal perang/kapal bajak bendera | 200–2.000 Tael Emas |
 
-📌 Anti-cheat: pembelian aset besar (dojo ke atas) WAJIB melalui proses naratif (negosiasi dengan otoritas lokal), bukan transaksi instan sekali klik.
+📌 Anti-cheat: pembelian aset besar (perguruan ke atas) WAJIB melalui proses naratif (negosiasi dengan otoritas lokal), bukan transaksi instan sekali klik.
 
 ---
 
