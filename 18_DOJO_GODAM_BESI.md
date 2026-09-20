@@ -3,8 +3,8 @@
 > **Modul:** 18 — Sect Detail: Perguruan Tielu
 > **Wilayah:** Desa Tiedao, Tianzhou | **Tipe:** Dojo pandai besi kecil | **Hukum Utama:** Raga Sejati (varian pukulan tempa, inferensi GM)
 > **Estimasi Total Anggota:** ± 20 orang
-> **Rujukan silang:** `02_CENTRAL_PLAINS.md`, `16_SILVER_RAIN_SWORD_SCHOOL.md` (tujuan pindah Xiao Tie), `10_ECONOMY_SYSTEM.md` (Tier/Grade barang tempaan)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `02_TIANZHOU.md`, `16_SILVER_RAIN_SWORD_SCHOOL.md` (tujuan pindah Xiao Tie), `10_ECONOMY_SYSTEM.md` (Tier/Grade barang tempaan)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -21,7 +21,7 @@ Dipandang kasar dan tak elegan oleh sekte besar, tapi dihormati karena kejujuran
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Pandai Besi Kepala Tie Gang | Kepala Dojo | Core Formation Awal — detail lengkap di `02_CENTRAL_PLAINS.md` |
+| Pandai Besi Kepala Tie Gang | Kepala Dojo | Core Formation Awal — detail lengkap di `02_TIANZHOU.md` |
 | Murid Muda Xiao Chui | Murid magang | Mortal Foundation Puncak |
 
 ## Fasilitas
@@ -42,7 +42,7 @@ Dipandang kasar dan tak elegan oleh sekte besar, tapi dihormati karena kejujuran
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Sekte Yunjian** (`16_SILVER_RAIN_SWORD_SCHOOL.md`): hubungan baik tak langsung lewat kisah sukses Xiao Tie — Tie Gang diam-diam bangga meski tak pernah mengakuinya terbuka.
-- **Serikat Dagang Delapan Penjuru** (`02_CENTRAL_PLAINS.md`): pelanggan/mitra tetap untuk kebutuhan senjata dasar, dipercaya karena kejujuran dagang dojo ini.
+- **Serikat Dagang Delapan Penjuru** (`02_TIANZHOU.md`): pelanggan/mitra tetap untuk kebutuhan senjata dasar, dipercaya karena kejujuran dagang dojo ini.
 - **Sekte besar mana pun**: netral mutlak — dojo ini secara sadar menghindari terlibat konflik sekte demi menjaga reputasi dagang yang jujur ke semua pihak.
 
 ## 🆕 Rahasia & Plot Hook Internal
