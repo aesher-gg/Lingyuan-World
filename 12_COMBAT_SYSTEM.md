@@ -1,4 +1,4 @@
-# ⚔️ Wuxian World — Sistem Pertempuran (Battle & Combat Rules)
+# ⚔️ Lingyuan World — Sistem Pertempuran (Battle & Combat Rules)
 
 > **Modul:** 12 — Combat System
 > **Prinsip:** Anti-Cheat Enforced — Strict Turn-Based — Terintegrasi dengan Sistem Hukum Kultivasi, HP, dan Bestiarium
