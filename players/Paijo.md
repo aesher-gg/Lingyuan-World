@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Paijo
-**Lokasi:** Desa Tiedao, Tianzhou (Perguruan Tielu)
+**Lokasi:** Desa Huolian, Tianzhou (Perguruan Tielu)
 **Realm & Stage:** Mortal Foundation (Fondasi Fana), Awal — Qi Cap: 0
 **Hukum Kultivasi:** Belum ada — sedang mempelajari dasar Body Tempering (Pernapasan Besi Tua) lewat roleplay
 **Law Origin (jika sudah ada Hukum):** Jalur Latihan Fisik Mandiri — Fokus pada efisiensi gerak dan kontrol pernapasan dasar untuk pekerjaan kasar.
@@ -40,4 +40,4 @@ Di dunia Jianghu, setiap yatim piatu biasanya memiliki masa lalu yang tragis dan
 
 Sejak saat itu, Paijo belajar satu hal penting di jalanan Kota Haoyang: Kehormatan tidak bisa dimakan, dan keadilan hanya milik mereka yang memiliki tenaga dalam (Neigong) tingkat tinggi. Menyadari bahwa ia tidak memiliki bakat martial arts alami, tidak memiliki garis keturunan dewa, dan tubuhnya lemah, Paijo memilih jalan bertahan hidup yang paling efektif: Menjadi pengelana fana yang sangat cerdas, metodis, berhati-hati, serta menjadi parasit di tengah para raksasa. Ia belajar bahwa para pendekar besar, meskipun bisa membelah gunung dengan pedang, sangat mudah ditipu oleh rasa kasihan, keserakahan, atau ego mereka sendiri.
 
-Ia mengutamakan kelangsungan hidup dan keuntungan jangka panjang melalui manipulasi sosial yang halus, pengamatan tajam, dan konsistensi yang membosankan. Ia tidak mencari ketenaran atau konfrontasi langsung, melainkan membangun reputasi sebagai "murid teladan" yang tak tergoyahkan untuk menutupi niat, keahliannya yang sebenarnya, dan akumulasi asetnya. Saat ini, ia sedang membangun fondasi pengaruh dan keamanan di Perguruan Tielu (Desa Tiedao). Ia baru saja berhasil memanipulasi situasi untuk mengikat seorang murid lain (Murid C) dengan hutang budi dan jaminan fisik (jubah luar), menunjukkan kemampuannya dalam mengubah kelemahan target menjadi keuntungan jangka panjang tanpa merusak reputasinya sendiri di mata para senior seperti Xiao Chui dan Senior Wu.
+Ia mengutamakan kelangsungan hidup dan keuntungan jangka panjang melalui manipulasi sosial yang halus, pengamatan tajam, dan konsistensi yang membosankan. Ia tidak mencari ketenaran atau konfrontasi langsung, melainkan membangun reputasi sebagai "murid teladan" yang tak tergoyahkan untuk menutupi niat, keahliannya yang sebenarnya, dan akumulasi asetnya. Saat ini, ia sedang membangun fondasi pengaruh dan keamanan di Perguruan Tielu (Desa Huolian). Ia baru saja berhasil memanipulasi situasi untuk mengikat seorang murid lain (Murid C) dengan hutang budi dan jaminan fisik (jubah luar), menunjukkan kemampuannya dalam mengubah kelemahan target menjadi keuntungan jangka panjang tanpa merusak reputasinya sendiri di mata para senior seperti Xiao Chui dan Senior Wu.
