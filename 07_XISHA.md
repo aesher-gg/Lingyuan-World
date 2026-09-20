@@ -11,7 +11,7 @@
 | Populasi | ± 18 juta |
 | Kekayaan | ± 150 juta Tael |
 | Jarak dari Tianzhou | 2.400 li (terjauh dari ibu kota) |
-| Jarak dari Northern Territory | 2.600 li (terjauh antar wilayah tetangga) |
+| Jarak dari Beiyuan | 2.600 li (terjauh antar wilayah tetangga) |
 | Qi Density Modifier | ×0,4 (Termiskin) — hanya kultivator Realm 4 (Core Formation) ke atas yang disarankan menyeberang |
 | Monster khas wilayah | Cacing Pasir Raksasa, Elang Pasir Iblis, Skorpion Emas Legendaris (Ancient Guardian) (detail: `13_BESTIARY.md`) |
 
@@ -19,8 +19,8 @@
 
 ## Lokasi & Situs Khusus
 
-- **Bukit Pasir Menyanyi** (±350 li dari Oasis Ganlu) — dianggap tempat suci, dijaga longgar Kuil Ciyun sebagai lokasi ziarah.
-- **Formasi Batu Buddha Tidur** (±600 li dari Reruntuhan Gushatta) — reruntuhan biara kuno berbentuk Buddha raksasa.
+- **Bukit Fengyin** (±350 li dari Oasis Ganlu) — dianggap tempat suci, dijaga longgar Kuil Ciyun sebagai lokasi ziarah.
+- **Formasi Shifo** (±600 li dari Reruntuhan Huanggu) — reruntuhan biara kuno berbentuk Buddha raksasa.
 
 ### Oasis Ganlu (500 li dari perbatasan)
 Satu-satunya sumber air besar, dikelola bergantian oleh kafilah.
@@ -29,7 +29,7 @@ Satu-satunya sumber air besar, dikelola bergantian oleh kafilah.
 |---|---|---|---|---|---|---|
 | Tetua Kafilah Gan Lu | Pengatur giliran kafilah di oasis | 71 | Foundation Establishment, Menengah | **750** | *Tongkat Penengah Kafilah* — pukulan tongkat ringan sekadar melerai perselisihan | Bijaksana dan sangat sabar, dipercaya semua kafilah menjaga aturan tetap adil |
 
-### Desa Shayan (700 li)
+### Desa Feisha (700 li)
 Pemandu gurun turun-temurun, miskin sumber daya tapi keahliannya dihargai.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -37,7 +37,7 @@ Pemandu gurun turun-temurun, miskin sumber daya tapi keahliannya dihargai.
 | Kepala Pemandu Sha Ying | Kepala Perguruan Shaying | 54 | Foundation Establishment, Puncak | **1.000** | *Panah Elang Pasir* — tembakan panah presisi tinggi dari jarak jauh | Netral profesional, tenang dan tajam mengamati, jarang menyerang kecuali dibayar untuk melindungi |
 | Pemandu Muda Xiao Ying | Pemandu magang | 17 | Qi Refining, Menengah | **150** | *Lemparan Pisau Pelacak* — pisau kecil untuk menandai jejak, bukan untuk membunuh | Berbakat dan penasaran, ingin menjelajah lebih jauh, sedikit gegabah karena masih muda |
 
-### Reruntuhan Gushatta (900 li)
+### Reruntuhan Huanggu (900 li)
 Bekas kota kuno, kini pasar gelap barang antik spiritual.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -47,22 +47,22 @@ Bekas kota kuno, kini pasar gelap barang antik spiritual.
 
 > Ini adalah salah satu dari dua lokasi resmi **Trial Kehampaan (Realm 6→7)** — lihat `09_CULTIVATION_LAW_SYSTEM.md` §8.4.
 
-### 🆕 Kota Baru: Jinsha (金沙城, "Kota Pasir Emas")
+### 🆕 Kota Baru: Kota Jinyuan (金沙城, "Kota Pasir Emas")
 1.100 li ke dalam gurun, satu-satunya kota permanen berskala besar di gurun ini, berdiri di atas sumber air bawah tanah langka; karakteristik penduduknya ahli negosiasi karena harus bertahan hidup dari perdagangan kafilah lintas gurun selama berabad-abad.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Konsorsium Jin Sha | Ketua Konsorsium Kafilah Jinsha | 56 | Nascent Soul, Awal | **12.500** | *Pukulan Pasir Emas* — pukulan tangan yang menyebarkan pasir tajam ke wajah lawan | Ahli negosiasi, tenang tapi protektif berlebihan pada rute dagang rahasianya |
+| Kepala Konsorsium Jin Sha | Ketua Konsorsium Kafilah Kota Jinyuan | 56 | Nascent Soul, Awal | **12.500** | *Pukulan Pasir Emas* — pukulan tangan yang menyebarkan pasir tajam ke wajah lawan | Ahli negosiasi, tenang tapi protektif berlebihan pada rute dagang rahasianya |
 | Pemilik Kedai Air Ah Quan | Pemilik satu-satunya sumber air permanen kota | 60 | Foundation Establishment, Awal | **500** | Tidak bertarung | Dihormati dan adil, tenang, tak pernah pilih kasih membagi air pada siapa pun |
 
-### 🆕 Lembah Angin Meratung (Whistling Canyon)
+### 🆕 Lembah Fenglie (Lembah Fenglie)
 1.250 li dari perbatasan Tianzhou, celah gurun terjal batu pasir merah di mana angin kencang meniup pasir seperti pisau. Menjaga reruntuhan laboratorium alkimia kuno. Angin pasir tajam mengakibatkan resiko luka fisik ringan dan kebutaan sementara jika tidak memakai kacamata pasir/perlindungan Qi.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | Penjaga Alkimia Kuno "Mata Angin" | Pertapa penjaga reruntuhan alkimia | 92 | Soul Transformation, Awal | **62.500** | *Badai Pasir Pemotong Daging* — mengendalikan pasir merobek zirah dan pertahanan | Keras kepala, pembenci penjarah harta, hanya membiarkan alkemis sejati masuk |
 
-### 🌿 🆕 Oasis Kuno Pohon Kurma Purba (Ancient Date Palm Oasis — 850 li dari Oasis Ganlu)
+### 🌿 🆕 Oasis Muling (Oasis Muling — 850 li dari Oasis Ganlu)
 Oasis alami tersembunyi di kedalaman gurun barat yang dikelilingi vegetasi pohon kurma spiritual raksasa berumur ratusan tahun dan mata air bening berenergi penyembuh.
 **Bahaya Alam Hardcore:**
 - *Gelombang Panas Fatamorgana:* Sengatan matahari ekstrem memicu dehidrasi berat (-10% Satiety per jam) dan risiko ilusi fatamorgana jika tidak berlindung di bawah naungan kurma/meminum air oasis.
@@ -86,21 +86,21 @@ Sekte ortodoks Buddha. Paling welas asih di antara semua sekte ortodoks, menerim
 | Kepala Biara Kong Ci | Ketua Kuil Ciyun | 110 | Nascent Soul, Puncak | **25.000** | *Telapak Welas Asih* — dorongan qi lembut yang lebih sering menyembuhkan daripada melukai | Sangat welas asih dan sabar, hampir tak pernah marah, menerima siapa pun tanpa pandang asal-usul |
 | Biksu Muda Ren Ci | Murid biara termuda | 15 | Mortal Foundation, Menengah | 0 | *Pukulan Lembut Penolong* — gerak dasar bertahan tanpa niat melukai | Polos dan penuh belas kasih, tak suka konflik sama sekali, suka menolong tanpa berpikir panjang |
 
-### 🦅 Perguruan Shaying (Desa Shayan)
-Perguruan kecil. Bukan sekte petarung, lebih dikenal sebagai kelompok pemandu profesional yang disewa sekte besar manapun tanpa terikat afiliasi tetap — netralitas inilah yang membuat mereka dipercaya semua pihak. *(NPC: lihat tabel Desa Shayan di atas.)*
+### 🦅 Perguruan Shaying (Desa Feisha)
+Perguruan kecil. Bukan sekte petarung, lebih dikenal sebagai kelompok pemandu profesional yang disewa sekte besar manapun tanpa terikat afiliasi tetap — netralitas inilah yang membuat mereka dipercaya semua pihak. *(NPC: lihat tabel Desa Feisha di atas.)*
 
 ---
 
 ## Aliansi Dagang & Organisasi
 
-- **Konsorsium Kafilah Jinsha** *(baru)* — federasi pedagang gurun independen, tidak berafiliasi dengan Serikat Delapan Penjuru, sangat protektif terhadap rute dagang rahasia mereka, kadang bentrok kepentingan dengan Menara Bintang Jatuh soal hak temuan artefak kuno.
-- **Menara Bintang Jatuh** — dekat Reruntuhan Gushatta, spesialis info harta karun, sering bersaing sekaligus bekerja sama dengan Konsorsium Kafilah Jinsha.
+- **Konsorsium Kafilah Kota Jinyuan** *(baru)* — federasi pedagang gurun independen, tidak berafiliasi dengan Serikat Delapan Penjuru, sangat protektif terhadap rute dagang rahasia mereka, kadang bentrok kepentingan dengan Menara Bintang Jatuh soal hak temuan artefak kuno.
+- **Menara Bintang Jatuh** — dekat Reruntuhan Huanggu, spesialis info harta karun, sering bersaing sekaligus bekerja sama dengan Konsorsium Kafilah Kota Jinyuan.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | Kepala Menara Luo Xing | Ketua Menara Bintang Jatuh | 68 | Core Formation, Puncak | **5.000** | *Cakar Pemburu Harta* — cakaran tangan cepat, dilatih dari kebiasaan menggali reruntuhan | Ambisius dan sedikit serakah soal harta karun, tenang tapi kompetitif pada rival dagangnya |
 
-### ⚔️ Markas Perampok Kafilah "Serigala Pasir"
+### ⚔️ Benteng Shalang
 *(bukit pasir tersembunyi, 300 li dari Oasis Ganlu)*
 
 Perkemahan sementara di balik bukit pasir tinggi yang berubah bentuk tiap badai, membuat lokasi mereka sulit dipetakan bahkan oleh pemandu gurun berpengalaman sekalipun.
