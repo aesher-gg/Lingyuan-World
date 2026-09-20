@@ -6,11 +6,11 @@
 ---
 
 **Nama Karakter:** Nox
-**Lokasi Awal:** Dojo Bunga Aprikot (Desa Xingcun), Central Plains *(lihat `02_CENTRAL_PLAINS.md` & `17_DOJO_BUNGA_APRIKOT.md`)*
+**Lokasi Awal:** Perguruan Luohua (Desa Xingcun), Tianzhou *(lihat `02_CENTRAL_PLAINS.md` & `17_DOJO_BUNGA_APRIKOT.md`)*
 **Realm & Stage Awal:** Qi Refining (Pemurnian Qi), Awal — Qi Cap: 100 *(RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Belum ada — akan ditentukan lewat roleplay (Fondasi saat ini berbasis Keseimbangan, Kesabaran, dan Integrasi Dao dalam Kehidupan Nyata)
 **Law Origin (jika sudah ada Hukum):** N/A
-**Sekte/Afiliasi Awal:** Dojo Bunga Aprikot (Murid Resmi di bawah bimbingan Guru Li Xingchun; Senior bagi Wei & Mei)
+**Sekte/Afiliasi Awal:** Perguruan Luohua (Murid Resmi di bawah bimbingan Guru Li Xingchun; Senior bagi Wei & Mei)
 
 **Kondisi Awal:** HP 120/120 · Qi 39/100 · Stamina 92/100 · Satiety 55% · Kondisi Normal (Adaptasi Intensitas 35% Terkonsolidasi & Stabil) · Karma Positif ++++
 
@@ -38,6 +38,6 @@
 - Kontrol Api Mikro (Self-Taught via Ah Jian’s Guidance) — Presisi regulasi Qi melalui penyalaan api sadar
 
 **Latar Belakang & Kepribadian:**
-Nox adalah seorang yatim piatu berusia 17 tahun yang memulai perjalanan kultivasinya dari gubuk tua di Desa Xingcun tanpa masa lalu atau koneksi. Diterima di Dojo Bunga Aprikot, ia menempuh jalan yang tidak konvensional: alih-alih mengejar kekuatan cepat, ia memilih membangun fondasi melalui kesabaran, kerja kasar, dan integrasi Dao dalam kehidupan sehari-hari. Masa hukumannya berubah menjadi anugerah yang membentuk disiplin luar biasa, melahirkan Teknik Pernapasan Surgawi—sebuah metode pengumpulan Qi otomatis yang menyatu dengan aktivitas biasa, divalidasi oleh senior Ah Jian, dan kini berjalan stabil pada intensitas 35% dengan refinemen kualitas aliran yang menjaga kemurnian energi. Kepribadiannya tenang, rendah hati, dan sangat observatif; ia lebih memilih memahami esensi daripada menunjukkan kekuatan, dan memandang kultivasi sebagai maraton keseimbangan, bukan lari cepat.
+Nox adalah seorang yatim piatu berusia 17 tahun yang memulai perjalanan kultivasinya dari gubuk tua di Desa Xingcun tanpa masa lalu atau koneksi. Diterima di Perguruan Luohua, ia menempuh jalan yang tidak konvensional: alih-alih mengejar kekuatan cepat, ia memilih membangun fondasi melalui kesabaran, kerja kasar, dan integrasi Dao dalam kehidupan sehari-hari. Masa hukumannya berubah menjadi anugerah yang membentuk disiplin luar biasa, melahirkan Teknik Pernapasan Surgawi—sebuah metode pengumpulan Qi otomatis yang menyatu dengan aktivitas biasa, divalidasi oleh senior Ah Jian, dan kini berjalan stabil pada intensitas 35% dengan refinemen kualitas aliran yang menjaga kemurnian energi. Kepribadiannya tenang, rendah hati, dan sangat observatif; ia lebih memilih memahami esensi daripada menunjukkan kekuatan, dan memandang kultivasi sebagai maraton keseimbangan, bukan lari cepat.
 
 Sebagai senior bagi Wei dan Mei, Nox membimbing mereka bukan melalui instruksi verbal, melainkan melalui resonansi pasif dan keteladanan hidup. Ia menghormati Guru Li Xingchun sebagai figur ayah dan pembimbing spiritual, serta Ah Jian sebagai senior yang memberinya pengakuan dan panduan praktis transisi ke Qi Refining. Hubungannya dengan Bibi Chun dan penduduk desa Xingcun juga hangat; ia melihat Dao dalam setiap helai padi dan tawa anak-anak, menjadikan dunia nyata sebagai ladang kultivasi yang sama sakralnya dengan ruang meditasi. Motivasi terdalamnya bukan dominasi atau keabadian, melainkan pemahaman utuh tentang keseimbangan antara usaha dan penerimaan, serta kemampuan untuk menjaga ruang bagi orang lain agar tumbuh sesuai jalan mereka sendiri.
