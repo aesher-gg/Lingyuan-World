@@ -3,8 +3,8 @@
 > **Modul:** 14 — Sect Detail: Sekte Tianjian
 > **Wilayah:** Tianzhou, pegunungan terjal 700 li dari Tianjing | **Tipe:** Ortodoks, sangat disiplin | **Hukum Utama:** Dao Abadi (varian Pedang)
 > **Estimasi Total Anggota:** ± 900 orang
-> **Rujukan silang:** `02_CENTRAL_PLAINS.md` (lokasi & NPC dasar), `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2 (Law), `10_ECONOMY_SYSTEM.md` (Tier/Grade), `12_COMBAT_SYSTEM.md` (klasifikasi teknik), `15_PROFOUND_HEAVEN_SECT.md` & `16_SILVER_RAIN_SWORD_SCHOOL.md` (sekte tetangga Tianzhou)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `02_TIANZHOU.md` (lokasi & NPC dasar), `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2 (Law), `10_ECONOMY_SYSTEM.md` (Tier/Grade), `12_COMBAT_SYSTEM.md` (klasifikasi teknik), `15_PROFOUND_HEAVEN_SECT.md` & `16_SILVER_RAIN_SWORD_SCHOOL.md` (sekte tetangga Tianzhou)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -24,7 +24,7 @@ Sekte pedang tertua di dunia. Reputasinya dibangun di atas kedisiplinan mutlak d
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Ketua Sekte Xuan Yijian | Ketua Sekte | Void Severing Puncak — detail lengkap di `02_CENTRAL_PLAINS.md` |
+| Ketua Sekte Xuan Yijian | Ketua Sekte | Void Severing Puncak — detail lengkap di `02_TIANZHOU.md` |
 | Tetua Sword Elder Meng | Tetua, pelatih murid inti | Soul Transformation Menengah |
 | Murid Inti Lin Xue | Murid Inti, calon penerus | Core Formation Puncak |
 | Penjaga Gerbang Anak Tangga | Penjaga gerbang bawah, penguji tangga | Foundation Establishment Puncak |
