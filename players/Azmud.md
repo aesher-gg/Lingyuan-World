@@ -1,7 +1,7 @@
 # 👤 Azmud
 
 > **Data Karakter (Save State / Profil Karakter)** — Dikelola Admin.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `04_SOUTHERN_DEMON_DOMAIN.md`, `40_CUSTOM_LAWS.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `04_MOYUAN.md`, `40_CUSTOM_LAWS.md`
 
 ---
 
