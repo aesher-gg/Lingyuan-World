@@ -1,7 +1,7 @@
 # 🌑 Lingyuan World — Perguruan: Perguruan Heiying
 
 > **Modul:** 25 — Sect Detail: Perguruan Heiying
-> **Wilayah:** Desa Heiyan, Moyuan | **Tipe:** Perguruan kecil, gerbang masuk dunia hitam | **Hukum Utama:** Custom, selaras awal Hukum Bayangan Darah (inferensi GM)
+> **Wilayah:** Desa Yemo, Moyuan | **Tipe:** Perguruan kecil, gerbang masuk dunia hitam | **Hukum Utama:** Custom, selaras awal Hukum Bayangan Darah (inferensi GM)
 > **Estimasi Total Anggota:** ± 25 orang
 > **Rujukan silang:** `04_MOYUAN.md`, `24_ALIANSI_ANYING.md` (tujuan rekrutmen lanjutan)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_MOYUAN.md`. Tambahan baru ditandai **🆕**.
@@ -9,7 +9,7 @@
 ---
 
 ## Karakteristik Singkat
-Sering jadi tempat rekrutmen awal Aliansi Anying — dipandang sebagai "gerbang masuk" dunia hitam bagi pemuda desa yang putus asa. Bukan perguruan jahat dengan sendirinya, tapi lokasinya di Desa Heiyan (pasar gelap kultivator demonic kelas bawah) membuatnya jadi persinggahan alami menuju jalur yang lebih gelap.
+Sering jadi tempat rekrutmen awal Aliansi Anying — dipandang sebagai "gerbang masuk" dunia hitam bagi pemuda desa yang putus asa. Bukan perguruan jahat dengan sendirinya, tapi lokasinya di Desa Yemo (pasar gelap kultivator demonic kelas bawah) membuatnya jadi persinggahan alami menuju jalur yang lebih gelap.
 
 ## Hierarki Sederhana
 | Tingkat | Syarat Realm | Catatan |
@@ -41,10 +41,10 @@ Sering jadi tempat rekrutmen awal Aliansi Anying — dipandang sebagai "gerbang 
 
 ## 🆕 Relasi dengan Faksi Lain
 - **Aliansi Anying** (`24_ALIANSI_ANYING.md`): hubungan feeder informal — perguruan ini tidak resmi berafiliasi, tapi jadi sumber rekrutan tetap tanpa pernah dinyatakan terbuka.
-- **Desa Heiyan** (`04_MOYUAN.md`): tertanam dalam ekosistem pasar gelap desa, dihormati dengan cara yang muram — bukan disukai, tapi diterima sebagai bagian hidup di sana.
+- **Desa Yemo** (`04_MOYUAN.md`): tertanam dalam ekosistem pasar gelap desa, dihormati dengan cara yang muram — bukan disukai, tapi diterima sebagai bagian hidup di sana.
 
 ## 🆕 Rahasia & Plot Hook Internal
 "Bayangan Tua" diam-diam menyimpan penyesalan atas begitu banyak pemuda desa yang ia funnel ke jalur pembunuh bayaran selama bertahun-tahun — sebuah keraguan yang tak pernah ia ungkapkan ke siapa pun. Jika seorang karakter cukup dekat dengannya, ini bisa jadi celah untuk mengubah arah perguruan ini, atau bahkan mengungkap masa lalu Bayangan Tua sendiri.
 
 ## Cara Bergabung (untuk Karakter Pemain)
-Terbuka bagi siapa pun dari kalangan bawah Desa Heiyan yang putus asa mencari kekuatan — jalur alami bagi karakter dengan latar belakang suram yang berpotensi (tapi tak harus) berujung ke Aliansi Anying.
+Terbuka bagi siapa pun dari kalangan bawah Desa Yemo yang putus asa mencari kekuatan — jalur alami bagi karakter dengan latar belakang suram yang berpotensi (tapi tak harus) berujung ke Aliansi Anying.
