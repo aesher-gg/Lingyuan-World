@@ -1,7 +1,7 @@
-# 🐺 Lingyuan World — Dojo: Perguruan Langxue
+# 🐺 Lingyuan World — Perguruan: Perguruan Langxue
 
 > **Modul:** 30 — Sect Detail: Perguruan Langxue
-> **Wilayah:** Desa Xueying, Beiyuan | **Tipe:** Dojo suku pemburu | **Hukum Utama:** Raga Sejati (varian primal/pemburu, inferensi GM)
+> **Wilayah:** Desa Xueying, Beiyuan | **Tipe:** Perguruan suku pemburu | **Hukum Utama:** Raga Sejati (varian primal/pemburu, inferensi GM)
 > **Estimasi Total Anggota:** ± 40 orang (bagian dari suku pemburu Desa Xueying)
 > **Rujukan silang:** `06_BEIYUAN.md`
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_BEIYUAN.md`. Tambahan baru ditandai **🆕**.
@@ -9,19 +9,19 @@
 ---
 
 ## Karakteristik Singkat
-Dipandang primitif oleh sekte kota, tapi sangat dihormati di kalangan sukunya sendiri sebagai penjaga tradisi leluhur. Dojo ini menyatu dengan struktur suku itu sendiri — Kepala Suku dan Kepala Dojo adalah jabatan yang sama.
+Dipandang primitif oleh sekte kota, tapi sangat dihormati di kalangan sukunya sendiri sebagai penjaga tradisi leluhur. Perguruan ini menyatu dengan struktur suku itu sendiri — Kepala Suku dan Kepala Perguruan adalah jabatan yang sama.
 
 ## Hierarki Sederhana
 | Tingkat | Syarat Realm | Catatan |
 |---|---|---|
 | Pemburu Muda | Realm 1–2 | Ah Bing ada di sini |
 | Pemburu Berpengalaman | Realm 2–3 | Dipercaya memimpin kelompok berburu kecil |
-| Kepala Suku/Dojo | Realm 3 | Xue Lang — keras & tertutup pada luar, setia mati-matian pada suku |
+| Kepala Suku/Perguruan | Realm 3 | Xue Lang — keras & tertutup pada luar, setia mati-matian pada suku |
 
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Suku Xue Lang | Kepala Suku & Dojo | Foundation Establishment Puncak — detail lengkap di `06_BEIYUAN.md` |
+| Kepala Suku Xue Lang | Kepala Suku & Perguruan | Foundation Establishment Puncak — detail lengkap di `06_BEIYUAN.md` |
 | Pemburu Muda Ah Bing | Pemburu berbakat | Qi Refining Puncak |
 
 ## Fasilitas & Bangunan
