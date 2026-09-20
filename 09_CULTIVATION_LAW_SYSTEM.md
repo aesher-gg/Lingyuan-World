@@ -249,7 +249,7 @@ Memengaruhi regenerasi qi Hukum Dao Abadi (§3.C) dan ketersediaan bahan terobos
 - Mekanik unik: bisa "meminjam" qi dari roh yang telah diikat (mirip Gu, tapi berbasis jiwa bukan makhluk hidup).
 - Kelemahan wajib: setiap penggunaan qi roh berlebih menambah Sin Points otomatis (+3–8 per pemakaian besar).
 
-**🆕 Hukum Pisau Sunyi** (Perkumpulan Wuying — lihat detail lengkap di `33_PERKUMPULAN_PISAU_SUNYI.md`)
+**🆕 Hukum Pisau Sunyi** (Perkumpulan Wuying — lihat detail lengkap di `33_PERKUMPULAN_WUYING.md`)
 - Sumber daya: Qi standar, LawHPMultiplier ×0,8, LawAttackMultiplier ×1,25 (lihat `11_VITALITY_HUNGER_SYSTEM.md` §1.2 dan `12_COMBAT_SYSTEM.md` §3.1).
 - Mekanik unik: +10% HitChance selama kontrak resmi (lewat Token Pisau) masih berjalan dan belum diselesaikan/dibatalkan — representasi fokus ekstrem eksekutor profesional.
 - Kelemahan wajib: melanggar kode "satu kontrak, satu nyawa, tanpa pengecualian" (membatalkan/menggagalkan kontrak di tengah jalan) memicu +20 Sin Points instan (terpisah dari Sin Points normal akibat membunuh, §6) DAN −10% QiCap efektif selama 7 hari in-game. Anggota yang belum pernah menerima kontrak resmi tidak mendapat bonus HitChance apa pun.
