@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Xu qin
-**Lokasi:** Desa Tiedao, Tianzhou (sedang di Lapangan Uji Perguruan Tielu)
+**Lokasi:** Desa Huolian, Tianzhou (sedang di Lapangan Uji Perguruan Tielu)
 **Realm & Stage:** Pembentukan Fondasi (Foundation Establishment), Awal (Early Stage) — Qi Cap: 500
 **Hukum Kultivasi:** Hukum Dao Abadi (Varian Pedang Bunga Aprikot)
 **Law Origin:** Jalur Guru — Li Xingchun (Kepala Perguruan Luohua, diajarkan secara langsung melalui interaksi dan latihan nyata di Desa Qingmu).
