@@ -1,7 +1,7 @@
 # 🏦 Lingyuan World — Organisasi: Rumah Gadai Hanbi (寒玉當鋪)
 
 > **Modul:** 36 — Sect Detail: Rumah Gadai Hanbi
-> **Wilayah:** Cabang di semua kota besar, cabang kecil di Kampung Shiban (Qingyun) | **Tipe:** "Bank" tak resmi jianghu, netral & diskret | **Hukum Utama:** Tidak relevan (organisasi non-kombatan)
+> **Wilayah:** Cabang di semua kota besar, cabang kecil di Kampung Shiyin (Qingyun) | **Tipe:** "Bank" tak resmi jianghu, netral & diskret | **Hukum Utama:** Tidak relevan (organisasi non-kombatan)
 > **Estimasi Total Anggota:** ± 200 orang (tersebar di banyak cabang kecil)
 > **Rujukan silang:** `02_TIANZHOU.md`, `03_QINGYUN.md`, `08_CROSS_REGION_ORGANIZATIONS.md`, `10_ECONOMY_SYSTEM.md` §1–2 & §5
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `08_CROSS_REGION_ORGANIZATIONS.md` dan `03_QINGYUN.md`. Tambahan baru ditandai **🆕**.
@@ -9,7 +9,7 @@
 ---
 
 ## Sejarah & Reputasi Singkat
-Berfungsi sebagai "bank" tak resmi jianghu — netral dan diskret, dipercaya bahkan oleh kultivator buronan sekalipun untuk menitipkan atau menggadaikan harta tanpa takut identitasnya dibocorkan. Cabang tersebar di hampir semua kota besar, cabang kecil seperti di Kampung Shiban melayani kultivator miskin dengan bunga lebih rendah sebagai bentuk kepercayaan komunitas lokal.
+Berfungsi sebagai "bank" tak resmi jianghu — netral dan diskret, dipercaya bahkan oleh kultivator buronan sekalipun untuk menitipkan atau menggadaikan harta tanpa takut identitasnya dibocorkan. Cabang tersebar di hampir semua kota besar, cabang kecil seperti di Kampung Shiyin melayani kultivator miskin dengan bunga lebih rendah sebagai bentuk kepercayaan komunitas lokal.
 
 ## Hierarki & Struktur Keanggotaan
 | Tingkat | Syarat Realm | Estimasi Jumlah | Hak & Kewajiban |
@@ -23,7 +23,7 @@ Berfungsi sebagai "bank" tak resmi jianghu — netral dan diskret, dipercaya bah
 | Nama | Peran | Catatan |
 |---|---|---|
 | Pemilik Cabang Utama Qing Yu | Pengelola pusat rumah gadai | Foundation Establishment Puncak — detail lengkap di `08_CROSS_REGION_ORGANIZATIONS.md` |
-| 🆕 Pengelola Cabang Kampung Shiban Old Feng | Mengelola cabang kecil di Qingyun | Qi Refining Puncak, 55 tahun. Dipercaya penuh warga Kampung Shiban. |
+| 🆕 Pengelola Cabang Kampung Shiyin Old Feng | Mengelola cabang kecil di Qingyun | Qi Refining Puncak, 55 tahun. Dipercaya penuh warga Kampung Shiyin. |
 
 ## Fasilitas & Bangunan
 | Fasilitas | Fungsi | Akses |
@@ -50,7 +50,7 @@ Barang digadai dinilai dari `GradeValue(tier, grade)` (`10` §2.2), potongan awa
 ## 🆕 Relasi dengan Faksi Lain
 - **Seluruh faksi**: klien potensial termasuk buronan lintas faksi.
 - **Paviliun Wanxin** (`35_PAVILIUN_WANXIN.md`): saling merujuk klien.
-- **Perguruan Shilong** (`20_PERGURUAN_SHILONG.md`): dibantu pinjaman berbunga rendah lewat cabang Kampung Shiban.
+- **Perguruan Shilong** (`20_PERGURUAN_SHILONG.md`): dibantu pinjaman berbunga rendah lewat cabang Kampung Shiyin.
 
 ## 🆕 Rahasia & Plot Hook Internal
 Ruang Brankas Utama beberapa cabang menyimpan barang gadai tak tertebus puluhan tahun — sebagian diduga artefak bernilai tinggi pemiliknya sudah lama menghilang, plot hook "harta terlupakan" menarik.
