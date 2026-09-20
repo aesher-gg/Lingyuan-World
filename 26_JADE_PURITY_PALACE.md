@@ -1,6 +1,6 @@
-# 🌊 Wuxian World — Sekte: Jade Purity Palace
+# 🌊 Lingyuan World — Sekte: Istana Qinglian
 
-> **Modul:** 26 — Sect Detail: Jade Purity Palace
+> **Modul:** 26 — Sect Detail: Istana Qinglian
 > **Wilayah:** Pulau suci Eastern Sea, 500 li dari Haiyun | **Tipe:** Ortodoks, penjaga jalur laut | **Hukum Utama:** Dao Abadi (varian Air/Laut)
 > **Estimasi Total Anggota:** ± 700 orang
 > **Rujukan silang:** `05_EASTERN_SEA_REGION.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.C, §8.1 & §8.2, `21_DEMONIC_FLAME_PALACE.md` (rival historis), `13_BESTIARY.md` (Kraken Muda Laut Timur)
@@ -25,7 +25,7 @@ Sekte ortodoks penjaga jalur laut, protektif terhadap penduduk pesisir dan agak 
 | Ketua Sekte Yu Qingzhu | Ketua Sekte | Void Severing Awal — detail lengkap di `05_EASTERN_SEA_REGION.md` |
 | Tetua Penjaga Laut Hai Chen | Penjaga Laut senior | Soul Transformation Awal |
 | Murid Muda Bening Lan | Murid Selam berbakat | Foundation Establishment Awal |
-| 🆕 Penjaga Laut Yun Tao | Penjaga Laut, khusus bertugas di dekat Floating Cloud Archipelago | Nascent Soul Awal, 49 tahun. Sering jadi penghubung antara Jade Purity Palace dan tradisi netral Gencatan Pasar di sana (lihat `05_EASTERN_SEA_REGION.md`). |
+| 🆕 Penjaga Laut Yun Tao | Penjaga Laut, khusus bertugas di dekat Floating Cloud Archipelago | Nascent Soul Awal, 49 tahun. Sering jadi penghubung antara Istana Qinglian dan tradisi netral Gencatan Pasar di sana (lihat `05_EASTERN_SEA_REGION.md`). |
 
 ## Fasilitas & Bangunan
 | Fasilitas | Fungsi | Akses |
@@ -51,14 +51,14 @@ Sekte ortodoks penjaga jalur laut, protektif terhadap penduduk pesisir dan agak 
 | Ketua Sekte (rahasia) | *Gelombang Giok Suci* | Jurus Ultimate | Tier 6, Sheng-Grade | Serangan air murni berbentuk gelombang mengalir — teknik Yu Qingzhu |
 
 ## Hukum Kultivasi Sekte — Detail Lengkap
-Jade Purity Palace mempraktikkan **Hukum Dao Abadi varian Air/Laut** (`09` §3.C & §8.2), selaras dengan Qi Density Modifier Eastern Sea Region ×1,1 (Sedang, atribut Air — `09` §8.1). Dao Insight anggota sekte ini secara tradisional berpusat pada "Jalan Air" — merenungkan sifat air yang mengalir, menyesuaikan diri, tapi juga bisa jadi kekuatan penghancur (ombak besar) — comprehension yang dipercepat lewat waktu bermeditasi di Ruang Kristal Air.
+Istana Qinglian mempraktikkan **Hukum Dao Abadi varian Air/Laut** (`09` §3.C & §8.2), selaras dengan Qi Density Modifier Haiyuan ×1,1 (Sedang, atribut Air — `09` §8.1). Dao Insight anggota sekte ini secara tradisional berpusat pada "Jalan Air" — merenungkan sifat air yang mengalir, menyesuaikan diri, tapi juga bisa jadi kekuatan penghancur (ombak besar) — comprehension yang dipercepat lewat waktu bermeditasi di Ruang Kristal Air.
 
 ## Kode Etik & Aturan Internal
 - Dilarang membiarkan kapal nelayan sipil diserang tanpa bantuan bila sekte sedang berpatroli di dekatnya.
 - Murid darat (bukan asli pesisir) butuh masa adaptasi lebih lama sebelum diizinkan naik ke Murid Selam — kebijakan yang kadang dianggap terlalu tertutup oleh pihak luar.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Demonic Flame Palace** (`21_DEMONIC_FLAME_PALACE.md`): rival historis di laut — kelemahan Api terhadap Air/Es membuat sekte ini secara mekanik cukup diuntungkan bila konflik langsung terjadi, meski kedua pihak lebih sering berjaga jarak.
+- **Istana Yanmo** (`21_DEMONIC_FLAME_PALACE.md`): rival historis di laut — kelemahan Api terhadap Air/Es membuat sekte ini secara mekanik cukup diuntungkan bila konflik langsung terjadi, meski kedua pihak lebih sering berjaga jarak.
 - **Armada Dagang Delapan Penjuru** (`05_EASTERN_SEA_REGION.md`): mitra pengawalan tepercaya untuk kapal dagang besar.
 - **Floating Cloud Archipelago** (`05_EASTERN_SEA_REGION.md`): dihormati sebagai penjaga tak resmi tradisi Gencatan Pasar di sana lewat kehadiran Yun Tao.
 
