@@ -1,7 +1,7 @@
-# 🩸 Wuxian World — Sekte: Blood Shadow Alliance
+# 🩸 Lingyuan World — Sekte: Aliansi Anying
 
-> **Modul:** 24 — Sect Detail: Blood Shadow Alliance
-> **Wilayah:** Tersebar, tanpa markas tunggal, Southern Demon Domain | **Tipe:** Aliansi longgar pembunuh bayaran | **Hukum Utama:** Custom — Hukum Bayangan Darah
+> **Modul:** 24 — Sect Detail: Aliansi Anying
+> **Wilayah:** Tersebar, tanpa markas tunggal, Moyuan | **Tipe:** Aliansi longgar pembunuh bayaran | **Hukum Utama:** Custom — Hukum Bayangan Darah
 > **Estimasi Total Anggota:** ± 600 orang (longgar, tidak semua "resmi")
 > **Rujukan silang:** `04_SOUTHERN_DEMON_DOMAIN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2 & §8.3, `33_PERKUMPULAN_PISAU_SUNYI.md` (rival profesional)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_SOUTHERN_DEMON_DOMAIN.md`. Tambahan baru ditandai **🆕**.
@@ -29,8 +29,8 @@ Aliansi longgar tanpa struktur kaku seperti sekte lain — anggotanya bisa beker
 ## Fasilitas & Bangunan
 | Fasilitas | Fungsi | Akses |
 |---|---|---|
-| Jaringan Rumah Aman | Beberapa safehouse tersebar di Southern Demon Domain, tak ada satu pun yang jadi "markas utama" | Anggota terverifikasi |
-| Sistem Titik Kontak | Kontrak disampaikan lewat perantara/dead-drop, mirip tapi lebih longgar dari sistem token Perkumpulan Pisau Sunyi (`33_PERKUMPULAN_PISAU_SUNYI.md`) | Semua anggota |
+| Jaringan Rumah Aman | Beberapa safehouse tersebar di Moyuan, tak ada satu pun yang jadi "markas utama" | Anggota terverifikasi |
+| Sistem Titik Kontak | Kontrak disampaikan lewat perantara/dead-drop, mirip tapi lebih longgar dari sistem token Perkumpulan Wuying (`33_PERKUMPULAN_PISAU_SUNYI.md`) | Semua anggota |
 
 ## Artefak, Pusaka & Harta Karun
 | Nama | Tier/Grade | Fungsi | Pemegang |
@@ -45,19 +45,19 @@ Aliansi longgar tanpa struktur kaku seperti sekte lain — anggotanya bisa beker
 | Legenda/Veteran (aspirasional, tak diajarkan formal) | *Sayatan Tanpa Jejak* | Jurus Ultimate | Standar tertinggi yang jadi tolok ukur seluruh aliansi — teknik Bayangan Tanpa Nama |
 
 ## Hukum Kultivasi Sekte — Detail Lengkap
-**Hukum Bayangan Darah** (`09` §8.3) adalah Custom Law resmi aliansi ini: efektivitas naik/turun tergantung "Kontrak Aktif" (target pembunuhan/misi yang sedang berjalan). Tanpa kontrak aktif, QiCap efektif turun 15% (representasi mekanik "tanpa ideologi tetap, kekuatan kurang stabil") — LawHPMultiplier ×0,85 (×1,0 saat Kontrak Aktif), LawAttackMultiplier ×1,2 (×1,35 saat Kontrak Aktif) sesuai `12_COMBAT_SYSTEM.md` §3.1. Ini secara mekanik menjelaskan kenapa anggota Blood Shadow Alliance terasa jauh lebih berbahaya saat sedang "bekerja" dibanding saat santai — bukan sekadar gaya bertarung, tapi formula resmi.
+**Hukum Bayangan Darah** (`09` §8.3) adalah Custom Law resmi aliansi ini: efektivitas naik/turun tergantung "Kontrak Aktif" (target pembunuhan/misi yang sedang berjalan). Tanpa kontrak aktif, QiCap efektif turun 15% (representasi mekanik "tanpa ideologi tetap, kekuatan kurang stabil") — LawHPMultiplier ×0,85 (×1,0 saat Kontrak Aktif), LawAttackMultiplier ×1,2 (×1,35 saat Kontrak Aktif) sesuai `12_COMBAT_SYSTEM.md` §3.1. Ini secara mekanik menjelaskan kenapa anggota Aliansi Anying terasa jauh lebih berbahaya saat sedang "bekerja" dibanding saat santai — bukan sekadar gaya bertarung, tapi formula resmi.
 
 ## Kode Etik & Aturan Internal
 - Satu-satunya aturan yang benar-benar ditegakkan: jangan mengkhianati kontrak yang sudah diterima sesama anggota (mengambil alih target orang lain).
 - Tidak ada larangan bekerja untuk ortodoks — inilah sumber reputasi "netral" mereka.
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Perkumpulan Pisau Sunyi** (`33_PERKUMPULAN_PISAU_SUNYI.md`): rival profesional utama — bukan permusuhan terbuka, lebih ke persaingan pasar kontrak. Beberapa klien sengaja membandingkan tawaran dari kedua organisasi.
-- **Profound Heaven Sect** (`15_PROFOUND_HEAVEN_SECT.md`): rumor lama menyebut ada "saluran belakang" tak resmi untuk pekerjaan politik sensitif, tak pernah dikonfirmasi kedua pihak.
-- **Seven Sins Cult** (`23_SEVEN_SINS_CULT.md`): ditolak tegas sebagai mitra kerja — dianggap terlalu tidak bisa dipercaya bahkan untuk standar dunia hitam.
+- **Perkumpulan Wuying** (`33_PERKUMPULAN_PISAU_SUNYI.md`): rival profesional utama — bukan permusuhan terbuka, lebih ke persaingan pasar kontrak. Beberapa klien sengaja membandingkan tawaran dari kedua organisasi.
+- **Sekte Xuanyuan** (`15_PROFOUND_HEAVEN_SECT.md`): rumor lama menyebut ada "saluran belakang" tak resmi untuk pekerjaan politik sensitif, tak pernah dikonfirmasi kedua pihak.
+- **Kultus Qisha** (`23_SEVEN_SINS_CULT.md`): ditolak tegas sebagai mitra kerja — dianggap terlalu tidak bisa dipercaya bahkan untuk standar dunia hitam.
 
 ## 🆕 Rahasia & Plot Hook Internal
-Beberapa anggota lebih muda mulai membicarakan gagasan menjadikan aliansi ini lebih terstruktur seperti rival mereka, Perkumpulan Pisau Sunyi — sementara veteran seperti Mo Chen menolak keras, meyakini fleksibilitas tanpa struktur adalah kekuatan utama aliansi ini. Ketegangan filosofis ini belum jadi konflik terbuka, tapi bisa berkembang jika seorang karakter pemain cukup berpengaruh untuk memihak salah satu sisi.
+Beberapa anggota lebih muda mulai membicarakan gagasan menjadikan aliansi ini lebih terstruktur seperti rival mereka, Perkumpulan Wuying — sementara veteran seperti Mo Chen menolak keras, meyakini fleksibilitas tanpa struktur adalah kekuatan utama aliansi ini. Ketegangan filosofis ini belum jadi konflik terbuka, tapi bisa berkembang jika seorang karakter pemain cukup berpengaruh untuk memihak salah satu sisi.
 
 ## Cara Bergabung (untuk Karakter Pemain)
 Tidak ada "pendaftaran" formal — karakter biasanya direkrut langsung oleh sosok seperti Ah Sha setelah menunjukkan kemampuan bertarung atau ketertarikan pada dunia hitam. Sangat cocok untuk karakter abu-abu moralnya.
