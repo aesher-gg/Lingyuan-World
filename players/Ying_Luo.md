@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Ying Luo
-**Lokasi Awal:** Desa Kota Yinfeng, Qingyun *(lihat `03_QINGYUN.md`)*
+**Lokasi Awal:** Kota Yinfeng, Qingyun *(lihat `03_QINGYUN.md`)*
 **Realm & Stage Awal:** Mortal Foundation (Fondasi Fana), Awal — Qi Cap: 0 *(RealmBase v3.0 — lihat `09_CULTIVATION_LAW_SYSTEM.md` §9)*
 **Hukum Kultivasi Awal:** Belum ada — akan ditentukan lewat roleplay
 **Law Origin (jika sudah ada Hukum):** Belum ada
@@ -29,4 +29,4 @@
 - Tidak ada
 
 **Latar Belakang & Kepribadian:**
-Gadis kecil bertubuh mungil dengan rambut hitam yang sering diikat dua kuncir pita biru usang. Penampilannya yang paling mencolok adalah sepasang mata berwarna biru laut yang dalam, kontras dengan rambut dan alis hitamnya. Warna matanya membuat Ying Luo sering dijauhi anak-anak desa yang menganggapnya "anak aneh" atau "keturunan iblis". Kulitnya pucat karena lebih suka duduk di bawah pohon tua mendengarkan cerita kakeknya. Ia tinggal di Desa Kota Yinfeng, sebuah desa tersembunyi yang sangat terpencil di kaki Pegunungan Awan Tua. Sifatnya pendiam, lembut, namun menyimpan rasa penasaran pada dunia luar.
+Gadis kecil bertubuh mungil dengan rambut hitam yang sering diikat dua kuncir pita biru usang. Penampilannya yang paling mencolok adalah sepasang mata berwarna biru laut yang dalam, kontras dengan rambut dan alis hitamnya. Warna matanya membuat Ying Luo sering dijauhi anak-anak desa yang menganggapnya "anak aneh" atau "keturunan iblis". Kulitnya pucat karena lebih suka duduk di bawah pohon tua mendengarkan cerita kakeknya. Ia tinggal di Kota Yinfeng, sebuah desa tersembunyi yang sangat terpencil di kaki Pegunungan Awan Tua. Sifatnya pendiam, lembut, namun menyimpan rasa penasaran pada dunia luar.
