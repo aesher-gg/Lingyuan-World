@@ -6,7 +6,7 @@
 ---
 
 **Nama Karakter:** Yūmei
-**Lokasi:** Mirror Lake Inn, Hutan Pinus Es Kuno (Northern Desolate Territory - Modul 06)
+**Lokasi:** Mirror Lake Inn, Hutan Pinus Es Kuno (Beiyuan - Modul 06)
 **Realm & Stage:** Core Formation (Pembentukan Inti), Tahap Awal — Qi Cap: 2500
 **Hukum Kultivasi:** Hukum Jangkar Es Sunyi (Silent Ice Anchor Law)
 **Law Origin:** Jalur Guru (Nona Ji Yue dari Paviliun Jing Han, Benteng Beikuan) — Berakar pada konsep "kestabilan mutlak" dan "pembekuan waktu/persepsi", diubah menjadi kekuatan ofensif dan sensorik yang sempurna untuk seorang kultivator tunanetra.
