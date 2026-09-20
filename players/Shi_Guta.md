@@ -1,7 +1,7 @@
 # 👤 Shi Guta
 
 > **Data Karakter (Save State / Profil Karakter)** — Dikelola Admin.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `03_QINGYUN.md`, `20_DOJO_PAHAT_NAGA.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `03_QINGYUN.md`, `20_PERGURUAN_SHILONG.md`
 
 ---
 
