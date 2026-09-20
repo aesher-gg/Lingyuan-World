@@ -3,8 +3,8 @@
 > **Modul:** 35 — Sect Detail: Paviliun Wanxin
 > **Wilayah:** Berpusat di Bukit Melati (Tianzhou), cabang rahasia di tiap provinsi | **Tipe:** Info broker, netral mutlak | **Hukum Utama:** Dao Abadi standar (tidak ada spesialisasi tempur formal — kekuatan individu bervariasi bebas)
 > **Estimasi Total Anggota:** ± 500 orang (mayoritas informan lepas non-kultivator, agen inti jauh lebih sedikit)
-> **Rujukan silang:** `02_CENTRAL_PLAINS.md` (Bukit Melati), `08_CROSS_REGION_ORGANIZATIONS.md`, `10_ECONOMY_SYSTEM.md` §4.3 (Jasa Informasi), `09_CULTIVATION_LAW_SYSTEM.md`
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_CENTRAL_PLAINS.md` dan `08_CROSS_REGION_ORGANIZATIONS.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `02_TIANZHOU.md` (Bukit Melati), `08_CROSS_REGION_ORGANIZATIONS.md`, `10_ECONOMY_SYSTEM.md` §4.3 (Jasa Informasi), `09_CULTIVATION_LAW_SYSTEM.md`
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md` dan `08_CROSS_REGION_ORGANIZATIONS.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -24,14 +24,14 @@ Info broker terbesar di dunia, tak berpihak pada faksi manapun — hanya setia p
 | Nama | Peran | Catatan |
 |---|---|---|
 | Kepala Serambi "Suara Tanpa Wajah" | Pemimpin tertinggi | Soul Transformation Puncak, identitas dirahasiakan total — detail lengkap di `08_CROSS_REGION_ORGANIZATIONS.md` |
-| Agen Bayangan "Teh Melati" | Perantara info broker lokal Bukit Melati | Core Formation Awal, disembunyikan — detail lengkap di `02_CENTRAL_PLAINS.md` |
+| Agen Bayangan "Teh Melati" | Perantara info broker lokal Bukit Melati | Core Formation Awal, disembunyikan — detail lengkap di `02_TIANZHOU.md` |
 | Kurir Rahasia Diam | Pembawa pesan | Foundation Establishment Awal |
 | 🆕 Kepala Cabang Provinsi "Bayangan Selatan" | Koordinator cabang Moyuan, satu-satunya Kepala Cabang yang berani beroperasi terang-terangan di wilayah demonic | Nascent Soul Awal, 51 tahun, identitas separuh diketahui kalangan tertentu. |
 
 ## Fasilitas & Bangunan
 | Fasilitas | Fungsi | Akses |
 |---|---|---|
-| Bukit Melati (kedai teh berganti pemilik tiap musim) | Markas pusat terselubung, titik pertemuan rahasia utama — lihat `02_CENTRAL_PLAINS.md` | Agen Bayangan ke atas |
+| Bukit Melati (kedai teh berganti pemilik tiap musim) | Markas pusat terselubung, titik pertemuan rahasia utama — lihat `02_TIANZHOU.md` | Agen Bayangan ke atas |
 | 🆕 Papan Bisik (jaringan kode pesan) | Sistem pesan terenkripsi berbasis simbol yang dipakai antar-cabang, tak bisa dibaca pihak luar tanpa kunci kode | Kurir ke atas |
 | 🆕 Cabang Rahasia Provinsi (satu per wilayah, lokasi tidak diungkap ke publik) | Titik koordinasi regional, biasanya menyamar sebagai bisnis biasa (kedai, toko, dsb) | Kepala Cabang Provinsi & Agen Bayangan setempat |
 
