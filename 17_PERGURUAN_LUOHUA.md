@@ -1,7 +1,7 @@
 # 🌸 Lingyuan World — Perguruan: Perguruan Luohua
 
 > **Modul:** 17 — Sect Detail: Perguruan Luohua
-> **Wilayah:** Desa Xingcun, Tianzhou | **Tipe:** Perguruan keluarga kecil | **Hukum Utama:** Dao Abadi (varian pedang sederhana, inferensi GM — belum resmi tercatat di `09` §8.2 karena skala kecil)
+> **Wilayah:** Desa Qingmu, Tianzhou | **Tipe:** Perguruan keluarga kecil | **Hukum Utama:** Dao Abadi (varian pedang sederhana, inferensi GM — belum resmi tercatat di `09` §8.2 karena skala kecil)
 > **Estimasi Total Anggota:** ± 15 orang
 > **Rujukan silang:** `02_TIANZHOU.md`, `players.md` (karakter contoh "Jiang Ziling" adalah murid perguruan ini), `09_CULTIVATION_LAW_SYSTEM.md` §3.0 (Law Origin)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
@@ -42,12 +42,12 @@ Perguruan kecil keluarga tunggal, dipandang remeh sekte besar karena hanya belas
 | Murid Senior/Dipilih Guru | *Jurus Pedang Bunga Gugur* | Teknik Andalan | Gerakan pedang lembut namun mematikan meniru kelopak bunga jatuh — hanya diajarkan Li Xingchun langsung ke murid yang dianggap layak (lihat Law Origin di `players.md`, contoh Jiang Ziling) |
 
 ## 🆕 Relasi dengan Faksi Lain
-- **Desa Xingcun** (`02_TIANZHOU.md`): hubungan erat, perguruan ini praktis bagian dari identitas desa — Kepala Desa Wu Lao menghormati Li Xingchun sebagai figur penting komunitas.
+- **Desa Qingmu** (`02_TIANZHOU.md`): hubungan erat, perguruan ini praktis bagian dari identitas desa — Kepala Desa Wu Lao menghormati Li Xingchun sebagai figur penting komunitas.
 - **Sekte besar Tianzhou**: tidak ada hubungan resmi, tapi diam-diam "diawasi dengan hormat jarak jauh" karena reputasi alumni legendarisnya — beberapa sekte besar konon segan mengganggu perguruan ini meski kekuatannya jauh di bawah mereka.
 - **Sekte Yunjian** (`16_SEKTE_YUNJIAN.md`): jalur "naik kelas" yang realistis bagi murid perguruan ini yang ingin berkembang lebih jauh dari kapasitas perguruan kecil ini.
 
 ## 🆕 Rahasia & Plot Hook Internal
-Rumor soal alumnus legendaris perguruan ini tak pernah benar-benar mati — sesekali ada orang asing yang singgah di Desa Xingcun bertanya soal "perguruan kecil yang melahirkan pendekar itu", lalu pergi lagi tanpa penjelasan. Li Xingchun sendiri tak pernah menjelaskan lebih jauh soal siapa alumnus itu sebenarnya — apakah ia tahu lebih banyak dari yang dikatakannya, atau rumor ini sepenuhnya melebih-lebihkan sesuatu yang kecil, dibiarkan terbuka bagi GM.
+Rumor soal alumnus legendaris perguruan ini tak pernah benar-benar mati — sesekali ada orang asing yang singgah di Desa Qingmu bertanya soal "perguruan kecil yang melahirkan pendekar itu", lalu pergi lagi tanpa penjelasan. Li Xingchun sendiri tak pernah menjelaskan lebih jauh soal siapa alumnus itu sebenarnya — apakah ia tahu lebih banyak dari yang dikatakannya, atau rumor ini sepenuhnya melebih-lebihkan sesuatu yang kecil, dibiarkan terbuka bagi GM.
 
 ## Cara Bergabung (untuk Karakter Pemain)
-Sangat terbuka — Li Xingchun menerima siapa pun dari Desa Xingcun (atau pendatang) yang menunjukkan niat tulus belajar, tanpa tes formal berat. Cocok sebagai titik mulai karakter baru yang sederhana (lihat `players.md` untuk contoh Jiang Ziling, murid perguruan ini).
+Sangat terbuka — Li Xingchun menerima siapa pun dari Desa Qingmu (atau pendatang) yang menunjukkan niat tulus belajar, tanpa tes formal berat. Cocok sebagai titik mulai karakter baru yang sederhana (lihat `players.md` untuk contoh Jiang Ziling, murid perguruan ini).
