@@ -24,7 +24,7 @@ Desa nelayan sekaligus pos penyelundupan mutiara spiritual.
 
 | NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| Kepala Dojo Ah Hai | Kepala Perguruan Haizhen | 61 | Foundation Establishment, Puncak | **1.000** | *Gelombang Tenang Menenggelamkan* — dorongan air yang menyeret lawan ke bawah permukaan | Santai dan ramah di darat, berwibawa dan tenang di air, jarang marah kecuali lautnya dicemari |
+| Kepala Perguruan Ah Hai | Kepala Perguruan Haizhen | 61 | Foundation Establishment, Puncak | **1.000** | *Gelombang Tenang Menenggelamkan* — dorongan air yang menyeret lawan ke bawah permukaan | Santai dan ramah di darat, berwibawa dan tenang di air, jarang marah kecuali lautnya dicemari |
 | Nelayan Penyelundup Diam Long | Nelayan sekaligus penyelundup mutiara | 44 | Qi Refining, Menengah | **150** | *Lemparan Jaring Cepat* — jaring nelayan dipakai sebagai perangkap darurat | Pendiam dan waspada, tak suka konflik terbuka, lebih memilih kabur daripada bertarung |
 
 ### Kepulauan Perak Kecil (350 li dari daratan)
