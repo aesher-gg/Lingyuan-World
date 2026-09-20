@@ -3,8 +3,8 @@
 > **Modul:** 29 — Sect Detail: Sekte Hunming
 > **Wilayah:** Lembah berkabut, 700 li dari Benteng Beikuan | **Tipe:** Demonic, ilmu roh, ditakuti | **Hukum Utama:** Custom — Hukum Roh Hantu
 > **Estimasi Total Anggota:** ± 120 orang
-> **Rujukan silang:** `06_NORTHERN_DESOLATE_TERRITORY.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2 & §8.3, `13_BESTIARY.md` (Mayat Hidup Rawa Jiwa Tenggelam)
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_NORTHERN_DESOLATE_TERRITORY.md`. Tambahan baru ditandai **🆕**.
+> **Rujukan silang:** `06_BEIYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2 & §8.3, `13_BESTIARY.md` (Mayat Hidup Rawa Jiwa Tenggelam)
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_BEIYUAN.md`. Tambahan baru ditandai **🆕**.
 
 ---
 
@@ -22,7 +22,7 @@ Sekte demonic ilmu roh yang ditakuti bahkan oleh sesama demonic — dianggap ter
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Ketua Lembah Gui Hun | Ketua | Void Severing Awal, 156 tahun — detail lengkap di `06_NORTHERN_DESOLATE_TERRITORY.md` |
+| Ketua Lembah Gui Hun | Ketua | Void Severing Awal, 156 tahun — detail lengkap di `06_BEIYUAN.md` |
 | Murid Roh Muda Yin Ling | Murid pemanggil roh | Foundation Establishment Puncak, mulai ragu dengan jalan gelapnya |
 | 🆕 Pemanggil Roh Madya Chen Wu | Pemanggil Roh paling senior selain Gui Hun sendiri | Nascent Soul Awal, 63 tahun. Salah satu dari sedikit anggota yang berani bicara langsung ke Gui Hun, meski tetap dengan sangat hati-hati. |
 
