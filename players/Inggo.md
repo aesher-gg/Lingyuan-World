@@ -1,7 +1,7 @@
 # 👤 Inggo
 
 > **Data Karakter (Save State / Profil Karakter)** — Dikelola Admin.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `03_AZURE_MOUNTAIN_RANGE.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `03_QINGYUN.md`
 
 ---
 
