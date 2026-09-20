@@ -1,7 +1,7 @@
 # 🐉 Lingyuan World — Perguruan: Perguruan Shilong
 
 > **Modul:** 20 — Sect Detail: Perguruan Shilong
-> **Wilayah:** Kampung Shiban, Qingyun | **Tipe:** Perguruan pemahat kecil | **Hukum Utama:** Raga Sejati (varian pahat/pukulan, inferensi GM)
+> **Wilayah:** Kampung Shiyin, Qingyun | **Tipe:** Perguruan pemahat kecil | **Hukum Utama:** Raga Sejati (varian pahat/pukulan, inferensi GM)
 > **Estimasi Total Anggota:** ± 20 orang
 > **Rujukan silang:** `03_QINGYUN.md`, `19_BIARA_JINGUANG.md` (tetangga wilayah), `10_ECONOMY_SYSTEM.md` (barang antik/formasi)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `03_QINGYUN.md`. Tambahan baru ditandai **🆕**.
