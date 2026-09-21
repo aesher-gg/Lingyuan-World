@@ -162,15 +162,19 @@ Saat pemain menempel blok "Profil Karakter" untuk sesi lanjutan, AI GM WAJIB:
 
 ### 1.15 Larangan Klaim Item "Tersimpan" Tanpa Bukti
 
-Setiap item yang diklaim pemain ada di inventory-nya **harus bisa dilacak** dari:
+Setiap item yang diklaim pemain ada di inventory-nya **harus bisa dilacak** dari salah satu jalur asal yang sah:
 
-1. **Riwayat pembelian** (tercatat di transaksi ekonomi).
-2. **Riwayat looting** (tercatat di narasi pertempuran).
-3. **Riwayat pemberian** (dari NPC atau pemain lain).
+1. **Riwayat pembelian** — tercatat di transaksi ekonomi.
+2. **Riwayat looting** — berasal dari pertarungan/loot yang benar-benar terjadi.
+3. **Riwayat pemberian/transfer** — dari NPC atau player lain dan perpindahannya tercatat.
+4. **Hasil crafting/alchemy** — berasal dari input/material yang memiliki asal-usul sah dan diproses melalui recipe/process canon yang benar-benar tersedia.
+5. **Hasil Gardening** — berasal dari Output Instance/hasil panen yang memiliki Plant Instance dan provenance tervalidasi.
+
+Setiap item bernilai yang tunduk pada `10_ECONOMY_SYSTEM.md` §7 harus memiliki **Item Origin Log** yang menghubungkan sumber → acquisition/processing → item/output instance → pemilik/lokasi terakhir → waktu. Item tidak boleh muncul hanya karena disebut dalam narasi.
 
 **Jika item tidak memiliki sumber yang tercatat**, AI GM berhak menolak klaim tersebut dan menganggap item itu tidak ada.
 
-**Untuk sesi lanjutan:** Item yang ada di blok "Profil Karakter" terakhir yang ditempel dianggap sah — AI GM tidak perlu memverifikasi ulang semuanya, hanya yang baru diklaim di sesi ini.
+**Untuk sesi lanjutan:** Item yang ada di blok "Profil Karakter" terakhir yang ditempel dianggap sah sebagai runtime state; AI GM tidak perlu memverifikasi ulang semuanya, hanya perubahan/item baru yang diklaim atau perubahan yang tidak konsisten dengan riwayat.
 
 ---
 
