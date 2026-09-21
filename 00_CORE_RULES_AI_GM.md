@@ -45,7 +45,7 @@ Ada tiga jalur input awal — AI harus mengenali dulu jalur mana yang berlaku se
 
 **A. Karakter terdaftar di `players.md` / folder `players/`, baru pertama kali dimainkan** (tidak ada blok "Profil Karakter" yang ditempel maupun runtime state aktif) — pemain menyebutkan nama karakter. AI wajib fetch file karakter spesifik tersebut di `players/<Nama_Karakter>.md` (atau via link RAW di `players.md`), lalu muat data resmi yang tersedia sebagai **starting state** sesi.
 
-**B. Melanjutkan karakter yang sudah pernah dimainkan** — pemain menempelkan ulang blok "Profil Karakter" **terakhir** dari sesi sebelumnya (atau riwayatnya masih ada di percakapan yang sama). Kondisi itulah yang jadi starting state sesi ini. **`players.md` & folder `players/` TIDAK difetch ulang** untuk kasus ini — isinya statis dan tidak pernah mencerminkan progres yang sudah terjadi sejak karakter itu mulai dimainkan.
+**B. Melanjutkan karakter yang sudah pernah dimainkan** — jika runtime state masih ada di chat yang sama, gunakan kondisi TERKINI itu. Jika membuka sesi baru, gunakan official save `players/<Nama_Karakter>.md` terbaru yang telah diverifikasi Admin; jika pemain menempelkan Profil Karakter/checkpoint yang lebih baru, validasi dan gunakan state tersebut sesuai aturan checkpoint.
 
 **C. Karakter benar-benar baru** (nama tidak ditemukan di `players.md` maupun riwayat chat manapun) — pemain mengirimkan:
 - Nama karakter
