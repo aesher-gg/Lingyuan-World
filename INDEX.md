@@ -45,6 +45,7 @@
 | 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
 | 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
 | 38 | `38_GARDENING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/38_GARDENING_SYSTEM.md | Penanaman, maintenance, pertumbuhan, panen, provenance & checkpoint gardening |
+| 38R | `38_GARDENING_REGISTRY.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/38_GARDENING_REGISTRY.md | Registry tanaman, garden facilities, environment boundary, propagation, output provenance & shared runtime contract |
 | 14–37 | *(24 file sekte/perguruan/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
 | 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
 | 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
