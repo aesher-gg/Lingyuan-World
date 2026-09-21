@@ -75,3 +75,12 @@ Bai Lu, murid madya jalur Perbendaharaan, mulai menemukan kejanggalan kecil di p
 
 ## Cara Bergabung (untuk Karakter Pemain)
 Rekrutmen terbuka lewat ujian tahunan di Kota Haoyang atau lewat rekomendasi pejabat/Tetua. Karena sekte ini kaya, mereka juga menerima "murid titipan" dari keluarga bangsawan yang membayar mahal — memberi peluang narasi bagi karakter dari latar belakang berbeda (miskin berbakat vs kaya tanpa bakat) untuk sama-sama masuk dengan alasan berbeda.
+
+## Gardening Integration — Kebun Obat Kekayaan
+
+**Kebun Obat Kekayaan** adalah fasilitas canon Sekte Xuanyuan untuk ramuan langka dan dipelihara karena sumber daya sekte. Jika Gardening berlangsung di fasilitas ini, `38_GARDENING_SYSTEM.md` menjadi aturan runtime.
+
+- Keberadaan kebun tidak otomatis membuktikan tanaman tertentu tersedia pada setiap waktu.
+- Kelangkaan yang disebut dalam deskripsi fasilitas tidak boleh diterjemahkan menjadi Tier/Grade tertentu tanpa data canon item/tanaman.
+- Planting material, Plant Instance, maintenance, growth, dan harvest tetap harus memiliki state dan provenance.
+- Tidak ada output, quantity, harga, atau bonus baru yang dibuat oleh cross-reference ini.
