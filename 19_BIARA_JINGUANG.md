@@ -70,3 +70,12 @@ Ada bagian biara di balik Gerbang Tunggal yang bahkan Tetua Biara Heng Yun jaran
 
 ## Cara Bergabung (untuk Karakter Pemain)
 Gerbang Tunggal hanya dibuka bagi mereka yang benar-benar berniat menjalani hidup pertapa — De Ren akan menguji lewat pertanyaan filosofis, bukan pertarungan, sebelum mengizinkan calon murid masuk. Proses penerimaan lambat dan penuh pertimbangan, cocok untuk karakter yang mencari jalur kultivasi paling disiplin di dunia.
+
+## Gardening Integration — Kebun Herbal Tinggi
+
+**Kebun Herbal Tinggi** adalah fasilitas canon Biara Jinguang. Jika Gardening berlangsung di fasilitas ini, `38_GARDENING_SYSTEM.md` digunakan untuk Plant Instance, maintenance, growth, harvest, dan provenance.
+
+- Fungsi canon fasilitas: kebun swasembada di ketinggian sekaligus latihan kesabaran dan tugas harian murid baru ke atas.
+- Keberadaan fasilitas tidak otomatis menetapkan spesies tanaman, durasi pertumbuhan, quantity, kualitas, Tier/Grade, atau hasil panen.
+- Setiap hasil Gardening tetap memerlukan source dan state runtime yang dapat dilacak.
+- Tidak ada percepatan pertumbuhan yang ditambahkan hanya karena fasilitas berada di ketinggian atau terkait latihan kesabaran.
