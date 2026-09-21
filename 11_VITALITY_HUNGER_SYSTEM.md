@@ -84,75 +84,125 @@ Tunduk penuh pada `10_ECONOMY_SYSTEM.md` §4.1 (HealingFee) — jumlah HP yang d
 
 ## 3A. Sistem Stamina — Fondasi Universal
 
-### 3A.1 Status Audit
+### 3A.1 Kapasitas Stamina
 
-Audit terhadap modul Vitality menunjukkan bahwa **Stamina sudah digunakan sebagai state karakter**, tetapi belum memiliki formula universal untuk kapasitas, biaya aktivitas, drain, atau recovery. Karena itu AI GM **DILARANG mengarang angka Stamina Cost atau Stamina Recovery** dari jenis aktivitas, durasi, Realm, Qi, atau asumsi naratif.
+Stamina menggunakan skala universal **0–100** untuk seluruh karakter.
 
-### 3A.2 State Stamina
+```
+MaxStamina = 100
+CurrentStamina = clamp(CurrentStamina, 0, MaxStamina)
+```
 
-Setiap karakter yang memiliki state runtime WAJIB melacak:
+Realm, Law, Qi, dan teknik **tidak otomatis** mengubah MaxStamina. Kenaikan/penurunan MaxStamina hanya boleh berasal dari aturan canon/Admin yang secara eksplisit mengubah kapasitas fisik.
 
-- `CurrentStamina` = Stamina saat ini.
-- `MaxStamina` = kapasitas maksimum Stamina yang telah tervalidasi.
-- Jika salah satu nilai belum memiliki dasar canon yang cukup → `???` / `UNRESOLVED`.
+### 3A.2 Kategori Stamina Cost
 
-Nilai Stamina adalah state runtime, bukan izin untuk mengubah hasil aksi secara sepihak.
+Untuk menghindari angka berbeda-beda di setiap modul, semua aktivitas fisik yang menggunakan Stamina memakai kategori universal berikut:
 
-### 3A.3 Aktivitas dan Stamina Cost
+| Kategori | Stamina Cost | Contoh umum |
+|---|---:|---|
+| Very Light | 1 | aktivitas fisik sangat ringan |
+| Light | 3 | aktivitas ringan berulang |
+| Moderate | 5 | pekerjaan fisik normal |
+| Heavy | 10 | pekerjaan fisik berat |
+| Very Heavy | 15 | pengerahan fisik sangat berat |
+| Extreme | 20 | aktivitas ekstrem/berisiko tinggi |
 
-Aktivitas fisik dapat memiliki Stamina Cost, tetapi biaya hanya boleh diterapkan jika ada sumber canon yang mendefinisikannya.
+Cost dibayar **per resolusi aksi**, bukan otomatis per jam. Durasi aksi tetap mengikuti Core Rules dan tidak boleh dikonversi menjadi cost hanya dengan perkalian waktu.
 
-Flow:
+### 3A.3 Aturan Pemilihan Cost
 
-`Action → Validate Action → Check Stamina Requirement/Cost → Resolve Action → Update Stamina → Update World Time`
+AI GM menentukan kategori berdasarkan **beban fisik aktual aksi**, bukan nama aktivitas semata.
 
-Jika biaya aktivitas belum didefinisikan:
+- Aktivitas yang tidak memakai tenaga fisik bermakna → Stamina Cost = 0.
+- Aktivitas fisik biasa → Minimal Light/Moderate sesuai beban nyata.
+- Aktivitas yang memerlukan pengerahan besar → Heavy/Very Heavy.
+- Aktivitas ekstrem → Extreme.
+- Jika sebuah teknik/efek canon sudah memiliki Stamina Cost sendiri, angka khusus tersebut mengalahkan kategori umum untuk efek spesifik itu.
+- AI GM **TIDAK BOLEH** menggandakan cost hanya karena aksi berlangsung lebih lama, kecuali modul terkait secara eksplisit menetapkan multi-resolution.
 
-`Stamina Cost = ???`
+### 3A.4 Ambang Kondisi Stamina
 
-AI GM **TIDAK BOLEH** membuat angka berdasarkan perkiraan seperti "aksi ringan = -5" atau "1 jam = -X".
+| Current Stamina | Kondisi | Aturan |
+|---:|---|---|
+| 76–100 | Fresh | Tidak ada penalti Stamina |
+| 51–75 | Normal | Tidak ada penalti Stamina |
+| 26–50 | Fatigued | Aksi fisik tetap dapat dilakukan; narasi kelelahan mulai berlaku |
+| 11–25 | Exhausted | Aksi fisik Heavy, Very Heavy, dan Extreme memerlukan validasi tambahan; kegagalan dapat terjadi bila kondisi tubuh tidak mendukung |
+| 1–10 | Critical Fatigue | Aksi fisik Heavy, Very Heavy, dan Extreme **tidak boleh dipaksakan** tanpa dasar canon khusus; karakter membutuhkan pemulihan |
+| 0 | Depleted | Tidak dapat melakukan aksi fisik yang memerlukan Stamina sampai memiliki Stamina kembali |
 
-### 3A.4 Recovery
+Ambang di atas mengatur **kemampuan melakukan aktivitas**, bukan penalti otomatis terhadap HP, Qi, Attack, atau Defense. Penalti tersebut hanya berlaku jika modul lain menetapkannya.
 
-Recovery Stamina hanya boleh diterapkan jika metode, kondisi, durasi, atau formula recovery tersebut memiliki dasar canon. Istirahat, tidur, makanan, meditasi, teknik, obat, atau Qi **tidak otomatis** memulihkan Stamina kecuali ada aturan yang mendukungnya.
+### 3A.5 Recovery Stamina
 
-Jika recovery belum memiliki basis canon → `???` / `UNRESOLVED`.
+Recovery standar ditetapkan sebagai berikut:
 
-### 3A.5 Hubungan dengan World Time
+| Kondisi | Recovery |
+|---|---:|
+| Istirahat tenang | +10 Stamina/jam |
+| Tidur normal | +15 Stamina/jam |
+| Aktivitas ringan tanpa beban fisik berarti | +5 Stamina/jam |
+| Combat / pekerjaan fisik berat | Tidak mendapat passive recovery selama aktivitas tersebut |
+
+```
+RecoveredStamina = RecoveryRate × valid elapsed World Time
+CurrentStamina = min(MaxStamina, CurrentStamina + RecoveredStamina)
+```
+
+Recovery hanya dihitung dari **World Time yang benar-benar berlalu**. Tidak ada recovery dari waktu yang tidak terjadi.
+
+Makanan, Qi, meditasi, teknik, pil, lingkungan kaya Qi, atau Healing **tidak otomatis** memulihkan Stamina. Efek khusus hanya berlaku jika ada aturan canon yang secara eksplisit memberikannya.
+
+### 3A.6 Hubungan dengan World Time
 
 World Time dan Stamina adalah variabel berbeda.
 
-- Berlalunya waktu **tidak otomatis** berarti Stamina pulih dengan angka tertentu.
-- Stamina berkurang **tidak otomatis** berarti waktu tertentu telah berlalu.
-- Durasi Gardening bukan formula Stamina.
-- Growth Time tanaman bukan Stamina Cost.
+- Stamina Cost dibayar saat aksi berhasil masuk ke resolusi.
+- Recovery dihitung dari waktu dunia yang benar-benar berlalu dalam kondisi recovery yang valid.
+- Growth Time tanaman **bukan** Stamina Cost.
+- Stamina Cost **bukan** Growth Time.
+- Batas aksi non-kultivasi maksimal 3 jam per prompt tetap berlaku sesuai Core Rules.
 
-Batas waktu aktivitas tetap mengikuti Core Rules. Modul turunan seperti Gardening hanya boleh memakai interface Stamina ini dan tidak boleh membuat formula global sendiri.
+### 3A.7 Hubungan dengan Qi dan Realm
 
-### 3A.6 Hubungan dengan Qi dan Realm
+Qi, Realm, Law, dan teknik tidak memberikan bonus Stamina otomatis.
 
-Qi, Realm, Law, dan teknik tidak memberikan bonus atau pengurangan Stamina secara otomatis. Efek tersebut hanya berlaku jika canon terkait secara eksplisit mendefinisikannya.
+Karakter Realm tinggi tetap dapat lelah secara fisik. Sebaliknya, karakter dengan Qi besar tidak boleh menghapus Stamina Cost hanya dengan mengklaim memakai Qi.
 
-### 3A.7 Kondisi Stamina Tidak Didefinisikan
-
-Modul ini belum menetapkan ambang global seperti "Stamina rendah", "kelelahan", atau penalti persentase karena belum ditemukan formula canon yang memadai. Sampai Admin menetapkan fondasi tersebut, AI GM harus menggunakan state yang tersedia dan menandai konsekuensi yang belum terdefinisi sebagai `UNRESOLVED`.
+Efek khusus yang benar-benar tertulis dalam teknik, Law, item, atau fasilitas canon dapat memodifikasi aturan ini hanya dalam scope yang ditetapkan.
 
 ### 3A.8 Integrasi Gardening
 
-Gardening menggunakan fondasi Stamina ini sebagai berikut:
+Gardening menggunakan kategori universal Stamina berikut:
 
-`Planting / Soil Care / Irrigation / Inspection / Harvest → Stamina Check → Action Resolution`
+| Gardening Action | Stamina Cost |
+|---|---:|
+| Inspection | 1 |
+| Standard Irrigation | 3 |
+| Soil Care | 5 |
+| Planting | 5 |
+| Harvest | 5 |
+| Special Maintenance | Ditentukan dari beban fisik aktual: 3 / 5 / 10 / 15 / 20 |
 
-Gardening **TIDAK BOLEH** menetapkan angka Stamina Cost sendiri. Jika cost suatu aktivitas belum ditetapkan oleh Vitality atau modul canon lain, cost tetap `???` / `UNRESOLVED`.
+Nilai di atas adalah **biaya aksi fisik**, bukan durasi pertumbuhan.
 
-### 3A.9 Checklist Anti-Cheat Stamina
+Jika special maintenance memiliki mekanik canon tersendiri, cost spesifiknya mengikuti mekanik tersebut. Jika tidak, gunakan kategori universal berdasarkan beban fisiknya.
 
-- [ ] CurrentStamina dan MaxStamina berasal dari state yang tervalidasi?
-- [ ] Tidak ada Stamina Cost yang dibuat oleh asumsi AI?
-- [ ] Recovery memiliki basis canon?
-- [ ] World Time tidak otomatis disamakan dengan Stamina Recovery?
-- [ ] Qi/Realm/Law tidak otomatis memberi bonus Stamina?
-- [ ] Gardening memakai interface Vitality dan tidak membuat formula Stamina sendiri?
+### 3A.9 Integrasi Aktivitas Lain
+
+Modul lain yang membutuhkan Stamina **WAJIB** menggunakan kategori universal di §3A atau menetapkan cost khusus yang jelas untuk mekanik spesifiknya. Modul turunan tidak boleh menciptakan skala Stamina yang berbeda tanpa keputusan Admin.
+
+### 3A.10 Checklist Anti-Cheat Stamina
+
+- [ ] CurrentStamina selalu berada pada 0–100?
+- [ ] Cost menggunakan kategori universal atau cost khusus yang tervalidasi?
+- [ ] Cost tidak dikalikan otomatis berdasarkan durasi?
+- [ ] Recovery hanya memakai World Time yang benar-benar berlalu?
+- [ ] Recovery tidak diberikan otomatis dari Qi/Realm/makanan/meditasi?
+- [ ] Ambang kelelahan tidak diam-diam menjadi penalti HP/Qi/Attack/Defense?
+- [ ] Gardening memakai cost universal yang sama?
+- [ ] Modul baru tidak membuat skala Stamina kedua?
 
 ## 4. Checklist Anti-Cheat HP
 
