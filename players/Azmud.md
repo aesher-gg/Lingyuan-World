@@ -35,12 +35,19 @@
 
 **Aset Kebun, Relasi & Sub-Insight:**
 
-*Kebun Rahasia (Celah Bukit - Hari ke-7):*
-- Semak Duri Miasma (Zona Netral radius 1,5m. Akar lateral sudah cukup matang dan siap untuk distek/dipotong untuk kloning)
-- Rumput Darah [Mutasi Demonic] (Tumbuh pesat. Polong biji hitam telah mengering dan siap dipanen untuk bibit mutasi masa depan)
-- 2 Benih Rumput Darah [Normal] (Tumbuh sehat)
-- 1 Benih Teh Fana [Tianzhou] (Stabil / Dormant Adaptation - Perlu olesan pasta baru)
-- 3 Benih Akar Penenang [Tier-1] (Mulai berkecambah di zona netral. Estimasi panen: ±1 minggu)
+*Kebun Rahasia (Celah Bukit — Official Garden State):*
+- **Garden Owner:** Azmud
+- **Location:** Celah Bukit
+- **Current World-Time Marker:** Hari ke-7 (sesuai save saat ini)
+- **Access Policy:** Milik Azmud; akses pihak lain memerlukan izin/otoritas canon.
+- **Plant/Material State:**
+  - Semak Duri Miasma — Plant Instance; Zona Netral radius 1,5m; akar lateral tercatat cukup matang untuk stek/kloning berdasarkan state sebelumnya.
+  - Rumput Darah [Mutasi Demonic] — Plant Instance; polong biji hitam tercatat mengering dan siap dipanen untuk bibit mutasi.
+  - 2 Benih Rumput Darah [Normal] — Planting Material Instances; status tumbuh sehat.
+  - 1 Benih Teh Fana [Tianzhou] — Planting Material Instance; Stabil / Dormant Adaptation; perlu olesan pasta baru sesuai state yang sudah tercatat.
+  - 3 Benih Akar Penenang [Tier-1] — Planting Material Instances; mulai berkecambah di zona netral; estimasi panen ±1 minggu tetap merupakan data save yang harus divalidasi terhadap waktu dunia saat runtime dilanjutkan.
+
+> **Audit Integrity:** exact provenance, exact planted time, canon growth duration, water source, soil specification, harvest quantity, dan Grade tidak lengkap dalam save ini. Field tersebut tetap `???`/`UNRESOLVED` sampai ada sumber canon/checkpoint terverifikasi. `Tier-1` pada Benih Akar Penenang tidak berarti Grade.
 
 *Status Relasi (NPC):*
 - Lin: Pemasok Tepercaya / Pragmatis
