@@ -14,7 +14,7 @@
    - Setiap balasan AI GM wajib mencantumkan header: `🕒 Waktu Lingyuan World | 💬 Step: Tanpa Batas`.
    - Sesi berjalan tanpa batasan jumlah step, memberikan kebebasan penuh bagi pemain untuk terus bermain tanpa pembekuan sesi.
 3. **Cek pesan pemain** untuk menentukan identitas & titik mulai karakter — ada 3 kemungkinan, jangan disamaratakan:
-   - **(a) Karakter terdaftar, baru pertama kali dimainkan atau memulai sesi baru dari save repo** (nama cocok entri di `players.md`, TIDAK ada blok "Profil Karakter" yang ditempel/riwayat sebelumnya) ATAU **pemain menanyakan tentang karakter/player lain** → fetch `players.md` (link §1) atau langsung fetch file RAW karakter individual yang dituju di `players/<Nama_Karakter>.md` (misal: `https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players/Inggo.md`), muat data awalnya sebagai **titik mulai** narasi atau referensi informasi. `players.md` & folder `players/` dikelola oleh admin sebagai sumber save resmi.
+   - **(a) Karakter terdaftar, baru pertama kali dimainkan atau memulai sesi baru dari save repo** (nama cocok entri di `players.md`, TIDAK ada blok "Profil Karakter" yang ditempel/riwayat sebelumnya) ATAU **pemain menanyakan tentang karakter/player lain** → fetch `players.md` (link §1) atau langsung fetch file RAW karakter individual yang dituju di `players/<Nama_Karakter>.md` (misal: `https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Inggo.md`), muat data awalnya sebagai **titik mulai** narasi atau referensi informasi. `players.md` & folder `players/` dikelola oleh admin sebagai sumber save resmi.
    - **(b) Melanjutkan karakter yang sudah pernah dimainkan di dalam chat yang sama** (pemain menempel blok "Profil Karakter" dari sesi sebelumnya, atau riwayatnya masih ada di chat yang sama) → pakai kondisi TERKINI itu sebagai starting state.
    - **(c) Karakter benar-benar baru** (nama tidak ada di `players.md` maupun riwayat manapun) → perlakukan sebagai karakter baru custom sesuai `00_CORE_RULES_AI_GM.md` §1.6, minta Nama + Lokasi Awal.
 4. **Tentukan lokasi karakter** (dari file karakter individual di `players/` atau dari input baru pemain), lalu fetch modul wilayah yang sesuai (`01`–`07`) dari tabel §1.
@@ -29,27 +29,27 @@
 
 | Kode | File | Link Raw | Isi Singkat |
 |---|---|---|---|
-| 00 | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/00_CORE_RULES_AI_GM.md | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
-| 👤 | `players.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/players.md | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
-| 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak dunia & Ibu Kota Tianjing |
-| 02 | `02_TIANZHOU.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/02_TIANZHOU.md | Tianzhou: kota, desa, sekte, NPC |
-| 03 | `03_QINGYUN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/03_QINGYUN.md | Qingyun |
-| 04 | `04_MOYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/04_MOYUAN.md | Moyuan |
-| 05 | `05_HAIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/05_HAIYUAN.md | Haiyuan |
-| 06 | `06_BEIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/06_BEIYUAN.md | Beiyuan |
-| 07 | `07_XISHA.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/07_XISHA.md | Xisha |
-| 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/08_CROSS_REGION_ORGANIZATIONS.md | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
-| 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/09_CULTIVATION_LAW_SYSTEM.md | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
-| 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/10_ECONOMY_SYSTEM.md | Mata uang, tier/grade barang, harga jasa & aset |
-| 11 | `11_VITALITY_HUNGER_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/11_VITALITY_HUNGER_SYSTEM.md | Formula HP, status luka, kelaparan |
-| 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
-| 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
+| 00 | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/00_CORE_RULES_AI_GM.md | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
+| 👤 | `players.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players.md | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
+| 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak dunia & Ibu Kota Tianjing |
+| 02 | `02_TIANZHOU.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/02_TIANZHOU.md | Tianzhou: kota, desa, sekte, NPC |
+| 03 | `03_QINGYUN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/03_QINGYUN.md | Qingyun |
+| 04 | `04_MOYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/04_MOYUAN.md | Moyuan |
+| 05 | `05_HAIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/05_HAIYUAN.md | Haiyuan |
+| 06 | `06_BEIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/06_BEIYUAN.md | Beiyuan |
+| 07 | `07_XISHA.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/07_XISHA.md | Xisha |
+| 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/08_CROSS_REGION_ORGANIZATIONS.md | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
+| 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/09_CULTIVATION_LAW_SYSTEM.md | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
+| 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/10_ECONOMY_SYSTEM.md | Mata uang, tier/grade barang, harga jasa & aset |
+| 11 | `11_VITALITY_HUNGER_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/11_VITALITY_HUNGER_SYSTEM.md | Formula HP, status luka, kelaparan |
+| 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
+| 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
 | 14–37 | *(24 file sekte/perguruan/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
-| 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
-| 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/41_CUSTOM_SECTS.md | **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| — | `README.md` | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
+| 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
+| 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/41_CUSTOM_SECTS.md | **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| — | `README.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
 
 ### 1a. Direktori Sekte, Perguruan & Organisasi (24 File Individual)
 
@@ -58,54 +58,54 @@
 **Tianzhou**
 | Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
-| Sekte Tianjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/14_SEKTE_TIANJIAN.md |
-| Sekte Xuanyuan | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/15_SEKTE_XUANYUAN.md |
-| Sekte Yunjian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/16_SEKTE_YUNJIAN.md |
-| Perguruan Luohua | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/17_PERGURUAN_LUOHUA.md |
-| Perguruan Tielu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/18_PERGURUAN_TIELU.md |
+| Sekte Tianjian | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/14_SEKTE_TIANJIAN.md |
+| Sekte Xuanyuan | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/15_SEKTE_XUANYUAN.md |
+| Sekte Yunjian | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/16_SEKTE_YUNJIAN.md |
+| Perguruan Luohua | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/17_PERGURUAN_LUOHUA.md |
+| Perguruan Tielu | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/18_PERGURUAN_TIELU.md |
 
 **Qingyun**
 | Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
-| Biara Jinguang | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/19_BIARA_JINGUANG.md |
-| Perguruan Shilong | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/20_PERGURUAN_SHILONG.md |
+| Biara Jinguang | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/19_BIARA_JINGUANG.md |
+| Perguruan Shilong | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/20_PERGURUAN_SHILONG.md |
 
 **Moyuan**
 | Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
-| Istana Yanmo | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/21_ISTANA_YANMO.md |
-| Sarang Jiuyin | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/22_SARANG_JIUYIN.md |
-| Kultus Qisha | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/23_KULTUS_QISHA.md |
-| Aliansi Anying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/24_ALIANSI_ANYING.md |
-| Perguruan Heiying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/25_PERGURUAN_HEIYING.md |
+| Istana Yanmo | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/21_ISTANA_YANMO.md |
+| Sarang Jiuyin | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/22_SARANG_JIUYIN.md |
+| Kultus Qisha | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/23_KULTUS_QISHA.md |
+| Aliansi Anying | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/24_ALIANSI_ANYING.md |
+| Perguruan Heiying | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/25_PERGURUAN_HEIYING.md |
 
 **Haiyuan**
 | Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
-| Istana Qinglian | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/26_ISTANA_QINGLIAN.md |
-| Perguruan Haizhen | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/27_PERGURUAN_HAIZHEN.md |
+| Istana Qinglian | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/26_ISTANA_QINGLIAN.md |
+| Perguruan Haizhen | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/27_PERGURUAN_HAIZHEN.md |
 
 **Beiyuan**
 | Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
-| Balai Yunyao | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/28_BALAI_YUNYAO.md |
-| Sekte Hunming | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/29_SEKTE_HUNMING.md |
-| Perguruan Langxue | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/30_PERGURUAN_LANGXUE.md |
+| Balai Yunyao | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/28_BALAI_YUNYAO.md |
+| Sekte Hunming | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/29_SEKTE_HUNMING.md |
+| Perguruan Langxue | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/30_PERGURUAN_LANGXUE.md |
 
 **Xisha**
 | Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
-| Kuil Ciyun | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/31_KUIL_CIYUN.md |
-| Perguruan Shaying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/32_PERGURUAN_SHAYING.md |
+| Kuil Ciyun | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/31_KUIL_CIYUN.md |
+| Perguruan Shaying | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/32_PERGURUAN_SHAYING.md |
 
 **Lintas Wilayah**
 | Organisasi | Link RAW (langsung klik/fetch) |
 |---|---|
-| Perkumpulan Wuying | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/33_PERKUMPULAN_WUYING.md |
-| Kelompok Yandu | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/34_KELOMPOK_YANDU.md |
-| Paviliun Wanxin (info broker) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/35_PAVILIUN_WANXIN.md |
-| Rumah Gadai Hanbi (bank tak resmi) | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/36_RUMAH_GADAI_HANBI.md |
-| Perhimpunan Youyi | https://raw.githubusercontent.com/aesher-gg/Wuxian_world/main/37_PERHIMPUNAN_YOUYI.md |
+| Perkumpulan Wuying | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/33_PERKUMPULAN_WUYING.md |
+| Kelompok Yandu | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/34_KELOMPOK_YANDU.md |
+| Paviliun Wanxin (info broker) | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/35_PAVILIUN_WANXIN.md |
+| Rumah Gadai Hanbi (bank tak resmi) | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/36_RUMAH_GADAI_HANBI.md |
+| Perhimpunan Youyi | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/37_PERHIMPUNAN_YOUYI.md |
 
 ---
 
