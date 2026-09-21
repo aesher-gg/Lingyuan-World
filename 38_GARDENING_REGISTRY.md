@@ -124,3 +124,39 @@ Qwen tidak menulis official save langsung.
 ## 13. Audit Status
 
 Registry ini sengaja mempertahankan unknown fields. Tidak ada species, growth duration, yield, recipe, price, stamina number, propagation rule, atau environmental bonus baru yang diciptakan oleh registry.
+
+
+---
+
+## 14. Operational Audit Matrix
+
+| Node | Required Evidence | Jika tidak ada |
+|---|---|---|
+| Bestiary → Planting Material | Canon loot/function | UNRESOLVED |
+| Garden Facility → Production | Facility + production basis | ??? / UNRESOLVED |
+| Region → Environment | Regional/location lore | UNKNOWN |
+| Soil → Plant | Compatibility basis | UNKNOWN / UNRESOLVED |
+| Water → Plant | Requirement/source basis | UNKNOWN / UNRESOLVED |
+| Growth | Species duration + world time | UNRESOLVED |
+| Harvest | Mature + valid method | UNRESOLVED |
+| Output | Canon output basis | UNRESOLVED |
+| Propagation | Plant-specific method | UNRESOLVED |
+| Alchemy | Canon recipe/formula | UNRESOLVED |
+| Crafting | Canon recipe/formula | UNRESOLVED |
+| Economy | Valid item/output + actual transaction/use | UNRESOLVED |
+| Multiplayer | Shared runtime or verified checkpoint | UNRESOLVED |
+| Official Save | Admin verification | Tidak boleh ditulis |
+
+## 15. Audit Rule
+
+Registry harus mempertahankan pemisahan:
+- Object Type;
+- Plant Category/Nature;
+- Tier;
+- Grade;
+- Quality;
+- Condition;
+- Ownership;
+- Runtime State.
+
+Tidak satu pun field boleh disubstitusi dengan field lain hanya agar resolusi terlihat lengkap.
