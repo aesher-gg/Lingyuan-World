@@ -675,3 +675,113 @@ Priority 2 sekarang mencakup:
 - environmental hazard resolution.
 
 Tidak ada spesies, item, resep, harga, yield, bonus, atau angka Stamina baru yang diciptakan.
+
+---
+## 29. Operational Canon Chain
+Gardening wajib di-resolve dalam urutan berikut:
+Lore Tanaman → Plant Registry → Environment → Plant Instance → World Time → Growth → Maintenance → Harvest → Output → Propagation/Post-Harvest → Alchemy/Crafting/Economy → Shared Runtime → Checkpoint → Official Save
+Tidak boleh melompati node yang diperlukan.
+
+### 29.1 Lore Tanaman
+Lore tanaman adalah sumber fakta tentang identitas, kategori/nature, habitat, pertumbuhan, bahan tanam, bagian panen, propagasi, kebutuhan lingkungan, hubungan alchemy/crafting, risiko atau efek. Lore yang belum tersedia tidak boleh dibuat oleh Gardening System.
+
+### 29.2 Plant Registry
+Setiap tanaman yang dipakai runtime harus dapat dipetakan ke record registry.
+| Field | Nilai |
+|---|---|
+| Plant ID | Identifier stabil |
+| Canon Name | Nama canon |
+| Object Type | Plant / Planting Material / Output / Plant Creature |
+| Cultivable | YES / NO / UNKNOWN |
+| Nature | Ordinary / Spiritual / Demonic / UNKNOWN |
+| Source Reference | Modul/file sumber |
+| Habitat | Canon atau ??? |
+| Growth Duration | Canon atau ??? |
+| Propagation | Canon atau ??? |
+| Harvest Part | Canon atau ??? |
+| Environment Requirement | Canon atau ??? |
+| Alchemy Use | Canon atau ??? |
+| Crafting Use | Canon atau ??? |
+| Post-Harvest | Canon atau ??? |
+UNKNOWN tidak boleh diubah menjadi YES karena asumsi genre.
+
+### 29.3 Environment Resolution
+Plant Registry dibaca bersama lokasi runtime.
+Plant Requirement → Garden Location → Regional Lore → Soil → Water → Environmental Hazard → Compatibility Result
+Result hanya: COMPATIBLE, INCOMPATIBLE, UNKNOWN, CONTAMINATED, SPECIAL, UNRESOLVED.
+
+### 29.4 Plant Instance
+Plant Instance hanya dibuat setelah material tanam, provenance, ownership/access, planting dan environment tervalidasi. Setiap instance memiliki identity/state sendiri; dua tanaman spesies sama tidak boleh dianggap satu instance.
+
+### 29.5 World Time
+Setiap state growth menggunakan Planted Time dan Current World Time.
+Elapsed Growth Time = Current World Time - Planted Time.
+Elapsed time bukan action duration; maintenance bukan growth time; menunggu tanpa world-time resolution bukan growth; satu turn tidak boleh menjadi time-skip.
+
+### 29.6 Growth Resolution
+Growth hanya dari elapsed world time, canon growth duration, environment, condition, maintenance requirement, dan external event yang benar-benar terjadi. Jika duration tidak tersedia, jangan memaksa MATURE.
+
+### 29.7 Maintenance
+Maintenance adalah event runtime: Actor → Action → Target Plant Instance → World Time → Cost → Result. Maintenance tidak otomatis mempercepat growth, menaikkan Grade/Tier, menambah yield, atau menghapus hazard tanpa canon.
+
+### 29.8 Harvest
+MATURE + Valid Harvest → Output Instance + Post-Harvest State. Output tidak boleh dibuat sebelum source Plant Instance dan harvest event valid.
+
+### 29.9 Output
+Output wajib mempertahankan provenance: Output → Source Plant Instance → Planting Material → Acquisition → Original Source. Processing tidak boleh memutus origin chain.
+
+### 29.10 Propagation / Post-Harvest
+Propagation adalah event baru, bukan cloning otomatis. Canon Propagation Source → Propagation Material Instance → Ownership → Planting Validation → New Plant Instance. Post-harvest mengikuti record tanaman; jika belum diketahui = ???.
+
+### 29.11 Alchemy / Crafting / Economy
+Output hanya dapat memasuki sistem lain bila bridge canon tersedia.
+Output → Valid Material → Canon Recipe → Processing → New Output.
+Untuk economy: Output → Origin Log → Usage / Trade → Regional Supply bila benar-benar ditawarkan → Demand → Price. Tidak ada automatic market entry.
+
+## 30. Shared Runtime Gardening State
+Karena Gardening dapat disentuh player/NPC berbeda, state bersama wajib memakai satu record authoritative.
+| Field | Wajib |
+|---|---|
+| Garden ID | Ya |
+| Garden Owner | Ya |
+| Access Policy | Ya |
+| Location | Ya |
+| Plant Instance IDs | Ya |
+| Current World-Time Marker | Ya |
+| Active Maintenance Events | Bila ada |
+| Active Harvest Events | Bila ada |
+| Output Instances | Bila ada |
+| External Effects | Bila ada |
+| Last Verified Checkpoint | Ya |
+
+### 30.1 Cross-Chat Rule
+Jika dua player berada di chat berbeda, state gardening tidak boleh dianggap sinkron hanya berdasarkan klaim salah satu chat. State lintas-chat hanya sah jika berasal dari shared authoritative runtime state atau checkpoint yang telah diverifikasi Admin. Jika tidak tersedia: Cross-Chat Gardening State = UNRESOLVED.
+
+### 30.2 Concurrency
+Dua aksi terhadap Plant Instance yang sama harus di-resolve berdasarkan urutan waktu. Contoh A menyiram → B memanen harus memeriksa World Time A < World Time B dan access B valid. Jika event tidak dapat diurutkan secara authoritative, hasil = UNRESOLVED.
+
+### 30.3 Ownership
+Ownership tidak berubah hanya karena player menyentuh, menyiram, menemukan kebun, atau membantu maintenance. Transfer ownership harus berupa event canon/runtime yang tercatat.
+
+## 31. Checkpoint Contract
+Checkpoint gardening adalah snapshot state runtime, bukan narasi bebas.
+Minimum: Garden → Plant Instances → World Time → Environment → Maintenance → Growth → Harvest → Outputs → Propagation → Processing → Economy/Usage → History.
+Data unknown tetap ???; data konflik tetap UNRESOLVED. Admin tidak boleh mengisi missing field dengan inferensi hanya agar save lengkap.
+
+## 32. Official Save Contract
+Official Player Save hanya diperbarui melalui:
+Runtime State → Checkpoint → Admin Verification → Official Player Save
+Qwen tidak boleh menulis langsung ke official player save.
+Admin verification wajib memeriksa runtime event, world time, ownership/access, uniqueness Plant Instance, provenance output, propagation, canon recipes, economy consistency, unresolved fields, dan state lama yang berubah secara sah.
+
+## 33. Garden State Identity
+Garden ID ≠ Plant Instance ID ≠ Planting Material Instance ID ≠ Output Instance ID.
+Identifier contoh hanya format, bukan ID canon. AI GM tidak boleh mengarang ID permanen official save tanpa checkpoint/Admin verification.
+
+## 34. Current Canon Registry Boundary
+Registry hanya berisi data yang dapat ditelusuri ke lore/repo. Data Azmud yang belum lengkap tetap memiliki gap pada exact provenance, exact planted time, canon growth duration, water source, soil specification, harvest quantity, dan Grade. Semua tetap ???/UNRESOLVED sampai ada source canon atau checkpoint terverifikasi.
+
+## 35. Final Resolution Rule
+FETCH CANON → IDENTIFY REGISTRY → RESOLVE ENVIRONMENT → VALIDATE INSTANCE → RESOLVE WORLD TIME → RESOLVE GROWTH → VALIDATE MAINTENANCE → VALIDATE HARVEST → CREATE OUTPUT → RESOLVE PROPAGATION/POST-HARVEST → RESOLVE ALCHEMY/CRAFTING/ECONOMY → UPDATE SHARED RUNTIME → CHECKPOINT → ADMIN VERIFICATION → OFFICIAL SAVE
+Jika satu node wajib gagal karena data tidak tersedia, proses berhenti pada node tersebut dengan ??? atau UNRESOLVED.
+Tidak ada fallback berupa improvisasi GM.
