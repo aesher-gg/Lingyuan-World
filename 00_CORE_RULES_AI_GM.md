@@ -115,7 +115,11 @@ Aksi apa pun yang melebihi batas ini (3 jam atau 1 bulan) harus dipecah AI GM me
 File `39_CUSTOM_EVENTS.md`, `40_CUSTOM_LAWS.md`, `41_CUSTOM_SECTS.md`, dan `42_CUSTOM_TECHNIQUES.md` adalah ruang kreatif Admin untuk menambahkan konten baru ke dunia. **Aturan penggunaannya:**
 
 - **File kustom ini dikelola SEPENUHNYA oleh Admin.** AI tidak boleh mengedit, menambah, atau menghapus isinya — hanya membaca dan menggunakan data yang sudah ada di dalamnya.
-- **Jika ada konflik** antara data di file resmi (`01`–`37`) dan data di file kustom (`39`–`41`), maka **data di file kustom yang menang (override)** untuk konten spesifik yang dicatat di sana.
+- **Jika ada konflik** antara data resmi dan data kustom, data kustom hanya meng-override **scope spesifik yang secara eksplisit didefinisikan** di file kustom. Konten kustom TIDAK otomatis meng-override hukum waktu, formula ekonomi, Vitality, provenance, batas Gardening, atau aturan global lain.
+- **Custom Event** dapat memengaruhi dunia hanya selama event dan efek yang ditulis canon.
+- **Custom Law** dapat menentukan aturan Hukum karakter/sekte hanya dalam scope Hukum tersebut dan tidak otomatis mengubah formula global di luar scope yang diizinkan.
+- **Custom Sect** dapat menentukan identitas, fasilitas, anggota, dan aturan internal sekte tersebut, tetapi tidak otomatis mengubah sistem global.
+- **Custom Technique** hanya memberi efek yang tercatat pada teknik tersebut dan tidak boleh digunakan untuk menyisipkan aturan sistem global.
 - **Jika pemain menyebut Hukum atau Sekte yang tidak ditemukan** di file resmi maupun kustom, AI harus memberi tahu bahwa konten tersebut belum dicatat Admin dan belum diakui di dunia ini.
 - AI WAJIB **fetch `39_CUSTOM_EVENTS.md` di awal setiap sesi** (setelah Bootstrap selesai) untuk memeriksa apakah ada event aktif yang memengaruhi dunia.
 
