@@ -785,3 +785,135 @@ Registry hanya berisi data yang dapat ditelusuri ke lore/repo. Data Azmud yang b
 FETCH CANON → IDENTIFY REGISTRY → RESOLVE ENVIRONMENT → VALIDATE INSTANCE → RESOLVE WORLD TIME → RESOLVE GROWTH → VALIDATE MAINTENANCE → VALIDATE HARVEST → CREATE OUTPUT → RESOLVE PROPAGATION/POST-HARVEST → RESOLVE ALCHEMY/CRAFTING/ECONOMY → UPDATE SHARED RUNTIME → CHECKPOINT → ADMIN VERIFICATION → OFFICIAL SAVE
 Jika satu node wajib gagal karena data tidak tersedia, proses berhenti pada node tersebut dengan ??? atau UNRESOLVED.
 Tidak ada fallback berupa improvisasi GM.
+
+
+---
+
+## 36. Operational Audit — Gardening Integration
+
+Setelah rantai utama Gardening aktif, audit lanjutan WAJIB menjaga integrasi berikut:
+
+### 36.1 Bestiary → Planting Material
+- Flora/Plant Creature dari Bestiary tidak otomatis menjadi Cultivable Plant.
+- Loot hanya dapat menjadi Planting Material bila canon loot secara eksplisit mendukung fungsi tanam.
+- Jika hubungan loot → planting belum terbukti = `UNRESOLVED`.
+
+### 36.2 Garden Facility → Production
+Existing garden facility adalah lore location/facility sampai runtime production benar-benar memiliki basis canon.
+Minimum production state bila tersedia:
+`Garden Facility → Owner/Manager → Plant Registry → Capacity/State → Production Event → Output Instance`.
+Kapasitas, siklus, yield, dan worker tidak boleh diisi dengan asumsi.
+
+### 36.3 Environment Registry
+Resolusi wajib mengikuti:
+`Region → Location → Soil → Water → Environmental Condition → Compatibility`.
+Tidak boleh membuat weather, season, Qi bonus, fertilizer bonus, atau environmental multiplier baru tanpa canon.
+
+### 36.4 Growth Registry
+System cap:
+- Ordinary Plant ≤ 7 hari.
+- Spiritual Plant ≤ 15 hari.
+
+Species-specific duration tetap terpisah dari system cap. Bila duration spesies tidak diketahui, growth tidak boleh dipaksa menjadi MATURE.
+
+### 36.5 Alchemy/Crafting Bridge
+Tidak ada implicit conversion:
+`Harvest Output → Valid Material → Canon Recipe → Processing → New Output`.
+Material shape/name saja tidak cukup untuk menjadikannya recipe ingredient.
+
+### 36.6 Propagation/Post-Harvest
+Propagation adalah event tersendiri. Harvest tidak otomatis menghasilkan seed, cutting, cloning material, atau regrowth.
+Post-harvest state harus plant-specific.
+
+---
+
+## 37. Multiplayer Gardening Resolution
+
+Untuk interaksi antar-player:
+
+`Actor → Permission → Target Instance → World Time → Action Order → Cost → Result → Ownership → Output`
+
+WAJIB diverifikasi berurutan.
+
+Contoh:
+`Player A plants → Player B waters → Player C harvests → Player D trades output`
+
+Setiap tahap harus memiliki state dan permission yang sah. Aksi player lain tidak otomatis memberi ownership.
+
+### 37.1 Concurrency
+Jika dua aksi mengenai Plant Instance yang sama:
+1. gunakan authoritative world-time/event order bila tersedia;
+2. proses perubahan state berdasarkan urutan tersebut;
+3. bila urutan tidak dapat dibuktikan, hasil = `UNRESOLVED`;
+4. jangan memilih hasil yang menguntungkan salah satu player hanya karena narasi muncul lebih dulu di chat yang tidak terhubung.
+
+### 37.2 Cross-Chat
+Chat berbeda tidak dianggap satu runtime otomatis.
+State lintas-chat hanya sah bila:
+- terdapat authoritative shared runtime; atau
+- ada checkpoint yang telah diverifikasi Admin.
+
+Tanpa keduanya, state lintas-chat = `UNRESOLVED`.
+
+---
+
+## 38. Checkpoint Conflict Resolution
+
+Checkpoint adalah snapshot state, bukan bukti bahwa semua perubahan di dalamnya otomatis benar.
+
+Jika terdapat checkpoint yang bertentangan:
+1. identifikasi Garden/Plant/Output Instance yang sama;
+2. bandingkan world-time marker;
+3. bandingkan event history;
+4. cek ownership/access;
+5. cek provenance;
+6. gunakan checkpoint yang dapat diverifikasi Admin;
+7. jika konflik tidak dapat diselesaikan dari evidence canon/runtime = `UNRESOLVED`.
+
+DILARANG:
+- memilih checkpoint hanya karena lebih baru secara nama file;
+- menggabungkan dua state yang saling bertentangan tanpa event resolution;
+- menghapus perubahan player lain tanpa dasar.
+
+---
+
+## 39. Official Save Integrity
+
+Official save hanya menerima state yang lolos:
+`Runtime State → Checkpoint → Admin Verification → Official Player Save`.
+
+Admin verification minimum:
+- identity instance;
+- world time;
+- location;
+- owner/access;
+- source/provenance;
+- growth/maintenance history;
+- harvest event;
+- output identity;
+- propagation;
+- alchemy/crafting processing;
+- economy/use;
+- unresolved/conflict fields.
+
+Field yang belum dapat diverifikasi tetap `???` atau `UNRESOLVED`; Admin tidak boleh melengkapinya dengan asumsi.
+
+---
+
+## 40. Gardening Audit Stop Conditions
+
+Gardening resolution WAJIB berhenti sebelum menghasilkan state final jika salah satu node berikut tidak memiliki basis:
+- Plant Registry;
+- Planting Material provenance;
+- Plant Instance identity;
+- Environment compatibility;
+- World Time;
+- Growth Duration;
+- Harvest validity;
+- Output basis;
+- Propagation method;
+- Canon recipe;
+- ownership/access;
+- authoritative shared runtime untuk interaksi lintas-chat.
+
+Berhenti berarti tidak mengarang hasil; gunakan `???`/ `UNRESOLVED` sesuai jenis kekurangan data.
