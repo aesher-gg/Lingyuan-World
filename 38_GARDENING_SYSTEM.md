@@ -440,6 +440,74 @@ Jika data tersebut belum ada di World Bible, statusnya adalah `???` atau `UNRESO
 
 ---
 
+
+## 20.1 NPC / Sect Garden Production
+
+Kebun milik NPC, sekte, biara, perguruan, atau organisasi diperlakukan sebagai production source hanya bila fasilitas tersebut memang canon memiliki fungsi kebun/herbal atau produksi tanaman.
+
+Production NPC/Sect TIDAK sama dengan inventory tanpa batas.
+- Keberadaan kebun sekte TIDAK otomatis berarti selalu ada stok hasil panen.
+- Jumlah produksi, frekuensi panen, kapasitas lahan, tenaga kerja, dan stok hanya digunakan bila ada basis canon atau state runtime.
+- NPC dapat mengelola kebun sesuai peran dan akses mereka, tetapi hasil produksi tetap tunduk pada waktu dunia, Plant Instance, maintenance, maturity, dan harvest validation.
+- Output kebun NPC/sekte tidak otomatis masuk inventory pemain.
+- Output kebun tidak otomatis masuk pasar; diperlukan distribusi, penjualan, penggunaan internal, atau transfer yang tervalidasi.
+
+## 20.2 Regional Supply Integration
+
+Jika hasil Gardening benar-benar dilepas ke pasar regional, jalurnya adalah:
+
+Harvested Output Instance → Valid Allocation / Transaction → Regional Supply → Active Market Supply → Demand / Market Conditions → FinalPrice → Transaction Ledger
+
+Harvested Output ≠ Market Supply. Output yang disimpan, dipakai internal sekte, diberikan, rusak, atau belum dialokasikan ke pasar tidak dihitung sebagai ActiveSupply.
+
+AI GM TIDAK BOLEH membuat Regional Supply dari klaim bahwa sebuah wilayah punya banyak kebun saja. Supply harus memiliki sumber produksi dan output yang benar-benar tervalidasi.
+
+## 20.3 Maintenance → Time / Stamina Semantics
+
+Gardening membedakan durasi aksi, waktu dunia, dan biaya Stamina.
+
+- Action Duration = waktu yang dipakai melakukan tindakan gardening.
+- World Time = waktu dunia yang benar-benar berlalu setelah tindakan.
+- Stamina Cost = biaya fisik tindakan bila sistem Vitality menyediakan/menentukan nilainya.
+- Growth Time = waktu biologis/canon tanaman; bukan hadiah dari maintenance.
+
+Soil Care, Standard Irrigation, Inspection, Planting, dan Harvest adalah aksi dan tetap tunduk pada batas aksi Core Rules.
+
+Stamina TIDAK BOLEH diada-adakan. Jika biaya Stamina belum ditentukan canon, nilainya ??? / UNRESOLVED; AI GM tidak boleh membuat angka baru. Maintenance dapat memengaruhi Condition / Maintenance Status, tetapi tidak mengubah jam tanam menjadi jam panen secara otomatis.
+
+## 20.4 Qi Density Interaction
+
+Qi Density regional hanya menjadi input Gardening jika canon tanaman, lokasi, atau aturan khusus secara eksplisit menghubungkannya dengan pertumbuhan atau kondisi tanaman.
+
+- Qi Density TIDAK memberikan bonus pertumbuhan otomatis.
+- Qi Density tinggi tidak mengubah Ordinary Plant menjadi Spiritual Plant.
+- Qi Density rendah tidak otomatis menyebabkan tanaman gagal.
+- Jika tanaman memang Qi-sensitive menurut canon, efeknya mengikuti aturan tanaman tersebut; jika besaran efek belum tersedia, gunakan ??? / UNRESOLVED.
+- Modifier Qi Density untuk kultivasi karakter tidak boleh dipindahkan ke Gardening tanpa aturan Gardening yang sah.
+
+## 20.5 Custom-Content Boundary
+
+Konten pada 39_CUSTOM_EVENTS.md–42_CUSTOM_TECHNIQUES.md adalah canon kustom yang dikelola Admin, tetapi scope override harus dibatasi pada data yang memang didefinisikan oleh konten tersebut.
+
+Custom Sect, Law, Event, atau Technique dapat mengubah/memperluas data spesifik yang memang dicatat sebagai bagian dari konten tersebut, tetapi TIDAK otomatis mengubah hukum waktu, formula ekonomi, formula Vitality, aturan provenance, batas Gardening, atau aturan global lain.
+
+Jika custom content ingin memberi efek pada Gardening, efek tersebut harus tertulis jelas dalam canon kustom. Jika scope tidak jelas, gunakan UNRESOLVED sampai Admin memperjelas batasnya.
+
+## 20.6 Tier / Grade Inheritance Rules
+
+Tier dan Grade adalah atribut ekonomi output/item; keduanya bukan atribut otomatis dari kategori tanaman.
+
+1. Plant Classification (Ordinary / Spiritual / Demonic) TIDAK menentukan Tier atau Grade dengan sendirinya.
+2. Output panen mewarisi Tier/Grade hanya jika canon tanaman/output atau aturan proses memang menetapkannya.
+3. Provenance/origin dapat diteruskan dari Plant Instance ke Output Instance, tetapi provenance bukan berarti Tier/Grade otomatis diwariskan.
+4. Saat Output Instance diproses melalui alchemy/crafting, Tier/Grade hasil akhir TIDAK otomatis sama dengan bahan. Gunakan Tier/Grade yang ditentukan recipe/process canon; jika tidak ada, ??? / UNRESOLVED.
+5. Processing hanya menghasilkan perbedaan Tier/Grade bila proses canon mendukungnya.
+6. Status fasilitas, reputasi sekte, kekayaan, atau realm pengelola tidak otomatis menaikkan Tier/Grade hasil panen.
+
+Plant Classification ≠ Tier/Grade
+Provenance Inheritance ≠ Tier/Grade Inheritance
+Processing Input Tier/Grade ≠ Automatic Output Tier/Grade
+
 ## 20. Checklist Validasi AI GM
 
 - [ ] Objek flora sudah diklasifikasikan dengan benar (Cultivable / Wild / Spiritual / Demonic / Plant Creature / UNKNOWN)?
@@ -463,6 +531,13 @@ Jika data tersebut belum ada di World Bible, statusnya adalah `???` atau `UNRESO
 - [ ] Origin/History tetap tersambung?
 - [ ] Checkpoint menggunakan state runtime terakhir?
 - [ ] Official save hanya dilakukan setelah verifikasi Admin?
+- [ ] NPC/Sect garden production memiliki Plant Instance dan output nyata, bukan stok fiktif?
+- [ ] Harvested Output dibedakan dari Regional Supply/Active Market Supply?
+- [ ] Action Duration, World Time, dan Stamina Cost tidak dicampur?
+- [ ] Qi Density hanya memengaruhi Gardening jika ada basis canon eksplisit?
+- [ ] Custom content hanya meng-override scope yang memang didefinisikan?
+- [ ] Provenance diwariskan tanpa menganggap Tier/Grade otomatis diwariskan?
+- [ ] Tier/Grade output processing berasal dari recipe/process canon?
 
 Jika salah satu poin gagal, hasil gardening harus ditahan, dikoreksi, atau ditandai `UNRESOLVED` sesuai kondisi.
 
