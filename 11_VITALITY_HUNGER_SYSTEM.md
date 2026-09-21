@@ -143,7 +143,75 @@ RecoveryModifier default = 1,0. Recovery hanya dihitung dari World Time yang ben
 
 Tekanan Awan Embun Qingyun memberi RecoveryModifier 0,85 bila syarat canon terpenuhi. Mata Air Bambu Giok hanya diketahui mempercepat recovery; besaran tambahannya belum canon → `??? / UNRESOLVED`.
 
-### 3A.5 Drain Langsung dari Bahaya / Efek Canon
+### 3A.4 Kalibrasi PhysicalLoad — Universal
+
+PhysicalLoad = clamp(BasePhysicalDemand × ToolFactor × EnvironmentFactor × BodyConditionFactor, 0, 1)
+
+PhysicalLoad adalah estimasi **beban fisik nyata**, bukan daftar cost per aksi dan bukan kategori tetap.
+
+### A. BasePhysicalDemand
+
+GM menilai seberapa besar tenaga fisik yang benar-benar dibutuhkan pekerjaan berdasarkan bukti runtime:
+- **0** bila tindakan tidak membutuhkan tenaga fisik yang berarti;
+- nilai kontinu **>0 sampai 1** bila tindakan benar-benar menggunakan tenaga fisik;
+- penilaian mempertimbangkan beban/berat yang dipindahkan, tahanan, gaya yang diperlukan, repetisi, postur, dan apakah tubuh harus mempertahankan usaha secara aktif.
+
+Tidak ada tabel aksi seperti 1/3/5/10/15/20 Stamina.
+
+### B. ToolFactor
+
+Alat yang benar-benar digunakan dapat mengurangi atau menambah tuntutan fisik.
+- Alat bantu mekanis/spiritual yang secara canon mengurangi tenaga → `ToolFactor < 1`.
+- Alat yang menambah beban atau sulit dikendalikan → `ToolFactor > 1`.
+- Tanpa efek alat yang tervalidasi → `ToolFactor = 1`.
+- Besaran perubahan harus ditetapkan dari kemampuan alat yang canon; bila tidak dapat ditentukan → `??? / UNRESOLVED`.
+
+Alat tidak boleh menciptakan pengurangan Stamina hanya karena namanya terdengar membantu.
+
+### C. EnvironmentFactor
+
+Lingkungan hanya mengubah PhysicalLoad bila benar-benar meningkatkan atau mengurangi tuntutan fisik.
+Contoh faktor yang dapat diperiksa:
+- medan berat/lumpur/air;
+- tekanan, suhu, atau kondisi udara yang secara canon memengaruhi usaha fisik;
+- gravitasi atau hambatan khusus yang memang tercatat;
+- kondisi permukaan kerja.
+
+Lingkungan tanpa efek fisik yang tervalidasi → `EnvironmentFactor = 1`. Efek regional seperti **−15% regenerasi Stamina di Lembah Yuzhu** atau **−30 Stamina per luapan Haiyuan** bukan EnvironmentFactor dan tidak boleh dimasukkan lagi ke StaminaCost.
+
+### D. BodyConditionFactor
+
+Kondisi tubuh mengubah usaha yang diperlukan untuk melakukan pekerjaan yang sama.
+- Kondisi tubuh normal tanpa faktor tambahan → `BodyConditionFactor = 1`.
+- Cedera, kelelahan, sakit, atau kondisi lain yang canon membuat pekerjaan lebih berat dapat menaikkan faktor.
+- Bantuan/pemulihan yang canon membuat pekerjaan lebih ringan dapat menurunkannya.
+- Jika dampak kondisi terhadap tuntutan fisik belum dapat ditentukan secara canon/runtime → `??? / UNRESOLVED`.
+
+BodyConditionFactor tidak boleh dipakai untuk membuat penalti HP/Qi baru.
+
+### E. Physical-Work Gate
+
+Sebelum menghitung formula, GM wajib menentukan apakah tindakan benar-benar memerlukan tenaga fisik.
+- Jika **tidak** → `PhysicalLoad = 0` dan tidak ada StaminaCost dari formula fisik ini.
+- Jika **ya** → hitung empat komponen di atas berdasarkan kondisi aktual.
+- Jika bukti tidak cukup untuk menentukan apakah pekerjaan fisik atau seberapa besar bebannya → `UNRESOLVED`, bukan angka tebakan.
+
+### F. Durasi tidak masuk dua kali
+
+`ActionDurationHours` sudah menjadi variabel terpisah dalam formula StaminaCost. Karena itu, **durasi tidak boleh dimasukkan lagi ke BasePhysicalDemand sebagai pengali kedua**. BasePhysicalDemand menggambarkan intensitas tuntutan fisik; ActionDurationHours menggambarkan berapa lama tuntutan tersebut dilakukan.
+
+### G. Audit Rule
+
+GM harus dapat menjelaskan sumber penilaian PhysicalLoad secara singkat dari:
+1. pekerjaan yang dilakukan;
+2. beban/resistansi nyata;
+3. alat;
+4. lingkungan;
+5. kondisi tubuh.
+
+Jika salah satu faktor relevan tetapi datanya tidak tersedia, status hasil harus `??? / UNRESOLVED`, bukan diam-diam memakai angka baru.
+
+## 3A.5 Drain Langsung dari Bahaya / Efek Canon
 
 ```
 CurrentStaminaAfterDrain = max(0, CurrentStamina - DirectStaminaDrain)
