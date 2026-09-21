@@ -1,20 +1,21 @@
-# 📇 Lingyuan World — Players (Katalog Data Karakter Awal)
+# 📇 Lingyuan World — Players (Katalog Data Karakter & Official Save)
 
-> **Modul:** players — dirujuk lewat `INDEX.md` §3, HANYA dipakai saat karakter yang namanya terdaftar di sini dimainkan untuk **pertama kali**.
-> **⚠️ SIFAT FILE & DIREKTORI: READ-ONLY MUTLAK BAGI AI.** Ini murni katalog & referensi **data awal** karakter — bukan sistem save, bukan checkpoint, bukan status terkini. AI tidak pernah menulis, mengedit, atau menyarankan perubahan pada file ini maupun file individual di folder `players/`. Hanya **admin (Inggoxxx)** yang berhak mengubah isinya, langsung di GitHub, di luar sesi roleplay.
+> **Modul:** players — dirujuk lewat `INDEX.md` §3 untuk starting state dan official save.
+> **⚠️ SIFAT FILE & DIREKTORI: READ-ONLY MUTLAK BAGI AI.** `players.md` adalah katalog data awal; file individual di `players/` adalah **official save**. AI GM tidak menulis langsung ke GitHub. Hanya Admin yang mengubah data resmi berdasarkan checkpoint yang sudah diverifikasi.
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `09_CULTIVATION_LAW_SYSTEM.md` (Law Origin), `10_ECONOMY_SYSTEM.md` (Item Origin & mata uang)
 
 ---
 
 ## 0. Aturan Pemakaian (WAJIB DIPAHAMI AI GM)
 
-1. File ini dan file individual di folder `players/` **hanya** berisi kondisi karakter **sebelum cerita dimulai**. Bukan status "terakhir dimainkan", bukan save slot, bukan progres yang sedang berjalan.
-2. AI membaca file karakter **satu kali saja** — persis di momen karakter yang namanya ada di sini mulai dimainkan untuk **pertama kalinya**. Sejak saat itu, seluruh perkembangan karakter (HP berubah, Qi terpakai, item baru, breakthrough, pindah lokasi, dst.) **hanya** dicatat di dalam blok "Profil Karakter" pada percakapan yang sedang berjalan (format resmi ada di `00_CORE_RULES_AI_GM.md` §2) — **tidak pernah** ditulis balik ke file mana pun.
+1. `players.md` menjadi katalog data awal. File individual `players/<Nama_Karakter>.md` menjadi official save setelah Admin memasukkan checkpoint yang telah diverifikasi.
+2. AI membaca file karakter individual sebagai starting state pada sesi baru. Selama sesi berjalan, runtime state berasal dari Profil Karakter/checkpoint terbaru di percakapan.
 3. **Instruksi Fetch untuk AI GM:** Untuk mencegah batasan ekstraktor teks AI (misalnya limit 300 baris), data detail setiap karakter telah dipisahkan ke file individual di dalam folder `players/`. AI GM **WAJIB** mengambil/fetch file RAW karakter spesifik yang dimaksud (`players/<Nama_Karakter>.md`) melalui Link RAW pada tabel §1 di bawah saat:
    - Karakter tersebut dimainkan untuk **pertama kalinya**.
    - Pemain/Player bertanya atau menanyakan informasi/status/latar belakang mengenai karakter/player lain yang terdaftar di `players.md`.
-4. AI **dilarang keras**: menulis ke file mana pun, menyarankan pemain "menyimpan"/"update" progres ke file ini, atau memperlakukan isi file karakter sebagai kondisi yang **terkini** setelah roleplay berjalan.
-5. Untuk **melanjutkan** karakter yang sudah pernah dimainkan sebelumnya (bukan memulai baru), pemain menempelkan ulang blok "Profil Karakter" **terakhir** dari sesi sebelumnya di pesan pembuka. Folder `players/` **tidak dipakai** untuk kasus itu — isinya tetap/statis.
+4. AI GM **dilarang menulis langsung ke GitHub**. Checkpoint dibuat dari runtime state dan dikirim kepada Admin untuk verifikasi.
+5. Setelah Admin memverifikasi checkpoint, Admin memperbarui `players/<Nama_Karakter>.md` sebagai official save.
+6. Untuk melanjutkan karakter, gunakan official save terbaru bila tersedia; bila sesi yang sama masih berjalan, gunakan runtime state terakhir.
 
 ---
 
@@ -53,7 +54,7 @@
 ```markdown
 # 👤 [Nama Karakter]
 
-> **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
+> **Data Karakter / Official Save** — Dikelola Admin. Diperbarui hanya dari checkpoint yang telah diverifikasi.
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10
 
 ---
