@@ -44,7 +44,7 @@
 | **Shi Guta** | Perguruan Shilong, Qingyun | Mortal Foundation, Awal | Perguruan Shilong (Pemahat Magang) | [`Shi_Guta.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Shi_Guta.md?v=1) |
 | **Seraph** | Kota Haoyang, Tianzhou | Qi Refining, Puncak | Perguruan Luohua (Murid Senior) | [`Seraph.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Seraph.md?v=1) |
 | **Suy** | Tepi Sungai Desa Lingquan, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Suy.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Suy.md?v=1) |
-| **Ryxian** | Desa Chayun, Qingyu | Mortal Foundation (Fondasi Fana), Qi Cap 0 | Sanxiu (tanpa sekte) | [`Ryxian.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Ryxian.md?v=1) |
+| **Ryxian** | Desa Chayun, Qingyu | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ryxian.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Ryxian.md?v=1) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
