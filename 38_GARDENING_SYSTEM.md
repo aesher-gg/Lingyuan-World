@@ -475,6 +475,23 @@ Soil Care, Standard Irrigation, Inspection, Planting, dan Harvest adalah aksi da
 
 Gardening TIDAK BOLEH membuat skala Stamina kedua. Cost dihitung dari PhysicalLoad dan Action Duration aktual. Jika beban fisik atau durasi belum dapat ditentukan, gunakan ??? / UNRESOLVED. Maintenance dapat memengaruhi Condition / Maintenance Status, tetapi tidak mengubah jam tanam menjadi jam panen secara otomatis.
 
+### 20.3.1 PhysicalLoad pada Tahap Gardening
+
+Semua tahap gardening yang benar-benar memakai tenaga fisik menggunakan formula universal `StaminaCost` pada `11_VITALITY_HUNGER_SYSTEM.md §3A.3` dan kalibrasi `PhysicalLoad` pada `§3A.4`.
+
+| Tahap | Input PhysicalLoad yang diperiksa |
+|---|---|
+| Planting | tahanan tanah/media, beban bahan tanam, alat, postur, kondisi tubuh |
+| Soil Care | keras/lunak tanah, luas bagian yang dirawat, alat, postur, kondisi tubuh |
+| Irrigation | berat air/wadah, jarak pemindahan, alat bantu, medan, kondisi tubuh |
+| Inspection | hanya memakai Stamina bila pemeriksaan benar-benar memerlukan usaha fisik; observasi pasif dapat `PhysicalLoad = 0` |
+| Maintenance khusus | tuntutan fisik nyata dari metode canon, alat, lingkungan, dan kondisi tubuh |
+| Harvest | gaya untuk memotong/mencabut/mengangkat hasil, alat, medan, kondisi tubuh |
+
+Durasi setiap aksi tetap ditentukan oleh aksi nyata dan batas waktu Core Rules. Tidak ada cost tetap per tahap, tidak ada biaya otomatis hanya karena nama aksinya, dan tidak ada StaminaCost yang dihitung dari jumlah pesan/turn.
+
+Jika suatu tahap gardening tidak cukup datanya untuk menentukan beban atau durasi, hasil StaminaCost harus `??? / UNRESOLVED`; GM tidak boleh mengisi angka berdasarkan asumsi.
+
 ## 20.4 Qi Density Interaction
 
 Qi Density regional hanya menjadi input Gardening jika canon tanaman, lokasi, atau aturan khusus secara eksplisit menghubungkannya dengan pertumbuhan atau kondisi tanaman.
