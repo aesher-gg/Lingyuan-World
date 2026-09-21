@@ -437,7 +437,7 @@ Teknik seperti **Pemeliharaan Kebun Sadar** dapat dicatat sebagai teknik karakte
 
 Gardening adalah aktivitas fisik dan harus mengikuti `11_VITALITY_HUNGER_SYSTEM.md` serta batas aksi `00_CORE_RULES_AI_GM.md`.
 
-Untuk setiap aksi, runtime idealnya mencatat:
+Untuk setiap aksi, runtime mencatat:
 - Actor;
 - Action;
 - Target;
@@ -446,7 +446,14 @@ Untuk setiap aksi, runtime idealnya mencatat:
 - Stamina Cost;
 - Result.
 
-Jika biaya belum canon = `???`, bukan nol secara otomatis.
+Aturan:
+- Aksi gardening non-kultivasi mengikuti batas waktu non-kultivasi maksimal **3 jam per turn**.
+- Gardening tidak boleh digunakan untuk menyamarkan time-skip.
+- Stamina Cost **tidak diasumsikan 0**. Jika canon belum menetapkan biaya untuk aksi tertentu, nilainya = `???`/`UNRESOLVED` sampai ada basis canon.
+- Satiety tetap berjalan sesuai waktu dunia.
+- Kelelahan, cedera, atau kondisi tubuh yang sudah tercatat dapat membatasi hasil aksi.
+- Teknik tidak menghapus biaya fisik kecuali efek teknik canon memang menyatakannya.
+- Tidak ada angka Stamina baru yang ditambahkan oleh modul ini.
 
 ---
 
@@ -549,8 +556,122 @@ DILARANG:
 
 ---
 
-## 27. Status Modul
+## 27. Priority 2 Integration
 
-**CANONICAL — PRIORITY 1 INTEGRATION IMPLEMENTED**
+### 27.1 Qi Density Interaction
 
-Modul ini sekarang mengintegrasikan klasifikasi, lore regional, provenance, wild/cultivated separation, Plant Creature boundary, soil/water validation, harvest/output, economy origin, alchemy/crafting bridges, NPC/sect gardens, propagation, post-harvest state, dan gardening access control tanpa menambahkan spesies atau resep baru.
+Qi Density **tidak memiliki efek gardening universal**.
+
+Pengaruh Qi Density hanya dapat diterapkan bila:
+- plant canon menyatakan kebutuhan/sensitivitas terhadap Qi;
+- lokasi canon menyatakan hubungan tersebut;
+- atau hukum dunia/technique canon secara eksplisit memberikan efek.
+
+Tidak boleh membuat:
+- growth multiplier otomatis;
+- bonus harvest otomatis;
+- quality/grade naik otomatis;
+- tanaman Spiritual otomatis tumbuh lebih cepat.
+
+Jika hubungan Qi Density dengan tanaman belum diketahui = `UNRESOLVED`.
+
+### 27.2 Plant Tier vs Grade
+
+Gardening mengikuti pemisahan dari `10_ECONOMY_SYSTEM.md`:
+- **Plant Category** = klasifikasi tanaman;
+- **Tier** = tingkat material/item;
+- **Grade** = kualitas;
+- **Quality** = kondisi/atribut kualitas bila canon menyediakannya;
+- **Condition** = keadaan runtime.
+
+Tidak boleh mengubah Ordinary/Spiritual/Demonic menjadi Tier atau Grade secara otomatis.
+
+Contoh: `Tier-1` pada Benih Akar Penenang tetap **Tier 1**, bukan Grade.
+
+### 27.3 Regional Production & Supply
+
+Jika hasil kebun masuk ke pasar, produksi mengikuti rantai:
+
+`Garden Production → Regional Supply → Active Supply → Demand Index → Final Price`
+
+Aturan:
+- hasil kebun tidak otomatis masuk pasar;
+- pemilik/manager garden menentukan penggunaan sesuai canon;
+- output yang dikonsumsi sendiri, disimpan, diberikan, atau diproses tidak dihitung sebagai market supply;
+- hanya unit yang benar-benar ditawarkan untuk pasar yang menjadi `Active Supply`;
+- kapasitas produksi harus berasal dari garden/plant state yang nyata;
+- tidak boleh menciptakan stok tak terbatas;
+- Final Price tetap tunduk pada `10_ECONOMY_SYSTEM.md`;
+- provenance/Item Origin Log tetap wajib.
+
+### 27.4 Gardening Technique Interaction
+
+Technique gardening adalah modifier terpisah dari action gardening.
+
+AI GM wajib memeriksa:
+1. technique benar-benar canon;
+2. character memiliki/mengetahui technique;
+3. target dan kondisi penggunaan terpenuhi;
+4. efek technique relevan dengan action;
+5. efek tidak diperluas melebihi teks canon.
+
+**Qi cultivation ≠ gardening technique.**
+
+Contoh yang sudah tercatat pada lore: **Pemeliharaan Kebun Sadar** dapat diperiksa sebagai technique bila character benar-benar memilikinya. Modul ini tidak menetapkan bonus growth, pengurangan waktu, bonus yield, atau pengurangan Stamina tanpa efek canon yang eksplisit.
+
+### 27.5 Failure Conditions
+
+Failure gardening harus memiliki sebab runtime/lore yang dapat ditelusuri.
+
+Kategori:
+- **Environmental Failure:** lokasi/soil/water tidak kompatibel atau hazard canon aktif;
+- **Maintenance Failure:** kebutuhan canon tidak terpenuhi;
+- **Material Failure:** planting material rusak/tidak valid;
+- **Time/State Failure:** growth belum mencapai state yang diperlukan;
+- **External Failure:** gangguan NPC, creature, event, atau kerusakan eksternal yang benar-benar terjadi.
+
+Failure tidak boleh diputuskan hanya dari rarity, Tier, Grade, harga, atau keinginan GM.
+
+### 27.6 Environmental Hazard Resolution
+
+Hazard lingkungan hanya aktif jika ada basis canon lokasi/event.
+
+Resolution:
+- **NONE:** tidak ada hazard relevan;
+- **PRESENT:** hazard aktif dan dapat memengaruhi target;
+- **MITIGATED:** hazard ada tetapi efeknya dinetralisasi oleh perlindungan canon;
+- **UNKNOWN:** data tidak cukup;
+- **UNRESOLVED:** data saling bertentangan/tidak cukup untuk resolusi.
+
+Hazard tidak boleh dibuat hanya untuk menghukum player. Sebaliknya, ketiadaan hazard juga tidak boleh diasumsikan bila lore jelas menyatakan bahaya.
+
+### 27.7 Runtime Checklist Priority 2
+
+Sebelum resolution gardening:
+- [ ] Time action ≤ 3 jam untuk aksi non-kultivasi?
+- [ ] Stamina Cost berasal dari canon atau ditandai `UNRESOLVED`?
+- [ ] Satiety mengikuti waktu dunia?
+- [ ] Qi Density tidak diberi efek otomatis?
+- [ ] Plant Category ≠ Tier ≠ Grade ≠ Quality ≠ Condition?
+- [ ] Supply pasar hanya menghitung output yang benar-benar ditawarkan?
+- [ ] Technique benar-benar dimiliki dan efeknya canon?
+- [ ] Failure memiliki sebab tervalidasi?
+- [ ] Environmental hazard memiliki basis lore/event?
+- [ ] Tidak ada angka growth/yield/bonus baru yang diciptakan?
+
+---
+
+## 28. Status Modul
+
+**CANONICAL — PRIORITY 1 + PRIORITY 2 INTEGRATION IMPLEMENTED**
+
+Priority 2 sekarang mencakup:
+- stamina/time semantics;
+- Qi Density boundary;
+- Plant Tier vs Grade separation;
+- regional production/supply integration;
+- gardening technique validation;
+- failure conditions;
+- environmental hazard resolution.
+
+Tidak ada spesies, item, resep, harga, yield, bonus, atau angka Stamina baru yang diciptakan.
