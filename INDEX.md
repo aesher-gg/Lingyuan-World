@@ -44,6 +44,7 @@
 | 11 | `11_VITALITY_HUNGER_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/11_VITALITY_HUNGER_SYSTEM.md | Formula HP, status luka, kelaparan |
 | 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
 | 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
+| 38 | `38_GARDENING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/38_GARDENING_SYSTEM.md | Penanaman, maintenance, pertumbuhan, panen, provenance & checkpoint gardening |
 | 14–37 | *(24 file sekte/perguruan/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
 | 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
 | 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
@@ -132,6 +133,7 @@
 | Perlu hitung detail regen HP / efek kelaparan lanjut | `11_VITALITY_HUNGER_SYSTEM.md` | Formula dasarnya sudah ada ringkas di `00` §3 |
 | Pertarungan resmi dimulai (giliran, initiative, damage) | `12_COMBAT_SYSTEM.md` | |
 | Lawan monster/spirit beast liar, perjalanan lewat zona liar (ambush) | `13_BESTIARY.md` | Dipakai bersamaan dengan `12` |
+| Berkebun, menanam, merawat tanaman, mengecek pertumbuhan, atau memanen | `38_GARDENING_SYSTEM.md` | Wajib dipakai bersama `00`, `10`, dan `11` bila kondisi terkait muncul |
 | Karakter mau bergabung sekte/perguruan, eksplorasi fasilitas sekte, belajar teknik bertingkat, atau cek hierarki/artefak sekte tertentu | Fetch langsung dari link RAW di §1a | Jangan rakit URL sendiri. Gunakan link yang sudah tertulis di kolom "Link RAW" tabel §1a. Pilih HANYA satu file yang sesuai dengan sekte yang sedang berinteraksi. |
 | Pemain menyebut sekte yang tidak ada di `14`–`37` | `41_CUSTOM_SECTS.md` | Cek apakah sekte itu sudah dicatat Admin di file kustom |
 | Pemain menyebut/mengklaim teknik yang tidak ada di file resmi | `42_CUSTOM_TECHNIQUES.md` | Cek apakah teknik itu sudah dicatat Admin di file kustom |
@@ -143,24 +145,26 @@
 
 ## 3. Cara Kerja `players.md` & Folder `players/` (Manajemen Save File Karakter oleh Admin)
 
-`players.md` dan file individual di folder `players/` berisi data karakter resmi pemain di core repository. File-file ini **hanya boleh diubah dan diperbarui oleh Admin (pemilik repo)** berdasarkan data Profil Karakter tersimpan yang dikirimkan oleh pemain.
+`players.md` adalah katalog data awal. File individual di folder `players/` menjadi **official player save** yang dikelola Admin. Keduanya hanya boleh diubah oleh Admin berdasarkan checkpoint/profil terakhir yang telah diverifikasi.
 
 > ✅ **Link katalog `players.md` dan file individual di `players/` sudah aktif.** Setiap karakter disimpan dalam file `.md` ringkas terpisah untuk menghindari batas ekstraksi teks AI (seperti limit 300 baris Qwen AI).
 
 **Alur pemakaian & Sesi Baru:**
 1. Pemain cukup menyebutkan nama karakternya (misal: `Inggo`) saat membuka chat/sesi baru.
-2. AI GM akan men-fetch file `players/<Nama_Karakter>.md` dari core repository yang telah diperbarui oleh Admin.
-3. Seluruh data di file karakter tersebut dimuat sebagai titik mulai sesi baru.
-4. Selama sesi berlangsung, perkembangan karakter dilacak di dalam percakapan lewat blok Profil Karakter.
-5. Pemain bebas menyalin Profil Karakter kapan saja dan mengirimkannya ke Admin untuk dimasukkan/diperbarui ke core repo (`players/<Nama_Karakter>.md`).
+2. AI GM men-fetch file `players/<Nama_Karakter>.md` sebagai official save saat sesi baru dimulai.
+3. Seluruh data di file karakter tersebut dimuat sebagai starting state.
+4. Selama sesi berlangsung, runtime state hidup di percakapan melalui blok Profil Karakter dan checkpoint.
+5. Pemain dapat meminta checkpoint; checkpoint dikirim kepada Admin untuk diverifikasi.
+6. Setelah verifikasi, Admin memperbarui official save `players/<Nama_Karakter>.md`.
 
 ---
 
 ## 4. Batasan Penting yang Harus Diketahui Pemain
 
-- **Tidak ada sistem save di dunia ini.** Katalog `players.md` dan folder `players/` murni lembar data AWAL karakter yang statis — bukan file yang mengikuti progres cerita.
-- **Hanya admin (pemilik repo) yang boleh mengubah `players.md` dan folder `players/`.** AI tidak bisa dan tidak akan menulis, memperbarui, atau menyarankan perubahan pada file ini kapan pun, termasuk di akhir sesi.
-- Perkembangan karakter selama roleplay (HP, item, breakthrough, lokasi, dst.) sepenuhnya hidup **di dalam riwayat percakapan** lewat blok "Profil Karakter" — bukan di file manapun di repo.
+- `players.md` adalah katalog data awal; file individual `players/<Nama_Karakter>.md` adalah **official save** yang dikelola Admin.
+- **AI GM/Qwen tidak menulis langsung ke GitHub.** Runtime state tetap berada di sesi sampai dibuat checkpoint.
+- Alur save resmi: **Runtime State → Checkpoint → Admin Verification → Official Player Save**.
+- Hanya Admin yang boleh memperbarui `players.md` dan file `players/` berdasarkan checkpoint yang diverifikasi.
 - **File `39_CUSTOM_EVENTS.md`, `40_CUSTOM_LAWS.md`, dan `41_CUSTOM_SECTS.md` dikelola sepenuhnya oleh Admin.** AI tidak boleh mengedit, menambah, atau menghapus isinya — hanya membaca dan menggunakan data yang sudah ada di dalamnya.
 - Jika sebuah link 404/gagal fetch, itu paling sering karena: nama file salah huruf besar-kecil (GitHub case-sensitive), file belum ter-push ke branch `main`, atau repo tidak publik.
 
