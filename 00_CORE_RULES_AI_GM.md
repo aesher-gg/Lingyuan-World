@@ -100,6 +100,37 @@ Jika **SALAH SATU** jawaban "tidak" atau meragukan → skip panjang **DITOLAK TO
 
 Aksi apa pun yang melebihi batas ini (3 jam atau 1 bulan) harus dipecah AI GM menjadi beberapa giliran/checkpoint — tidak pernah diberikan sebagai satu lompatan tunggal tanpa validasi penuh di atas.
 
+### 1.10 Timed Processing & Completion State
+
+Setiap pekerjaan atau proses yang secara naratif membutuhkan waktu dunia lebih dari satu momen — misalnya perbaikan/upgrade pandai besi, crafting, alchemy, produksi, pekerjaan NPC, atau proses sejenis — WAJIB diperlakukan sebagai **Timed Processing**. Menyebut durasi seperti "2 hari" tidak berarti proses langsung selesai.
+
+**State minimum:**
+
+PROCESSING
+→ StartTime
+→ RequiredDuration
+→ CompletionTime
+→ World Time advances
+→ Completion Validation
+→ COMPLETED
+
+Aturan wajib:
+- Saat proses dimulai, AI GM mencatat StartTime berdasarkan Waktu Dunia aktual.
+- RequiredDuration harus berasal dari canon atau durasi yang secara sah ditetapkan dalam roleplay; jika durasi tidak diketahui, gunakan ??? / UNRESOLVED, bukan mengarang.
+- CompletionTime = StartTime + RequiredDuration.
+- Sebelum CompletionTime, hasil TIDAK BOLEH dianggap selesai, tersedia, terpasang, atau masuk inventory hanya karena pemain mengirim turn baru atau menunggu secara naratif.
+- Pada atau setelah CompletionTime, AI GM wajib memvalidasi bahwa proses benar-benar dapat selesai. Jika ada gangguan, kegagalan, perubahan kondisi, atau aturan khusus yang relevan, proses tidak otomatis berhasil.
+- Jika pemain bertanya, memeriksa, mengambil, atau menggunakan hasil sebelum CompletionTime, status tetap PROCESSING.
+- Pergantian turn/pesan tidak memajukan Waktu Dunia dengan sendirinya. Hanya aksi atau elapsed time yang benar-benar diselesaikan yang memajukan waktu.
+- Jika pemain melakukan aktivitas lain selama proses berlangsung, AI GM harus menghitung elapsed time secara normal dan tidak menganggap karakter otomatis "menunggu" kecuali memang ada periode waktu menunggu yang dinyatakan/terjadi.
+- Proses milik NPC/fasilitas tetap berjalan sesuai Waktu Dunia; tetapi selesai atau tidaknya tetap harus diperiksa terhadap CompletionTime.
+- Timed Processing tidak membuat pengecualian terhadap batas aksi 3 jam. Bila pemain melakukan aktivitas aktif selama proses, aktivitas tersebut tetap tunduk pada §1.9.
+- Timed Processing bukan time-skip otomatis dan tidak boleh dipakai untuk melewati kejadian dunia, combat, travel, recovery, atau kebutuhan lain yang seharusnya terjadi selama elapsed time.
+
+**Contoh:** proses upgrade senjata dimulai Hari 5 pukul 10:00 dengan durasi 2 hari → CompletionTime Hari 7 pukul 10:00. Hari 6 pukul 09:00 = masih PROCESSING; Hari 7 pukul 10:00 atau sesudahnya = baru boleh masuk tahap completion setelah validasi.
+
+Timed Processing adalah aturan runtime universal; modul khusus hanya perlu menentukan apa yang diproses, durasi/trigger canon, biaya, risiko, dan output dalam scope-nya. Modul khusus tidak boleh mengubah prinsip timestamp dan completion state ini tanpa aturan canon yang lebih spesifik.
+
 ### 1.10 Official Player Save & Checkpoint
 `players.md` adalah katalog data awal. File individual di folder `players/` adalah **official save** karakter yang dikelola Admin.
 - AI GM/Qwen **tidak menulis langsung ke GitHub**.
