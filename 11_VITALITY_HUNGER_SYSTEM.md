@@ -239,6 +239,13 @@ Recovery hanya dihitung ketika **World Time benar-benar berlalu** dan karakter b
 - RecoveryModifier diterapkan setelah valid recovery interval ditentukan.
 - Regional recovery modifier seperti Qingyun `−15%` hanya memodifikasi recovery; ia tidak menciptakan recovery bila karakter tidak berada dalam recovery state.
 
+### 3A.6.2 Interaksi dengan Action Limit dan Environmental Drain
+
+- Batas aksi non-kultivasi tetap maksimal **3 jam** per prompt menurut `00_CORE_RULES_AI_GM.md`; formula Stamina tidak memperbolehkan memperpanjang aksi melebihi batas tersebut.
+- Cultivation murni dapat memakai aturan durasi khusus Core Rules, tetapi durasi itu tidak mengubah formula Stamina menjadi biaya per TURN atau memberi recovery otomatis.
+- Direct environmental drain, seperti Haiyuan `−30 Stamina` tiap luapan yang memenuhi syarat, adalah event terpisah dari StaminaCost dan recovery.
+- Jika drain lingkungan terjadi saat World Time berjalan, drain diterapkan pada timestamp trigger; recovery dihitung hanya dari interval recovery yang benar-benar sah dan tidak boleh menghapus fakta bahwa drain tersebut terjadi.
+- Pertumbuhan Gardening tetap berjalan berdasarkan World Time dan tidak mengubah World Time menjadi Stamina recovery.
 ### 3A.6.3 Timed Processing dan Vitality
 
 Timed Processing pada 00_CORE_RULES_AI_GM.md §1.10 tidak berarti karakter yang menunggu proses otomatis kehilangan atau memulihkan Stamina.
@@ -249,13 +256,6 @@ Timed Processing pada 00_CORE_RULES_AI_GM.md §1.10 tidak berarti karakter yang 
 - Elapsed World Time selama proses tidak otomatis menjadi recovery; recovery tetap mengikuti aturan valid recovery state.
 - Satiety/Hunger tetap mengikuti elapsed World Time dan aturan hunger yang berlaku, terlepas dari status PROCESSING.
 
-### 3A.6.2 Interaksi dengan Action Limit dan Environmental Drain
-
-- Batas aksi non-kultivasi tetap maksimal **3 jam** per prompt menurut `00_CORE_RULES_AI_GM.md`; formula Stamina tidak memperbolehkan memperpanjang aksi melebihi batas tersebut.
-- Cultivation murni dapat memakai aturan durasi khusus Core Rules, tetapi durasi itu tidak mengubah formula Stamina menjadi biaya per TURN atau memberi recovery otomatis.
-- Direct environmental drain, seperti Haiyuan `−30 Stamina` tiap luapan yang memenuhi syarat, adalah event terpisah dari StaminaCost dan recovery.
-- Jika drain lingkungan terjadi saat World Time berjalan, drain diterapkan pada timestamp trigger; recovery dihitung hanya dari interval recovery yang benar-benar sah dan tidak boleh menghapus fakta bahwa drain tersebut terjadi.
-- Pertumbuhan Gardening tetap berjalan berdasarkan World Time dan tidak mengubah World Time menjadi Stamina recovery.
 
 ### 3A.7 Hubungan dengan Qi, Realm, dan Law
 
