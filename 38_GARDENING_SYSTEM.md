@@ -468,7 +468,7 @@ Gardening membedakan durasi aksi, waktu dunia, dan biaya Stamina.
 
 - Action Duration = waktu yang dipakai melakukan tindakan gardening.
 - World Time = waktu dunia yang benar-benar berlalu setelah tindakan.
-- Stamina Cost = biaya fisik tindakan bila sistem Vitality menyediakan/menentukan nilainya.
+- Stamina Cost = biaya fisik tindakan yang mengikuti skala universal pada 11_VITALITY_HUNGER_SYSTEM.md §3A.
 - Growth Time = waktu biologis/canon tanaman; bukan hadiah dari maintenance.
 
 Soil Care, Standard Irrigation, Inspection, Planting, dan Harvest adalah aksi dan tetap tunduk pada batas aksi Core Rules.
