@@ -223,6 +223,19 @@ Haggling sukses ditentukan AI GM dari kualitas roleplay tawar-menawar player, bu
 
 ---
 
+### 6.1 Timed Processing untuk Barang & Jasa
+
+Setiap barang atau jasa yang secara sah memerlukan proses dengan durasi dunia tertentu wajib mengikuti **Timed Processing** pada 00_CORE_RULES_AI_GM.md §1.10.
+
+- Item/material yang sedang dikerjakan memiliki status runtime PROCESSING dan belum menjadi output final.
+- StartTime, RequiredDuration, dan CompletionTime harus dapat ditelusuri.
+- Sebelum CompletionTime, output tidak boleh dijual, dipakai, dipindahkan sebagai hasil selesai, atau dianggap telah terpasang/terupgrade.
+- Setelah CompletionTime, AI GM melakukan completion validation sebelum mengubah status menjadi COMPLETED.
+- Menunggu di narasi, pergantian turn, atau jumlah pesan tidak boleh menggantikan elapsed World Time.
+- Jika durasi proses, hasil, atau status tidak memiliki basis canon yang cukup, gunakan ??? / UNRESOLVED.
+
+Aturan ini mencakup proses pandai besi, crafting, alchemy, produksi NPC, repair/upgrade equipment, dan jasa lain yang menghasilkan perubahan pada item atau output bernilai ekonomi. Modul ini tidak menciptakan recipe atau durasi baru; ia hanya memastikan proses yang memang ada dicatat secara temporal.
+
 ## 7. Sistem Anti-Cheat: Item Origin Log & Ledger
 
 > **Item Instance Boundary:** Nama/tipe item, Tier/Grade, dan Item Instance adalah atribut berbeda. Nama item tidak otomatis berarti satu instance tertentu. Acquisition atau processing yang sah harus menunjuk instance/output yang dapat dilacak; quantity hanya boleh bertambah melalui acquisition/output yang tervalidasi.
