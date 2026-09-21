@@ -73,7 +73,67 @@ Jika sumber bahan tanam tidak diketahui atau tidak tercatat, AI GM TIDAK BOLEH m
 
 ---
 
-## 3. Plant Instance
+## 3. Plant Classification & Canon Boundary
+
+Gardening WAJIB membedakan jenis objek flora sebelum membuat Plant Instance. Kategori berikut adalah kategori sistem, bukan daftar spesies baru:
+
+| Classification | Makna Runtime |
+|---|---|
+| Cultivable Plant | Tanaman yang canon memang dapat ditanam/dipelihara melalui Gardening |
+| Wild Plant | Tanaman yang canon tumbuh liar; tidak otomatis dapat dijadikan Plant Instance |
+| Spiritual Plant | Tanaman yang canon memang diklasifikasikan sebagai spiritual |
+| Demonic Plant | Tanaman yang canon memang memiliki sifat/klasifikasi demonic |
+| Plant Creature | Makhluk flora dari Bestiary; tidak otomatis merupakan tanaman budidaya |
+| UNKNOWN / UNRESOLVED | Data canon belum cukup untuk menentukan klasifikasi |
+
+**Aturan pengikat:**
+- Wild Plant dan Cultivable Plant TIDAK BOLEH dianggap identik.
+- Plant Creature TIDAK BOLEH otomatis dipanen, ditanam, atau diperbanyak sebagai tanaman.
+- Spiritual Plant atau Demonic Plant TIDAK otomatis berarti Tier/Grade tinggi.
+- Klasifikasi hanya mengikuti canon yang sudah ada; modul 38 tidak menciptakan spesies baru.
+
+### 3.1 Existing Lore Integration
+
+Gardening wajib membaca lore regional dan fasilitas yang sudah canon sebelum menentukan apakah suatu flora dapat dibudidayakan. Contoh yang harus dipertahankan sebagai data Lore, bukan dibuat ulang oleh modul 38:
+
+- Hutan Lingzhu di Qingyun memiliki zona flora bambu dengan perilaku pertumbuhan/regenerasi yang berbeda; data tersebut harus diperlakukan sebagai aturan flora regional ketika Gardening memang berinteraksi dengan bambu di lokasi tersebut.
+- Pegunungan Huijin di Moyuan memiliki tanah subur tetapi beracun dan canon menyatakan hanya tanaman demonic yang tumbuh di sana. Gardening tidak boleh memperlakukan lokasi tersebut sebagai lahan universal.
+- Fasilitas sekte yang canon memiliki kebun/herbal, termasuk Balai Yunyao dan fasilitas lain yang memang disebut dalam modul sekte/regional, dapat menjadi lokasi Gardening atau sumber produksi hanya sejauh fungsi tersebut benar-benar didukung canon.
+
+Modul 38 tidak boleh mengubah deskripsi Lore menjadi angka produksi, durasi, quantity, harga, atau bonus baru tanpa sumber canon.
+
+## 4. Wild Gathering vs Cultivated Gardening
+
+Pengumpulan tanaman liar dan budidaya adalah dua jalur runtime berbeda.
+
+```
+Wild Plant
+→ Valid Wild Location
+→ Gathering
+→ Resource / Material Instance
+→ Usage / Economy
+```
+
+sedangkan:
+
+```
+Cultivable Plant
+→ Planting Material
+→ Plant Instance
+→ Growth / Maintenance
+→ Harvest
+→ Output Instance
+```
+
+Hasil gathering liar TIDAK otomatis menjadi Plant Instance. Sebaliknya, keberadaan Plant Instance tidak berarti tanaman tersebut tumbuh liar di lokasi itu. Bila canon memang mengizinkan bagian tanaman liar menjadi bahan tanam, acquisition tersebut harus dicatat terlebih dahulu dan divalidasi sebagai planting material.
+
+## 5. Plant Creature vs Cultivable Plant
+
+Objek yang tercatat sebagai Flora/Plant Creature dalam Bestiary diperlakukan sebagai entitas hidup dengan aturan Bestiary. Ia tidak otomatis dapat ditanam sebagai crop, dipanen sebagai item Gardening, dijadikan benih, diperbanyak, atau dipindahkan menjadi Plant Instance.
+
+Semua tindakan tersebut membutuhkan basis canon spesifik untuk entitas tersebut.
+
+## 6. Plant Instance
 
 Saat bahan tanam benar-benar ditanam, AI GM membuat state runtime **Plant Instance**.
 
@@ -96,7 +156,7 @@ Plant Instance adalah objek runtime. Ia tidak boleh muncul kembali hanya karena 
 
 ---
 
-## 4. Penanaman
+## 7. Penanaman
 
 Penanaman WAJIB divalidasi terhadap:
 
@@ -112,7 +172,7 @@ Penanaman tidak sama dengan keberhasilan pertumbuhan.
 
 ---
 
-## 5. Soil Care, Irrigation & Maintenance
+## 8. Soil, Water, Environment & Maintenance
 
 Maintenance standar mencakup:
 
@@ -132,7 +192,7 @@ Pupuk, alat khusus, nutrisi spiritual, metode mutasi, atau efek khusus hanya bol
 
 ---
 
-## 6. Growth Duration
+## 9. Growth Duration
 
 ### 6.1 Ordinary Plant
 
@@ -161,7 +221,7 @@ Tidak boleh mengubah `GROWING` menjadi `MATURE` hanya karena pemain menunggu sat
 
 ---
 
-## 7. Integrasi Waktu & Aksi
+## 10. Integrasi Waktu & Aksi
 
 Gardening mengikuti batas waktu pada `00_CORE_RULES_AI_GM.md` §1.9:
 
@@ -175,7 +235,7 @@ Dengan demikian, "menyiram tanaman" adalah aksi, sedangkan "tanaman telah tumbuh
 
 ---
 
-## 8. Environmental Dependency
+## 11. Environmental Dependency
 
 Pengaruh lingkungan hanya diterapkan jika didukung canon.
 
@@ -194,7 +254,7 @@ AI GM TIDAK BOLEH memberikan bonus atau penalti pertumbuhan hanya karena suatu l
 
 ---
 
-## 9. Harvest Validation
+## 12. Harvest Validation
 
 Panen hanya sah jika:
 
@@ -221,7 +281,7 @@ Jika quantity, grade, atau fungsi output tidak memiliki basis canon, jangan meng
 
 ---
 
-## 10. Economy & Origin
+## 13. Economy & Origin
 
 Output gardening yang bernilai ekonomi tunduk pada `10_ECONOMY_SYSTEM.md`.
 
@@ -237,7 +297,7 @@ Gardening tidak membuat jalur ekonomi baru di luar sistem ekonomi canon.
 
 ---
 
-## 11. History & Provenance
+## 14. History & Provenance
 
 Riwayat minimum harus dapat ditelusuri:
 
@@ -257,7 +317,7 @@ Jika output diproses menjadi item lain, provenance diteruskan ke proses berikutn
 
 ---
 
-## 12. Runtime & Checkpoint
+## 15. Runtime & Checkpoint
 
 Gardening state hidup di runtime selama sesi.
 
@@ -291,7 +351,7 @@ Admin adalah pihak yang memperbarui file karakter resmi di repository setelah ch
 
 ---
 
-## 13. Anti-Exploit
+## 16. Anti-Exploit
 
 AI GM WAJIB menolak:
 
@@ -310,7 +370,55 @@ AI GM WAJIB menolak:
 
 ---
 
-## 14. Canon Boundary
+## 17. Alchemy & Crafting Integration
+
+Gardening hanya menyediakan Output Instance sebagai bahan; ia tidak menciptakan resep.
+
+### 17.1 Alchemy
+
+Jika canon alchemy/sect menyatakan suatu hasil Gardening sebagai bahan resep:
+
+```
+Harvest Output Instance
+→ Valid Alchemy Raw Material
+→ Existing Canon Recipe
+→ Processing
+→ Alchemy Output
+→ Origin / History
+```
+
+Jika tidak ada resep canon yang menyebut material tersebut, AI GM TIDAK BOLEH membuat resep baru. `???` atau `UNRESOLVED` digunakan bila hubungan bahan belum dapat ditentukan.
+
+### 17.2 Crafting
+
+Jika canon crafting/economy menyatakan output Gardening sebagai material:
+
+```
+Harvest Output Instance
+→ Valid Crafting Material
+→ Existing Canon Recipe / Process
+→ Processing
+→ Crafted Output
+→ Origin / History
+```
+
+`ECONOMY_ORACLE.md` adalah sistem bot Discord dan BUKAN sumber crafting/alchemy Gardening RP. Ia tidak boleh digunakan untuk membuat hubungan material, resep, item, harga, atau grade dalam Lingyuan World.
+
+## 18. Seed Propagation & Post-Harvest State
+
+Panen TIDAK otomatis menghasilkan seed. Setiap jenis tanaman harus mengikuti aturan reproduksi/propagasi yang memang tersedia dalam canon.
+
+| Kondisi Canon | Hasil |
+|---|---|
+| Tanaman memang menghasilkan seed/planting material | Output propagation dapat dibuat sesuai canon |
+| Tanaman tumbuh kembali setelah panen | Plant Instance dapat memasuki state recovery/regrowth sesuai canon |
+| Tanaman mati setelah panen | Plant Instance berakhir sesuai aturan canon |
+| Hanya bagian tertentu yang dipanen | Plant Instance tetap ada bila canon mendukung |
+| Data tidak tersedia | `???` / `UNRESOLVED` |
+
+Growth awal, regrowth, regeneration, dan recovery setelah harvest adalah konsep yang berbeda. Durasi masing-masing tidak boleh disamakan kecuali canon memang menyamakannya.
+
+## 19. Canon Boundary
 
 Gardening TIDAK secara otomatis menambahkan:
 
@@ -332,12 +440,13 @@ Jika data tersebut belum ada di World Bible, statusnya adalah `???` atau `UNRESO
 
 ---
 
-## 15. Checklist Validasi AI GM
+## 20. Checklist Validasi AI GM
 
+- [ ] Objek flora sudah diklasifikasikan dengan benar (Cultivable / Wild / Spiritual / Demonic / Plant Creature / UNKNOWN)?
 - [ ] Planting material benar-benar ada?
 - [ ] Source dan acquisition dapat dilacak?
 - [ ] Plant Instance sudah dibuat?
-- [ ] Lokasi penanaman valid?
+- [ ] Lokasi penanaman valid dan kompatibel dengan environmental lore?
 - [ ] Waktu aksi sesuai §1.9 Core Rules?
 - [ ] Growth duration tidak melebihi 7 hari untuk Ordinary Plant?
 - [ ] Growth duration tidak melebihi 15 hari untuk Spiritual Plant?
@@ -345,6 +454,11 @@ Jika data tersebut belum ada di World Bible, statusnya adalah `???` atau `UNRESO
 - [ ] Maintenance tidak dianggap sebagai instant growth?
 - [ ] Harvest hanya dilakukan setelah maturity tervalidasi?
 - [ ] Output memiliki basis canon?
+- [ ] Wild Gathering tidak tercampur dengan Cultivated Gardening?
+- [ ] Plant Creature tidak diperlakukan sebagai crop tanpa canon?
+- [ ] Seed/propagation hanya diberikan bila canon mendukung?
+- [ ] Post-harvest state mengikuti jenis tanaman/canon?
+- [ ] Alchemy/crafting hanya menggunakan recipe/process yang sudah canon?
 - [ ] Tier/Grade tidak dikarang?
 - [ ] Origin/History tetap tersambung?
 - [ ] Checkpoint menggunakan state runtime terakhir?
@@ -354,7 +468,7 @@ Jika salah satu poin gagal, hasil gardening harus ditahan, dikoreksi, atau ditan
 
 ---
 
-## 16. Status Modul
+## 21. Status Modul
 
 **CANONICAL — SYSTEM MODULE**
 
