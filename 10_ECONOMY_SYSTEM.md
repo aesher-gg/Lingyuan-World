@@ -93,7 +93,15 @@ FinalPrice = clamp(hasil di atas, 0,2 × GradeValue, 5,0 × GradeValue)
 ### 3.2 Demand Index (Indeks Permintaan)
 
 ```
+Jika `ActiveSupply = 0`, rumus DemandIndex tidak boleh dihitung karena pembagian dengan nol. Dalam kondisi ini, DemandIndex = `??? / UNRESOLVED` sampai ada ActiveSupply tervalidasi atau aturan pasar khusus yang canon.
+
+Jika `ActiveSupply > 0`, gunakan:
+
+```text
 DemandIndex = clamp(0,5 + (ActiveBuyOrders − ActiveSupply) / ActiveSupply × 0,5, 0,5, 3,0)
+```
+
+`ActiveBuyOrders` dan `ActiveSupply` ditentukan AI GM dari kondisi naratif pasar
 ```
 
 `ActiveBuyOrders` dan `ActiveSupply` ditentukan AI GM dari kondisi naratif pasar (wabah penyakit menaikkan permintaan pil, musim turnamen menaikkan permintaan senjata, dll) — tidak bisa diklaim sepihak oleh player.
@@ -216,6 +224,8 @@ Haggling sukses ditentukan AI GM dari kualitas roleplay tawar-menawar player, bu
 ---
 
 ## 7. Sistem Anti-Cheat: Item Origin Log & Ledger
+
+> **Item Instance Boundary:** Nama/tipe item, Tier/Grade, dan Item Instance adalah atribut berbeda. Nama item tidak otomatis berarti satu instance tertentu. Acquisition atau processing yang sah harus menunjuk instance/output yang dapat dilacak; quantity hanya boleh bertambah melalui acquisition/output yang tervalidasi.
 
 Sama seperti Law Origin Log di sistem kultivasi, tiap barang bernilai (Tier 3+ atau Grade Xuan+) WAJIB punya asal-usul tervalidasi sebelum bisa dijual, ditukar, atau dipakai breakthrough:
 
