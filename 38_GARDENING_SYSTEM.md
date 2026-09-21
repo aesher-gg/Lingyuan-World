@@ -297,6 +297,15 @@ Gardening tidak membuat jalur ekonomi baru di luar sistem ekonomi canon.
 
 ---
 
+### 14.1 Timed Processing pada Output Gardening
+
+Jika Output Instance Gardening menjadi bahan untuk proses lanjutan yang membutuhkan durasi dunia — misalnya proses crafting/alchemy yang memang didukung canon — proses lanjutan tersebut wajib mengikuti Timed Processing pada 00_CORE_RULES_AI_GM.md §1.10.
+
+- Output Gardening tetap menjadi sumber material/provenance selama proses berjalan.
+- Output yang sedang diproses tidak boleh dianggap sebagai hasil final sebelum CompletionTime tercapai dan completion validation dilakukan.
+- Gardening tidak boleh digunakan untuk menyamarkan time-skip proses lanjutan; elapsed World Time tetap menjadi satu-satunya dasar penyelesaian.
+- Jika proses lanjutan tidak memiliki durasi atau formula canon yang cukup, status durasi/hasil = ??? / UNRESOLVED.
+
 ## 14. History & Provenance
 
 Riwayat minimum harus dapat ditelusuri:
