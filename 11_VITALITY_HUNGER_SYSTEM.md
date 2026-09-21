@@ -84,125 +84,120 @@ Tunduk penuh pada `10_ECONOMY_SYSTEM.md` §4.1 (HealingFee) — jumlah HP yang d
 
 ## 3A. Sistem Stamina — Fondasi Universal
 
-### 3A.1 Kapasitas Stamina
+### 3A.1 Hasil Audit Canon
 
-Stamina menggunakan skala universal **0–100** untuk seluruh karakter.
+Audit repository memisahkan state Stamina, efek Stamina yang eksplisit, dan formula yang sebelumnya belum didefinisikan.
+
+Canon yang dapat diverifikasi:
+- Stamina adalah state yang WAJIB dilacak bersama HP, Qi, Satiety, dan kondisi tubuh.
+- Fondasi karakter menggunakan **Stamina 100/100**.
+- Haiyuan memiliki efek lingkungan eksplisit: setiap 6 jam waktu in-game, Arus Pasang Lepas dapat menyebabkan **−30 Stamina per luapan** pada karakter yang tidak terikat jangkatan.
+- Qingyun memiliki Mata Air Bambu Giok yang mempercepat pemulihan stamina raga.
+- Tekanan Awan Embun di Lembah Yuzhu mengurangi **regenerasi Stamina sebesar 15%** bila karakter tidak menggunakan teknik penyesuaian Qi.
+- Repository tidak memiliki formula canon lama yang menetapkan biaya Stamina universal per jenis aksi.
+
+Karena itu, angka kategori **1/3/5/10/15/20** dan recovery **+10/+15/+5 per jam** dari revisi sebelumnya dinyatakan **dibatalkan**. Angka tersebut bukan fondasi canon asli.
+
+### 3A.2 Kapasitas Stamina
+
+Fondasi universal tetap:
 
 ```
 MaxStamina = 100
 CurrentStamina = clamp(CurrentStamina, 0, MaxStamina)
 ```
 
-Realm, Law, Qi, dan teknik **tidak otomatis** mengubah MaxStamina. Kenaikan/penurunan MaxStamina hanya boleh berasal dari aturan canon/Admin yang secara eksplisit mengubah kapasitas fisik.
+**100/100 adalah baseline asli karakter.**
 
-### 3A.2 Kategori Stamina Cost
+Perubahan MaxStamina hanya sah jika ada aturan canon/Admin yang secara eksplisit mengubah kapasitas fisik. Realm, Qi, Law, atau teknik tidak otomatis menaikkan MaxStamina.
 
-Untuk menghindari angka berbeda-beda di setiap modul, semua aktivitas fisik yang menggunakan Stamina memakai kategori universal berikut:
-
-| Kategori | Stamina Cost | Contoh umum |
-|---|---:|---|
-| Very Light | 1 | aktivitas fisik sangat ringan |
-| Light | 3 | aktivitas ringan berulang |
-| Moderate | 5 | pekerjaan fisik normal |
-| Heavy | 10 | pekerjaan fisik berat |
-| Very Heavy | 15 | pengerahan fisik sangat berat |
-| Extreme | 20 | aktivitas ekstrem/berisiko tinggi |
-
-Cost dibayar **per resolusi aksi**, bukan otomatis per jam. Durasi aksi tetap mengikuti Core Rules dan tidak boleh dikonversi menjadi cost hanya dengan perkalian waktu.
-
-### 3A.3 Aturan Pemilihan Cost
-
-AI GM menentukan kategori berdasarkan **beban fisik aktual aksi**, bukan nama aktivitas semata.
-
-- Aktivitas yang tidak memakai tenaga fisik bermakna → Stamina Cost = 0.
-- Aktivitas fisik biasa → Minimal Light/Moderate sesuai beban nyata.
-- Aktivitas yang memerlukan pengerahan besar → Heavy/Very Heavy.
-- Aktivitas ekstrem → Extreme.
-- Jika sebuah teknik/efek canon sudah memiliki Stamina Cost sendiri, angka khusus tersebut mengalahkan kategori umum untuk efek spesifik itu.
-- AI GM **TIDAK BOLEH** menggandakan cost hanya karena aksi berlangsung lebih lama, kecuali modul terkait secara eksplisit menetapkan multi-resolution.
-
-### 3A.4 Ambang Kondisi Stamina
-
-| Current Stamina | Kondisi | Aturan |
-|---:|---|---|
-| 76–100 | Fresh | Tidak ada penalti Stamina |
-| 51–75 | Normal | Tidak ada penalti Stamina |
-| 26–50 | Fatigued | Aksi fisik tetap dapat dilakukan; narasi kelelahan mulai berlaku |
-| 11–25 | Exhausted | Aksi fisik Heavy, Very Heavy, dan Extreme memerlukan validasi tambahan; kegagalan dapat terjadi bila kondisi tubuh tidak mendukung |
-| 1–10 | Critical Fatigue | Aksi fisik Heavy, Very Heavy, dan Extreme **tidak boleh dipaksakan** tanpa dasar canon khusus; karakter membutuhkan pemulihan |
-| 0 | Depleted | Tidak dapat melakukan aksi fisik yang memerlukan Stamina sampai memiliki Stamina kembali |
-
-Ambang di atas mengatur **kemampuan melakukan aktivitas**, bukan penalti otomatis terhadap HP, Qi, Attack, atau Defense. Penalti tersebut hanya berlaku jika modul lain menetapkannya.
-
-### 3A.5 Recovery Stamina
-
-Recovery standar ditetapkan sebagai berikut:
-
-| Kondisi | Recovery |
-|---|---:|
-| Istirahat tenang | +10 Stamina/jam |
-| Tidur normal | +15 Stamina/jam |
-| Aktivitas ringan tanpa beban fisik berarti | +5 Stamina/jam |
-| Combat / pekerjaan fisik berat | Tidak mendapat passive recovery selama aktivitas tersebut |
+### 3A.3 Formula Universal Pengeluaran Stamina
 
 ```
-RecoveredStamina = RecoveryRate × valid elapsed World Time
+StaminaCost = round(MaxStamina × PhysicalLoad × ActionDurationHours / 3, 1)
+```
+
+Dengan batas:
+
+```
+0 ≤ PhysicalLoad ≤ 1
+ActionDurationHours ≤ 3
+StaminaCost ≥ 0
+```
+
+PhysicalLoad adalah beban fisik aktual; ActionDurationHours adalah waktu aksi yang benar-benar dijalankan. Cost tidak boleh dikalikan lagi hanya karena jumlah pesan bertambah.
+
+Kalibrasi formula Admin: pada MaxStamina 100, aksi 3 jam dengan PhysicalLoad 0,10 = 10 Stamina; 0,25 = 25; 0,50 = 50. Ini kalibrasi formula, bukan kategori aktivitas.
+
+Jika teknik, item, Law, atau bahaya canon memiliki Stamina Cost spesifik, cost spesifik tersebut berlaku hanya dalam scope efek tersebut.
+
+### 3A.4 Formula Recovery Universal
+
+```
+BaseStaminaRecoveryPerHour = MaxStamina × 10% = 10 Stamina/jam
+RecoveredStamina = BaseStaminaRecoveryPerHour × ElapsedRecoveryHours × RecoveryModifier
 CurrentStamina = min(MaxStamina, CurrentStamina + RecoveredStamina)
 ```
 
-Recovery hanya dihitung dari **World Time yang benar-benar berlalu**. Tidak ada recovery dari waktu yang tidak terjadi.
+RecoveryModifier default = 1,0. Recovery hanya dihitung dari World Time yang benar-benar berlalu dalam kondisi recovery valid.
 
-Makanan, Qi, meditasi, teknik, pil, lingkungan kaya Qi, atau Healing **tidak otomatis** memulihkan Stamina. Efek khusus hanya berlaku jika ada aturan canon yang secara eksplisit memberikannya.
+Tekanan Awan Embun Qingyun memberi RecoveryModifier 0,85 bila syarat canon terpenuhi. Mata Air Bambu Giok hanya diketahui mempercepat recovery; besaran tambahannya belum canon → `??? / UNRESOLVED`.
+
+### 3A.5 Drain Langsung dari Bahaya / Efek Canon
+
+```
+CurrentStaminaAfterDrain = max(0, CurrentStamina - DirectStaminaDrain)
+```
+
+Direct Drain tidak dicampur dengan action cost. Canon Haiyuan: **−30 Stamina per luapan**, interval 6 jam, bila syarat karakter tidak terikat jangkatan terpenuhi.
 
 ### 3A.6 Hubungan dengan World Time
 
-World Time dan Stamina adalah variabel berbeda.
+- Action Cost memakai durasi aksi yang benar-benar terjadi.
+- Recovery memakai elapsed World Time yang benar-benar berada dalam kondisi recovery.
+- Direct Drain memakai interval/trigger canon.
+- Growth Time tanaman bukan Stamina Cost.
+- Tidak ada recovery/drain hanya karena jumlah TURN/pesan bertambah.
 
-- Stamina Cost dibayar saat aksi berhasil masuk ke resolusi.
-- Recovery dihitung dari waktu dunia yang benar-benar berlalu dalam kondisi recovery yang valid.
-- Growth Time tanaman **bukan** Stamina Cost.
-- Stamina Cost **bukan** Growth Time.
-- Batas aksi non-kultivasi maksimal 3 jam per prompt tetap berlaku sesuai Core Rules.
+### 3A.7 Hubungan dengan Qi, Realm, dan Law
 
-### 3A.7 Hubungan dengan Qi dan Realm
+Qi, Realm, dan Law tidak otomatis memberi bonus/pengurangan Stamina. Efek khusus hanya berlaku bila canon secara eksplisit mendefinisikannya.
 
-Qi, Realm, Law, dan teknik tidak memberikan bonus Stamina otomatis.
+### 3A.8 Kondisi Stamina
 
-Karakter Realm tinggi tetap dapat lelah secara fisik. Sebaliknya, karakter dengan Qi besar tidak boleh menghapus Stamina Cost hanya dengan mengklaim memakai Qi.
+Repository asli tidak memiliki ambang universal yang sah untuk mengubah Stamina menjadi penalti HP, Qi, Attack, atau Defense.
 
-Efek khusus yang benar-benar tertulis dalam teknik, Law, item, atau fasilitas canon dapat memodifikasi aturan ini hanya dalam scope yang ditetapkan.
+- CurrentStamina tetap angka runtime utama.
+- Tidak ada penalti persentase otomatis hanya karena Stamina rendah.
+- CurrentStamina = 0 berarti tidak ada cadangan Stamina untuk biaya aksi fisik berikutnya; kemungkinan aksi ditentukan dari kondisi dan canon, bukan penalti baru.
 
-### 3A.8 Integrasi Gardening
+### 3A.9 Adaptasi Universal untuk Gardening
 
-Gardening menggunakan kategori universal Stamina berikut:
+Gardening tidak memiliki skala Stamina sendiri.
 
-| Gardening Action | Stamina Cost |
-|---|---:|
-| Inspection | 1 |
-| Standard Irrigation | 3 |
-| Soil Care | 5 |
-| Planting | 5 |
-| Harvest | 5 |
-| Special Maintenance | Ditentukan dari beban fisik aktual: 3 / 5 / 10 / 15 / 20 |
+```
+StaminaCostGardening = round(100 × GardeningPhysicalLoad × GardeningActionDurationHours / 3, 1)
+```
 
-Nilai di atas adalah **biaya aksi fisik**, bukan durasi pertumbuhan.
+GardeningPhysicalLoad adalah PhysicalLoad universal pada §3A.3.
 
-Jika special maintenance memiliki mekanik canon tersendiri, cost spesifiknya mengikuti mekanik tersebut. Jika tidak, gunakan kategori universal berdasarkan beban fisiknya.
+Inspection, Standard Irrigation, Soil Care, Planting, Harvest, dan Special Maintenance memakai formula yang sama. Tidak ada lagi cost Gardening tetap 1/3/5/10/15/20.
 
-### 3A.9 Integrasi Aktivitas Lain
+Pertumbuhan tanaman tetap mengikuti Growth Duration dan World Time; Stamina hanya berkurang dari tindakan fisik yang benar-benar dilakukan.
 
-Modul lain yang membutuhkan Stamina **WAJIB** menggunakan kategori universal di §3A atau menetapkan cost khusus yang jelas untuk mekanik spesifiknya. Modul turunan tidak boleh menciptakan skala Stamina yang berbeda tanpa keputusan Admin.
+### 3A.10 Checklist Audit Stamina
 
-### 3A.10 Checklist Anti-Cheat Stamina
-
-- [ ] CurrentStamina selalu berada pada 0–100?
-- [ ] Cost menggunakan kategori universal atau cost khusus yang tervalidasi?
-- [ ] Cost tidak dikalikan otomatis berdasarkan durasi?
-- [ ] Recovery hanya memakai World Time yang benar-benar berlalu?
-- [ ] Recovery tidak diberikan otomatis dari Qi/Realm/makanan/meditasi?
-- [ ] Ambang kelelahan tidak diam-diam menjadi penalti HP/Qi/Attack/Defense?
-- [ ] Gardening memakai cost universal yang sama?
-- [ ] Modul baru tidak membuat skala Stamina kedua?
+- [ ] MaxStamina baseline = 100?
+- [ ] Cost memakai PhysicalLoad × Duration, bukan kategori 1/3/5/10/15/20?
+- [ ] Recovery memakai baseline 10% MaxStamina/jam dan World Time nyata?
+- [ ] Modifier canon diterapkan sebagai modifier?
+- [ ] Direct environmental drain dicatat terpisah?
+- [ ] Haiyuan −30 per luapan tetap?
+- [ ] Qingyun −15% recovery tetap?
+- [ ] Mata Air Bambu Giok tidak diberi angka tambahan tanpa canon?
+- [ ] Gardening memakai formula universal yang sama?
+- [ ] Growth Time tidak dicampur dengan Stamina Cost?
+- [ ] Tidak ada penalti HP/Qi/Attack/Defense otomatis tanpa canon?
 
 ## 4. Checklist Anti-Cheat HP
 
