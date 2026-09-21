@@ -15,7 +15,7 @@
    - Kreasi pemain yang disetujui Admin setelah melalui proses roleplay yang wajar.
 3. Teknik yang sudah dicatat di sini dianggap **RESMI** dan eksis di dunia.
 4. AI GM WAJIB menggunakan data di sini saat pemain menggunakan teknik tersebut.
-5. Jika ada konflik dengan teknik di file resmi (`09_CULTIVATION_LAW_SYSTEM.md` atau file sekte), maka **Teknik di file ini (Custom) yang menang (override)** untuk teknik spesifik tersebut.
+5. Jika ada konflik dengan teknik di file resmi (`09_CULTIVATION_LAW_SYSTEM.md` atau file sekte), data Custom hanya meng-override **scope teknik spesifik yang secara eksplisit didefinisikan** di file ini; tidak otomatis meng-override aturan global seperti waktu, ekonomi, Vitality, provenance, atau batas Gardening.
 
 ---
 
