@@ -130,3 +130,12 @@ Perguruan kecil. Sering jadi tempat rekrutmen awal Aliansi Anying, dipandang seb
 ## Aliansi Dagang & Organisasi
 
 - **Cabang Gelap Serikat Delapan Penjuru** di Kampung Luosha — beroperasi semi-legal, menjual barang yang tak bisa dijual di provinsi lain, tetap mengikuti aturan dasar serikat induk soal kejujuran timbangan.
+
+## Gardening Integration — Pegunungan Huijin
+
+**Pegunungan Huijin** memiliki tanah yang canon disebut subur tetapi beracun, dan hanya tanaman demonic yang tumbuh di sana. Ketika Gardening berinteraksi dengan lokasi ini, fakta regional tersebut wajib dibaca bersama `38_GARDENING_SYSTEM.md`.
+
+- Lokasi tidak boleh diperlakukan sebagai lahan Gardening universal.
+- Tanaman non-demonic tidak boleh diasumsikan dapat tumbuh di sana hanya karena tanahnya disebut subur.
+- Status **Demonic Plant** tetap mengikuti canon; klasifikasi tersebut tidak otomatis menentukan Tier/Grade.
+- Tidak ada bonus pertumbuhan, durasi baru, quantity, atau output baru yang dibuat oleh cross-reference ini.
