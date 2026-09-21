@@ -15,8 +15,8 @@ Repo ini diorganisasikan secara modular ke dalam file `.md` yang saling terhubun
 | # | File | Isi | Wajib / Situasional |
 |---|---|---|---|
 | 🧭 | [`INDEX.md`](./INDEX.md) | **Hub navigasi tunggal** — seluruh link + logika kapan fetch modul apa | ✅ **Inilah yang ditempel ke AI, bukan link lain** |
-| 📇 | [`players.md`](./players.md) | Katalog **data awal** karakter & link file di `players/` — admin-only, read-only bagi AI, BUKAN save system | Difetch otomatis lewat `INDEX.md` HANYA saat karakter dimainkan pertama kali |
-| 👤 | [`players/`](./players/) | Folder berisi 17 file `.md` data awal karakter individual | Difetch spesifik sesuai nama karakter saat pertama kali dimainkan |
+| 📇 | [`players.md`](./players.md) | Katalog **data awal** karakter; file `players/` adalah official save — admin-only, read-only bagi AI | Difetch otomatis lewat `INDEX.md` HANYA saat karakter dimainkan pertama kali |
+| 👤 | [`players/`](./players/) | Folder berisi file `.md` official save karakter individual | Difetch spesifik sesuai nama karakter saat pertama kali dimainkan |
 | — | [`README.md`](./README.md) | Peta navigasi & dokumentasi ini | Referensi manusia (tidak perlu ditautkan ke AI) |
 | 00 | [`00_CORE_RULES_AI_GM.md`](./00_CORE_RULES_AI_GM.md) | Aturan mutlak AI GM, anti-cheat, format respon wajib, cheat-sheet formula inti | ✅ **WAJIB tiap sesi** (difetch otomatis lewat `INDEX.md`) |
 | 01 | [`01_WORLD_OVERVIEW_AND_CAPITAL.md`](./01_WORLD_OVERVIEW_AND_CAPITAL.md) | Peta jarak dunia, Ibu Kota Tianjing & Kekaisaran | Situasional (konteks besar / karakter di ibu kota) |
