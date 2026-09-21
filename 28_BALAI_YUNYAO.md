@@ -68,3 +68,12 @@ Xue Fang belakangan memusatkan riset pada penyakit yang belum pernah tercatat se
 
 ## Cara Bergabung (untuk Karakter Pemain)
 Terbuka bagi siapa saja yang menunjukkan minat & ketelitian pada pengobatan — cocok untuk karakter yang ingin jalur non-kombatan atau hybrid (support + combat lewat Law Origin tambahan).
+
+## Gardening Integration — Kebun Obat Luas
+
+**Kebun Obat Luas** adalah fasilitas canon Balai Yunyao dan dapat diperlakukan sebagai lokasi Gardening ketika karakter atau NPC benar-benar berinteraksi dengannya. Modul `38_GARDENING_SYSTEM.md` menjadi aturan runtime Gardening yang digunakan bersama data fasilitas ini.
+
+- Fungsi canon fasilitas: sumber bahan mentah utama dan tugas rutin anggota.
+- Nama tanaman, bahan tanam, durasi, quantity, kualitas, Tier/Grade, dan hasil panen tetap harus berasal dari canon yang relevan; keberadaan kebun saja tidak menciptakan data tersebut.
+- Jika hasil panen digunakan untuk alchemy, hubungan ke resep tetap harus berasal dari resep canon yang tersedia.
+- Kebun ini tidak menjadi sumber otomatis untuk inventory pemain tanpa acquisition atau transfer yang tervalidasi.
