@@ -270,6 +270,21 @@ Jika salah satu poin gagal → transaksi DITOLAK, AI GM memberi alasan spesifik 
 - **Kota Jinsha / Konsorsium Kafilah Jinsha** — barang impor lintas gurun kena markup tambahan ×1,3 di atas RegionScarcity normal.
 - **Reruntuhan Gushatta / Menara Bintang Jatuh** — barang antik/artefak kuno pakai lelang naratif, minimum RegionScarcity ×5,0.
 
+
+### 9.4 Regional Supply dari Gardening
+
+Hasil Gardening hanya menjadi bagian dari ActiveSupply jika Output Instance benar-benar dialokasikan ke pasar melalui tindakan/transaksi yang sah.
+
+Gardening supply flow:
+
+Harvested Output Instance → Allocation / Sale → Regional Supply → ActiveSupply → DemandIndex → FinalPrice
+
+- Kebun yang ada tetapi belum menghasilkan panen tidak menambah supply.
+- Panen yang disimpan untuk konsumsi internal, riset, alchemy, crafting, hadiah, atau inventory tidak otomatis dihitung sebagai ActiveSupply.
+- Stok NPC/sekte tidak boleh dianggap tak terbatas hanya karena fasilitas produksi mereka besar atau terkenal.
+- Jika kapasitas produksi atau volume output regional belum memiliki basis canon/runtime, nilainya tidak boleh diarang dan harus diperlakukan sebagai `???` / `UNRESOLVED`.
+- Gardening tidak membuat formula harga baru; setelah output sah masuk pasar, harga tetap memakai `FinalPrice` pada §3.
+
 ### 9.3 Sumber Barang Tier Tinggi
 
 Barang Tier 7+ hanya bisa didapat lewat quest/reruntuhan/warisan sekte di lokasi spesifik (Hellfire Island, Reruntuhan Gushatta, Menara Bintang Jatuh, dsb) — tidak muncul di toko biasa manapun.
