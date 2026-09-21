@@ -2,7 +2,7 @@
 
 > **Modul:** 10 — Economy System
 > **Prinsip:** Anti-Cheat Enforced — Supply-Demand Driven — Terintegrasi dengan Sistem Hukum Kultivasi & World Document
-> **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (Tier material breakthrough), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak antar wilayah untuk Region Scarcity), file regional `02`–`07` (kekayaan per wilayah)
+> **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (Tier material breakthrough), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak antar wilayah untuk Region Scarcity), `38_GARDENING_SYSTEM.md` (Output Instance & provenance hasil Gardening), file regional `02`–`07` (kekayaan per wilayah)
 
 ---
 
