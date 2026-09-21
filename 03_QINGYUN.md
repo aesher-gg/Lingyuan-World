@@ -268,3 +268,13 @@ Perguruan kecil pemahat. Dipandang sebelah mata oleh sekte besar, tapi sering "b
 ## Aliansi Dagang & Organisasi
 
 - Cabang kecil **Rumah Gadai Hanbi** (lihat `08_CROSS_REGION_ORGANIZATIONS.md`) di Kampung Shiyin — melayani kultivator miskin yang butuh dana mendadak, bunga pinjaman lebih rendah dari cabang kota besar sebagai bentuk kepercayaan lokal.
+
+## Gardening Integration — Existing Lore
+
+Jika Gardening berinteraksi dengan **Hutan Lingzhu**, aturan flora regional pada bagian Hutan Lingzhu menjadi sumber canon yang wajib dipakai bersama `38_GARDENING_SYSTEM.md`.
+
+- Bambu yang tumbuh liar tetap diperlakukan sebagai **Wild Plant** kecuali canon secara spesifik membuktikan bahwa material tersebut dapat menjadi planting material.
+- Regenerasi bambu yang canon terjadi dalam hitungan jam adalah **aturan flora regional**, bukan pengecualian umum terhadap batas pertumbuhan Gardening.
+- Gardening tidak boleh menggeneralisasi regenerasi tersebut kepada tanaman lain.
+- Pengambilan material dari Hutan Lingzhu mengikuti alur **Wild Gathering** kecuali ada basis canon untuk budidaya.
+- Tidak ada quantity, grade, durasi budidaya, atau output baru yang dibuat oleh cross-reference ini.
