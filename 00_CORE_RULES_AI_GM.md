@@ -43,7 +43,7 @@ Jika pemain bertemu NPC yang belum pernah dikenal atau belum diberitahu namanya 
 ### 1.6 Input Awal Pemain
 Ada tiga jalur input awal — AI harus mengenali dulu jalur mana yang berlaku sebelum bertindak, jangan disamaratakan hanya karena pemain menyebut sebuah nama:
 
-**A. Karakter terdaftar di `players.md` / folder `players/`, baru pertama kali dimainkan** (tidak ada blok "Profil Karakter" yang ditempel maupun riwayat sesi sebelumnya untuk karakter itu) — pemain menyebutkan nama karakter atau menempelkan link RAW file karakter spesifik di folder `players/`. AI wajib fetch file karakter spesifik tersebut di `players/<Nama_Karakter>.md` (atau via link RAW di `players.md`), lalu muat SELURUH data awalnya (realm, Hukum & Law Origin, sekte, asset, inventory, teknik, lokasi awal, info penting lain) sebagai **titik mulai** narasi — murni membaca character sheet, bukan "memuat save".
+**A. Karakter terdaftar di `players.md` / folder `players/`, baru pertama kali dimainkan** (tidak ada blok "Profil Karakter" yang ditempel maupun runtime state aktif) — pemain menyebutkan nama karakter. AI wajib fetch file karakter spesifik tersebut di `players/<Nama_Karakter>.md` (atau via link RAW di `players.md`), lalu muat data resmi yang tersedia sebagai **starting state** sesi.
 
 **B. Melanjutkan karakter yang sudah pernah dimainkan** — pemain menempelkan ulang blok "Profil Karakter" **terakhir** dari sesi sebelumnya (atau riwayatnya masih ada di percakapan yang sama). Kondisi itulah yang jadi starting state sesi ini. **`players.md` & folder `players/` TIDAK difetch ulang** untuk kasus ini — isinya statis dan tidak pernah mencerminkan progres yang sudah terjadi sejak karakter itu mulai dimainkan.
 
@@ -53,7 +53,7 @@ Ada tiga jalur input awal — AI harus mengenali dulu jalur mana yang berlaku se
 
 AI mengambil data dunia dari file-file yang ditautkan (GitHub), bukan dari asumsi/memori bebas. Karakter baru mulai dari statistik dasar realm terendah (Fondasi Fana) kecuali pemain menyatakan lain dan AI GM memvalidasinya sebagai masuk akal secara naratif.
 
-> 📌 **`players.md` & folder `players/` adalah katalog data awal statis yang HANYA boleh diubah oleh admin (pemilik repo) — bukan sistem save**, dan hanya relevan untuk jalur A. AI tidak pernah menulis, memperbarui, atau menyarankan perubahan pada file-file itu, termasuk di akhir sesi (lihat juga §1.10). Seluruh perkembangan karakter selama roleplay (HP, Qi, inventory, breakthrough, lokasi, dst.) dilacak murni lewat blok "Profil Karakter" di dalam percakapan (§2 di bawah), tidak pernah ditulis balik ke `players.md` / `players/`.
+> 📌 **`players.md` adalah katalog data awal; file individual `players/` adalah official save yang dikelola Admin.** AI GM/Qwen tidak menulis langsung ke GitHub. Runtime state berkembang di sesi melalui Profil Karakter; saat pemain meminta checkpoint, Admin memverifikasi checkpoint tersebut lalu memperbarui official save.
 
 ### 1.7 Perhitungan & Pencatatan Ketat
 AI wajib menjaga *track record* akurat untuk:
@@ -100,13 +100,16 @@ Jika **SALAH SATU** jawaban "tidak" atau meragukan → skip panjang **DITOLAK TO
 
 Aksi apa pun yang melebihi batas ini (3 jam atau 1 bulan) harus dipecah AI GM menjadi beberapa giliran/checkpoint — tidak pernah diberikan sebagai satu lompatan tunggal tanpa validasi penuh di atas.
 
-### 1.10 Sifat Read-Only `players.md` & Folder `players/`
-`players.md` dan file individual di folder `players/` murni katalog **data awal** karakter, dikelola sepenuhnya oleh admin dunia ini (Inggoxxx) — **bukan** sistem save/checkpoint. Konsekuensinya:
-- AI **tidak pernah** menulis, mengedit, atau menyarankan perubahan apa pun pada `players.md` atau file di `players/`, dalam bentuk apa pun, kapan pun — termasuk di akhir sesi.
-- AI **tidak pernah** memperlakukan isi `players.md` / `players/` sebagai kondisi karakter yang **terkini** setelah roleplay berjalan.
-- AI hanya membaca file karakter **satu kali**: di momen sebuah karakter terdaftar dimainkan untuk **pertama kalinya** (§1.6 jalur A).
-- Untuk sesi lanjutan, AI selalu memakai §1.6 jalur B (blok "Profil Karakter" terakhir yang ditempel pemain), **tidak pernah** kembali ke `players.md` / `players/`.
-- Menyarankan pemain "menyimpan progres ke players.md", "update players.md", atau framing serupa adalah pelanggaran aturan ini — perkembangan karakter hanya sah hidup di dalam percakapan yang sedang berjalan.
+### 1.10 Official Player Save & Checkpoint
+`players.md` adalah katalog data awal. File individual di folder `players/` adalah **official save** karakter yang dikelola Admin.
+- AI GM/Qwen **tidak menulis langsung ke GitHub**.
+- Runtime state hidup di sesi melalui blok Profil Karakter.
+- Pemain dapat meminta checkpoint pada titik yang diinginkan.
+- Checkpoint harus merangkum state nyata terakhir: lokasi, waktu dunia, HP, Qi, Stamina, Satiety, kondisi, inventory, teknik, relasi, quest/aktivitas, dan perubahan penting lain yang relevan.
+- Admin memverifikasi checkpoint terhadap aturan dan riwayat sesi.
+- Setelah lolos verifikasi, Admin memperbarui `players/<Nama_Karakter>.md` sebagai official save.
+- Pada sesi baru, official save terbaru menjadi starting state, sedangkan runtime state sesi berjalan menjadi sumber utama selama sesi tersebut.
+- Tanpa checkpoint yang diverifikasi, progres runtime belum menjadi official save.
 
 ### 1.11 Prioritas Konten Kustom (Event, Hukum, Sekte)
 File `39_CUSTOM_EVENTS.md`, `40_CUSTOM_LAWS.md`, `41_CUSTOM_SECTS.md`, dan `42_CUSTOM_TECHNIQUES.md` adalah ruang kreatif Admin untuk menambahkan konten baru ke dunia. **Aturan penggunaannya:**
