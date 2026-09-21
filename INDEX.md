@@ -51,6 +51,7 @@
 | 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/41_CUSTOM_SECTS.md | **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 43 | `43_SHARED_WORLD_RUNTIME.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/43_SHARED_WORLD_RUNTIME.md | Kontrak shared runtime, multiplayer encounter, event ordering, conflict resolution & checkpoint authority |
 | — | `README.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
 
 ### 1a. Direktori Sekte, Perguruan & Organisasi (24 File Individual)
@@ -134,7 +135,8 @@
 | Perlu hitung detail regen HP / efek kelaparan lanjut | `11_VITALITY_HUNGER_SYSTEM.md` | Formula dasarnya sudah ada ringkas di `00` §3 |
 | Pertarungan resmi dimulai (giliran, initiative, damage) | `12_COMBAT_SYSTEM.md` | |
 | Lawan monster/spirit beast liar, perjalanan lewat zona liar (ambush) | `13_BESTIARY.md` | Dipakai bersamaan dengan `12` |
-| Berkebun, menanam, merawat tanaman, mengecek pertumbuhan, atau memanen | `38_GARDENING_SYSTEM.md` | Wajib dipakai bersama `00`, `10`, dan `11` bila kondisi terkait muncul |
+| Berkebun, menanam, merawat tanaman, mengecek pertumbuhan, atau memanen | `38_GARDENING_SYSTEM.md` + `38_GARDENING_REGISTRY.md` | Wajib dipakai bersama `00`, `10`, dan `11` bila kondisi terkait muncul |
+| Interaksi lintas-player/lintas-chat, shared object, transfer, encounter, conflict state | `43_SHARED_WORLD_RUNTIME.md` | Gunakan hanya sebagai adjudication contract; jangan mengklaim live synchronization bila authoritative runtime belum tersedia |
 | Karakter mau bergabung sekte/perguruan, eksplorasi fasilitas sekte, belajar teknik bertingkat, atau cek hierarki/artefak sekte tertentu | Fetch langsung dari link RAW di §1a | Jangan rakit URL sendiri. Gunakan link yang sudah tertulis di kolom "Link RAW" tabel §1a. Pilih HANYA satu file yang sesuai dengan sekte yang sedang berinteraksi. |
 | Pemain menyebut sekte yang tidak ada di `14`–`37` | `41_CUSTOM_SECTS.md` | Cek apakah sekte itu sudah dicatat Admin di file kustom |
 | Pemain menyebut/mengklaim teknik yang tidak ada di file resmi | `42_CUSTOM_TECHNIQUES.md` | Cek apakah teknik itu sudah dicatat Admin di file kustom |
