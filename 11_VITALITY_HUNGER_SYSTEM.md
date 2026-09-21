@@ -239,6 +239,16 @@ Recovery hanya dihitung ketika **World Time benar-benar berlalu** dan karakter b
 - RecoveryModifier diterapkan setelah valid recovery interval ditentukan.
 - Regional recovery modifier seperti Qingyun `−15%` hanya memodifikasi recovery; ia tidak menciptakan recovery bila karakter tidak berada dalam recovery state.
 
+### 3A.6.3 Timed Processing dan Vitality
+
+Timed Processing pada 00_CORE_RULES_AI_GM.md §1.10 tidak berarti karakter yang menunggu proses otomatis kehilangan atau memulihkan Stamina.
+
+- Stamina cost hanya diterapkan pada aktivitas fisik yang benar-benar dilakukan karakter.
+- Memulai proses lalu menunggu hasil tidak otomatis memberi Stamina cost tambahan per jam.
+- Jika karakter tetap bekerja, menjaga tungku, mengawasi proses, bepergian, bertarung, atau melakukan aktivitas fisik lain selama proses, aktivitas tersebut dinilai dan dicatat terpisah sesuai aturan Stamina dan Action Limit.
+- Elapsed World Time selama proses tidak otomatis menjadi recovery; recovery tetap mengikuti aturan valid recovery state.
+- Satiety/Hunger tetap mengikuti elapsed World Time dan aturan hunger yang berlaku, terlepas dari status PROCESSING.
+
 ### 3A.6.2 Interaksi dengan Action Limit dan Environmental Drain
 
 - Batas aksi non-kultivasi tetap maksimal **3 jam** per prompt menurut `00_CORE_RULES_AI_GM.md`; formula Stamina tidak memperbolehkan memperpanjang aksi melebihi batas tersebut.
