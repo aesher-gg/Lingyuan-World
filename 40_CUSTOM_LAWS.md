@@ -15,7 +15,7 @@
    - Kreasi pemain yang disetujui Admin.
 3. Hukum yang sudah dicatat di sini dianggap **RESMI** dan berlaku di dunia.
 4. AI GM WAJIB menggunakan data di sini saat berinteraksi dengan Hukum tersebut.
-5. Jika ada konflik dengan Hukum di `09_CULTIVATION_LAW_SYSTEM.md`, maka **Hukum di file ini (Custom) yang menang (override)** untuk Hukum spesifik tersebut.
+5. Jika ada konflik dengan Hukum di `09_CULTIVATION_LAW_SYSTEM.md`, data Custom hanya meng-override **scope Hukum spesifik yang secara eksplisit didefinisikan** di file ini; tidak otomatis meng-override aturan global seperti waktu, ekonomi, Vitality, provenance, atau batas Gardening.
 
 ---
 
