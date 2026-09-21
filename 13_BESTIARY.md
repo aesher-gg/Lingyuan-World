@@ -23,7 +23,9 @@
 | Jarang (Rare) — organ/inti spiritual | 20–40% | Inti elemen, kelenjar racun, sisik langka |
 | Legendaris (hanya monster Ancient Guardian/boss) | 5–15%, atau 100% sekali seumur (unique kill pertama) | Pusaka/bahan Tier 7+, artefak bernama |
 
-Semua loot mengikuti Tier & Grade Sistem Ekonomi (`10_ECONOMY_SYSTEM.md` §2) sesuai Tier monster tersebut, dan **WAJIB dicatat di Item Origin Log** sebelum bisa dijual/dipakai breakthrough (`10_ECONOMY_SYSTEM.md` §7).
+Loot hanya memperoleh Tier/Grade yang **secara eksplisit ditetapkan oleh tabel loot atau canon item yang dirujuk**. Tier monster tidak otomatis menentukan Grade item, dan tidak boleh digunakan untuk mengarang Grade. Jika loot memiliki Tier tetapi Grade belum ditetapkan, Grade = `??? / UNRESOLVED` sampai ada canon yang valid.
+
+Setelah loot benar-benar diperoleh, hasilnya diperlakukan sebagai **Loot/Item Instance** yang memiliki sumber monster, lokasi, waktu acquisition, metode pengambilan, dan quantity yang tervalidasi. Instance tersebut wajib dapat ditelusuri ke Item Origin Log sebelum dijual, ditukar, dipakai, atau menjadi input processing/breakthrough (`10_ECONOMY_SYSTEM.md` §7).
 
 ---
 
