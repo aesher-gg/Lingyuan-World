@@ -225,6 +225,7 @@ Sama seperti Law Origin Log di sistem kultivasi, tiap barang bernilai (Tier 3+ a
 | 2. Hadiah Quest | Diberikan GM sebagai hasil quest naratif, dicatat sumber & alasannya |
 | 3. Loot Pertarungan | Hasil sah dari pertarungan yang benar-benar terjadi di roleplay |
 | 4. Hasil Crafting | Dibuat dari bahan yang sudah tercatat asal-usulnya |
+| 5. Hasil Gardening | Berasal dari Output Instance hasil panen Plant Instance yang provenance-nya tervalidasi |
 
 **Aturan Pengikat:**
 - Barang tanpa Item Origin Log tidak bisa dijual, ditukar, atau dipakai bahan breakthrough — otomatis DITOLAK.
