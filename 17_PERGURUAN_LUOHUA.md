@@ -51,3 +51,11 @@ Rumor soal alumnus legendaris perguruan ini tak pernah benar-benar mati — sese
 
 ## Cara Bergabung (untuk Karakter Pemain)
 Sangat terbuka — Li Xingchun menerima siapa pun dari Desa Qingmu (atau pendatang) yang menunjukkan niat tulus belajar, tanpa tes formal berat. Cocok sebagai titik mulai karakter baru yang sederhana (lihat `players.md` untuk contoh Jiang Ziling, murid perguruan ini).
+
+## Gardening Integration — Kebun Aprikot
+
+**Kebun aprikot kecil** merupakan fasilitas canon Perguruan Luohua dan dipelihara bersama sebagai kegiatan harian murid. Jika aktivitas tersebut dimainkan sebagai Gardening, `38_GARDENING_SYSTEM.md` menjadi aturan runtime.
+
+- Deskripsi fasilitas tidak otomatis menetapkan varietas, planting material, durasi pertumbuhan, quantity, kualitas, Tier/Grade, atau hasil panen.
+- Aktivitas harian murid tidak boleh dianggap sebagai bukti bahwa tanaman selalu berhasil tumbuh atau menghasilkan panen tertentu.
+- Setiap Plant Instance dan hasil panen tetap harus memiliki sumber, waktu, kondisi, dan provenance yang dapat dilacak.
