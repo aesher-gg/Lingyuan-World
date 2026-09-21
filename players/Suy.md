@@ -1,6 +1,6 @@
 # 👤 Suy
 
-> **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
+> **Data Karakter / Official Save** — Dikelola Admin; diperbarui hanya dari checkpoint yang telah diverifikasi.
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_TIANZHOU.md`
 
 ---
