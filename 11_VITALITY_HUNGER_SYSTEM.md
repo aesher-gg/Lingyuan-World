@@ -227,6 +227,26 @@ Direct Drain tidak dicampur dengan action cost. Canon Haiyuan: **−30 Stamina p
 - Growth Time tanaman bukan Stamina Cost.
 - Tidak ada recovery/drain hanya karena jumlah TURN/pesan bertambah.
 
+### 3A.6.1 Valid Recovery State — Anti-TURN
+
+Recovery hanya dihitung ketika **World Time benar-benar berlalu** dan karakter berada dalam kondisi yang valid untuk pemulihan stamina. Valid recovery state minimal mencakup istirahat atau tidur yang benar-benar terjadi; keadaan lain hanya valid bila canon/runtime secara eksplisit menyatakan tubuh sedang memulihkan diri.
+
+- Jumlah TURN/pesan **tidak pernah** menjadi satuan recovery.
+- Menyelesaikan satu aksi tidak otomatis memulihkan Stamina pada akhir TURN.
+- Active physical work menghentikan klaim recovery untuk durasi aksi tersebut.
+- Active combat, perjalanan fisik, maintenance, atau aktivitas lain yang benar-benar menggunakan tenaga tidak dihitung sebagai recovery hanya karena waktunya berlalu.
+- Cultivation time adalah **World Time**, tetapi cultivation tidak otomatis berarti recovery Stamina. Jika karakter berkultivasi secara aktif, recovery Stamina hanya boleh dihitung bila kondisi runtime/canon memang menunjukkan tubuh berada dalam keadaan recovery yang sah.
+- RecoveryModifier diterapkan setelah valid recovery interval ditentukan.
+- Regional recovery modifier seperti Qingyun `−15%` hanya memodifikasi recovery; ia tidak menciptakan recovery bila karakter tidak berada dalam recovery state.
+
+### 3A.6.2 Interaksi dengan Action Limit dan Environmental Drain
+
+- Batas aksi non-kultivasi tetap maksimal **3 jam** per prompt menurut `00_CORE_RULES_AI_GM.md`; formula Stamina tidak memperbolehkan memperpanjang aksi melebihi batas tersebut.
+- Cultivation murni dapat memakai aturan durasi khusus Core Rules, tetapi durasi itu tidak mengubah formula Stamina menjadi biaya per TURN atau memberi recovery otomatis.
+- Direct environmental drain, seperti Haiyuan `−30 Stamina` tiap luapan yang memenuhi syarat, adalah event terpisah dari StaminaCost dan recovery.
+- Jika drain lingkungan terjadi saat World Time berjalan, drain diterapkan pada timestamp trigger; recovery dihitung hanya dari interval recovery yang benar-benar sah dan tidak boleh menghapus fakta bahwa drain tersebut terjadi.
+- Pertumbuhan Gardening tetap berjalan berdasarkan World Time dan tidak mengubah World Time menjadi Stamina recovery.
+
 ### 3A.7 Hubungan dengan Qi, Realm, dan Law
 
 Qi, Realm, dan Law tidak otomatis memberi bonus/pengurangan Stamina. Efek khusus hanya berlaku bila canon secara eksplisit mendefinisikannya.
