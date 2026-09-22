@@ -329,18 +329,18 @@ JamSampaiKosong(realm) = SatietyMax ÷ DecayRatePerJam(realm) = 6 jam × Fasting
 
 | Realm | FastingMultiplier | Waktu Sampai Sangat Lapar |
 |---|---|---|
-| 0 (Non-Kultivator/Mortal) | ×1,0 | 6 jam (pola makan manusia normal) |
-| 1 — Fondasi Fana | ×1,2 | 7,2 jam |
-| 2 — Pemurnian Qi | ×2,0 | 12 jam (setengah hari) |
-| 3 — Pembentukan Fondasi | ×5,0 | 30 jam (~1,25 hari) |
-| 4 — Pembentukan Inti | ×15,0 | 90 jam (~3,75 hari) |
-| 5 — Roh Bayi | ×50,0 | 300 jam (~12,5 hari) |
-| 6 — Transformasi Roh | ×150,0 | 900 jam (~37,5 hari) |
-| 7 — Pemutus Kehampaan | ×500,0 | 3.000 jam (~4 bulan) |
-| 8 — Penerobosan Tribulasi | ×2.000,0 | 12.000 jam (~1,4 tahun) |
+| 0 (Non-Kultivator/Mortal) | ×1,0 | 12 jam |
+| 1 — Fondasi Fana | ×1,2 | 14,4 jam |
+| 2 — Pemurnian Qi | ×2,0 | 24 jam (1 hari) |
+| 3 — Pembentukan Fondasi | ×5,0 | 60 jam (~2,5 hari) |
+| 4 — Pembentukan Inti | ×15,0 | 180 jam (~7,5 hari) |
+| 5 — Roh Bayi | ×50,0 | 600 jam (~25 hari) |
+| 6 — Transformasi Roh | ×150,0 | 1.800 jam (~75 hari) |
+| 7 — Pemutus Kehampaan | ×500,0 | 6.000 jam (~8,3 bulan) |
+| 8 — Penerobosan Tribulasi | ×2.000,0 | 24.000 jam (~2,7 tahun) |
 | 9 — Kenaikan Abadi | Tak terbatas | Tidak butuh makan sama sekali (Bi Gu sempurna) |
 
-📌 Catatan realisme: kultivator awal (Realm 1–2) tetap harus makan hampir seperti manusia biasa, sementara kultivator menengah (Realm 3–4) baru mulai terasa keuntungan trope "bisa menahan lapar berhari-hari saat menjelajah" — cocok dengan rekomendasi jarak tempuh Xisha di `07_XISHA.md`.
+📌 Catatan gameplay: Realm 1–2 tetap membutuhkan makan secara berkala, tetapi tidur malam normal tidak boleh otomatis menjatuhkan karakter ke status Sangat Lapar hanya karena batas aksi 3 jam. Realm 3–4 mulai terasa keuntungan mampu menahan lapar berhari-hari.
 
 ### 5.4 Status Efek Kelaparan
 
@@ -351,6 +351,14 @@ JamSampaiKosong(realm) = SatietyMax ÷ DecayRatePerJam(realm) = 6 jam × Fasting
 | 29–10 | Lapar (Hungry) | −10% regenerasi Qi, −5% efektivitas serangan |
 | 9–1 | Sangat Lapar (Starving) | −30% regenerasi Qi, −20% efektivitas serangan, **TIDAK BISA breakthrough** |
 | 0 (berkepanjangan) | Kelaparan Kritis | Mulai kehilangan HP (0,5% HP Cap/jam), −50% semua stat, risiko Qi Deviation |
+
+### 5.4.1 Tidur, World Time, dan Batas Aksi
+
+- Tidur adalah keadaan recovery yang sah dan World Time tetap berjalan selama tidur.
+- Batas aksi non-kultivasi maksimal **3 jam per prompt** berlaku untuk aktivitas aktif; batas ini tidak membatasi durasi tidur.
+- Satiety tetap berkurang selama tidur berdasarkan elapsed World Time dan FastingMultiplier realm.
+- Jumlah TURN/pesan tidak mempercepat atau memperlambat penurunan Satiety.
+- Contoh Realm 1: Satiety 50, tidur 3 jam → drain `8,33 ÷ 1,2 × 3 = 20,83`; Satiety akhir ≈ **29,17**, sehingga masuk batas atas status Lapar, bukan Sangat Lapar.
 
 ### 5.5 Pemulihan Kekenyangan (Makan)
 
