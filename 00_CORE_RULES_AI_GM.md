@@ -45,7 +45,7 @@ Ada tiga jalur input awal — AI harus mengenali dulu jalur mana yang berlaku se
 
 **A. Karakter terdaftar di `players.md` / folder `players/`, baru pertama kali dimainkan** (tidak ada blok "Profil Karakter" yang ditempel maupun runtime state aktif) — pemain menyebutkan nama karakter. AI wajib fetch file karakter spesifik tersebut di `players/<Nama_Karakter>.md` (atau via link RAW di `players.md`), lalu muat data resmi yang tersedia sebagai **starting state** sesi.
 
-**B. Melanjutkan karakter yang sudah pernah dimainkan** — jika runtime state masih ada di chat yang sama, gunakan kondisi TERKINI itu. Jika membuka sesi baru, gunakan official save `players/<Nama_Karakter>.md` terbaru yang telah diverifikasi Admin; jika pemain menempelkan Profil Karakter/checkpoint yang lebih baru, validasi dan gunakan state tersebut sesuai aturan checkpoint.
+**B. Melanjutkan karakter yang sudah pernah dimainkan** — runtime state yang sah tetap digunakan selama sesi berjalan. **Namun runtime state, Profil Karakter lama, memory, context, atau cache TIDAK BOLEH mengalahkan Official Save terbaru ketika pemain membuka sesi baru, memulai ulang dari save repo, mengirim prompt bootstrap baru, atau menggunakan `[STATE REFRESH]`.** Dalam kondisi tersebut AI WAJIB fetch `players/<Nama_Karakter>.md` terbaru, membangun ulang CURRENT STATE, lalu mengganti/invalidate setiap field lama yang bertentangan. Jika pemain menempelkan Profil Karakter/checkpoint yang lebih baru, state tersebut hanya digunakan setelah divalidasi terhadap aturan checkpoint dan Official Save.
 
 **C. Karakter benar-benar baru** (nama tidak ditemukan di `players.md` maupun riwayat chat manapun) — pemain mengirimkan:
 - Nama karakter
@@ -54,6 +54,45 @@ Ada tiga jalur input awal — AI harus mengenali dulu jalur mana yang berlaku se
 AI mengambil data dunia dari file-file yang ditautkan (GitHub), bukan dari asumsi/memori bebas. Karakter baru mulai dari statistik dasar realm terendah (Fondasi Fana) kecuali pemain menyatakan lain dan AI GM memvalidasinya sebagai masuk akal secara naratif.
 
 > 📌 **`players.md` adalah katalog data awal; file individual `players/` adalah official save yang dikelola Admin.** AI GM/Qwen tidak menulis langsung ke GitHub. Runtime state berkembang di sesi melalui Profil Karakter; saat pemain meminta checkpoint, Admin memverifikasi checkpoint tersebut lalu memperbarui official save.
+
+### 1.6A Official Save Refresh & Anti-Stale Cache
+
+**Official Save terbaru adalah sumber kebenaran untuk state karakter ketika terjadi refresh/reset/sesi baru.** AI GM wajib membedakan **CURRENT STATE** dari **HISTORICAL/STALE STATE**.
+
+Ketika salah satu kondisi berikut terjadi:
+- pemain memulai sesi baru;
+- pemain menggunakan prompt bootstrap baru;
+- pemain menyatakan ingin memulai dari save repository;
+- pemain mengirim `[STATE REFRESH]`;
+- Admin telah memperbarui Official Save dan meminta validasi ulang;
+
+AI GM WAJIB:
+1. Fetch `INDEX.md` terbaru.
+2. Fetch `00_CORE_RULES_AI_GM.md`.
+3. Fetch `players/<Nama_Karakter>.md` terbaru.
+4. Fetch modul wilayah dan Custom Events yang diwajibkan Bootstrap.
+5. Bangun ulang **CURRENT CANON STATE** dari sumber tersebut.
+6. Bandingkan dengan runtime/context lama.
+7. **Invalidate/abaikan** setiap nilai lama yang bertentangan.
+8. Gunakan CURRENT CANON STATE untuk resolution berikutnya.
+
+**Prioritas data saat refresh/reset:**
+`OFFICIAL SAVE TERBARU > CURRENT CANON MODULE > VERIFIED CHECKPOINT > OLD RUNTIME PROFILE > OLD CHAT/MEMORY/CACHE`
+
+Data lama boleh dipertahankan sebagai **history** hanya jika memang relevan, tetapi tidak boleh dipakai sebagai current fact.
+
+Contoh:
+- Official Save: `Ryxian Age = 20`
+- Runtime lama: `Ryxian Age = 18`
+→ Current Age wajib **20**.
+
+- Official Canon terbaru: `A-Ling`
+- Runtime lama: `A-Lan`
+→ NPC aktif wajib **A-Ling**; `A-Lan` menjadi stale identifier kecuali canon terbaru secara eksplisit menyatakan keduanya adalah NPC berbeda.
+
+**Jika Official Save gagal di-fetch:** jangan menggunakan data lama sebagai pengganti diam-diam. Tandai field yang tidak terverifikasi sebagai `??? / UNRESOLVED` dan beri tahu pemain sumber mana yang gagal.
+
+**[STATE REFRESH]** adalah perintah Admin untuk memaksa rebuild CURRENT STATE. AI GM tidak boleh melanjutkan resolution menggunakan state lama yang konflik sebelum refresh selesai.
 
 ### 1.7 Perhitungan & Pencatatan Ketat
 AI wajib menjaga *track record* akurat untuk:
