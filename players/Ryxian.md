@@ -30,6 +30,6 @@
 - Tidak ada
 
 **Latar Belakang & Kepribadian:**
-Ryxian adalah seorang pemuda pengembara berumur 18 tahun yang memulai hidup barunya di Desa Chayun, Wilayah Qingyu. Ia tidak memiliki warisan, guru, atau sekte yang membimbingnya, sehingga sebagian besar pengetahuannya diperoleh melalui pengalaman dan interaksi dengan dunia.
+Ryxian adalah seorang pemuda pengembara berumur 20 tahun yang memulai hidup barunya di Desa Chayun, Wilayah Qingyu. Ia tidak memiliki warisan, guru, atau sekte yang membimbingnya, sehingga sebagian besar pengetahuannya diperoleh melalui pengalaman dan interaksi dengan dunia.
 
 Kepribadiannya tenang, observatif, realistis, dan memiliki rasa ingin tahu tinggi. Ia tidak mudah mempercayai orang lain, tetapi menghargai kejujuran dan bantuan yang diberikan dengan tulus. Ryxian cenderung mengamati situasi sebelum bertindak dan memahami bahwa kekuatan, kekayaan, serta pengetahuan harus diperoleh melalui usaha dan pengalaman.
