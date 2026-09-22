@@ -15,7 +15,7 @@
    - Sesi berjalan tanpa batasan jumlah step, memberikan kebebasan penuh bagi pemain untuk terus bermain tanpa pembekuan sesi.
 3. **Cek pesan pemain** untuk menentukan identitas & titik mulai karakter — ada 3 kemungkinan, jangan disamaratakan:
    - **(a) Karakter terdaftar, baru pertama kali dimainkan atau memulai sesi baru dari save repo** (nama cocok entri di `players.md`, TIDAK ada blok "Profil Karakter" yang ditempel/riwayat sebelumnya) ATAU **pemain menanyakan tentang karakter/player lain** → fetch `players.md` (link §1) atau langsung fetch file RAW karakter individual yang dituju di `players/<Nama_Karakter>.md` (misal: `https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Inggo.md`), muat data awalnya sebagai **titik mulai** narasi atau referensi informasi. `players.md` adalah katalog data awal; file individual `players/` adalah official save yang dikelola Admin.
-   - **(b) Melanjutkan karakter yang sudah pernah dimainkan di dalam chat yang sama** (pemain menempel blok "Profil Karakter" dari sesi sebelumnya, atau riwayatnya masih ada di chat yang sama) → pakai kondisi TERKINI itu sebagai starting state.
+   - **(b) Melanjutkan karakter yang sudah pernah dimainkan di dalam chat yang sama** → runtime state tetap digunakan sebagai state aktif, **KECUALI** pemain memulai ulang dari Official Save, meminta `[STATE REFRESH]`, atau memberikan prompt bootstrap/sesi baru. Dalam kondisi tersebut, WAJIB fetch Official Save terbaru `players/<Nama_Karakter>.md` dan gunakan data terbaru itu untuk menggantikan field runtime lama yang bertentangan. Riwayat chat lama tidak boleh mengalahkan Official Save terbaru.
    - **(c) Karakter benar-benar baru** (nama tidak ada di `players.md` maupun riwayat manapun) → perlakukan sebagai karakter baru custom sesuai `00_CORE_RULES_AI_GM.md` §1.6, minta Nama + Lokasi Awal.
 4. **Tentukan lokasi karakter** (dari file karakter individual di `players/` atau dari input baru pemain), lalu fetch modul wilayah yang sesuai (`01`–`07`) dari tabel §1.
 5. **Fetch `39_CUSTOM_EVENTS.md`** — cek apakah ada event aktif yang sedang berlangsung di dunia. Jika ada, pastikan event itu terasa dalam narasi (suasana, dialog NPC, kejadian acak).
@@ -117,7 +117,7 @@
 | Awal sesi (selalu) | `00_CORE_RULES_AI_GM.md` | Wajib pertama, lihat §0 |
 | Awal sesi (setelah Bootstrap selesai) | `39_CUSTOM_EVENTS.md` | Cek apakah ada event aktif yang memengaruhi dunia |
 | Karakter terdaftar di `players.md`, baru pertama kali dimainkan OR pemain menanyakan informasi karakter/player lain | `players.md` dan/atau `players/<Nama_Karakter>.md` | Muat/fetch data karakter dari link RAW individual sebagai titik mulai atau referensi informasi pemain/karakter lain |
-| Melanjutkan karakter yang sudah pernah dimainkan | — | Pakai blok "Profil Karakter" terakhir yang ditempel/ada di riwayat chat — **jangan** fetch `players.md` / `players/` |
+| Melanjutkan karakter yang sudah pernah dimainkan | `players/<Nama_Karakter>.md` jika sesi baru/reset/refresh diminta | Runtime state boleh dipakai hanya selama sesi berjalan dan tidak bertentangan dengan Official Save. Untuk sesi baru, reset, bootstrap baru, atau `[STATE REFRESH]`, **WAJIB fetch Official Save terbaru** dan invalidate field runtime/cache lama yang bertentangan. |
 | Karakter benar-benar baru (tidak ada di `players.md`) | — | Ikuti `00` §1.6: minta Nama + Lokasi Awal |
 | Karakter berada/menuju Tianzhou | `02_TIANZHOU.md` | Termasuk area ibu kota provinsi ini |
 | Karakter berada/menuju Qingyun | `03_QINGYUN.md` | |
@@ -139,7 +139,7 @@
 | Pemain menyebut/mengklaim teknik yang tidak ada di file resmi | `42_CUSTOM_TECHNIQUES.md` | Cek apakah teknik itu sudah dicatat Admin di file kustom |
 | Pemain minta bantuan setup GitHub / nanya cara pakai sistem ini | `README.md` | Ini file untuk manusia, sampaikan isinya ke pemain, bukan role-play |
 
-**Efisiensi token:** jika sebuah modul sudah difetch sebelumnya dalam percakapan yang sama dan kondisinya belum berubah (mis. karakter masih di wilayah yang sama), **tidak perlu fetch ulang** — pakai isi yang sudah ada di riwayat chat.
+**Efisiensi token — DENGAN PENGECUALIAN STATE DINAMIS:** modul statis yang benar-benar belum berubah boleh menggunakan hasil fetch sebelumnya. Namun **JANGAN cache** untuk `players/<Nama_Karakter>.md`, Official Save, checkpoint, current character state, atau Custom Events pada awal sesi. Jika Admin mungkin telah memperbarui sumber canon, fetch ulang sumber tersebut sebelum resolution.
 
 ---
 
@@ -151,9 +151,10 @@
 
 **Alur pemakaian & Sesi Baru:**
 1. Pemain cukup menyebutkan nama karakternya (misal: `Inggo`) saat membuka chat/sesi baru.
-2. AI GM men-fetch file `players/<Nama_Karakter>.md` sebagai official save saat sesi baru dimulai.
-3. Seluruh data di file karakter tersebut dimuat sebagai starting state.
-4. Selama sesi berlangsung, runtime state hidup di percakapan melalui blok Profil Karakter dan checkpoint.
+2. AI GM **WAJIB men-fetch file `players/<Nama_Karakter>.md` terbaru** sebagai Official Save saat sesi baru, bootstrap baru, reset, atau `[STATE REFRESH]`.
+3. Seluruh data di Official Save terbaru dimuat sebagai starting state.
+4. Selama sesi berlangsung, runtime state hidup di percakapan melalui blok Profil Karakter dan checkpoint, tetapi **runtime tidak boleh mengalahkan Official Save terbaru setelah refresh/reset**.
+5. Jika terjadi konflik, tandai data lama sebagai `STALE` dan gunakan data Official Save terbaru.
 5. Pemain dapat meminta checkpoint; checkpoint dikirim kepada Admin untuk diverifikasi.
 6. Setelah verifikasi, Admin memperbarui official save `players/<Nama_Karakter>.md`.
 
