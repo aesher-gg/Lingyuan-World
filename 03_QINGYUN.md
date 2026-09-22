@@ -207,10 +207,10 @@ Konon, ribuan tahun lalu, seorang kultivator jenius bernama **"Pendekar Bambu"**
 ### Desa Chayun (200 li dari perbatasan Tianzhou)
 Desa petani teh di ketinggian, sejuk dan damai.
 
-| NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
-|---|---|---|---|---|---|---|
-| Kepala Desa Yun Cha | Kepala Desa Chayun | 64 | Non-Kultivator | — | Tidak bertarung | Tenang dan sabar, sangat dihormati karena kearifannya soal teh dan kehidupan |
-| Petani Teh Muda A-Lan | Pemetik teh | 20 | Mortal Foundation, Menengah | 0 | *Sabit Petani Sederhana* — gerak dasar memanen yang bisa jadi pertahanan darurat | Ceria dan penuh semangat, tidak suka konflik, bermimpi jadi kultivator hebat |
+| NPC | Gender | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|---|
+| Kepala Desa Yun Cha | Laki-laki | Kepala Desa Chayun | 64 | Non-Kultivator | — | Tidak bertarung | Tenang dan sabar, sangat dihormati karena kearifannya soal teh dan kehidupan |
+| Petani Teh Muda A-Ling | Perempuan | Pemetik teh | 20 | Mortal Foundation, Menengah | 0 | *Sabit Petani Sederhana* — gerak dasar memanen yang bisa jadi pertahanan darurat | Ceria dan penuh semangat, tidak suka konflik, bermimpi jadi kultivator hebat |
 
 ### Kampung Shiyin (350 li dari perbatasan)
 Pemukiman tukang batu dan pemahat.
