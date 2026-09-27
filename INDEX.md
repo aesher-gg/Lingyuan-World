@@ -38,7 +38,7 @@
 | 05 | `05_HAIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/05_HAIYUAN.md | Haiyuan |
 | 06 | `06_BEIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/06_BEIYUAN.md | Beiyuan |
 | 07 | `07_XISHA.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/07_XISHA.md | Xisha |
-| 48 | `48_MUYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/48_MUYUAN.md | Muyuan: Dataran Sumber Kayu & Tanah (Qi Density ×2,0) |
+| 48 | `48_CANGMU.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/48_CANGMU.md | Cangmu: Dataran Sumber Kayu & Tanah (Qi Density ×2,0) |
 | 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/08_CROSS_REGION_ORGANIZATIONS.md | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
 | 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/09_CULTIVATION_LAW_SYSTEM.md | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
 | 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/10_ECONOMY_SYSTEM.md | Mata uang, tier/grade barang, harga jasa & aset |
@@ -105,7 +105,7 @@
 | Kuil Ciyun | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/31_KUIL_CIYUN.md |
 | Perguruan Shaying | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/32_PERGURUAN_SHAYING.md |
 
-**Muyuan**
+**Cangmu**
 | Sekte/Perguruan | Link RAW (langsung klik/fetch) |
 |---|---|
 | Sekte Shenmu | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/48_SEKTE_SHENMU.md |
@@ -137,7 +137,7 @@
 | Karakter berada/menuju Haiyuan | `05_HAIYUAN.md` | |
 | Karakter berada/menuju Beiyuan | `06_BEIYUAN.md` | |
 | Karakter berada/menuju Xisha | `07_XISHA.md` | |
-| Karakter berada/menuju Muyuan | `48_MUYUAN.md` | Dataran Sumber Kayu & Tanah (Qi Density ×2,0) |
+| Karakter berada/menuju Cangmu | `48_CANGMU.md` | Dataran Sumber Kayu & Tanah (Qi Density ×2,0) |
 | Butuh konteks Ibu Kota Tianjing / peta jarak besar dunia | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | |
 | Bertemu info broker/pembunuh bayaran/sanxiu/kriminal mortal lintas wilayah | `08_CROSS_REGION_ORGANIZATIONS.md` | |
 | Breakthrough realm / klaim teknik baru / cek Law Origin | `09_CULTIVATION_LAW_SYSTEM.md` | |

@@ -170,6 +170,21 @@ Wilayah gurun paling ekstrem. Monster di sini tangguh, tahan panas, dan sering b
 
 ---
 
+### 🌲 Cangmu
+*(lihat `48_CANGMU.md`)*
+
+Wilayah hutan raksasa purba dan dataran tanah loess spiritual dengan Qi Density ×2,0. Monster di sini didominasi oleh atribut Kayu dan Tanah yang tangguh dan memiliki kemampuan regenerasi/pertahanan raga.
+
+| Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
+|---|---|---|---|---|---|---|
+| Treant Purba Penjaga Root | 🌿 Flora/Plant Creature | 3, Puncak | 1.000 | 250 | Penghuni Hutan Wanling. Batang kayunya sekeras baja tempa, kebal serangan fisik biasa tapi rentan elemen Api. Menggunakan cabang untuk cambukan jarak jauh. | Umum: Kayu Terkeras Shenmu (Tier 3) — Jarang: Inti Getah Purba (Tier 4) |
+| Golem Tanah Giok | 🔥 Elemental (Tanah) | 4, Awal | 2.500 | 625 | Tercipta dari pendaran energi tanah giok di Lembah Wantu. Memiliki pertahanan fisik ekstrem dan meregenerasi HP saat menyentuh tanah. | Umum: Batu Giok Loess (Tier 3) — Jarang: Inti Tanah Giok (Tier 4) |
+| Beruang Berzirah Tanah | 🐺 Spirit Beast | 3, Menengah | 750 | 187 | Beruang raksasa dengan lapisan tanah mengeras di punggungnya. Melakukan tabrakan berat yang memberikan efek stun 1 turn. | Umum: Kulit Berzirah Tanah (Tier 2) — Jarang: Empedu Beruang Bumi (Tier 3) |
+| Ular Akar Raksasa | 🌿 Flora/Plant Creature | 3, Menengah | 750 | 187 | Menyembunyi di antara akar raksasa Hutan Wanling, menjerat mangsa dari bawah tanah dan menyerap vitalitas secara perlahan. | Umum: Sisik Akar Purba (Tier 2) — Jarang: Kelenjar Racun Akar (Tier 3) |
+| Kumbang Pemurni Tanah | 🐛 Insect/Gu Swarm | 2, Puncak | 200 | 50 | Serangga pengerat mineral tanah spiritual. Mengeluarkan aura kebal racun dan menembakkan cairan asam dari cangkangnya. | Umum: Cangkang Tanah Murni (Tier 1) — Jarang: Serbuk Pemurni Bumi (Tier 2) |
+
+---
+
 ### 🎋 Hutan Lingzhu — Monsters Khusus
 *(Zona khusus di Qingyun, lihat `03_QINGYUN.md`)*
 
@@ -234,6 +249,7 @@ Jika salah satu poin gagal → encounter/loot DITOLAK atau dikoreksi AI GM.
 | Haiyuan | 11 | Tier 8 (Paus Iblis, Naga Air Purba) |
 | Beiyuan | 12 | Tier 8 (Naga Es Purba) |
 | Xisha | 11 | Tier 8 (Naga Pasir, Phoenix Api Gurun) |
+| Cangmu | 5 | Tier 4 (Golem Tanah Giok) |
 | Hutan Lingzhu (Khusus) | 7 | Tier 8+ (Naga Bambu — Mitos) |
 | Lintas Wilayah (Boss Langka) | 5 | Tier 8 (Naga Kabut Purba, Feniks Kegelapan, Naga Air Purba) |
 

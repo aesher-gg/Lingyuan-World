@@ -1,10 +1,10 @@
 # ⛰️ Lingyuan World — Perguruan: Perguruan Wantu (Wantu School)
 
 > **Modul:** 49_PERGURUAN_WANTU — Sect Detail: Perguruan Wantu
-> **Wilayah:** Lembah Wantu, Muyuan | **Tipe:** Perguruan Pertahanan Raga & Tanah | **Hukum Utama:** Hukum Raga Sejati (Varian Pertahanan Tanah & Batu Purba)
+> **Wilayah:** Lembah Wantu, Cangmu | **Tipe:** Perguruan Pertahanan Raga & Tanah | **Hukum Utama:** Hukum Raga Sejati (Varian Pertahanan Tanah & Batu Purba)
 > **Estimasi Total Anggota:** ± 450 orang
-> **Rujukan silang:** `48_MUYUAN.md`, `18_PERGURUAN_TIELU.md`, `20_PERGURUAN_SHILONG.md`, `44_FORGING_CRAFTING_SYSTEM.md`
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `48_MUYUAN.md`.
+> **Rujukan silang:** `48_CANGMU.md`, `18_PERGURUAN_TIELU.md`, `20_PERGURUAN_SHILONG.md`, `44_FORGING_CRAFTING_SYSTEM.md`
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `48_CANGMU.md`.
 
 ---
 
@@ -23,9 +23,9 @@ Perguruan Wantu adalah perguruan pertahanan raga yang berpusat di Lembah Wantu. 
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Kepala Perguruan Shi Zhenyue | Kepala Perguruan | Soul Transformation Awal — detail lengkap di `48_MUYUAN.md` |
-| Tetua Herba Lu Qing | Pengelola Kebun Herba | Nascent Soul Menengah — detail lengkap di `48_MUYUAN.md` |
-| Murid Senior Ah Gang | Murid Senior Pertahanan | Core Formation Awal — detail lengkap di `48_MUYUAN.md` |
+| Kepala Perguruan Shi Zhenyue | Kepala Perguruan | Soul Transformation Awal — detail lengkap di `48_CANGMU.md` |
+| Tetua Herba Lu Qing | Pengelola Kebun Herba | Nascent Soul Menengah — detail lengkap di `48_CANGMU.md` |
+| Murid Senior Ah Gang | Murid Senior Pertahanan | Core Formation Awal — detail lengkap di `48_CANGMU.md` |
 
 ## Fasilitas Utama
 - **Benteng Loess Utama:** Struktur benteng berlapis tanah keras tempat tinggal dan latihan pertempuran raga.
@@ -47,7 +47,7 @@ Perguruan Wantu adalah perguruan pertahanan raga yang berpusat di Lembah Wantu. 
 | Kepala Perguruan | *Benteng Dinding Batu Purba* | Teknik Pertahanan Puncak | Menciptakan perisai tanah berlapis yang menyerap 70% damage fisik — teknik Shi Zhenyue |
 
 ## Relasi dengan Faksi Lain
-- **Sekte Shenmu** (`48_SEKTE_SHENMU.md`): Aliansi erat dan saling melengkapi di Muyuan.
+- **Sekte Shenmu** (`48_SEKTE_SHENMU.md`): Aliansi erat dan saling melengkapi di Cangmu.
 - **Perguruan Tielu** (`18_PERGURUAN_TIELU.md`): Bertukar bahan mineral tanah dan batu untuk proses penempaan senjata/zirah.
 - **Perguruan Shilong** (`20_PERGURUAN_SHILONG.md`): Memiliki hubungan persahabatan sesama praktisi pahatan batu dan pemanfaatan formasi bumi.
 

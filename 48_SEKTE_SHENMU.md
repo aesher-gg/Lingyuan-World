@@ -1,15 +1,15 @@
 # 🌲 Lingyuan World — Sekte: Sekte Shenmu (Sacred Wood Sect)
 
 > **Modul:** 48_SEKTE_SHENMU — Sect Detail: Sekte Shenmu
-> **Wilayah:** Pohon Dunia Shenmu, Muyuan | **Tipe:** Sekte Ortodoks Besar | **Hukum Utama:** Hukum Dao Abadi (Varian Kayu & Restorasi Raga)
+> **Wilayah:** Pohon Dunia Shenmu, Cangmu | **Tipe:** Sekte Ortodoks Besar | **Hukum Utama:** Hukum Dao Abadi (Varian Kayu & Restorasi Raga)
 > **Estimasi Total Anggota:** ± 1.200 orang
-> **Rujukan silang:** `48_MUYUAN.md`, `17_PERGURUAN_LUOHUA.md`, `28_BALAI_YUNYAO.md`, `38_GARDENING_SYSTEM.md`, `43_ALCHEMY_PILL_SYSTEM.md`
-> **Catatan konsistensi:** NPC/teknik bernama identik dengan `48_MUYUAN.md`.
+> **Rujukan silang:** `48_CANGMU.md`, `17_PERGURUAN_LUOHUA.md`, `28_BALAI_YUNYAO.md`, `38_GARDENING_SYSTEM.md`, `43_ALCHEMY_PILL_SYSTEM.md`
+> **Catatan konsistensi:** NPC/teknik bernama identik dengan `48_CANGMU.md`.
 
 ---
 
 ## Karakteristik Singkat
-Sekte Shenmu adalah sekte ortodoks terbesar dan penguasa spiritual utama di wilayah Muyuan. Markas besar sekte ini dibangun melingkari dan bertengger di atas **Pohon Dunia Shenmu**, pohon raksasa purba yang menjadi sumber vitalitas seluruh wilayah. Para murid Sekte Shenmu dikenal sangat mahir dalam cabang ilmu herbalisme, kultivasi pemulihan raga, serta manipulasi flora spiritual.
+Sekte Shenmu adalah sekte ortodoks terbesar dan penguasa spiritual utama di wilayah Cangmu. Markas besar sekte ini dibangun melingkari dan bertengger di atas **Pohon Dunia Shenmu**, pohon raksasa purba yang menjadi sumber vitalitas seluruh wilayah. Para murid Sekte Shenmu dikenal sangat mahir dalam cabang ilmu herbalisme, kultivasi pemulihan raga, serta manipulasi flora spiritual.
 
 ## Hierarki Sederhana
 | Tingkat | Syarat Realm | Catatan |
@@ -23,9 +23,9 @@ Sekte Shenmu adalah sekte ortodoks terbesar dan penguasa spiritual utama di wila
 ## Anggota Kunci
 | Nama | Peran | Catatan |
 |---|---|---|
-| Ketua Sekte Mu Tianyin | Ketua Sekte | Soul Transformation Puncak — detail lengkap di `48_MUYUAN.md` |
-| Tetua Hukum Mu Feng | Pengawas Disiplin & Pertahanan | Soul Transformation Menengah — detail lengkap di `48_MUYUAN.md` |
-| Murid Inti Ye Lin | Murid Inti Alkemia Herba | Core Formation Puncak — detail lengkap di `48_MUYUAN.md` |
+| Ketua Sekte Mu Tianyin | Ketua Sekte | Soul Transformation Puncak — detail lengkap di `48_CANGMU.md` |
+| Tetua Hukum Mu Feng | Pengawas Disiplin & Pertahanan | Soul Transformation Menengah — detail lengkap di `48_CANGMU.md` |
+| Murid Inti Ye Lin | Murid Inti Alkemia Herba | Core Formation Puncak — detail lengkap di `48_CANGMU.md` |
 
 ## Fasilitas Utama
 - **Kebun Awan Herba Spirit (Cloud Herb Garden):** Kebun herba melayang di dahan Pohon Dunia, menghasilkan bahan-bahan herba Grade 3–5.
@@ -50,10 +50,10 @@ Sekte Shenmu adalah sekte ortodoks terbesar dan penguasa spiritual utama di wila
 ## Relasi dengan Faksi Lain
 - **Perguruan Luohua** (`17_PERGURUAN_LUOHUA.md`): Aliansi lama sesama sekte pecinta flora & ilmu herbalis.
 - **Balai Yunyao** (`28_BALAI_YUNYAO.md`): Mitra dagang bahan pil dan obat-obatan langka antar-wilayah.
-- **Perguruan Wantu** (`49_PERGURUAN_WANTU.md`): Tetangga baik di Muyuan; Sekte Shenmu menyediakan Qi Kayu & obat-obatan, sedangkan Perguruan Wantu menyediakan benteng pertahanan tanah & bahan batu spiritual.
+- **Perguruan Wantu** (`49_PERGURUAN_WANTU.md`): Tetangga baik di Cangmu; Sekte Shenmu menyediakan Qi Kayu & obat-obatan, sedangkan Perguruan Wantu menyediakan benteng pertahanan tanah & bahan batu spiritual.
 
 ## Rahasia & Plot Hook Internal
-Di dasar **Akar Abadi**, terdapat retakan purba tempat mengalirnyagetah hitam pekat yang mengandung energi racun tersembunyi. Ketua Sekte Mu Tianyin secara berkala bertapa di sana untuk menyegel retakan tersebut agar tidak mencemari seluruh vegetasi Muyuan.
+Di dasar **Akar Abadi**, terdapat retakan purba tempat mengalirnyagetah hitam pekat yang mengandung energi racun tersembunyi. Ketua Sekte Mu Tianyin secara berkala bertapa di sana untuk menyegel retakan tersebut agar tidak mencemari seluruh vegetasi Cangmu.
 
 ## Cara Bergabung (untuk Karakter Pemain)
 Terbuka bagi kultivator yang memiliki bakat/afinitas elemen Kayu, kejujuran batin, serta rasa hormat yang tinggi terhadap kelestarian alam dan ilmu perobatan.
