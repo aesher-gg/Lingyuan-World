@@ -182,6 +182,12 @@ Wilayah hutan raksasa purba dan dataran tanah loess spiritual dengan Qi Density 
 | Beruang Berzirah Tanah | 🐺 Spirit Beast | 3, Menengah | 750 | 187 | Beruang raksasa dengan lapisan tanah mengeras di punggungnya. Melakukan tabrakan berat yang memberikan efek stun 1 turn. | Umum: Kulit Berzirah Tanah (Tier 2) — Jarang: Empedu Beruang Bumi (Tier 3) |
 | Ular Akar Raksasa | 🌿 Flora/Plant Creature | 3, Menengah | 750 | 187 | Menyembunyi di antara akar raksasa Hutan Wanling, menjerat mangsa dari bawah tanah dan menyerap vitalitas secara perlahan. | Umum: Sisik Akar Purba (Tier 2) — Jarang: Kelenjar Racun Akar (Tier 3) |
 | Kumbang Pemurni Tanah | 🐛 Insect/Gu Swarm | 2, Puncak | 200 | 50 | Serangga pengerat mineral tanah spiritual. Mengeluarkan aura kebal racun dan menembakkan cairan asam dari cangkangnya. | Umum: Cangkang Tanah Murni (Tier 1) — Jarang: Serbuk Pemurni Bumi (Tier 2) |
+| Burung Hantu Kayu Giok | 🐺 Spirit Beast | 3, Awal | 300 | 75 | Bersarang di dahan tinggi Perbukitan Mufeng. Mengeluarkan pekikan suara Qi yang melemahkan konsentrasi lawan. | Umum: Bulu Kayu Giok (Tier 2) — Jarang: Cakar Burung Hantu Bertuah (Tier 3) |
+| Babi Hutan Jamur Purba | 🐺 Spirit Beast | 3, Menengah | 750 | 187 | Menghuni Rawa Qinggen, jamur beracun tumbuh di punggungnya. Menyemburkan spora racun pembeku Qi saat terancam. | Umum: Gading Babi Hutan (Tier 2) — Jarang: Jamur Purba Kebal Qi (Tier 3) |
+| Kera Lumpur Earth Vein | 🐺 Spirit Beast | 2, Menengah | 90 | 22 | Berkelompok di Rawa Qinggen dan Gua Kristal Diyu. Melempar lumpur pekat bernoda Qi untuk merusak penglihatan korban. | Umum: Kulit Kera Lumpur (Tier 1) — Jarang: Lumpur Murni Earth Vein (Tier 2) |
+| Labu Iblis Pemakan Qi | 🌿 Flora/Plant Creature | 4, Menengah | 3.750 | 937 | Tanaman predator raksasa berbentuk labu di Reruntuhan Kuil Shenshu. Menyedot Qi musuh dari jarak jauh melalui akar perangkap. | Umum: Serabut Labu Purba (Tier 3) — Jarang: Biji Labu Pemakan Qi (Tier 4) |
+| Mantis Daun Besi | 🐛 Insect/Gu Swarm | 4, Awal | 2.500 | 625 | Belalang sembah raksasa dengan dua bilah cakar sekeras besi baja di Hutan Wanling. Bergerak secepat kilat dari balik dedaunan. | Umum: Cangkang Daun Besi (Tier 3) — Jarang: Bilah Cakar Mantis (Tier 4) |
+| Naga Kayu Purba | 🗿 Ancient Guardian | 6, Awal | 62.500 | 16.875 | Naga raksasa dari kayu giok purba yang tertidur di kedalaman Hutan Wanling. Kulit batangnya kebal senjata biasa dan dapat menyembuhkan HP pasif. | Legendaris: Sisik Kayu Giok Purba (Tier 6) — Legendaris: Inti Kehidupan Naga Kayu (Tier 7) |
 
 ---
 
@@ -249,7 +255,7 @@ Jika salah satu poin gagal → encounter/loot DITOLAK atau dikoreksi AI GM.
 | Haiyuan | 11 | Tier 8 (Paus Iblis, Naga Air Purba) |
 | Beiyuan | 12 | Tier 8 (Naga Es Purba) |
 | Xisha | 11 | Tier 8 (Naga Pasir, Phoenix Api Gurun) |
-| Cangmu | 5 | Tier 4 (Golem Tanah Giok) |
+| Cangmu | 11 | Tier 6 (Naga Kayu Purba) |
 | Hutan Lingzhu (Khusus) | 7 | Tier 8+ (Naga Bambu — Mitos) |
 | Lintas Wilayah (Boss Langka) | 5 | Tier 8 (Naga Kabut Purba, Feniks Kegelapan, Naga Air Purba) |
 
