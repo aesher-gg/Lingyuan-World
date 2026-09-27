@@ -139,6 +139,30 @@ Jika **SALAH SATU** jawaban "tidak" atau meragukan → skip panjang **DITOLAK TO
 
 Aksi apa pun yang melebihi batas ini (3 jam atau 1 bulan) harus dipecah AI GM menjadi beberapa giliran/checkpoint — tidak pernah diberikan sebagai satu lompatan tunggal tanpa validasi penuh di atas.
 
+### 1.9A Pengetatan Anti-Cheat Perjalanan & Durasi Akselerasi Waktu (LARANGAN MUTLAK TIME-SKIP PERJALANAN)
+
+AI GM **DILARANG MUTLAK** melompati perjalanan berhari-hari (baik perjalanan jarak jauh antar wilayah maupun perjalanan jarak dekat antar kota/pos/lokasi) dalam 1 prompt/turn tunggal. Setiap perjalanan yang membutuhkan waktu lebih dari 3 jam waktu dunia **WAJIB dipecah dan dijalankan secara bertahap giliran demi giliran (turn-by-turn)** oleh pemain.
+
+**1. Larangan Time-Skip Perjalanan Multahari:**
+- Klaim seperti *"aku berjalan/menunggang kuda selama 3 hari sampai ke tujuan"*, *"setelah perjalanan 10 hari aku pun tiba"*, atau *"AI mempersingkat waktu perjalanan menjadi langsung sampai"* **DITOLAK OTOMATIS**.
+- AI GM wajib membatasi setiap giliran perjalanan maksimal **3 jam waktu dunia** (sesuai batas dasar §1.9).
+- Pemain harus merespon dan mengambil keputusan giliran demi giliran (misal: menentukan tempat istirahat malam, mendirikan tenda, mengonsumsi perbekalan/Satiety, serta menghadapi potensi *HumanEncounterChance* §1.22 atau *AmbushChance* `13_BESTIARY.md`).
+
+**2. Perhitungan Waktu & Jarak Resmi Wajib:**
+- Semua durasi perjalanan **WAJIB** dihitung secara presisi berdasarkan tabel jarak resmi di `01_WORLD_OVERVIEW_AND_CAPITAL.md` (dan modul wilayah `02`–`07`) serta moda transportasi yang **sah terdaftar di Profil Karakter / Equipment / Spirit Beast**.
+- Modul Kecepatan Standar:
+  - **Jalan Kaki:** ± 30–40 li per hari (3–4 li per jam perjalanan aktif).
+  - **Kuda Cepat / Duta:** ± 150–200 li per hari.
+  - **Spirit Beast Tumpangan Darat (`46`):** Menyesuaikan Tier Spirit Beast yang terdaftar di Profil Karakter.
+  - **Terbang Mandiri (Pedang Terbang / Qi Flight):** **HANYA BISA** dilakukan jika karakter telah mencapai minimal **Realm 4 (Core Formation / Pembentukan Inti)** atau memiliki teknik/artefak terbang yang tervalidasi secara sah di Profil Karakter. Karakter Realm 1–3 yang mengklaim "terbang dengan pedang" untuk mempersingkat perjalanan **DITOLAK OTOMATIS**.
+  - **Formasi Teleportasi / Artefak Ruang:** Hanya berlaku jika lokasi asal & tujuan memiliki Array Teleportasi aktif yang tervalidasi canon dan karakter memiliki biaya/kunci pengaktifannya.
+
+**3. Penolakan Otomatis Klaim Persingkatan Waktu (Automatic Rejection):**
+- AI GM wajib **menolak secara otomatis** tanpa kompromi setiap upaya pemain atau narasi yang mencoba mempersingkat waktu perjalanan tanpa bukti artefak/kemampuan terbang/teleportasi yang sah di Profil Karakter.
+- Jika pemain mencoba mem-bypass dengan deskripsi ambigu (misal: "aku tiba-tiba sampai di tujuan"), AI GM wajib menghentikan pergerakan karakter pada titik 3 jam perjalanan, menghitung konsumsi Satiety/Stamina, melakukan roll *Encounter Chance*, dan meminta pemain menceritakan aksinya untuk rentang waktu berikutnya.
+
+---
+
 ### 1.10 Timed Processing & Completion State
 
 Setiap pekerjaan atau proses yang secara naratif membutuhkan waktu dunia lebih dari satu momen — misalnya perbaikan/upgrade pandai besi, crafting, alchemy, produksi, pekerjaan NPC, atau proses sejenis — WAJIB diperlakukan sebagai **Timed Processing**. Menyebut durasi seperti "2 hari" tidak berarti proses langsung selesai.
@@ -168,7 +192,10 @@ Aturan wajib:
 
 **Contoh:** proses upgrade senjata dimulai Hari 5 pukul 10:00 dengan durasi 2 hari → CompletionTime Hari 7 pukul 10:00. Hari 6 pukul 09:00 = masih PROCESSING; Hari 7 pukul 10:00 atau sesudahnya = baru boleh masuk tahap completion setelah validasi.
 
-Timed Processing adalah aturan runtime universal; modul khusus hanya perlu menentukan apa yang diproses, durasi/trigger canon, biaya, risiko, dan output dalam scope-nya. Modul khusus tidak boleh mengubah prinsip timestamp dan completion state ini tanpa aturan canon yang lebih spesifik.
+Timed Processing adalah aturan runtime universal; modul khusus hanya perlu menentukan apa yang diproses, durasi/trigger canon, biaya, risiko, dan output dalam scope-nya. Modul khusus tidak boleh mengubah prinsip timestamp dan completion state ini tanpa aturan canon yang lebih spesifik. Penegasan khusus:
+- **Tempa & Crafting (`44`):** Penempaan senjata/zirah butuh waktu nyata in-game (jam/hari). Barang tidak boleh selesai atau digunakan sebelum `CompletionTime` tercapai.
+- **Alkemia (`43`):** Peracikan pil tunduk pada durasi resep canon. Penghentian paksa di tengah jalan mengakibatkan hilangnya bahan dan risiko meledaknya tungku (*Furnace Explosion*).
+- **Gardening (`38`):** Pertumbuhan tanaman didasarkan pada *elapsed World Time* aktual dari aksi-aksi karakter (bukan jumlah prompt/penyiraman). Menyiram tanaman tidak boleh digunakan sebagai celah *time-skip*.
 
 ### 1.10 Official Player Save & Checkpoint
 `players.md` adalah katalog data awal. File individual di folder `players/` adalah **official save** karakter yang dikelola Admin.

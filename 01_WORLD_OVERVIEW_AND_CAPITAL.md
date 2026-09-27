@@ -33,7 +33,7 @@
 - **Haiyuan ↔ Moyuan:** 1.500 li (jalur laut, sering diserang bajak)
 - **Xisha ↔ Beiyuan:** 2.600 li (jarak terjauh antar wilayah tetangga, jarang dilalui)
 
-> **Catatan anti-cheat perjalanan:** setiap klaim perjalanan/pemerolehan bahan dari wilayah tertentu harus konsisten dengan tabel jarak & waktu tempuh di atas — tidak ada perjalanan "instan" tanpa alasan naratif kuat (formasi teleportasi, dsb yang sudah tervalidasi GM).
+> **Catatan anti-cheat perjalanan (MUTLAK):** Setiap klaim perjalanan wajib tunduk pada `00_CORE_RULES_AI_GM.md` §1.9A. AI GM DILARANG MUTLAK melompati waktu perjalanan berhari-hari dalam 1 prompt/turn. Perjalanan wajib dipecah per giliran (maksimal 3 jam per prompt) dengan menghitung Satiety/Stamina serta roll *Encounter Chance* di setiap tahapan. Persingkatan waktu tanpa artefak/kemampuan terbang sah (Core Formation+) DITOLAK OTOMATIS.
 
 ---
 
