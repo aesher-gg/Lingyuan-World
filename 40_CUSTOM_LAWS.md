@@ -1,93 +1,68 @@
-# 📜 Lingyuan World — Hukum Kultivasi Kustom (Custom Laws)
+# 📜 Lingyuan World — Hukum Kultivasi Kustom (Custom Cultivation Laws)
 
-> **Modul:** 40 — Custom Laws
-> **Fungsi:** Tempat Admin mencatat Hukum Kultivasi buatan pemain atau tambahan Admin.
-> **Pengelolaan:** Hanya Admin (pemilik repo) yang boleh mengedit file ini. AI GM WAJIB membaca daftar ini saat pemain menggunakan/bertemu Hukum kustom.
-> **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (sistem dasar Hukum), `10_ECONOMY_SYSTEM.md` (harga resource terkait)
-
----
-
-## 📋 Cara Menggunakan File Ini
-
-1. Setiap Hukum Kustom diberi **ID unik** (misal: `LAW-001`).
-2. Hukum ini **bisa berasal dari**:
-   - Kreasi Admin untuk memperkaya dunia.
-   - Kreasi pemain yang disetujui Admin.
-3. Hukum yang sudah dicatat di sini dianggap **RESMI** dan berlaku di dunia.
-4. AI GM WAJIB menggunakan data di sini saat berinteraksi dengan Hukum tersebut.
-5. Jika ada konflik dengan Hukum di `09_CULTIVATION_LAW_SYSTEM.md`, data Custom hanya meng-override **scope Hukum spesifik yang secara eksplisit didefinisikan** di file ini; tidak otomatis meng-override aturan global seperti waktu, ekonomi, Vitality, provenance, atau batas Gardening.
+> **Modul:** 40 — Custom Cultivation Laws
+> **Fungsi:** Tempat Admin dan Pemain mencatat Hukum Kultivasi Kustom baru yang telah disetujui untuk digunakan di dunia.
+> **Pengelolaan:** Dikelola oleh Admin. AI GM wajib memeriksa file ini jika pemain mengklaim mempelajari Hukum di luar 5 Hukum Standar di `09_CULTIVATION_LAW_SYSTEM.md`.
+> **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (formula dasar Qi, HP, Attack, Defense), `00_CORE_RULES_AI_GM.md` (§1.11)
 
 ---
 
-## 📜 DAFTAR HUKUM KULTIVASI KUSTOM
+## 📋 Aturan Pembuatan Hukum Kustom
 
-### LAW-001: [Nama Hukum]
-- **Jenis:** [Dao Abadi / Raga Sejati / Gu Karma / Qi Naga Api / Roh Hantu / Kustom Lainnya]
-- **Asal Usul:** [Admin / Nama Pemain]
-- **Deskripsi Singkat:**
-  [Penjelasan tentang apa yang membuat Hukum ini unik]
-- **Afinitas Elemen:** [Api/Air/Tanah/Angin/Es/Racun/Roh/Darah/dll]
-- **Qi Cap Modifier:** [×1,0 / ×1,2 / ×0,8, dst] — lihat `09` §8
-- **Kelebihan:**
-  - [Kelebihan 1]
-  - [Kelebihan 2]
-- **Kekurangan:**
-  - [Kekurangan 1]
-  - [Kekurangan 2]
-- **Teknik Andalan Khas:**
-  - [Teknik 1 — nama & efek singkat]
-  - [Teknik 2]
-- **Wilayah Paling Cocok:** [Wilayah dengan Qi Density sesuai]
-- **Pengguna Terkenal:** [NPC yang menggunakan Hukum ini, jika ada]
-- **Trigger untuk AI GM:**
-  - Jika pemain menggunakan Hukum ini, pastikan [efek khas] terjadi.
-  - Jika pemain bertemu pengguna Hukum ini, NPC memiliki [sifat khas/teknik andalan].
+1. **Format Wajib:** Setiap Hukum Kustom harus mencantumkan Modifikator HP, Modifikator Attack, Modifikator Defense, Elemen Utama, Keunggulan Khusus, dan Kelemahan/Risiko Qi Deviation.
+2. **Keseimbangan Mekanik:** Modifikator total tidak boleh melebihi batas rata-rata $1.0$. Jika Attack tinggi (misal $1.5$), HP atau Defense harus lebih rendah (misal $0.8$).
+3. **Law Origin Requirement:** Penguasaan Hukum Kustom wajib mencantumkan Law Origin (Guru / Manual Kuno / Pencerahan Mandiri).
 
 ---
 
-### LAW-002: [Nama Hukum]
-- **Jenis:** [Dao Abadi / Raga Sejati / Gu Karma / Qi Naga Api / Roh Hantu / Kustom Lainnya]
-- **Asal Usul:** [Admin / Nama Pemain]
-- **Deskripsi Singkat:**
-  [Penjelasan]
-- **Afinitas Elemen:** [Elemen]
-- **Qi Cap Modifier:** [×1,0 dst]
-- **Kelebihan:**
-  - [Kelebihan 1]
-- **Kekurangan:**
-  - [Kekurangan 1]
-- **Teknik Andalan Khas:**
-  - [Teknik 1]
-- **Wilayah Paling Cocok:** [Wilayah]
-- **Pengguna Terkenal:** [NPC]
-- **Trigger untuk AI GM:**
-  - [Trigger 1]
+## 📜 DAFTAR HUKUM KULTIVASI KUSTOM RESMI
+
+### LAW-CUST-001: Hukum Api Purba Vermilion (Vermilion Ancient Flame Law)
+- **Nama Hukum:** Hukum Api Purba Vermilion (*Vermilion Flame Law*)
+- **Kategori:** Demonic / Offense Aggressive
+- **Elemen Utama:** Api / Yang Murni
+- **Pencipta / Asal-Usul:** Manuskrip Reruntuhan Gunung Yanmo (`21_ISTANA_YANMO.md`)
+- **Modifikator Statistik:**
+  - **LawHPMultiplier:** $0,9$ (Tubuh sedikit lebih rapuh karena panas api)
+  - **LawAttackMultiplier:** $1,4$ (Serangan api sangat membakar & destruktif)
+  - **LawDefenseMultiplier:** $0,8$ (Minim pertahanan pasif)
+- **Keunggulan Khusus:**
+  - *Burn Effect:* Setiap serangan fisik/Qi memberikan efek luka bakar bertahap ($10\%$ dari Attack Power selama 2 giliran combat).
+  - *Flame Immunity:* Kebal terhadap serangan atribut es/dingin Tier 1–2.
+- **Kelemahan & Risiko:**
+  - Risiko Qi Deviation +15% saat terdesak.
+  - Sangat rawan terhadap serangan atribut Air Purba (-20% Defense vs Air).
 
 ---
 
-## 📝 Template Kosong untuk Admin
+### LAW-CUST-002: Hukum Bayangan Ilusi Wuying (Wuying Phantom Shadow Law)
+- **Nama Hukum:** Hukum Bayangan Ilusi Wuying (*Phantom Shadow Law*)
+- **Kategori:** Unortodoks / Stealth & Speed
+- **Elemen Utama:** Kegelapan / Angin
+- **Pencipta / Asal-Usul:** Didirikan oleh Pendiri Perkumpulan Wuying (`33_PERKUMPULAN_WUYING.md`)
+- **Modifikator Statistik:**
+  - **LawHPMultiplier:** $0,85$
+  - **LawAttackMultiplier:** $1,1$
+  - **LawDefenseMultiplier:** $0,9$
+- **Keunggulan Khusus:**
+  - *Shadow Evasion:* +15% Chance menghindar dari serangan jarak jauh (`12_COMBAT_SYSTEM.md`).
+  - *Silent Movement:* Tidak menghasilkan suara saat bergerak di malam hari / tempat gelap.
+- **Kelemahan & Risiko:**
+  - Kerusakan dari Qi Atribut Cahaya/Suci (Buddhis) meningkat +25%.
 
-Salin template di bawah ini untuk menambahkan Hukum baru:
+---
 
-```markdown
-### LAW-XXX: [Nama Hukum]
-- **Jenis:** [Dao Abadi / Raga Sejati / Gu Karma / Qi Naga Api / Roh Hantu / Kustom Lainnya]
-- **Asal Usul:** [Admin / Nama Pemain]
-- **Deskripsi Singkat:**
-  [Tulis deskripsi di sini]
-- **Afinitas Elemen:** [Elemen]
-- **Qi Cap Modifier:** [×1,0 dst]
-- **Kelebihan:**
-  - [Kelebihan 1]
-  - [Kelebihan 2]
-- **Kekurangan:**
-  - [Kekurangan 1]
-  - [Kekurangan 2]
-- **Teknik Andalan Khas:**
-  - [Teknik 1 — nama & efek]
-  - [Teknik 2]
-- **Wilayah Paling Cocok:** [Wilayah]
-- **Pengguna Terkenal:** [Nama NPC]
-- **Trigger untuk AI GM:**
-  - [Trigger 1]
-  - [Trigger 2]
+### LAW-CUST-003: Hukum Hati Nirwana Welas Asih (Nirvana Compassion Law)
+- **Nama Hukum:** Hukum Hati Nirwana Welas Asih (*Nirvana Heart Law*)
+- **Kategori:** Ortodoks Buddhis / Defense & Healing
+- **Elemen Utama:** Cahaya / Tanah
+- **Pencipta / Asal-Usul:** Turunan Ajaran Kuil Ciyun (`31_KUIL_CIYUN.md`)
+- **Modifikator Statistik:**
+  - **LawHPMultiplier:** $1,3$ (Daya tahan fisik sangat tinggi)
+  - **LawAttackMultiplier:** $0,7$ (Serangan bersifat melumpuhkan, bukan membunuh)
+  - **LawDefenseMultiplier:** $1,3$ (Pertahanan pasif sangat kokoh)
+- **Keunggulan Khusus:**
+  - *Rapid Qi Recovery:* Pemulihan Qi alami bertambah +30% saat bermeditasi.
+  - *Purification:* Dapat membuang 5 Poin Dan-Du/Racun per hari tanpa pil (`43_ALCHEMY_PILL_SYSTEM.md`).
+- **Kelemahan & Risiko:**
+  - Mengurangi Sin/Merit Penalty saat membunuh musuh (Karma Sin bertambah 2× lipat jika membunuh musuh menyerah).

@@ -1,122 +1,59 @@
-# ⚔️ Lingyuan World — Teknik & Jurus Kustom (Custom Techniques)
+# ⚔️ Lingyuan World — Teknik & Jurus Kustom (Custom Martial Techniques)
 
-> **Modul:** 42 — Custom Techniques
-> **Fungsi:** Tempat Admin mencatat teknik/jurus buatan pemain atau tambahan Admin yang sudah disetujui.
-> **Pengelolaan:** Hanya Admin (pemilik repo) yang boleh mengedit file ini. AI GM WAJIB membaca daftar ini saat pemain menggunakan/mengklaim teknik kustom.
-> **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (sistem teknik & Law Origin), `12_COMBAT_SYSTEM.md` (resolusi pertarungan)
-
----
-
-## 📋 Cara Menggunakan File Ini
-
-1. Setiap Teknik Kustom diberi **ID unik** (misal: `TECH-001`).
-2. Teknik ini **bisa berasal dari**:
-   - Kreasi Admin untuk memperkaya dunia (teknik rahasia, teknik kuno, dll.).
-   - Kreasi pemain yang disetujui Admin setelah melalui proses roleplay yang wajar.
-3. Teknik yang sudah dicatat di sini dianggap **RESMI** dan eksis di dunia.
-4. AI GM WAJIB menggunakan data di sini saat pemain menggunakan teknik tersebut.
-5. Jika ada konflik dengan teknik di file resmi (`09_CULTIVATION_LAW_SYSTEM.md` atau file sekte), data Custom hanya meng-override **scope teknik spesifik yang secara eksplisit didefinisikan** di file ini; tidak otomatis meng-override aturan global seperti waktu, ekonomi, Vitality, provenance, atau batas Gardening.
+> **Modul:** 42 — Custom Martial Techniques
+> **Fungsi:** Tempat Admin dan Pemain mencatat Teknik, Jurus, dan Kemampuan Kustom yang diciptakan atau dipelajari oleh karakter dalam roleplay.
+> **Pengelolaan:** Dikelola oleh Admin. AI GM wajib memeriksa file ini saat pemain mengklaim atau menggunakan teknik kustom.
+> **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (Law Origin Log), `12_COMBAT_SYSTEM.md` (Combat, Damage & Qi Cost), `00_CORE_RULES_AI_GM.md` (§1.12 - Larangan Klaim Tanpa Dasar)
 
 ---
 
-## 🏷️ Sistem Tingkat / Grade Teknik
+## 📋 Aturan Klaim & Penggunaan Teknik Kustom
 
-Teknik dibagi menjadi **5 Tingkat (Grade)** berdasarkan kompleksitas, kekuatan, dan persyaratan:
-
-| Tingkat | Nama | Realm Minimum | Deskripsi |
-|:---:|:---|:---|:---|
-| **1** | Dasar (Basic) | Fondasi Fana / Qi Refining | Teknik sederhana yang dipelajari di perguruan kecil atau dari guru keliling. Efek terbatas, konsumsi Qi rendah. |
-| **2** | Menengah (Intermediate) | Foundation Establishment | Teknik standar sekte-sekte menengah. Efek cukup signifikan, konsumsi Qi sedang. |
-| **3** | Tinggi (Advanced) | Core Formation | Teknik elit yang hanya diajarkan ke murid inti sekte besar. Efek kuat, konsumsi Qi tinggi. |
-| **4** | Legendaris (Legendary) | Nascent Soul | Teknik kuno atau warisan dari kultivator legendaris. Efek sangat kuat, konsumsi Qi sangat tinggi, sering punya efek samping. |
-| **5** | Mitos (Mythical) | Void Severing+ | Teknik yang hampir mistis, diwariskan dari era dewa-dewa. Efek dahsyat, konsumsi Qi ekstrem, sering butuh pengorbanan. |
-
-### 🎯 Panduan Penentuan Tingkat untuk Admin
-
-| Kriteria | Tingkat 1 | Tingkat 2 | Tingkat 3 | Tingkat 4 | Tingkat 5 |
-|:---|:---|:---|:---|:---|:---|
-| **Realm Minimum** | Realm 0–1 | Realm 2–3 | Realm 4 | Realm 5–6 | Realm 7+ |
-| **Qi Cost (per use)** | 5–20 Qi | 20–100 Qi | 100–500 Qi | 500–2.500 Qi | 2.500+ Qi |
-| **Damage Modifier** | ×0,5–×1,0 | ×1,0–×1,5 | ×1,5–×2,5 | ×2,5–×4,0 | ×4,0–×8,0 |
-| **Waktu Latihan** | 1–4 minggu | 1–3 bulan | 3–12 bulan | 1–5 tahun | 5+ tahun |
-| **Guru/Panduan** | Bisa otodidak | Perlu guru/manuskrip | Perlu guru berpengalaman | Perlu warisan kuno | Hampir mustahil ditemukan |
+1. **Persyaratan Latihan:** Sesuai `00_CORE_RULES_AI_GM.md` §1.12, teknik kustom TIDAK BISA didapatkan secara instan. Harus melalui proses latihan (minimal 1 minggu in-game untuk teknik sederhana, berbulan-bulan untuk teknik tinggi), bimbingan guru/manuskrip, dan konsumsi Qi.
+2. **Karakteristik Teknik:** Wajib mencantumkan Nama, Tingkat Realm Minimal, Biaya Qi, Jenis Serangan (Fisik / Qi / AoE / Buff / Stealth), Damage Multiplier, dan Efek Samping.
 
 ---
 
-## 📜 DAFTAR TEKNIK KUSTOM
+## ⚔️ DAFTAR TEKNIK & JURUS KUSTOM RESMI
 
-### TECH-001: [Nama Teknik]
-- **Tingkat:** [1 / 2 / 3 / 4 / 5]
-- **Jenis:** [Serangan / Pertahanan / Support / Gerakan / Persepsi / Lainnya]
-- **Elemen:** [Api / Air / Tanah / Angin / Es / Racun / Roh / Darah / Netral / Lainnya]
-- **Hukum yang Cocok:** [Dao Abadi / Raga Sejati / Gu Karma / Qi Naga Api / Roh Hantu / Semua / Spesifik]
-- **Realm Minimum:** [Realm + Stage minimum untuk menggunakan]
-- **Deskripsi Singkat:**
-  [Penjelasan visual dan efek teknik]
-- **Efek Mekanik:**
-  - **Qi Cost:** [angka] Qi
-  - **Damage:** [rumus atau angka] (jika teknik serangan)
-  - **Efek Tambahan:** [misal: stun 1 giliran, poison, heal, buff, dll.]
-  - **Durasi:** [instan / X giliran / X menit / dst.]
-  - **Cooldown:** [X giliran / X hari / tidak ada]
-- **Kelemahan / Risiko:**
-  - [Kelemahan 1 — misal: mengurangi pertahanan sendiri]
-  - [Kelemahan 2 — misal: butuh konsentrasi penuh]
-- **Cara Memperoleh:**
-  - [Guru tertentu / Lokasi tertentu / Warisan / Kreasi pemain]
-- **Trigger untuk AI GM:**
-  - Jika pemain menggunakan teknik ini, pastikan [efek khas] terjadi.
-  - Jika pemain melawan pengguna teknik ini, NPC memiliki [pola serangan khas].
+### TECH-CUST-001: Tebasan Bayangan Angin Pedang (Wind-Blade Phantom Slash)
+- **Nama Teknik:** Tebasan Bayangan Angin Pedang (*Phantom Wind Slash*)
+- **Kategori:** Teknik Pedang / Kecepatan
+- **Persyaratan Realm Minimal:** Realm 2 (Qi Refining, Awal)
+- **Biaya Qi:** $30$ Qi per tebasan
+- **Jenis Serangan:** Serangan Tajam Qi Jarak Menengah (15 Meter)
+- **Damage Multiplier:** $1,5 \times \text{AttackPower}$
+- **Efek Khusus:**
+  - *Armor Penetration:* Memotong 10% Passive Defense zirah musuh (`12_COMBAT_SYSTEM.md`).
+  - *Bleeding Effect:* Memberikan damage tambahan $10$ HP per giliran selama 2 giliran.
+- **Asal-Usul & Deskripsi:**
+  Diciptakan dari kombinasi gerakan angin dan ketajaman reaksi refleks pedang. Sangat cocok digunakan oleh kultivator beraliran kecepatan.
 
 ---
 
-### TECH-002: [Nama Teknik]
-- **Tingkat:** [1 / 2 / 3 / 4 / 5]
-- **Jenis:** [Serangan / Pertahanan / Support / Gerakan / Persepsi / Lainnya]
-- **Elemen:** [Elemen]
-- **Hukum yang Cocok:** [Hukum]
-- **Realm Minimum:** [Realm + Stage]
-- **Deskripsi Singkat:**
-  [Deskripsi]
-- **Efek Mekanik:**
-  - **Qi Cost:** [angka] Qi
-  - **Damage:** [rumus/angka]
-  - **Efek Tambahan:** [efek]
-  - **Durasi:** [durasi]
-  - **Cooldown:** [cooldown]
-- **Kelemahan / Risiko:**
-  - [Kelemahan 1]
-- **Cara Memperoleh:**
-  - [Cara]
-- **Trigger untuk AI GM:**
-  - [Trigger]
+### TECH-CUST-002: Langkah Angin Tak Berjejak (Traceless Wind Steps)
+- **Nama Teknik:** Langkah Angin Tak Berjejak (*Traceless Wind Steps*)
+- **Kategori:** Movement / Evasion / Stealth
+- **Persyaratan Realm Minimal:** Realm 1 (Mortal Foundation, Puncak) / Realm 2
+- **Biaya Qi:** $15$ Qi per giliran aktif
+- **Jenis:** Movement Buff
+- **Efek Khusus:**
+  - *Initiative Boost:* +20% pada Roll Inisiatif Pertarungan (`12`).
+  - *Escape Chance:* +25% peluang berhasil melarikan diri dari ambush/pengepungan musuh.
+  - *Silent Movement:* Mengurangi risiko terdengar musuh sebesar 50%.
+- **Asal-Usul & Deskripsi:**
+  Jurus meringankan tubuh (*Qinggong*) tingkat tinggi yang memusatkan Qi pada telapak kaki untuk melangkah di atas dedaunan tanpa merundukkannya.
 
 ---
 
-## 📝 Template Kosong untuk Admin
-
-Salin template di bawah ini untuk menambahkan teknik baru:
-
-```markdown
-### TECH-XXX: [Nama Teknik]
-- **Tingkat:** [1 / 2 / 3 / 4 / 5]
-- **Jenis:** [Serangan / Pertahanan / Support / Gerakan / Persepsi / Lainnya]
-- **Elemen:** [Api / Air / Tanah / Angin / Es / Racun / Roh / Darah / Netral / Lainnya]
-- **Hukum yang Cocok:** [Dao Abadi / Raga Sejati / Gu Karma / Qi Naga Api / Roh Hantu / Semua / Spesifik]
-- **Realm Minimum:** [Realm + Stage]
-- **Deskripsi Singkat:**
-  [Tulis deskripsi visual dan efek di sini]
-- **Efek Mekanik:**
-  - **Qi Cost:** [angka] Qi
-  - **Damage:** [rumus atau angka]
-  - **Efek Tambahan:** [efek tambahan]
-  - **Durasi:** [durasi]
-  - **Cooldown:** [cooldown]
-- **Kelemahan / Risiko:**
-  - [Kelemahan 1]
-  - [Kelemahan 2]
-- **Cara Memperoleh:**
-  - [Cara memperoleh teknik ini]
-- **Trigger untuk AI GM:**
-  - [Trigger 1]
-  - [Trigger 2]
+### TECH-CUST-003: Tinju Penghancur Gunung Xuanjin (Xuanjin Mountain Breaker)
+- **Nama Teknik:** Tinju Penghancur Gunung Xuanjin
+- **Kategori:** Martial Arts / Unarmed Heavy Attack
+- **Persyaratan Realm Minimal:** Realm 2 (Qi Refining, Menengah)
+- **Biaya Qi:** $50$ Qi per pukulan
+- **Jenis Serangan:** Serangan Fisik / Impact Tumpul
+- **Damage Multiplier:** $2,0 \times \text{AttackPower}$
+- **Efek Khusus:**
+  - *Stun Effect:* 25% Peluang membuat musuh terkena efek Stun (kehilangan 1 giliran) jika serangan berhasil menembus Passive Defense musuh.
+  - *Durability Damage:* Mengurangi durabilitas zirah/perisai musuh sebesar 3 Poin (`44_FORGING_CRAFTING_SYSTEM.md`).
+- **Efek Samping:** Mengonsumsi $10$ Poin Stamina per pukulan.

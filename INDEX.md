@@ -45,11 +45,16 @@
 | 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
 | 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
 | 38 | `38_GARDENING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/38_GARDENING_SYSTEM.md | Penanaman, maintenance, pertumbuhan, panen, provenance & checkpoint gardening |
-| 14–37 | *(24 file sekte/perguruan/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
 | 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
 | 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/41_CUSTOM_SECTS.md | **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 43 | `43_ALCHEMY_PILL_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/43_ALCHEMY_PILL_SYSTEM.md | **Alkemia & Pembuatan Pil** — resep pil, tungku, Dan-Du (racun pil), ledakan tungku |
+| 44 | `44_FORGING_CRAFTING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/44_FORGING_CRAFTING_SYSTEM.md | **Tempa & Artefak** — pembuatan senjata/zirah, inskripsi rune, durabilitas |
+| 45 | `45_ARRAY_TALISMAN_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/45_ARRAY_TALISMAN_SYSTEM.md | **Formasi Array & Jimat** — jimat serang/bertahan, formasi perlindungan area/domain |
+| 46 | `46_SPIRIT_BEAST_TAMING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/46_SPIRIT_BEAST_TAMING_SYSTEM.md | **Penjinakan Spirit Beast** — tumpangan, rekan tempur, kontrak jiwa, loyalty |
+| 47 | `47_BOUNTY_AUCTION_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/47_BOUNTY_AUCTION_SYSTEM.md | **Papan Misi & Rumah Lelang** — misi bounty, lelang barang langka, komisi |
+| 14–37 | *(24 file sekte/perguruan/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
 | — | `README.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
 
 ### 1a. Direktori Sekte, Perguruan & Organisasi (24 File Individual)
@@ -134,6 +139,11 @@
 | Pertarungan resmi dimulai (giliran, initiative, damage) | `12_COMBAT_SYSTEM.md` | |
 | Lawan monster/spirit beast liar, perjalanan lewat zona liar (ambush) | `13_BESTIARY.md` | Dipakai bersamaan dengan `12` |
 | Berkebun, menanam, merawat tanaman, mengecek pertumbuhan, atau memanen | `38_GARDENING_SYSTEM.md` | Wajib dipakai bersama `00`, `10`, dan `11` bila kondisi terkait muncul |
+| Memuat tungku, meracik pil herbal, mengecek Dan-Du (racun pil), atau ledakan tungku | `43_ALCHEMY_PILL_SYSTEM.md` | Dipakai bersama `10` dan `38` |
+| Menempa senjata/zirah, menambah inskripsi rune, merawat durabilitas item | `44_FORGING_CRAFTING_SYSTEM.md` | Dipakai bersama `10`, `12`, dan `13` |
+| Mengukir/menggunakan jimat spirit, memasang/meretas formasi array perlindungan | `45_ARRAY_TALISMAN_SYSTEM.md` | Dipakai bersama `09`, `10`, dan `12` |
+| Menjinakkan spirit beast, membentuk kontrak jiwa, melatih tumpangan/rekan tempur | `46_SPIRIT_BEAST_TAMING_SYSTEM.md` | Dipakai bersama `12` dan `13` |
+| Pengambilan misi papan bounty, melelang barang langka, komisi lelang | `47_BOUNTY_AUCTION_SYSTEM.md` | Dipakai bersama `08` dan `10` |
 | Karakter mau bergabung sekte/perguruan, eksplorasi fasilitas sekte, belajar teknik bertingkat, atau cek hierarki/artefak sekte tertentu | Fetch langsung dari link RAW di §1a | Jangan rakit URL sendiri. Gunakan link yang sudah tertulis di kolom "Link RAW" tabel §1a. Pilih HANYA satu file yang sesuai dengan sekte yang sedang berinteraksi. |
 | Pemain menyebut sekte yang tidak ada di `14`–`37` | `41_CUSTOM_SECTS.md` | Cek apakah sekte itu sudah dicatat Admin di file kustom |
 | Pemain menyebut/mengklaim teknik yang tidak ada di file resmi | `42_CUSTOM_TECHNIQUES.md` | Cek apakah teknik itu sudah dicatat Admin di file kustom |
@@ -149,15 +159,6 @@
 
 > ✅ **Link katalog `players.md` dan file individual di `players/` sudah aktif.** Setiap karakter disimpan dalam file `.md` ringkas terpisah untuk menghindari batas ekstraksi teks AI (seperti limit 300 baris Qwen AI).
 
-**Alur pemakaian & Sesi Baru:**
-1. Pemain cukup menyebutkan nama karakternya (misal: `Inggo`) saat membuka chat/sesi baru.
-2. AI GM **WAJIB men-fetch file `players/<Nama_Karakter>.md` terbaru** sebagai Official Save saat sesi baru, bootstrap baru, reset, atau `[STATE REFRESH]`.
-3. Seluruh data di Official Save terbaru dimuat sebagai starting state.
-4. Selama sesi berlangsung, runtime state hidup di percakapan melalui blok Profil Karakter dan checkpoint, tetapi **runtime tidak boleh mengalahkan Official Save terbaru setelah refresh/reset**.
-5. Jika terjadi konflik, tandai data lama sebagai `STALE` dan gunakan data Official Save terbaru.
-5. Pemain dapat meminta checkpoint; checkpoint dikirim kepada Admin untuk diverifikasi.
-6. Setelah verifikasi, Admin memperbarui official save `players/<Nama_Karakter>.md`.
-
 ---
 
 ## 4. Batasan Penting yang Harus Diketahui Pemain
@@ -166,11 +167,10 @@
 - **AI GM/Qwen tidak menulis langsung ke GitHub.** Runtime state tetap berada di sesi sampai dibuat checkpoint.
 - Alur save resmi: **Runtime State → Checkpoint → Admin Verification → Official Player Save**.
 - Hanya Admin yang boleh memperbarui `players.md` dan file `players/` berdasarkan checkpoint yang diverifikasi.
-- **File `39_CUSTOM_EVENTS.md`, `40_CUSTOM_LAWS.md`, dan `41_CUSTOM_SECTS.md` dikelola sepenuhnya oleh Admin.** AI tidak boleh mengedit, menambah, atau menghapus isinya — hanya membaca dan menggunakan data yang sudah ada di dalamnya.
-- Jika sebuah link 404/gagal fetch, itu paling sering karena: nama file salah huruf besar-kecil (GitHub case-sensitive), file belum ter-push ke branch `main`, atau repo tidak publik.
+- **File kustom (`39`–`42`) dikelola oleh Admin.** AI membaca dan menerapkan isinya.
 
 ---
 
 ## 5. Ringkasan Dunia (satu baris, detail penuh di `01`)
 
-Xianxia · Wuxia · Kultivasi Hardcore Realism — 7 wilayah besar, 9 Major Realm × 3 Stage, 5 Hukum kultivasi berbeda, ± 280 juta jiwa populasi, tanpa plot armor, semua mekanik tunduk formula anti-cheat di modul `09`–`13`.
+Xianxia · Wuxia · Kultivasi Hardcore Realism — 7 wilayah besar, 9 Major Realm × 3 Stage, 5 Hukum kultivasi berbeda, ± 280 juta jiwa populasi, tanpa plot armor, semua mekanik tunduk formula anti-cheat di modul `09`–`13` & `43`–`47`.
