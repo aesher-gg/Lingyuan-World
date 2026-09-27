@@ -1,110 +1,51 @@
-# 🏯 Lingyuan World — Sekte, Perguruan & Organisasi Kustom (Custom Sects)
+# 🏯 Lingyuan World — Sekte & Perguruan Kustom (Custom Sects & Organizations)
 
-> **Modul:** 41 — Custom Sects
-> **Fungsi:** Tempat Admin mencatat Sekte/Perguruan/Organisasi buatan pemain atau tambahan Admin.
-> **Pengelolaan:** Hanya Admin (pemilik repo) yang boleh mengedit file ini. AI GM WAJIB membaca daftar ini saat pemain berinteraksi dengan sekte kustom.
-> **Rujukan silang:** `14`–`37` (sekresmi), `09_CULTIVATION_LAW_SYSTEM.md` (Hukum yang digunakan)
-
----
-
-## 📋 Cara Menggunakan File Ini
-
-1. Setiap Sekte Kustom diberi **ID unik** (misal: `SECT-001`).
-2. Sekte ini **bisa berasal dari**:
-   - Kreasi Admin untuk memperkaya dunia.
-   - Kreasi pemain yang disetujui Admin.
-3. Sekte yang sudah dicatat di sini dianggap **RESMI** dan eksis di dunia.
-4. AI GM WAJIB menggunakan data di sini saat berinteraksi dengan sekte tersebut.
-5. Jika ada konflik dengan sekte di `14`–`37`, maka **Sekte di file ini (Custom) yang dianggap ada** untuk nama yang sama (jika duplikat).
+> **Modul:** 41 — Custom Sects & Organizations
+> **Fungsi:** Tempat Admin dan Pemain mencatat Sekte, Perguruan, atau Organisasi Kustom baru yang diciptakan dalam roleplay.
+> **Pengelolaan:** Dikelola oleh Admin. AI GM wajib memeriksa file ini jika pemain menyebut atau berinteraksi dengan sekte di luar 24 Sekte Resmi (`14`–`37`).
+> **Rujukan silang:** `01`–`07` (wilayah), `08` (organisasi lintas wilayah), `00_CORE_RULES_AI_GM.md` (§1.11)
 
 ---
 
-## 📜 DAFTAR SEKTE/PERGURUAN/ORGANISASI KUSTOM
+## 📋 DAFTAR SEKTE & ORGANISASI KUSTOM RESMI
 
-### SECT-001: Paviliun "Jing Han" (静寒)
-- **Tipe:** Tempat Kediaman & Pertapaan Pribadi (Independen / Sanxiu)
-- **Afiliasi:** Ortodoks / Netral (Bersekutu dengan Garnisun Benteng Beikuan)
-- **Wilayah:** Beiyuan (Wilayah Utara Gersang)
-- **Lokasi Spesifik:** Distrik Timur Inti (Inner Eastern District), Benteng Beikuan (600 li dari perbatasan barbar, 400 li selatan Danau Cermin Es)
-- **Hukum Kultivasi:** Hukum Kultivasi Es & Dao Murni Yin
-- **Deskripsi Singkat:**
-  Paviliun "Jing Han" adalah kediaman pribadi Nona Ji Yue yang berdiri tepat di atas simpul langka Urat Nadi Yin (Yin Spirit Vein). Bagi penduduk fana dan prajurit biasa, tempat ini hanyalah paviliun kayu elegan terbungkus kabut es yang terisolasi dan dilarang didekati. Namun bagi para kultivator tinggi, tempat ini adalah benteng pertahanan paling aman di Wilayah Utara Gersang, terlindungi oleh formasi ilusi & pembunuh serta diawasi oleh penjaga bayangan 24 jam.
-- **Hierarki:**
-  - **Pemilik / Tuan Paviliun:** Nona Ji Yue
-  - **Penjaga Bayangan:** 2 Pengawal Pribadi (Realm 3 Puncak / Realm 4 Awal)
-  - **Tamu Terhormat / Murid Retret:** Kultivator yang diizinkan tinggal di Sayap Timur
-- **Fasilitas Utama:**
-  - **Urat Nadi Yin (Yin Spirit Vein Node):** Simpul energi Yin murni dan dingin di bawah tanah untuk mempercepat kultivasi elemen es.
-  - **Formasi Pelindung Tingkat Menengah:** Empat batu langkah utama halaman depan yang memicu serangan es otomatis jika mendeteksi niat membunuh (*killing intent*).
-  - **Dapur Alkimia Pribadi:** Kompor spiritual dan peralatan giok putih untuk meracik ramuan atau memasak masakan alkimia.
-  - **Sayap Timur (Kamar Tamu):** Fasilitas tempat tidur kayu cendana dan kasur bulu rubah untuk retret kultivasi terlindungi.
-  - **Sayap Barat (Ruang Pribadi Ji Yue):** Terlindungi formasi isolasi tebal yang menembus pemindaian persepsi Qi luar.
-- **Artefak/Pusaka/Formasi:**
-  - **Formasi Ilusi & Pembunuh Tingkat Menengah:** Pembekuan darah otomatis pada penyusup berniat jahat.
-  - **Array Isolasi Sayap Barat:** Blokir total indra spiritual luar.
-- **Kurikulum Teknik Bertingkat:**
-  - **Tingkat Dasar:** Pengendalian Embun Salju & Regulasi Qi Yin
-  - **Tingkat Menengah:** Formasi Kabut Pembeku & Pemataan Topografi Qi
-  - **Tingkat Tinggi:** Seni Pedang Embun Salju & Pembekuan Meridian
-- **Relasi dengan Faksi Lain:**
-  - **Garnisun Benteng Beikuan (Komandan Bei Zhan):** Sangat dihormati dan diberikan hak otonomi penuh di Distrik Timur Inti.
-  - **Balai Yunyao:** Netral / Berbagi riset ramuan alkimia es.
-  - **Sekte Demonic (Sekte Hunming):** Waspada & Musuh potensial jika melanggar batas.
-- **Rahasia Internal:**
-  - Simpul Urat Nadi Yin di bawah paviliun memiliki titik pemurnian es murni yang sangat langka di Utara.
-  - Pengawal bayangan tidak pernah meninggalkan atap genteng dan beroperasi murni berdasarkan sinyal persepsi energi Ji Yue.
-- **NPC Utama:**
-
-| NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik |
-|---|---|---|---|---|---|---|
-| Nona Ji Yue | Pemilik Paviliun "Jing Han" & Kultivator Dao Es | 24 (tampak) | Core Formation, Puncak | **5.000** | *Seni Pedang Embun Salju* — tebasan es Murni dan pembekuan meridian lawan | Anggun, dingin, dan pendiam; menyukai teh dan masakan alkimia, sangat selektif menerima tamu |
-| Pengawal Bayangan Ji Yue (2 Orang) | Penjaga Paviliun "Jing Han" | ??? | Core Formation, Awal | **2.500** | *Tebasan Bayangan Es* — serangan mendadak dari balik kabut es | Berjaga 24 jam di atap genteng tanpa berganti shift, sangat setia dan tidak pernah bersuara |
-
-- **Trigger untuk AI GM:**
-  - Jika pemain berada di Distrik Timur Inti Benteng Beikuan, gambarkan kabut es dingin dan kesunyian Paviliun "Jing Han".
-  - Jika pemain melangkah ke halaman depan dengan niat membunuh (*killing intent*), pemicu *Formasi Ilusi & Pembunuh Tingkat Menengah* langsung aktif.
-  - Jika pemain memindai paviliun dengan indra spiritual / Jejak Beku, tampilkan topografi Urat Nadi Yin, 4 node batu langkah, dua "kehampaan" termal di atap, serta blokir isolasi di sayap barat.
+### SECT-CUST-001: Lembah Tabib Bintang Suci (Star-Medicine Valley)
+- **Kode / ID:** `SECT-CUST-001`
+- **Lokasi Utama:** Lembah Kabut Qingyun (300 li dari Kota Yinfeng, `03_QINGYUN.md`)
+- **Tipe / Afiliasi:** Netral / Ortodoks (Fokus Tabib & Alkemia)
+- **Hukum Utama:** Hukum Hati Nirwana Welas Asih (`40_CUSTOM_LAWS.md`)
+- **Pemimpin / Tetua:** Tabib Agung Su Shen (Realm 4 Core Formation, Menengah)
+- **Fasilitas Inti:**
+  - *Tungku Spirit Bintang Purba:* Tungku Alkemia Tier 3 (`43_ALCHEMY_PILL_SYSTEM.md`).
+  - *Kebun Herba Bintang:* Kebun herbal khusus penanaman tanaman obat Tier 2–3 (`38_GARDENING_SYSTEM.md`).
+  - *Formasi Kabut Ilusi Tier 2:* Pelindung area dari serangan luar (`45_ARRAY_TALISMAN_SYSTEM.md`).
+- **Kurikulum & Teknik Spesialisasi:**
+  - *Teknik Jarum Emas Bintang:* Pemulihan HP instan dan pembersihan Dan-Du/Racun.
+  - *Ilmu Peracikan Pil Qing-Xue:* Pembuatan pil medis kualitas tinggi.
+- **Relasi & Deskripsi:**
+  Perguruan tabib independen yang menerima pasien dari faksi manapun selama tidak membawa senjata terhunus ke dalam lembah. Bersekutu dekat dengan Perhimpunan Youyi (`37_PERHIMPUNAN_YOUYI.md`) dan sangat dihormati oleh penduduk lokal Qingyun.
 
 ---
 
-## 📝 Template Kosong untuk Admin
+### SECT-CUST-002: Persekutuan Pandai Besi Meteorik (Meteor Forging Guild)
+- **Kode / ID:** `SECT-CUST-002`
+- **Lokasi Utama:** Kota Haoyang, Tianzhou (`02_TIANZHOU.md`)
+- **Tipe / Afiliasi:** Netral / Pengrajin Senjata
+- **Hukum Utama:** Hukum Raga Sejati (Varian Tempa Besi)
+- **Pemimpin / Tetua:** Master Tempa Iron-Hand Lei (Realm 3 Foundation Est., Puncak)
+- **Fasilitas Inti:**
+  - *Landasan Besi Meteorik Api Spirit:* Landasan Tempa Tier 3 (`44_FORGING_CRAFTING_SYSTEM.md`).
+- **Kurikulum & Teknik Spesialisasi:**
+  - *Gaya Tempa 1008 Ketukan Spirit:* Mampu meningkatkan durabilitas senjata hingga +30%.
+- **Relasi & Deskripsi:**
+  Serikat persekutuan tukang tempa bebas yang menerima pesanan pembuatan senjata kustom dari kultivator Sanxiu maupun sekte. Menjadi saingan sehat dari Perguruan Tielu (`18_PERGURUAN_TIELU.md`).
 
-Salin template di bawah ini untuk menambahkan sekte baru:
+---
 
-```markdown
-### SECT-XXX: [Nama Sekte]
-- **Tipe:** [Sekte Besar / Perguruan / Organisasi Independen / Lintas Wilayah]
-- **Afiliasi:** [Ortodoks / Demonic / Netral / Lainnya]
-- **Wilayah:** [Wilayah]
-- **Lokasi Spesifik:** [Deskripsi lokasi]
-- **Hukum Kultivasi:** [Nama Hukum]
-- **Deskripsi Singkat:**
-  [Tulis deskripsi di sini]
-- **Hierarki:**
-  - [Pemimpin / Ketua]
-  - [Tetua / Dewan]
-  - [Murid Inti]
-  - [Murid Luar]
-- **Fasilitas Utama:**
-  - [Fasilitas 1]
-  - [Fasilitas 2]
-- **Artefak/Pusaka:**
-  - [Nama Artefak — efek]
-- **Kurikulum Teknik Bertingkat:**
-  - **Tingkat Dasar:** [Teknik]
-  - **Tingkat Menengah:** [Teknik]
-  - **Tingkat Tinggi:** [Teknik]
-- **Relasi dengan Faksi Lain:**
-  - [Faksi 1]: [Hubungan]
-- **Rahasia Internal:**
-  - [Rahasia 1]
-- **NPC Utama:**
-
-| NPC | Peran | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik |
-|---|---|---|---|---|---|---|
-| [Nama] | [Peran] | [Umur] | [Realm & Stage] | [Qi Cap] | [Teknik] | [Sifat] |
-
-- **Trigger untuk AI GM:**
-  - [Trigger 1]
-  - [Trigger 2]
-```
+### SECT-CUST-003: Geng Serigala Merah (Red Wolf Gang)
+- **Kode / ID:** `SECT-CUST-003`
+- **Lokasi Utama:** Hutan Perbatasan Moyuan–Tianzhou (`04_MOYUAN.md`)
+- **Tipe / Afiliasi:** Demonic / Bandit Jalanan
+- **Pemimpin / Tetua:** Serigala Tangan Merah Xue Wolf (Realm 2 Qi Refining, Puncak)
+- **Deskripsi:**
+  Kelompok bandit agresif yang sering mencegat karavan pedagang. Kepala pemimpinnya dipajang sebagai misi buronan Grade C di Papan Misi Bounty (`47_BOUNTY_AUCTION_SYSTEM.md`).

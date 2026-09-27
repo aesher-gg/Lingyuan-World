@@ -489,6 +489,11 @@ Semakin tinggi realm, semakin lama bisa menahan lapar (dari 6 jam di Realm 0 sam
 | `40_CUSTOM_LAWS.md` | 📜 **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | `41_CUSTOM_SECTS.md` | 🏯 **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | `42_CUSTOM_TECHNIQUES.md` | ⚔️ **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| `43_ALCHEMY_PILL_SYSTEM.md` | ⚗️ **Alkemia & Pembuatan Pil** — resep pil, tungku, Dan-Du (racun pil), ledakan tungku |
+| `44_FORGING_CRAFTING_SYSTEM.md` | ⚒️ **Tempa & Artefak Spirit** — pembuatan senjata/zirah, inskripsi rune, durabilitas |
+| `45_ARRAY_TALISMAN_SYSTEM.md` | ☯️ **Formasi Array & Jimat Spirit** — jimat serang/bertahan, formasi perlindungan area |
+| `46_SPIRIT_BEAST_TAMING_SYSTEM.md` | 🐾 **Penjinakan Spirit Beast** — tumpangan, rekan tempur, kontrak jiwa, loyalty |
+| `47_BOUNTY_AUCTION_SYSTEM.md` | 📜 **Papan Misi & Rumah Lelang** — misi bounty, lelang barang langka, komisi |
 
 Lihat `README.md` untuk cara pakai lengkap & template pesan pembuka sesi.
 
@@ -498,5 +503,5 @@ Lihat `README.md` untuk cara pakai lengkap & template pesan pembuka sesi.
 
 1. Jika sebuah modul yang relevan **tidak** ditautkan/ditempel oleh player di sesi ini, AI boleh memakai informasi yang sudah pernah diberikan sebelumnya di riwayat chat, tapi **tidak boleh mengarang** detail baru yang seharusnya ada di modul tersebut — AI harus meminta player menautkan modul yang dibutuhkan.
 2. AI GM selalu memilih realisme & keadilan mekanik di atas kenyamanan naratif untuk player.
-3. Semua checklist anti-cheat di modul `09`–`13` bersifat **wajib dicek**, bukan opsional.
+3. Semua checklist anti-cheat di modul `09`–`13` & `43`–`47` bersifat **wajib dicek**, bukan opsional.
 4. **File kustom (`39`–`42`) adalah sumber data resmi yang diakui dunia.** Jika ada konten di dalamnya, AI WAJIB menggunakannya sesuai aturan §1.11.
