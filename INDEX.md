@@ -105,6 +105,12 @@
 | Kuil Ciyun | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/31_KUIL_CIYUN.md |
 | Perguruan Shaying | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/32_PERGURUAN_SHAYING.md |
 
+**Muyuan**
+| Sekte/Perguruan | Link RAW (langsung klik/fetch) |
+|---|---|
+| Sekte Shenmu | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/48_SEKTE_SHENMU.md |
+| Perguruan Wantu | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/49_PERGURUAN_WANTU.md |
+
 **Lintas Wilayah**
 | Organisasi | Link RAW (langsung klik/fetch) |
 |---|---|
