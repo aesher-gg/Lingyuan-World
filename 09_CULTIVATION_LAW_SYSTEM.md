@@ -217,6 +217,7 @@ Memengaruhi regenerasi qi Hukum Dao Abadi (§3.C) dan ketersediaan bahan terobos
 | Haiyuan | ×1,1 (Sedang, atribut Air) | Cocok untuk varian Dao Abadi beratribut Air; Hukum Qi Naga Api kena −25% efektivitas |
 | Beiyuan | ×0,6 (Miskin, dingin) | Regen qi lambat untuk semua Hukum; ideal untuk kultivator es/roh. Hukum Dao Abadi kena penalti dasar −50% **ditambah** −0,6 modifier ini (stacking, sangat berat) |
 | Xisha | ×0,4 (Termiskin) | Qi paling langka di dunia. Hanya kultivator Realm 4 (Core Formation) ke atas yang disarankan menyeberang. Kuil Ciyun bertahan lewat Dao Insight welas asih, bukan kelimpahan qi |
+| Cangmu | ×2,0 (Sangat Padat — Kayu & Tanah) | Berada di persimpangan urat nadi bumi utama; konsentrasi Qi Kayu dan Tanah tertinggi di dunia. Bonus regen +25% untuk atribut Kayu/Tanah dan +30% kecepatan tumbuh Gardening |
 
 ### 8.2 Pemetaan Sekte → Hukum Kultivasi Utama
 
@@ -234,6 +235,8 @@ Memengaruhi regenerasi qi Hukum Dao Abadi (§3.C) dan ketersediaan bahan terobos
 | Balai Yunyao | Beiyuan | *Bukan Hukum tempur* — Jalur Alkimia/Support | Netral, fokus pengobatan; tidak butuh Qi Cap tempur, tapi tetap tunduk cap qi standar bila anggotanya bertarung |
 | Sekte Hunming | Beiyuan | Custom Law: **Hukum Roh Hantu** | Ilmu roh ekstrem → butuh Custom Law baru (§8.3), Sin Points naik otomatis |
 | Kuil Ciyun | Xisha | Hukum Dao Abadi (varian Welas Asih/Buddhis) | Qi miskin di wilayah ini dikompensasi lewat Dao Insight welas asih |
+| Sekte Shenmu | Cangmu | Hukum Dao Abadi (varian Kayu & Restorasi Raga) | Sekte ortodoks penguasa Pohon Dunia Shenmu, berpusat pada vitalitas & pemulihan raga |
+| Perguruan Wantu | Cangmu | Hukum Raga Sejati (varian Pertahanan Tanah & Batu Purba) | Perguruan pertahanan raga di Lembah Wantu, memanfaatkan kristal bumi loess |
 | 🆕 Perkumpulan Wuying | Lintas Wilayah | Custom Law: **Hukum Pisau Sunyi** | Organisasi pembunuh bayaran paling terstruktur di dunia, kode "satu kontrak satu nyawa" butuh mekanik disiplin tersendiri (§8.3) |
 | 🆕 Kelompok Yandu | Lintas Wilayah (kota besar) | Hukum Gu Karma (varian Racun) | Spesialis racun kontrak — selaras Sarang Jiuyin, skala jauh lebih kecil & fokus urban |
 

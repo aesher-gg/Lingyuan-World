@@ -24,13 +24,16 @@
 | Moyuan | 1.900 li | 11–13 hari | 2 hari |
 | Xisha | 2.400 li | 15–17 hari | 2,5 hari |
 | Qingyun | 1.100 li | 6–7 hari | 1 hari |
+| Cangmu | 1.800 li | 10–12 hari | 1,8 hari |
 
 ### Jarak Antar Wilayah Berdekatan (perbatasan langsung)
 
 - **Tianzhou ↔ Qingyun:** 1.100 li (perbatasan darat, jalur utama lewat Gunung Sanxuan)
 - **Tianzhou ↔ Moyuan:** 900 li (perbatasan darat, jalur Lembah Tianlie)
 - **Qingyun ↔ Beiyuan:** 1.300 li (harus lewat jalur pegunungan)
+- **Qingyun ↔ Cangmu:** 1.400 li (jalur hutan raksasa & perbukitan hijau)
 - **Haiyuan ↔ Moyuan:** 1.500 li (jalur laut, sering diserang bajak)
+- **Haiyuan ↔ Cangmu:** 1.700 li (jalur pesisir & rawa bakau purba)
 - **Xisha ↔ Beiyuan:** 2.600 li (jarak terjauh antar wilayah tetangga, jarang dilalui)
 
 > **Catatan anti-cheat perjalanan (MUTLAK):** Setiap klaim perjalanan wajib tunduk pada `00_CORE_RULES_AI_GM.md` §1.9A. AI GM DILARANG MUTLAK melompati waktu perjalanan berhari-hari dalam 1 prompt/turn. Perjalanan wajib dipecah per giliran (maksimal 3 jam per prompt) dengan menghitung Satiety/Stamina serta roll *Encounter Chance* di setiap tahapan. Persingkatan waktu tanpa artefak/kemampuan terbang sah (Core Formation+) DITOLAK OTOMATIS.

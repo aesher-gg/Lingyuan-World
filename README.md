@@ -75,7 +75,7 @@ Data karakterku (karakter baru, belum terdaftar di players.md):
 
 ## 🌏 Dunia dalam Angka
 
-- **Luas total:** ± 48 juta li² · **Populasi:** ± 280 juta jiwa
-- **7 wilayah besar:** Tianzhou, Qingyun, Moyuan, Haiyuan, Beiyuan, Xisha, plus organisasi lintas wilayah
+- **Luas total:** ± 48 juta li² · **Populasi:** ± 298 juta jiwa
+- **8 wilayah besar:** Tianzhou, Qingyun, Moyuan, Haiyuan, Beiyuan, Xisha, Cangmu, plus organisasi lintas wilayah
 - **9 Major Realm × 3 Stage** kultivasi, **5 Hukum kultivasi** utama
 - **Sistem Mekanik Lengkap:** Alkemia, Penempaan, Formasi Array & Jimat, Penjinakan Beast, Papan Misi & Rumah Lelang, Gardening, Pertempuran Turn-based, dan Ekonomi Terukur.
