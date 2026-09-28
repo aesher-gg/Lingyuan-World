@@ -57,14 +57,14 @@ Pilih salah satu dari template di bawah sesuai situasimu:
 
 ### A. Mulai Karakter dari Katalog `players.md` (Pertama Kali Dimainkan)
 ```
-analisis link berikut ini secara penuh dan pelajari dengan seksama untuk memulai permainan roleplay ini : https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/INDEX.md dan https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Inggo.md untuk Memulai permainan sebagai Inggo!
+analisis link berikut ini secara penuh dan pelajari dengan seksama untuk memulai permainan roleplay ini : https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/INDEX.md?v=01 dan https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/players/Inggo.md?v=01 untuk Memulai permainan sebagai Inggo!
 ```
 
 ### B. Karakter Custom Baru (Belum Terdaftar di `players.md`)
 ```
 Kamu akan jadi AI Game Master untuk roleplay Lingyuan World. Baca dan ikuti seluruh isi link berikut sebagai satu-satunya sumber kebenaran:
 
-https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/INDEX.md
+https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/INDEX.md?v=01
 
 Data karakterku (karakter baru, belum terdaftar di players.md):
 - Nama: [nama karaktermu]
