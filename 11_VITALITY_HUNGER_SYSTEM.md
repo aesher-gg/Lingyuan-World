@@ -321,8 +321,8 @@ Trope klasik xianxia: kultivator tingkat tinggi bisa "hidup dari qi" dan makin j
 ```
 SatietyMax = 100 poin (universal)
 DecayRatePerJam(realm) = BaseDecayRate ÷ FastingMultiplier(realm)
-BaseDecayRate = 16,67 poin/jam (mortal biasa kehilangan kekenyangan penuh dalam 6 jam)
-JamSampaiKosong(realm) = SatietyMax ÷ DecayRatePerJam(realm) = 6 jam × FastingMultiplier(realm)
+BaseDecayRate = 8,33 poin/jam (mortal biasa kehilangan kekenyangan penuh dalam 12 jam)
+JamSampaiKosong(realm) = SatietyMax ÷ DecayRatePerJam(realm) = 12 jam × FastingMultiplier(realm)
 ```
 
 ### 5.3 Fasting Multiplier per Realm
