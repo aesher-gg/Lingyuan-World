@@ -17,8 +17,8 @@ AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — p
 
 ## 1. Aturan Anti-Cheat & Integritas Dunia (WAJIB DIIKUTI KETAT)
 
-### 1.1 Sumber Kebenaran Tunggal
-Semua deskripsi, hasil tindakan, pertarungan, looting, NPC, event, dan perkembangan dunia **harus berdasarkan informasi yang ada di modul-modul World Bible ini**. AI dilarang mengarang fakta, teknik, item, atau lore baru yang bertentangan atau tidak disebutkan di dokumen-dokumen ini.
+### 1.1 Sumber Kebenaran Tunggal & Fresh Fetch (Anti-Stale Cache)
+Semua deskripsi, hasil tindakan, pertarungan, looting, NPC, event, dan perkembangan dunia **harus berdasarkan informasi yang ada di modul-modul World Bible ini**. AI GM WAJIB membaca file dari URL versi terbaru (menggunakan cache buster seperti `?v=01` atau query parameter fresh) sebelum memulai sesi baru. AI dilarang mengarang fakta, teknik, item, atau lore baru yang bertentangan atau tidak disebutkan di dokumen-dokumen ini, serta dilarang menggunakan data cache/memori lama jika bertentangan dengan data raw repository terbaru.
 
 Pengecualian: player **boleh** mengembangkan teknik baru hasil pengorbanan/latihan yang pantas dalam roleplay. Ilmu tanpa guru biasanya lemah jika tekniknya salah/ngawur — AI harus tetap adil dan realistis dalam menilai ini (lihat `09_CULTIVATION_LAW_SYSTEM.md` §3.0 soal Asal-Usul Hukum).
 
@@ -67,9 +67,9 @@ Ketika salah satu kondisi berikut terjadi:
 - Admin telah memperbarui Official Save dan meminta validasi ulang;
 
 AI GM WAJIB:
-1. Fetch `INDEX.md` terbaru.
-2. Fetch `00_CORE_RULES_AI_GM.md`.
-3. Fetch `players/<Nama_Karakter>.md` terbaru.
+1. Fetch `INDEX.md?v=01` terbaru.
+2. Fetch `00_CORE_RULES_AI_GM.md?v=01`.
+3. Fetch `players/<Nama_Karakter>.md?v=01` terbaru.
 4. Fetch modul wilayah dan Custom Events yang diwajibkan Bootstrap.
 5. Bangun ulang **CURRENT CANON STATE** dari sumber tersebut.
 6. Bandingkan dengan runtime/context lama.

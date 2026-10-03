@@ -1,6 +1,7 @@
 # 🧭 Lingyuan World — INDEX
 
 > **Ini adalah SATU-SATUNYA link yang perlu ditempel pemain di setiap sesi.**
+> Gunakan URL versi fresh (dengan parameter cache buster seperti `?v=01`) agar AI GM tidak membaca data lama dari cache.
 > Semua modul lain (aturan, wilayah, sistem, data karakter) dijangkau AI secara otomatis dari sini lewat `web_fetch`/browsing, sesuai kondisi yang sedang terjadi di roleplay.
 >
 > **Untuk AI:** baca seluruh file ini dulu sampai habis, lalu jalankan **Prosedur Bootstrap** di §0 SEBELUM menulis balasan apa pun ke pemain. Jangan menjawab dari ingatan/memori bebas — dunia ini hanya sah kalau datanya berasal dari modul-modul yang ditautkan di sini.
@@ -9,7 +10,7 @@
 
 ## 0. Prosedur Bootstrap (WAJIB, Urutan Ini Persis)
 
-1. **Fetch `00_CORE_RULES_AI_GM.md`** (link di tabel §1) — WAJIB pertama, tanpa kecuali. File itu berisi aturan mutlak, anti-cheat, aturan Sesi Roleplay (Tanpa Batas), dan format respon wajib yang mengikat seluruh sesi. Jangan lanjut ke langkah berikutnya sebelum ini selesai dibaca.
+1. **Fetch `00_CORE_RULES_AI_GM.md`** (link di tabel §1 dengan cache-buster `?v=01`) — WAJIB pertama, tanpa kecuali. File itu berisi aturan mutlak, anti-cheat, aturan Sesi Roleplay (Tanpa Batas), dan format respon wajib yang mengikat seluruh sesi. Jangan lanjut ke langkah berikutnya sebelum ini selesai dibaca.
 2. **Inisialisasi Indikator Step**:
    - Setiap balasan AI GM wajib mencantumkan header: `🕒 Waktu Lingyuan World | 💬 Step: Tanpa Batas`.
    - Sesi berjalan tanpa batasan jumlah step, memberikan kebebasan penuh bagi pemain untuk terus bermain tanpa pembekuan sesi.
@@ -29,32 +30,32 @@
 
 | Kode | File | Link Raw | Isi Singkat |
 |---|---|---|---|
-| 00 | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/00_CORE_RULES_AI_GM.md | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
-| 👤 | `players.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players.md | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
-| 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak dunia & Ibu Kota Tianjing |
-| 02 | `02_TIANZHOU.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/02_TIANZHOU.md | Tianzhou: kota, desa, sekte, NPC |
-| 03 | `03_QINGYUN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/03_QINGYUN.md | Qingyun |
-| 04 | `04_MOYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/04_MOYUAN.md | Moyuan |
-| 05 | `05_HAIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/05_HAIYUAN.md | Haiyuan |
-| 06 | `06_BEIYUAN.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/06_BEIYUAN.md | Beiyuan |
-| 07 | `07_XISHA.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/07_XISHA.md | Xisha |
-| 48 | `48_CANGMU.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/48_CANGMU.md | Cangmu: Dataran Sumber Kayu & Tanah (Qi Density ×2,0) |
-| 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/08_CROSS_REGION_ORGANIZATIONS.md | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
-| 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/09_CULTIVATION_LAW_SYSTEM.md | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
-| 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/10_ECONOMY_SYSTEM.md | Mata uang, tier/grade barang, harga jasa & aset |
-| 11 | `11_VITALITY_HUNGER_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/11_VITALITY_HUNGER_SYSTEM.md | Formula HP, status luka, kelaparan |
-| 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
-| 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
-| 38 | `38_GARDENING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/38_GARDENING_SYSTEM.md | Penanaman, maintenance, pertumbuhan, panen, provenance & checkpoint gardening |
-| 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
-| 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/41_CUSTOM_SECTS.md | **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| 43 | `43_ALCHEMY_PILL_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/43_ALCHEMY_PILL_SYSTEM.md | **Alkemia & Pembuatan Pil** — resep pil, tungku, Dan-Du (racun pil), ledakan tungku |
-| 44 | `44_FORGING_CRAFTING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/44_FORGING_CRAFTING_SYSTEM.md | **Tempa & Artefak** — pembuatan senjata/zirah, inskripsi rune, durabilitas |
-| 45 | `45_ARRAY_TALISMAN_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/45_ARRAY_TALISMAN_SYSTEM.md | **Formasi Array & Jimat** — jimat serang/bertahan, formasi perlindungan area/domain |
-| 46 | `46_SPIRIT_BEAST_TAMING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/46_SPIRIT_BEAST_TAMING_SYSTEM.md | **Penjinakan Spirit Beast** — tumpangan, rekan tempur, kontrak jiwa, loyalty |
-| 47 | `47_BOUNTY_AUCTION_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/47_BOUNTY_AUCTION_SYSTEM.md | **Papan Misi & Rumah Lelang** — misi bounty, lelang barang langka, komisi |
+| 00 | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/00_CORE_RULES_AI_GM.md?v=01 | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
+| 👤 | `players.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/players.md?v=01 | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
+| 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/01_WORLD_OVERVIEW_AND_CAPITAL.md?v=01 | Peta jarak dunia & Ibu Kota Tianjing |
+| 02 | `02_TIANZHOU.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/02_TIANZHOU.md?v=01 | Tianzhou: kota, desa, sekte, NPC |
+| 03 | `03_QINGYUN.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/03_QINGYUN.md?v=01 | Qingyun |
+| 04 | `04_MOYUAN.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/04_MOYUAN.md?v=01 | Moyuan |
+| 05 | `05_HAIYUAN.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/05_HAIYUAN.md?v=01 | Haiyuan |
+| 06 | `06_BEIYUAN.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/06_BEIYUAN.md?v=01 | Beiyuan |
+| 07 | `07_XISHA.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/07_XISHA.md?v=01 | Xisha |
+| 48 | `48_CANGMU.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/48_CANGMU.md?v=01 | Cangmu: Dataran Sumber Kayu & Tanah (Qi Density ×2,0) |
+| 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/08_CROSS_REGION_ORGANIZATIONS.md?v=01 | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
+| 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/09_CULTIVATION_LAW_SYSTEM.md?v=01 | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
+| 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/10_ECONOMY_SYSTEM.md?v=01 | Mata uang, tier/grade barang, harga jasa & aset |
+| 11 | `11_VITALITY_HUNGER_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/11_VITALITY_HUNGER_SYSTEM.md?v=01 | Formula HP, status luka, kelaparan |
+| 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/12_COMBAT_SYSTEM.md?v=01 | Giliran, initiative, damage, defense, escape |
+| 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/13_BESTIARY.md?v=01 | Monster & spirit beast per wilayah, ambush, loot |
+| 38 | `38_GARDENING_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/38_GARDENING_SYSTEM.md?v=01 | Penanaman, maintenance, pertumbuhan, panen, provenance & checkpoint gardening |
+| 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/39_CUSTOM_EVENTS.md?v=01 | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
+| 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/40_CUSTOM_LAWS.md?v=01 | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/41_CUSTOM_SECTS.md?v=01 | **Sekte/Perguruan/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/42_CUSTOM_TECHNIQUES.md?v=01 | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 43 | `43_ALCHEMY_PILL_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/43_ALCHEMY_PILL_SYSTEM.md?v=01 | **Alkemia & Pembuatan Pil** — resep pil, tungku, Dan-Du (racun pil), ledakan tungku |
+| 44 | `44_FORGING_CRAFTING_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/44_FORGING_CRAFTING_SYSTEM.md?v=01 | **Tempa & Artefak** — pembuatan senjata/zirah, inskripsi rune, durabilitas |
+| 45 | `45_ARRAY_TALISMAN_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/45_ARRAY_TALISMAN_SYSTEM.md?v=01 | **Formasi Array & Jimat** — jimat serang/bertahan, formasi perlindungan area/domain |
+| 46 | `46_SPIRIT_BEAST_TAMING_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/46_SPIRIT_BEAST_TAMING_SYSTEM.md?v=01 | **Penjinakan Spirit Beast** — tumpangan, rekan tempur, kontrak jiwa, loyalty |
+| 47 | `47_BOUNTY_AUCTION_SYSTEM.md` | https://raw.githubusercontent.com/Aesher-gg/Lingyuan-World/refs/heads/main/47_BOUNTY_AUCTION_SYSTEM.md?v=01 | **Papan Misi & Rumah Lelang** — misi bounty, lelang barang langka, komisi |
 | 14–37 | *(24 file sekte/perguruan/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
 | — | `README.md` | https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
 
