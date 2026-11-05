@@ -2,7 +2,8 @@
 
 > **Modul:** players — dirujuk lewat `INDEX.md` §3 untuk starting state dan official save.
 > **⚠️ SIFAT FILE & DIREKTORI: READ-ONLY MUTLAK BAGI AI.** `players.md` adalah katalog data awal; file individual di `players/` adalah **official save**. AI GM tidak menulis langsung ke GitHub. Hanya Admin yang mengubah data resmi berdasarkan checkpoint yang sudah diverifikasi.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `09_CULTIVATION_LAW_SYSTEM.md` (Law Origin), `10_ECONOMY_SYSTEM.md` (Item Origin & mata uang)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10A, `09_CULTIVATION_LAW_SYSTEM.md` (Law Origin), `10_ECONOMY_SYSTEM.md` (Item Origin & mata uang)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -44,7 +45,7 @@
 | **Shi Guta** | Perguruan Shilong, Qingyun | Mortal Foundation, Awal | Perguruan Shilong (Pemahat Magang) | [`Shi_Guta.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Shi_Guta.md?v=1) |
 | **Seraph** | Kota Haoyang, Tianzhou | Qi Refining, Puncak | Perguruan Luohua (Murid Senior) | [`Seraph.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Seraph.md?v=1) |
 | **Suy** | Tepi Sungai Desa Lingquan, Tianzhou | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Suy.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Suy.md?v=1) |
-| **Ryxian** | Desa Chayun, Qingyu | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ryxian.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Ryxian.md?v=1) |
+| **Ryxian** | Desa Chayun, Qingyun | Mortal Foundation, Awal | Sanxiu (tanpa sekte) | [`Ryxian.md`](https://raw.githubusercontent.com/aesher-gg/Lingyuan-World/main/players/Ryxian.md?v=1) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
@@ -56,12 +57,12 @@
 # 👤 [Nama Karakter]
 
 > **Data Karakter / Official Save** — Dikelola Admin. Diperbarui hanya dari checkpoint yang telah diverifikasi.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10A
 
 ---
 
 **Nama Karakter:** [Nama Karakter]
-**Lokasi Awal:** [nama lokasi, sesuai modul 01–07]
+**Lokasi Awal:** [nama lokasi, sesuai modul 01–07 atau 48]
 **Realm & Stage Awal:** [Realm, Stage] — Qi Cap: [angka]
 **Hukum Kultivasi Awal:** [nama Hukum, atau "Belum ada — akan ditentukan lewat roleplay"]
 **Law Origin (jika sudah ada Hukum):** Jalur [Guru/Manual/Pencerahan] — [detail singkat]

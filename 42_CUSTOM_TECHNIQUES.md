@@ -4,6 +4,7 @@
 > **Fungsi:** Tempat Admin dan Pemain mencatat Teknik, Jurus, dan Kemampuan Kustom yang diciptakan atau dipelajari oleh karakter dalam roleplay.
 > **Pengelolaan:** Dikelola oleh Admin. AI GM wajib memeriksa file ini saat pemain mengklaim atau menggunakan teknik kustom.
 > **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (Law Origin Log), `12_COMBAT_SYSTEM.md` (Combat, Damage & Qi Cost), `00_CORE_RULES_AI_GM.md` (§1.12 - Larangan Klaim Tanpa Dasar)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 900 orang
 > **Rujukan silang:** `02_TIANZHOU.md` (lokasi & NPC dasar), `09_CULTIVATION_LAW_SYSTEM.md` §3.C & §8.2 (Law), `10_ECONOMY_SYSTEM.md` (Tier/Grade), `12_COMBAT_SYSTEM.md` (klasifikasi teknik), `15_SEKTE_XUANYUAN.md` & `16_SEKTE_YUNJIAN.md` (sekte tetangga Tianzhou)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

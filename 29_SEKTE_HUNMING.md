@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 120 orang
 > **Rujukan silang:** `06_BEIYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2 & §8.3, `13_BESTIARY.md` (Mayat Hidup Rawa Jiwa Tenggelam)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `06_BEIYUAN.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

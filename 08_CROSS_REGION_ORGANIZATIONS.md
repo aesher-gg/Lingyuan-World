@@ -2,7 +2,8 @@
 
 > **Modul:** 08 — Cross-Region Organizations
 > **Cakupan:** Organisasi yang beroperasi di semua provinsi, kultivator sesat (sanxiu), kriminal & tokoh gelap tanpa kultivasi, tokoh berbahaya tambahan, dan statistik populasi jianghu.
-> **Rujukan silang:** file regional `02`–`07` (lokasi cabang tiap organisasi)
+> **Rujukan silang:** file regional `02`–`07` & `48` (lokasi cabang tiap organisasi)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

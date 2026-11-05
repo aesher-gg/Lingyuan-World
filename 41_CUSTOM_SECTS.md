@@ -2,8 +2,9 @@
 
 > **Modul:** 41 — Custom Sects & Organizations
 > **Fungsi:** Tempat Admin dan Pemain mencatat Sekte, Perguruan, atau Organisasi Kustom baru yang diciptakan dalam roleplay.
-> **Pengelolaan:** Dikelola oleh Admin. AI GM wajib memeriksa file ini jika pemain menyebut atau berinteraksi dengan sekte di luar 24 Sekte Resmi (`14`–`37`).
-> **Rujukan silang:** `01`–`07` (wilayah), `08` (organisasi lintas wilayah), `00_CORE_RULES_AI_GM.md` (§1.11)
+> **Pengelolaan:** Dikelola oleh Admin. AI GM wajib memeriksa file ini jika pemain menyebut atau berinteraksi dengan sekte di luar 26 Sekte Resmi (`14`–`37`, `49`–`50`).
+> **Rujukan silang:** `01`–`07` & `48` (wilayah), `08` (organisasi lintas wilayah), `00_CORE_RULES_AI_GM.md` (§1.11)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

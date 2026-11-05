@@ -4,6 +4,7 @@
 > **Status:** Canonical System
 > **Prinsip:** Source-Traceable — Time-Bound — Anti-Cheat — Hardcore Realism
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan inti, batas waktu, timed processing §1.10), `09_CULTIVATION_LAW_SYSTEM.md` (Realm & Qi), `10_ECONOMY_SYSTEM.md` (Tier/Grade, Provenance & harga), `12_COMBAT_SYSTEM.md` (senjata, zirah, damage & passive defense), `13_BESTIARY.md` (loot kulit/tulang/tanduk monster), `players/` (official save dikelola Admin)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -15,7 +16,7 @@ Seorang Tukang Tempa (*Blacksmith / Artificer*) memandukan kekuatan api, martil,
 
 ### Aturan Emas Tempa & Crafting
 
-1. **Bahan Berasal dari Sumber Sah (Provenance):** Logam spirit dan bahan monster WAJIB memiliki asal-usul yang terverifikasi (loot `13_BESTIARY.md`, tambang/wilayah `01`–`07`, atau pembelian `10_ECONOMY_SYSTEM.md`).
+1. **Bahan Berasal dari Sumber Sah (Provenance):** Logam spirit dan bahan monster WAJIB memiliki asal-usul yang terverifikasi (loot `13_BESTIARY.md`, tambang/wilayah `01`–`07` & `48`, atau pembelian `10_ECONOMY_SYSTEM.md`).
 2. **Timed Processing Wajib:** Tempa butuh waktu nyata in-game (jam hingga hari) dan tunduk pada aturan **Timed Processing** (`00_CORE_RULES_AI_GM.md` §1.10).
 3. **Durabilitas & Kerusakan:** Senjata dan zirah mengalami aus/penurunan durabilitas saat digunakan bertarung (`12_COMBAT_SYSTEM.md`). Senjata yang rusak (durabilitas 0) tidak bisa memberi bonus damage/defense.
 4. **Klasifikasi Tier Equipment:** Senjata/zirah dibagi menjadi 4 Tier Utama:
@@ -141,6 +142,25 @@ $$\text{SuccessRate} = 50\% + (\text{RealmIndex} \times 5\%) + \text{WorkshopBon
 - **Bahan Wajib:** 2× Besi Meteorik Cold-Ice, 2× Kristal Perak Bintang, 1× Inti Monster Tier 3 (Raja Beast).
 - **Waktu Tempa:** 2 Hari in-game (Timed Processing).
 - **Hasil Stat:** Attack Power +220 | Kecepatan Serang +20% | Efek Pembekuan Qi Musuh | Max Durability: 200.
+
+---
+
+## 7A. Aturan Emas & Checklist Anti-Cheat Tempa
+
+**Aturan Emas:** tidak ada hasil tanpa resep/sumber canon, tidak ada bahan tanpa provenance, tidak ada proses tanpa waktu, tidak ada roll yang disembunyikan.
+
+Sebelum menyetujui hasil, AI GM wajib memeriksa:
+
+- [ ] Resep ada di §7 atau tercatat di `40`–`42`? Artefak karangan = tidak sah.
+- [ ] Semua material punya provenance (`10` §6, drop `13`, atau pembelian tercatat)? Material tanpa asal → `UNVERIFIED`.
+- [ ] Realm penempa, fasilitas (tungku/landasan), dan waktu kerja memenuhi syarat resep?
+- [ ] Kualitas hasil ditentukan roll yang ditampilkan di `⚙️ Resolusi Mekanik`, **bukan** dipilih pemain?
+- [ ] Timed Processing (`00` §1.10) dibuat untuk setiap proses tempa; tidak ada senjata jadi dalam satu prompt?
+- [ ] Tier hasil tidak melebihi batas resep/material (maks. ±1 tier dari material inti)?
+- [ ] Durabilitas awal & biaya perbaikan dicatat (§5) sehingga keausan bisa diterapkan nanti?
+- [ ] Artefak yang dihasilkan masuk Inventory dengan Item Origin lengkap (`00` §1.15)?
+
+Jika satu pun gagal → tunda resolusi, tandai `??? / UNRESOLVED`, dan minta pemain memenuhi syaratnya secara in-character (`00` §1.24, §1.27).
 
 ---
 

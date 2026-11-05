@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 200 orang (tersebar di banyak cabang kecil)
 > **Rujukan silang:** `02_TIANZHOU.md`, `03_QINGYUN.md`, `08_CROSS_REGION_ORGANIZATIONS.md`, `10_ECONOMY_SYSTEM.md` §1–2 & §5
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `08_CROSS_REGION_ORGANIZATIONS.md` dan `03_QINGYUN.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

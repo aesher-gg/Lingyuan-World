@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 25 orang
 > **Rujukan silang:** `07_XISHA.md`
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `07_XISHA.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

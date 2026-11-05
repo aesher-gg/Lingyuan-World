@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 20 orang
 > **Rujukan silang:** `02_TIANZHOU.md`, `16_SEKTE_YUNJIAN.md` (tujuan pindah Xiao Tie), `10_ECONOMY_SYSTEM.md` (Tier/Grade barang tempaan)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `02_TIANZHOU.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

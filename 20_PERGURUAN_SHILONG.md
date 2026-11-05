@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 20 orang
 > **Rujukan silang:** `03_QINGYUN.md`, `19_BIARA_JINGUANG.md` (tetangga wilayah), `10_ECONOMY_SYSTEM.md` (barang antik/formasi)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `03_QINGYUN.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

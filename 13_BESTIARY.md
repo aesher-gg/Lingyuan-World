@@ -1,3 +1,46 @@
+# 🐉 Lingyuan World — Bestiary (Katalog Monster & Makhluk Spirit)
+
+> **Modul:** 13 — Bestiary
+> **Status:** Canonical System
+> **Prinsip:** Source-Traceable — Formula-Bound — Anti-Cheat — Hardcore Realism
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (§1.4 realisme, §1.15 provenance item, §1.26 transparansi roll), `09_CULTIVATION_LAW_SYSTEM.md` (QiCap per Tier/Realm), `10_ECONOMY_SYSTEM.md` (Tier/Grade & harga drop), `11_VITALITY_HUNGER_SYSTEM.md` (HP/luka/racun), `12_COMBAT_SYSTEM.md` (turn-based & hit chance), `46_SPIRIT_BEAST_TAMING_SYSTEM.md` (penjinakan), modul wilayah `02`–`07` & `48` (habitat)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
+
+---
+
+## 0. Filosofi Bestiary
+
+Monster di Lingyuan World **bukan kantong XP**. Mereka adalah bagian ekosistem yang punya habitat, perilaku, dan alasan untuk menyerang atau menghindar. Setiap kemunculan monster harus bisa dijelaskan oleh **lokasi** (habitat di §5), **waktu** (siang/malam), dan **peluang** (§3). AI GM dilarang memunculkan monster di luar habitatnya, mengubah stat canon, atau menurunkan tingkat bahaya demi menyelamatkan karakter (`00` §1.4 — tanpa plot armor).
+
+## 1. Kategori Makhluk
+
+| Kategori | Ciri Umum | Catatan Mekanik |
+|---|---|---|
+| 👻 **Undead** | Roh/mayat yang digerakkan dendam atau Qi gelap | Kebal racun & lapar; lemah terhadap teknik cahaya/api suci; tidak bisa dijinakkan (`46`) |
+| 🐺 **Spirit Beast** | Hewan yang menyerap Qi dan berkultivasi | Punya Inti Beast (*Beast Core*); kandidat penjinakan (`46`) jika syarat terpenuhi |
+| 🔥 **Elemental** | Manifestasi Qi elemen (api, es, petir, tanah, air, angin, racun) | Serangan elemen; kebal terhadap elemen sendiri; drop material elemen untuk `44`/`45` |
+| 🐛 **Insect / Gu Swarm** | Kawanan serangga atau Gu beracun | Diperlakukan sebagai satu unit kawanan; damage area; racun mengikuti `11` §2 |
+| 🌿 **Flora / Plant Creature** | Tumbuhan spirit yang bergerak/menyerang | Tidak berpindah habitat; drop herbal untuk `38`/`43` |
+
+## 2. Stat Monster & Tier
+
+- **Tier monster = Realm setara** pada skala `09`. QiCap monster mengikuti `RealmBase × StageMultiplier` yang sama dengan kultivator; HP & Attack pada tabel §5 adalah **nilai canon** yang sudah memperhitungkan multiplier kategori/fisik makhluk.
+- **AI GM memakai angka tabel §5 apa adanya.** Dilarang menaikkan/menurunkan HP, Attack, atau Tier di luar tabel, kecuali modifier eksplisit (varian "Langka", "Alpha", atau event di `39`) yang juga harus disebut dalam blok `⚙️ Resolusi Mekanik`.
+- **Hit chance, damage, dan inisiatif** monster diselesaikan dengan formula `12_COMBAT_SYSTEM.md` — monster tunduk pada action economy yang sama (1 Aksi Utama + 1 Aksi Kecil per giliran).
+- Monster **tidak menyesuaikan diri** dengan realm pemain. Realm 2 yang masuk zona Tier 4 akan menghadapi Tier 4.
+
+## 3. Peluang Pertemuan (Encounter & Ambush)
+
+```text
+AmbushChance (per jam perjalanan) = 5% × DangerModifier(zona) × TimeModifier(waktu)
+```
+
+- **DangerModifier** mengikuti klasifikasi zona pada modul wilayah; **TimeModifier** malam ×2,0, siang ×1,0 (senja/fajar ×1,5).
+- Roll dilakukan **oleh AI GM**, ditampilkan di `⚙️ Resolusi Mekanik` (`00` §1.26), dan hasilnya mengikat. Pemain tidak dapat memilih "tidak bertemu apa pun" atau memilih monster yang muncul.
+- Jika roll berhasil, monster yang muncul **harus** berasal dari daftar habitat wilayah tersebut (§5) dengan Tier yang sesuai zona.
+
+**Tabel modifier:**
+
 
 | Modifier | Nilai |
 |---|---|
@@ -241,7 +284,7 @@ Jika salah satu poin gagal → encounter/loot DITOLAK atau dikoreksi AI GM.
 - **Dengan Sistem Ekonomi** (`10_ECONOMY_SYSTEM.md`): semua loot tunduk Tier & Grade serta `FinalPrice` formula saat dijual, dan WAJIB Item Origin Log sebelum ditransaksikan.
 - **Dengan Sistem HP** (`11_VITALITY_HUNGER_SYSTEM.md`): HP monster & player dihitung dari formula yang sama (basis QiCap), sehingga pertarungan tetap seimbang dan bisa diprediksi tanpa power creep sepihak dari kedua sisi.
 - **Dengan Sistem Pertempuran** (`12_COMBAT_SYSTEM.md`): MonsterAttackPower & MonsterHP langsung dipakai tanpa konversi tambahan — monster dan kultivator bertarung dengan sistem identik.
-- **Dengan modul regional** (`01`–`07`): tiap monster terkunci ke habitat spesifik yang sudah ditetapkan (Hutan Wuyin, Hellfire Island, Rawa Jiwa Tenggelam, dsb) — mencegah monster tingkat tinggi muncul di zona yang seharusnya aman seperti Kota Tianhe atau Floating Cloud Archipelago (pasar netral).
+- **Dengan modul regional** (`01`–`07` & `48`): tiap monster terkunci ke habitat spesifik yang sudah ditetapkan (Hutan Wuyin, Hellfire Island, Rawa Jiwa Tenggelam, dsb) — mencegah monster tingkat tinggi muncul di zona yang seharusnya aman seperti Kota Tianhe atau Floating Cloud Archipelago (pasar netral).
 
 ---
 

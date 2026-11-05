@@ -4,6 +4,7 @@
 > **Fungsi:** Tempat Admin mencatat event-event khusus yang terjadi di dunia, baik yang sedang berlangsung, mendatang, maupun yang telah berlalu.
 > **Pengelolaan:** Admin (pemilik repo) mengelola file ini. AI GM WAJIB membaca bagian EVENT AKTIF sebelum memulai setiap sesi.
 > **Rujukan silang:** `01`–`08` (lokasi event), `10` (ekonomi), `13` (bestiary), `43`–`47` (sistem mekanik)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -55,10 +56,10 @@
 
 ---
 
-## 🟡 EVENT MENDAFTAR (Belum Terjadi)
+## 🟡 EVENT MENDATANG (Belum Terjadi)
 
 ### EVT-003: Fenomena Pasang Petir Tribulasi Lembah Tianlie
-- **Status:** 🟡 MENDAFTAR
+- **Status:** 🟡 MENDATANG
 - **Lokasi:** Lembah Tianlie (Perbatasan Tianzhou–Moyuan)
 - **Tanggal Mulai:** Tahun 1024, Musim Gugur, Tanggal 01 Bulan 09
 - **Deskripsi Singkat:**

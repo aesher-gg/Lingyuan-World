@@ -1,10 +1,11 @@
 # ⛰️ Lingyuan World — Perguruan: Perguruan Wantu (Wantu School)
 
-> **Modul:** 49_PERGURUAN_WANTU — Sect Detail: Perguruan Wantu
+> **Modul:** 49 — Sect Detail: Perguruan Wantu
 > **Wilayah:** Lembah Wantu, Cangmu | **Tipe:** Perguruan Pertahanan Raga & Tanah | **Hukum Utama:** Hukum Raga Sejati (Varian Pertahanan Tanah & Batu Purba)
 > **Estimasi Total Anggota:** ± 450 orang
 > **Rujukan silang:** `48_CANGMU.md`, `18_PERGURUAN_TIELU.md`, `20_PERGURUAN_SHILONG.md`, `44_FORGING_CRAFTING_SYSTEM.md`
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `48_CANGMU.md`.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -47,7 +48,7 @@ Perguruan Wantu adalah perguruan pertahanan raga yang berpusat di Lembah Wantu. 
 | Kepala Perguruan | *Benteng Dinding Batu Purba* | Teknik Pertahanan Puncak | Menciptakan perisai tanah berlapis yang menyerap 70% damage fisik — teknik Shi Zhenyue |
 
 ## Relasi dengan Faksi Lain
-- **Sekte Shenmu** (`48_SEKTE_SHENMU.md`): Aliansi erat dan saling melengkapi di Cangmu.
+- **Sekte Shenmu** (`50_SEKTE_SHENMU.md`): Aliansi erat dan saling melengkapi di Cangmu.
 - **Perguruan Tielu** (`18_PERGURUAN_TIELU.md`): Bertukar bahan mineral tanah dan batu untuk proses penempaan senjata/zirah.
 - **Perguruan Shilong** (`20_PERGURUAN_SHILONG.md`): Memiliki hubungan persahabatan sesama praktisi pahatan batu dan pemanfaatan formasi bumi.
 

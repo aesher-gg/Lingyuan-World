@@ -2,7 +2,8 @@
 
 > **Modul:** 10 — Economy System
 > **Prinsip:** Anti-Cheat Enforced — Supply-Demand Driven — Terintegrasi dengan Sistem Hukum Kultivasi & World Document
-> **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (Tier material breakthrough), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak antar wilayah untuk Region Scarcity), `38_GARDENING_SYSTEM.md` (Output Instance & provenance hasil Gardening), file regional `02`–`07` (kekayaan per wilayah)
+> **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (Tier material breakthrough), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak antar wilayah untuk Region Scarcity), `38_GARDENING_SYSTEM.md` (Output Instance & provenance hasil Gardening), file regional `02`–`07` & `48` (kekayaan per wilayah)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -294,6 +295,10 @@ Jika salah satu poin gagal → transaksi DITOLAK, AI GM memberi alasan spesifik 
 - **Reruntuhan Gushatta / Menara Bintang Jatuh** — barang antik/artefak kuno pakai lelang naratif, minimum RegionScarcity ×5,0.
 
 
+### 9.3 Sumber Barang Tier Tinggi
+
+Barang Tier 7+ hanya bisa didapat lewat quest/reruntuhan/warisan sekte di lokasi spesifik (Hellfire Island, Reruntuhan Gushatta, Menara Bintang Jatuh, dsb) — tidak muncul di toko biasa manapun.
+
 ### 9.4 Regional Supply dari Gardening
 
 Hasil Gardening hanya menjadi bagian dari ActiveSupply jika Output Instance benar-benar dialokasikan ke pasar melalui tindakan/transaksi yang sah.
@@ -307,7 +312,3 @@ Harvested Output Instance → Allocation / Sale → Regional Supply → ActiveSu
 - Stok NPC/sekte tidak boleh dianggap tak terbatas hanya karena fasilitas produksi mereka besar atau terkenal.
 - Jika kapasitas produksi atau volume output regional belum memiliki basis canon/runtime, nilainya tidak boleh diarang dan harus diperlakukan sebagai `???` / `UNRESOLVED`.
 - Gardening tidak membuat formula harga baru; setelah output sah masuk pasar, harga tetap memakai `FinalPrice` pada §3.
-
-### 9.3 Sumber Barang Tier Tinggi
-
-Barang Tier 7+ hanya bisa didapat lewat quest/reruntuhan/warisan sekte di lokasi spesifik (Hellfire Island, Reruntuhan Gushatta, Menara Bintang Jatuh, dsb) — tidak muncul di toko biasa manapun.

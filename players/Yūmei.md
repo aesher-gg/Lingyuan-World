@@ -1,7 +1,7 @@
 # 👤 Yūmei
 
 > **Data Karakter (Save State / Profil Karakter)** — Dikelola Admin.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `06_BEIYUAN.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10A, `06_BEIYUAN.md`
 
 ---
 
