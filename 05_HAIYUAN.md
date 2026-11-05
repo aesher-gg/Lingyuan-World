@@ -2,6 +2,7 @@
 
 > **Modul:** 05 — Haiyuan
 > **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8, `13_BESTIARY.md`
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ## Fakta Cepat
 

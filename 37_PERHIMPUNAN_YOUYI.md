@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 250 orang
 > **Rujukan silang:** `08_CROSS_REGION_ORGANIZATIONS.md`, `28_BALAI_YUNYAO.md`, `10_ECONOMY_SYSTEM.md` §4.1
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `08_CROSS_REGION_ORGANIZATIONS.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

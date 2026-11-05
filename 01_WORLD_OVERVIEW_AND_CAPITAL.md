@@ -2,7 +2,8 @@
 
 > **Modul:** 01 — World Overview & Capital
 > **Cakupan:** Statistik dunia, peta jarak antar wilayah, Ibu Kota Tianjing & Kekaisaran Dinasti Tianyuan
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib), `02`–`07` (detail tiap wilayah), `10_ECONOMY_SYSTEM.md` §9 (kekayaan regional)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib), `02`–`07` & `48` (detail tiap wilayah), `10_ECONOMY_SYSTEM.md` §9 (kekayaan regional)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

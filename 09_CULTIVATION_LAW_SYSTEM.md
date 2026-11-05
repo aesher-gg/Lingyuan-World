@@ -3,7 +3,8 @@
 > **Modul:** 09 — Cultivation Law System
 > **Untuk:** Roleplay AI Game Master "Jianghu: Legend of the Wuxia"
 > **Prinsip:** Anti-Cheat Enforced — Stable Tier Scaling — Karma-Linked Tribulation
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib), `10_ECONOMY_SYSTEM.md` (harga bahan), `11_VITALITY_HUNGER_SYSTEM.md` (HP pakai QiCap yang sama), `12_COMBAT_SYSTEM.md` (Attack/Defense pakai QiCap yang sama), file regional `02`–`07` (Qi Density & sekte)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib), `10_ECONOMY_SYSTEM.md` (harga bahan), `11_VITALITY_HUNGER_SYSTEM.md` (HP pakai QiCap yang sama), `12_COMBAT_SYSTEM.md` (Attack/Defense pakai QiCap yang sama), file regional `02`–`07` & `48` (Qi Density & sekte)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

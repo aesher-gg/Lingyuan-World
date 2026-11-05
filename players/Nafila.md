@@ -1,7 +1,7 @@
 # 👤 Nafila
 
 > **Data Karakter (Save State / Profil Karakter)** — Dikelola Admin.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_TIANZHOU.md`, `03_QINGYUN.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10A, `02_TIANZHOU.md`, `03_QINGYUN.md`
 
 ---
 

@@ -4,6 +4,7 @@
 > **Status:** Canonical System
 > **Prinsip:** Source-Traceable — Time-Bound — Anti-Cheat — Hardcore Realism
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan inti, batas waktu, timed processing §1.10), `09_CULTIVATION_LAW_SYSTEM.md` (Realm, Qi Cap & Law Origin), `10_ECONOMY_SYSTEM.md` (Tier/Grade, Provenance & harga), `12_COMBAT_SYSTEM.md` (serangan, pertahanan, area of effect), `38_GARDENING_SYSTEM.md` (sumber bahan herbal tinta spirit), `players/` (official save dikelola Admin)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -108,6 +109,25 @@ Formasi Array adalah zona perlindungan/serangan yang dipasang di sebuah lokasi (
 2. **Mencari Mata Formasi (Finding the Array Eye / Zhen-Yan):**
    - Kultivator yang ahli Formasi Array dapat melakukan *Perception & Array Knowledge Check*.
    - Jika berhasil menemukan Mata Formasi (Zhen-Yan), mereka dapat mencabut tiang utama untuk mematikan array secara damai tanpa merusaknya.
+
+---
+
+## 4A. Aturan Emas & Checklist Anti-Cheat Array & Jimat
+
+**Aturan Emas:** tidak ada hasil tanpa resep/sumber canon, tidak ada bahan tanpa provenance, tidak ada proses tanpa waktu, tidak ada roll yang disembunyikan.
+
+Sebelum menyetujui hasil, AI GM wajib memeriksa:
+
+- [ ] Jenis jimat/array ada di §1–§3 atau tercatat di `40`–`42`? Formasi karangan = tidak sah.
+- [ ] Pembuat memenuhi syarat realm & pengetahuan (guru/manual tercatat di Law Origin Log)? Tidak ada "tiba-tiba bisa".
+- [ ] Bahan (kertas spirit, tinta, inti array, batu spirit) punya provenance (`10` §6)?
+- [ ] Peluang keberhasilan pembuatan/pemasangan/peretasan ditampilkan di `⚙️ Resolusi Mekanik` (`00` §1.26)?
+- [ ] Pemasangan & perawatan memakai Timed Processing (`00` §1.10) dan biaya perawatan (§4) dicatat berkala?
+- [ ] Array tidak diberi efek di luar deskripsi canon (tidak ada "array yang menangkal semua hal")?
+- [ ] Array musuh/sekte dipecahkan lewat mekanik §4 dengan roll terbuka — bukan "saya lewati saja"?
+- [ ] Jimat sekali pakai dikurangi dari Inventory saat digunakan?
+
+Jika satu pun gagal → tunda resolusi, tandai `??? / UNRESOLVED`, dan minta pemain memenuhi syaratnya secara in-character (`00` §1.24, §1.27).
 
 ---
 

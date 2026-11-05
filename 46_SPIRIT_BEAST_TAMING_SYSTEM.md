@@ -4,6 +4,7 @@
 > **Status:** Canonical System
 > **Prinsip:** Source-Traceable — Time-Bound — Anti-Cheat — Hardcore Realism
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan inti, batas waktu, timed processing §1.10), `09_CULTIVATION_LAW_SYSTEM.md` (Realm & Qi), `11_VITALITY_HUNGER_SYSTEM.md` (Stamina, Satiety beast), `12_COMBAT_SYSTEM.md` (partner tempur & giliran), `13_BESTIARY.md` (data monster, habitat & sifat beast), `players/` (official save dikelola Admin)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -109,6 +110,25 @@ Sesuai `12_COMBAT_SYSTEM.md`:
 - **Giliran Bertindak:** Beast bertindak pada giliran yang sama dengan pemiliknya atau menggunakan Initiative Roll tersendiri.
 - **Peran Tumpangan (Mount):** Memberikan bonus Kecepatan Gerak / Escape Rate (+20% Chance melarikan diri dari pertarungan).
 - **Peran Rekan Tempur (Combat Companion):** Menyerang target yang sama dengan pemiliknya (*Combo Attack*) atau menahan serangan musuh (*Tanking*).
+
+---
+
+## 6A. Aturan Emas & Checklist Anti-Cheat Penjinakan
+
+**Aturan Emas:** tidak ada hasil tanpa resep/sumber canon, tidak ada bahan tanpa provenance, tidak ada proses tanpa waktu, tidak ada roll yang disembunyikan.
+
+Sebelum menyetujui hasil, AI GM wajib memeriksa:
+
+- [ ] Beast yang dijinakkan ada di `13` dengan habitat yang sesuai lokasi saat ini? Undead & Elemental murni **tidak bisa** dijinakkan.
+- [ ] Syarat realm (penjinak vs Tier beast) sesuai §1–§3? Tidak ada menjinakkan beast di atas batas realm.
+- [ ] Roll penjinakan/kontrak ditampilkan di `⚙️ Resolusi Mekanik` dan hasilnya mengikat (`00` §1.26, §1.28)?
+- [ ] Proses penjinakan memakai Timed Processing (`00` §1.10); tidak ada "langsung tunduk" dalam satu prompt?
+- [ ] Loyalty, lapar, dan luka beast (§4) diperbarui seiring waktu dunia (`11`)?
+- [ ] Beast mengikuti action economy `12` (1 aksi utama) dan memakai stat canon `13` — bukan stat yang disesuaikan pemain?
+- [ ] Perkembangan beast (§5) membutuhkan waktu & sumber daya tercatat, bukan lompat tier?
+- [ ] Beast terdaftar di Profil Karakter dengan asal-usul (lokasi, tanggal, metode kontrak)?
+
+Jika satu pun gagal → tunda resolusi, tandai `??? / UNRESOLVED`, dan minta pemain memenuhi syaratnya secara in-character (`00` §1.24, §1.27).
 
 ---
 

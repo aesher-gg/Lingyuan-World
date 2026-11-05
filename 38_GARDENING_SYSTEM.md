@@ -3,7 +3,8 @@
 > **Modul:** 38 — Gardening System
 > **Status:** Canonical System
 > **Prinsip:** Source-Traceable — Time-Bound — Anti-Cheat — Integrated with Economy, Alchemy, Formations, Beasts & Player State
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan inti, batas waktu, timed processing §1.10), `10_ECONOMY_SYSTEM.md` (Tier/Grade, Origin & harga), `11_VITALITY_HUNGER_SYSTEM.md` (Stamina/Satiety), `13_BESTIARY.md` (lingkungan liar & hama spirit), file regional `02`–`07` (lokasi, iklim & kondisi wilayah), `43_ALCHEMY_PILL_SYSTEM.md` (resep & ampas alkemia), `45_ARRAY_TALISMAN_SYSTEM.md` (array pengumpul Qi & pelindung), `46_SPIRIT_BEAST_TAMING_SYSTEM.md` (pupuk kotoran spirit beast & penjaga), `players/` (data awal/save resmi yang dikelola Admin)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan inti, batas waktu, timed processing §1.10), `10_ECONOMY_SYSTEM.md` (Tier/Grade, Origin & harga), `11_VITALITY_HUNGER_SYSTEM.md` (Stamina/Satiety), `13_BESTIARY.md` (lingkungan liar & hama spirit), file regional `02`–`07` & `48` (lokasi, iklim & kondisi wilayah), `43_ALCHEMY_PILL_SYSTEM.md` (resep & ampas alkemia), `45_ARRAY_TALISMAN_SYSTEM.md` (array pengumpul Qi & pelindung), `46_SPIRIT_BEAST_TAMING_SYSTEM.md` (pupuk kotoran spirit beast & penjaga), `players/` (data awal/save resmi yang dikelola Admin)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -174,7 +175,7 @@ Pupuk memberikan dorongan nutrisi sementara atau permanen pada tanah/tanaman:
 
 ## 8. Cuaca & Musim Regional (Weather & Seasonal Modifiers)
 
-Pengaruh musim dan cuaca mengikuti iklim wilayah tempat tanaman berada (lihat modul regional `02`–`07`):
+Pengaruh musim dan cuaca mengikuti iklim wilayah tempat tanaman berada (lihat modul regional `02`–`07` & `48`):
 
 ### 8.1 Pengaruh Musim
 

@@ -1,7 +1,8 @@
 # 🌲 Lingyuan World — VIII. Cangmu (Wilayah Sumber Kayu & Tanah)
 
 > **Modul:** 48 — Cangmu
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak dari Ibu Kota & wilayah lain), `09_CULTIVATION_LAW_SYSTEM.md` §8 (Qi Density & Hukum kultivasi), `10_ECONOMY_SYSTEM.md` (ekonomi & herba), `38_GARDENING_SYSTEM.md` (interaksi budidaya flora & tanah), `13_BESTIARY.md` (monster wilayah ini), `48_SEKTE_SHENMU.md` (detail Sekte Shenmu), `49_PERGURUAN_WANTU.md` (detail Perguruan Wantu)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak dari Ibu Kota & wilayah lain), `09_CULTIVATION_LAW_SYSTEM.md` §8 (Qi Density & Hukum kultivasi), `10_ECONOMY_SYSTEM.md` (ekonomi & herba), `38_GARDENING_SYSTEM.md` (interaksi budidaya flora & tanah), `13_BESTIARY.md` (monster wilayah ini), `50_SEKTE_SHENMU.md` (detail Sekte Shenmu), `49_PERGURUAN_WANTU.md` (detail Perguruan Wantu)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -138,7 +139,7 @@ Reruntuhan kuil purba dari era kekaisaran terdahulu yang didedikasikan untuk Dew
 ## Sekte & Karakteristiknya
 
 ### 🌲 Sekte Shenmu (Sacred Wood Sect)
-*(Detail lengkap modul: `48_SEKTE_SHENMU.md`)*
+*(Detail lengkap modul: `50_SEKTE_SHENMU.md`)*
 *Pohon Dunia Shenmu — Hukum utama: Hukum Dao Abadi (Varian Kayu & Restorasi Raga)*
 
 Sekte ortodoks penguasa utama Cangmu. Menjunjung tinggi keseimbangan alam, ilmu herba, dan pelestarian pohon purba. Memiliki hubungan sangat baik dengan Perguruan Luohua di Tianzhou dan Balai Yunyao di Beiyuan.

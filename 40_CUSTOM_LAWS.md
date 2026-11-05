@@ -4,6 +4,7 @@
 > **Fungsi:** Tempat Admin dan Pemain mencatat Hukum Kultivasi Kustom baru yang telah disetujui untuk digunakan di dunia.
 > **Pengelolaan:** Dikelola oleh Admin. AI GM wajib memeriksa file ini jika pemain mengklaim mempelajari Hukum di luar 5 Hukum Standar di `09_CULTIVATION_LAW_SYSTEM.md`.
 > **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (formula dasar Qi, HP, Attack, Defense), `00_CORE_RULES_AI_GM.md` (§1.11)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

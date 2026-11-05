@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 3.100 orang (kekuatan militer demonic terbesar dunia)
 > **Rujukan silang:** `04_MOYUAN.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.B & §8.2, `13_BESTIARY.md` (Serigala Api Neraka dipakai sebagai makhluk uji), `26_ISTANA_QINGLIAN.md` (rival historis)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `04_MOYUAN.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

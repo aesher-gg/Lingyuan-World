@@ -1,7 +1,7 @@
 # 👤 Ying Luo
 
 > **Data Karakter / Official Save** — Dikelola Admin; diperbarui hanya dari checkpoint yang telah diverifikasi.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `03_QINGYUN.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10A, `03_QINGYUN.md`
 
 ---
 

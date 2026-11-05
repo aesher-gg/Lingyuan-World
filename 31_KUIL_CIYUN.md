@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 350 orang
 > **Rujukan silang:** `07_XISHA.md`, `09_CULTIVATION_LAW_SYSTEM.md` §3.C, §6 & §8.1–8.2
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `07_XISHA.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

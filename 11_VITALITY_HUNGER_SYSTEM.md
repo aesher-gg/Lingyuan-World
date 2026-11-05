@@ -3,6 +3,7 @@
 > **Modul:** 11 — Vitality & Hunger System
 > **Prinsip:** Anti-Cheat Enforced — Law-Specific Scaling — Terintegrasi dengan Sistem Hukum Kultivasi & Sistem Ekonomi
 > **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (QiCap sebagai basis HP), `10_ECONOMY_SYSTEM.md` §4.1 (HealingFee), `12_COMBAT_SYSTEM.md` (FinalDamage mengurangi HP di sini)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -143,7 +144,7 @@ RecoveryModifier default = 1,0. Recovery hanya dihitung dari World Time yang ben
 
 Tekanan Awan Embun Qingyun memberi RecoveryModifier 0,85 bila syarat canon terpenuhi. Mata Air Bambu Giok hanya diketahui mempercepat recovery; besaran tambahannya belum canon → `??? / UNRESOLVED`.
 
-### 3A.4 Kalibrasi PhysicalLoad — Universal
+### 3A.4A Kalibrasi PhysicalLoad — Universal
 
 PhysicalLoad = clamp(BasePhysicalDemand × ToolFactor × EnvironmentFactor × BodyConditionFactor, 0, 1)
 

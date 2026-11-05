@@ -4,6 +4,7 @@
 > **Status:** Canonical System
 > **Prinsip:** Source-Traceable — Time-Bound — Anti-Cheat — Hardcore Realism
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan inti, batas waktu, timed processing §1.10), `09_CULTIVATION_LAW_SYSTEM.md` (Realm, Qi, Qi Deviation), `10_ECONOMY_SYSTEM.md` (Tier/Grade, Provenance & harga), `11_VITALITY_HUNGER_SYSTEM.md` (Stamina, efek racun), `38_GARDENING_SYSTEM.md` (sumber bahan herbal), `players/` (official save dikelola Admin)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -154,6 +155,25 @@ Setiap pil (kecuali Flawless Grade) meninggalkan akumulasi racun spiritual (*Dan
 - Selama peracikan berlangsung, statusnya adalah `PROCESSING`. Pil belum ada di inventory dan bahan dianggap sudah terpakai.
 - Pada saat `CompletionTime`, AI GM melakukan roll keberhasilan peracikan.
 - Pemain yang memotong peracikan di tengah jalan kehilangan seluruh bahan dan tungku berisiko meledak.
+
+---
+
+## 6A. Aturan Emas & Checklist Anti-Cheat Alkemia
+
+**Aturan Emas:** tidak ada hasil tanpa resep/sumber canon, tidak ada bahan tanpa provenance, tidak ada proses tanpa waktu, tidak ada roll yang disembunyikan.
+
+Sebelum menyetujui hasil, AI GM wajib memeriksa:
+
+- [ ] Resep pil yang dipakai ada di §5 atau tercatat di `40`–`42` (custom)? Resep karangan = **tidak sah**.
+- [ ] Semua bahan memiliki provenance (`10` §6, `38` panen tercatat, atau drop `13`)? Bahan tanpa asal = tidak bisa dipakai.
+- [ ] Realm peracik & tungku memenuhi syarat resep? Pil di atas tier peracik hanya lewat jalur yang diizinkan resep.
+- [ ] SuccessRate dihitung & ditampilkan di `⚙️ Resolusi Mekanik` **sebelum** hasil diumumkan (`00` §1.26)?
+- [ ] Timed Processing (`00` §1.10) dibuat: StartTime, RequiredDuration, CompletionTime — tidak ada pil "langsung jadi" dalam satu prompt?
+- [ ] Dan-Du (§4) ditambahkan ke status karakter saat pil dikonsumsi? Tidak ada konsumsi tanpa akumulasi racun.
+- [ ] Kegagalan/ledakan diterapkan apa adanya — tidak ada re-roll karena protes pemain (`00` §1.28)?
+- [ ] Output Instance tercatat (nama, grade, jumlah, tanggal, peracik) sehingga bisa diaudit saat dijual (`10`)?
+
+Jika satu pun gagal → tunda resolusi, tandai `??? / UNRESOLVED`, dan minta pemain memenuhi syaratnya secara in-character (`00` §1.24, §1.27).
 
 ---
 

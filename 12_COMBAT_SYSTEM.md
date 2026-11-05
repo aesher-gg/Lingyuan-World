@@ -3,6 +3,7 @@
 > **Modul:** 12 — Combat System
 > **Prinsip:** Anti-Cheat Enforced — Strict Turn-Based — Terintegrasi dengan Sistem Hukum Kultivasi, HP, dan Bestiarium
 > **Rujukan silang:** `09_CULTIVATION_LAW_SYSTEM.md` (QiCap basis Attack/Defense), `11_VITALITY_HUNGER_SYSTEM.md` (FinalDamage mengurangi HP), `13_BESTIARY.md` (monster pakai sistem identik)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

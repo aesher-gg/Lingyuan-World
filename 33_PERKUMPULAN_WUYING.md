@@ -5,6 +5,7 @@
 > **Estimasi Total Anggota:** ± 150 orang
 > **Rujukan silang:** `08_CROSS_REGION_ORGANIZATIONS.md`, `09_CULTIVATION_LAW_SYSTEM.md` §8.2–8.3 (pendaftaran Law), `11_VITALITY_HUNGER_SYSTEM.md` §1.2, `12_COMBAT_SYSTEM.md` §3.1, `24_ALIANSI_ANYING.md` (rival profesional)
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `08_CROSS_REGION_ORGANIZATIONS.md`. Tambahan baru ditandai **🆕**.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

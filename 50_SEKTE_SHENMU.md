@@ -1,10 +1,11 @@
 # 🌲 Lingyuan World — Sekte: Sekte Shenmu (Sacred Wood Sect)
 
-> **Modul:** 48_SEKTE_SHENMU — Sect Detail: Sekte Shenmu
+> **Modul:** 50 — Sect Detail: Sekte Shenmu
 > **Wilayah:** Pohon Dunia Shenmu, Cangmu | **Tipe:** Sekte Ortodoks Besar | **Hukum Utama:** Hukum Dao Abadi (Varian Kayu & Restorasi Raga)
 > **Estimasi Total Anggota:** ± 1.200 orang
 > **Rujukan silang:** `48_CANGMU.md`, `17_PERGURUAN_LUOHUA.md`, `28_BALAI_YUNYAO.md`, `38_GARDENING_SYSTEM.md`, `43_ALCHEMY_PILL_SYSTEM.md`
 > **Catatan konsistensi:** NPC/teknik bernama identik dengan `48_CANGMU.md`.
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 

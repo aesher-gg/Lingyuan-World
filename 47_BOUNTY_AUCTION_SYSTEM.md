@@ -4,6 +4,7 @@
 > **Status:** Canonical System
 > **Prinsip:** Source-Traceable — Time-Bound — Anti-Cheat — Hardcore Realism
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan inti & batas waktu), `08_CROSS_REGION_ORGANIZATIONS.md` (Paviliun Wanxin, Rumah Gadai Hanbi, Perhimpunan Youyi), `10_ECONOMY_SYSTEM.md` (Mata uang, Tier/Grade, harga & komisi), `players/` (official save dikelola Admin)
+> **⚓ Jangkar Repositori:** Modul ini tunduk pada `00_CORE_RULES_AI_GM.md` (§1.24). Jika isi modul ini tidak sedang dimuat di sesi, AI GM wajib fetch ulang lewat `INDEX.md` — **bukan mengarang dari ingatan**. Angka & aturan di file ini menang atas ingatan chat.
 
 ---
 
@@ -18,7 +19,7 @@ Di dunia Lingyuan World, ekonomi dan reputasi kultivator digerakkan oleh dua ins
 
 ## 1. Sistem Papan Misi Bounty (Bounty Boards)
 
-Papan misi dapat ditemukan di setiap kota besar (`01`–`07`), Paviliun Wanxin (`35`), Perhimpunan Youyi (`37`), atau aula sekte besar.
+Papan misi dapat ditemukan di setiap kota besar (`01`–`07` & `48`), Paviliun Wanxin (`35`), Perhimpunan Youyi (`37`), atau aula sekte besar.
 
 ### 1.1 Klasifikasi Grade Misi Bounty
 
@@ -95,6 +96,25 @@ If player menawar:
    - Harga Awal: 5 Giok Kecil | Est. Harga Akhir: 15–20 Giok Kecil.
 4. **Telur Spirit Beast Elang Petir (Tier 3 Beast Egg - `46`):**
    - Harga Awal: 2 Giok Kecil | Est. Harga Akhir: 6–10 Giok Kecil.
+
+---
+
+## 4A. Aturan Emas & Checklist Anti-Cheat Bounty & Lelang
+
+**Aturan Emas:** tidak ada hasil tanpa resep/sumber canon, tidak ada bahan tanpa provenance, tidak ada proses tanpa waktu, tidak ada roll yang disembunyikan.
+
+Sebelum menyetujui hasil, AI GM wajib memeriksa:
+
+- [ ] Misi bounty berasal dari papan di lokasi nyata (modul wilayah/`08`) atau `39` — bukan diciptakan pemain untuk dirinya sendiri?
+- [ ] Hadiah bounty sesuai skala `10` dan tier misi; tidak ada hadiah di luar kemampuan ekonomi wilayah (`10` §9)?
+- [ ] Bukti penyelesaian misi (kepala monster, token, saksi) punya provenance tercatat sebelum hadiah dibayar?
+- [ ] Barang yang dilelang pemain memiliki Item Origin lengkap (`00` §1.15)? Barang `UNVERIFIED` ditolak rumah lelang.
+- [ ] Penawar NPC disimulasikan AI GM lewat mekanik §3 dengan roll terbuka (`00` §1.26) — pemain tidak menentukan harga akhir?
+- [ ] Komisi lelang (§2) dipotong dari hasil dan tercatat di ledger `10` §6?
+- [ ] Lelang besar memakai waktu dunia nyata (Timed Processing `00` §1.10): pendaftaran, pratinjau, hari lelang?
+- [ ] Tidak ada pembelian barang Tier 7+ lewat lelang biasa (`10` §9.3)?
+
+Jika satu pun gagal → tunda resolusi, tandai `??? / UNRESOLVED`, dan minta pemain memenuhi syaratnya secara in-character (`00` §1.24, §1.27).
 
 ---
 
